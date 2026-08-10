@@ -427,6 +427,16 @@ function renderHot(){
    6. 资讯页
    ========================================================= */
 let newsTab = 'cn';
+
+/* 航运物流相关政策/法条识别：用于资讯页自动提炼并重点标红 */
+const SHIP_KW = ['航运','水运','长江','海事','港口','船舶','船闸','航道','驳船','码头','货运','物流','运输','交通部','海运','内河','集装箱','多式联运','供应链','岸电','硫含量','燃油','排污','长江大保护','禁航','限航','过闸','船级','船员','油污','海关','关务','进出口','外贸','舱位','提单'];
+function shipHit(x){
+  let blob;
+  if(typeof x === 'string') blob = x;
+  else blob = [ x.title||'', x.summary||'', ...(x.impact||[]).flatMap(m => [m.industry||'', m.text||'']), x.source||'' ].join(' ');
+  return SHIP_KW.some(k => blob.includes(k));
+}
+
 function renderNews(){
   const box = document.getElementById('newsBody');
   box.innerHTML = '<div class="load-tip">加载中…</div>';
@@ -437,7 +447,7 @@ function renderNews(){
       if(n.status === 'fulfilled' && n.value && n.value.news){
         html += `<div class="sec-title"><span>每日 60 秒读懂世界 · ${esc(n.value.date||'')}</span><span class="tag-live">实时</span></div>
           <div class="card"><div class="s60-list">` +
-          n.value.news.map((x,i) => `<div class="s60-item"><span class="s60-no">${i+1}</span><span>${esc(x)}</span></div>`).join('') +
+          n.value.news.map((x,i) => `<div class="s60-item ${shipHit(x)?'ship':''}"><span class="s60-no">${i+1}</span>${shipHit(x)?'<span class="pill ship">🚢</span>':''}<span>${esc(x)}</span></div>`).join('') +
           `</div></div>`;
       }
       if(t.status === 'fulfilled' && Array.isArray(t.value)){
@@ -445,7 +455,7 @@ function renderNews(){
           t.value.slice(0,20).map((x,i) => `
           <a class="rank-item" href="${esc(x.link||'#')}" target="_blank" rel="noopener">
             <span class="rk-no ${i<3?'top':''}">${i+1}</span>
-            <div class="rk-body"><div class="rk-title">${esc(x.title)}</div>
+            <div class="rk-body"><div class="rk-title">${esc(x.title)} ${shipHit(x.title)?'<span class="pill ship">🚢</span>':''}</div>
             <div class="rk-meta"><span class="rk-hot">🔥 ${fmtNum(x.hot_value)}</span></div></div>
           </a>`).join('') + '</div>';
       }
@@ -453,10 +463,10 @@ function renderNews(){
         html += `<div class="sec-title"><span>国内要闻精编</span><span class="tag-live snap">每日快照</span></div>
           <div class="grid-2">` +
           s.value.news_cn_extra.map(x => `
-          <div class="news-card">
+          <div class="news-card ${shipHit(x)?'ship':''}">
             <div class="news-title">${esc(x.title)}</div>
             <div class="news-desc">${esc(x.desc)}</div>
-            <div class="news-foot"><span class="badge">${esc(x.tag)}</span></div>
+            <div class="news-foot"><span class="badge">${esc(x.tag)}</span>${shipHit(x)?'<span class="badge ship">🚢 航运物流</span>':''}</div>
           </div>`).join('') + '</div>';
       }
       box.innerHTML = html || '<div class="err-tip">数据加载失败，请刷新重试。</div>';
@@ -476,13 +486,16 @@ function renderNews(){
         </div>`).join('') + '</div>';
     }
     else if(newsTab === 'policy'){
-      box.innerHTML = `<div class="sec-title"><span>政策与法律更新 · 含行业影响解读</span><span class="tag-live snap">每日快照</span></div>
-        <div class="grid-2">` +
-        (s.policy||[]).map((x,i) => `
-        <div class="pol-card" data-pol="${i}">
+      const pols = s.policy||[];
+      const shipIdx = new Set();
+      pols.forEach((x,i) => { if(shipHit(x)) shipIdx.add(i); });
+      const ship = pols.filter((_,i) => shipIdx.has(i));
+      const rest = pols.filter((_,i) => !shipIdx.has(i));
+      const card = (x,i) => `
+        <div class="pol-card${shipIdx.has(i)?' ship':''}" data-pol="${i}">
           <div class="pol-head">
             <div class="pol-top"><div class="pol-title">${esc(x.title)}</div></div>
-            <div class="pol-date"><span>📅 ${esc(x.date)}</span><span class="badge r">${esc(x.level)}</span></div>
+            <div class="pol-date"><span>📅 ${esc(x.date)}</span><span class="badge r">${esc(x.level)}</span>${shipIdx.has(i)?'<span class="badge ship">🚢 航运物流</span>':''}</div>
             <div class="pol-sum">${esc(x.summary)}</div>
             <div class="pol-toggle"><span>查看对 ${(x.impact||[]).length} 个行业的影响解读</span><span class="pol-arrow">▼</span></div>
           </div>
@@ -490,7 +503,17 @@ function renderNews(){
             ${(x.impact||[]).map(im => `<div class="imp-item"><span class="imp-ind">${esc(im.industry)}</span><span class="imp-tx">${esc(im.text)}</span></div>`).join('')}
             <div class="xhs-src" style="margin-top:12px">来源：${esc(x.source)}</div>
           </div></div>
-        </div>`).join('') + '</div>';
+        </div>`;
+      let html = `<div class="sec-title"><span>政策与法律更新 · 含行业影响解读</span><span class="tag-live snap">每日快照</span></div>`;
+      if(ship.length){
+        html += `<div class="sec-title ship-h"><span>🚢 航运物流重点关注（${ship.length}）</span><span class="badge ship">已自动提炼</span></div>
+          <div class="grid-2 ship-grid">` + ship.map(card).join('') + '</div>';
+      }
+      if(rest.length){
+        html += (ship.length ? `<div class="sec-title sub"><span>其他政策与法律</span></div>` : '') +
+          `<div class="grid-2">` + rest.map(card).join('') + '</div>';
+      }
+      box.innerHTML = html || '<div class="err-tip">暂无政策数据。</div>';
       box.querySelectorAll('.pol-head').forEach(h => {
         h.onclick = () => h.parentElement.classList.toggle('open');
       });
