@@ -884,6 +884,33 @@ function renderShip(){
   document.getElementById('shipNotes').textContent = cfg.note || '在「设置」里填写船闸、禁航与备注';
   applyShipCondition();
   fetchShipWeather();
+  renderFleet();
+}
+
+/** 船队实时位置（读取 data/ships.json 快照） */
+function renderFleet(){
+  const box = document.getElementById('shipFleet');
+  if(!box) return;
+  fetch('data/ships.json?t=' + Date.now()).then(r => r.json()).then(d => {
+    document.getElementById('shipFleetLive').textContent = '快照';
+    if(!d.ships || !d.ships.length){ box.innerHTML = '<div class="empty">暂无船位数据</div>'; return; }
+    const col = { 0:'g', 1:'y', 2:'gr', 3:'gr', 4:'r', 5:'y', 6:'r', 7:'y', 8:'g', 9:'r' };
+    const upd = (d.updated||'').replace('T',' ').slice(0,16);
+    box.innerHTML = `<div class="fleet-upd">数据更新：${esc(upd)}（服务端定时刷新）</div>` + d.ships.map(s => {
+      const c = col[s.navistat] != null ? col[s.navistat] : 'gr';
+      return `<div class="fleet-row">
+        <span class="dot dot-${c}"></span>
+        <div class="fleet-main">
+          <div class="fleet-name">${esc(s.name)}</div>
+          <div class="fleet-meta">MMSI ${s.mmsi} · ${s.lat!=null?s.lat.toFixed(3):'?'}, ${s.lng!=null?s.lng.toFixed(3):'?'}</div>
+        </div>
+        <div class="fleet-side">
+          <div class="fleet-stat">${esc(s.navText)}</div>
+          <div class="fleet-sub">${s.sog!=null?s.sog:0} kn${s.dest?(' · →'+esc(s.dest)):''}</div>
+        </div>
+      </div>`;
+    }).join('');
+  }).catch(() => { box.innerHTML = '<div class="empty">加载失败，请稍后重试</div>'; });
 }
 
 /** 设置：城市多选 + 水位站增删 + 备注 */
