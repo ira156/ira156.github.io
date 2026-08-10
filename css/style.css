@@ -214,6 +214,36 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 .tk-del:active{color:var(--red)}
 .task-foot{display:flex;justify-content:space-between;align-items:center;margin-top:12px;padding-top:11px;border-top:1px solid var(--line2)}
 
+/* ============ 航运情报 ============ */
+.nav-cond{display:flex;align-items:center;gap:13px}
+.nav-cond .nc-light{font-size:27px;line-height:1;flex:0 0 auto}
+.nav-cond .nc-body{flex:1;min-width:0}
+.nav-cond .nc-title{font-size:15.5px;font-weight:700;color:var(--tx)}
+.nav-cond .nc-sub{font-size:12.5px;color:var(--tx2);margin-top:3px;line-height:1.45}
+.wx-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:9px}
+.wx-cell{background:#FAFCF9;border:1px solid var(--line);border-radius:11px;padding:10px 11px}
+.wx-name{font-size:13px;font-weight:600;color:var(--tx);display:flex;justify-content:space-between;align-items:center;gap:6px}
+.wx-wind{font-size:20px;font-weight:700;margin-top:6px;color:var(--pri)}
+.wx-wind.warn{color:var(--red)}
+.wx-meta{font-size:11.5px;color:var(--tx2);margin-top:3px}
+.st-row{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--line2)}
+.st-row:last-child{border-bottom:none}
+.st-name{font-size:14px;font-weight:600;flex:1;min-width:0}
+.st-vals{font-size:13px;color:var(--tx2);text-align:right;line-height:1.5}
+.st-vals b{color:var(--tx);font-weight:700}
+.st-row.low .st-name{color:var(--red)}
+.ship-notes{font-size:13.5px;color:var(--tx2);line-height:1.6;white-space:pre-wrap}
+.chk-grid{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:4px}
+.chk{display:inline-flex;align-items:center;gap:5px;font-size:14px;color:var(--tx)}
+.chk input{width:16px;height:16px;accent-color:var(--pri)}
+.st-edit-row{display:flex;gap:7px;align-items:center;margin-bottom:8px}
+.se-name{flex:1;min-width:0;height:38px;border:1px solid var(--line);border-radius:9px;padding:0 10px;font-size:14px;background:#FAFCF9;outline:none;color:var(--tx)}
+.se-num{width:74px;height:38px;border:1px solid var(--line);border-radius:9px;padding:0 8px;font-size:14px;background:#FAFCF9;outline:none;text-align:center;color:var(--tx)}
+.st-edit-row .seg-del{flex:0 0 auto}
+@media(min-width:760px){
+  .wx-grid{grid-template-columns:repeat(3,1fr)}
+}
+
 .empty{text-align:center;padding:26px 12px;color:var(--tx3);font-size:13.5px}
 .empty b{display:block;font-size:26px;margin-bottom:7px;opacity:.4;font-weight:400}
 

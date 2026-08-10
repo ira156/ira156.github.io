@@ -9,8 +9,14 @@
 
 /* ---------- 常量 ---------- */
 const API = 'https://60s.viki.moe/v2';
-const K = { task:'zc_tasks', punch:'zc_punch', tpl:'zc_tpl', set:'zc_set', fav:'zc_fav' };
+const K = { task:'zc_tasks', punch:'zc_punch', tpl:'zc_tpl', set:'zc_set', fav:'zc_fav', ship:'zc_ship' };
 const WD = ['周日','周一','周二','周三','周四','周五','周六'];
+/* 沿江城市坐标（Open-Meteo 实时气象用，免 key、CORS 友好） */
+const SHIP_CITIES = {
+  '重庆':[29.56,106.55], '宜昌':[30.69,111.29], '武汉':[30.59,114.30],
+  '城陵矶':[29.36,113.09], '九江':[29.71,116.00], '南京':[32.06,118.80],
+  '南通':[31.98,120.89], '上海':[31.23,121.47]
+};
 
 /* ---------- 存储 ---------- */
 const S = {
@@ -757,7 +763,148 @@ function go(page){
   if(page==='news') renderNews();
   if(page==='idea') renderIdea();
   if(page==='time') renderTime();
+  if(page==='ship') renderShip();
   try{ history.replaceState(null,'','#'+page); }catch(e){}
+}
+
+/* =========================================================
+   10.5 航运情报（长江内河物流）
+   ========================================================= */
+function getShip(){
+  return Object.assign({ cities:['武汉','宜昌','南京'], stations:[], note:'' }, S.get(K.ship,{}));
+}
+function setShip(v){ S.set(K.ship, v); }
+
+let shipWxWarn = '';   // 气象大风/雾提示，由实时气象填充
+
+/** 综合水位红线 + 气象，给出绿/黄/红结论 */
+function applyShipCondition(){
+  const cfg = getShip();
+  let level = 0; const msgs = [];
+  cfg.stations.forEach(s => {
+    if(s.redline !== '' && s.redline != null && s.water !== '' && s.water != null){
+      const w = +s.water, r = +s.redline;
+      if(w < r){ level = 2; msgs.push(`${s.name}水位 ${w}m 低于红线 ${r}m`); }
+      else if(w < r + 1){ level = Math.max(level, 1); msgs.push(`${s.name}接近红线`); }
+    }
+  });
+  if(shipWxWarn){ level = Math.max(level, 1); msgs.push(shipWxWarn); }
+
+  const light = document.getElementById('shipLight');
+  const cond  = document.getElementById('shipCond');
+  const sub   = document.getElementById('shipCondSub');
+  if(!cfg.stations.length && !shipWxWarn){
+    light.textContent = '🟡'; cond.textContent = '航行条件评估中…';
+    sub.textContent = '设置航线与红线水位后自动评估'; return;
+  }
+  if(level === 2){ light.textContent = '🔴'; cond.textContent = '航行条件差 · 谨慎安排'; }
+  else if(level === 1){ light.textContent = '🟡'; cond.textContent = '航行条件一般 · 注意减载/绕行'; }
+  else { light.textContent = '🟢'; cond.textContent = '航行条件良好'; }
+  sub.textContent = msgs.join('；') || '各站水位正常';
+}
+
+/** 实时气象：Open-Meteo 直连（免 key、CORS 友好） */
+function fetchShipWeather(){
+  const cfg = getShip();
+  const box = document.getElementById('shipWx');
+  const live = document.getElementById('shipWxLive');
+  if(!cfg.cities.length){
+    box.innerHTML = '<div class="empty" style="padding:16px">先在「设置」选择沿江城市</div>';
+    return;
+  }
+  const names = cfg.cities.slice(0, 6);
+  const cells = {};
+  box.innerHTML = names.map((n,i) => `<div class="wx-cell" data-i="${i}"><div class="wx-name">${esc(n)}</div><div class="load-tip" style="padding:6px 0">加载中…</div></div>`).join('');
+  live.className = 'tag-live'; live.textContent = '实时';
+  shipWxWarn = '';
+
+  Promise.allSettled(names.map((n,i) => {
+    const c = SHIP_CITIES[n]; if(!c) return Promise.reject();
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${c[0]}&longitude=${c[1]}&current=wind_speed_10m,wind_gusts_10m,precipitation,relative_humidity_2m,temperature_2m&timezone=Asia%2FShanghai`;
+    return fetchJSON(url, 12000).then(j => ({ i, d:j.current }));
+  })).then(res => {
+    let maxGust = 0;
+    res.forEach(r => {
+      if(r.status !== 'fulfilled') return;
+      const i = r.value.i, d = r.value.d;
+      const wsp = d.wind_speed_10m||0, gust = d.wind_gusts_10m||0, rain = d.precipitation||0, hum = d.relative_humidity_2m||0, t = d.temperature_2m;
+      maxGust = Math.max(maxGust, gust);
+      const warn = gust >= 10.8;            // 阵风 ≥6 级
+      const fog  = hum >= 90 && wsp < 3;    // 近似雾（高湿低风）
+      cells[i].innerHTML = `<div class="wx-name">${esc(names[i])}${warn?' <span style="color:var(--red);font-size:11px">大风</span>':''}${fog?' <span style="color:var(--orange);font-size:11px">雾</span>':''}</div>
+        <div class="wx-wind ${warn?'warn':''}">${Math.round(wsp)}<small style="font-size:12px"> m/s</small></div>
+        <div class="wx-meta">阵风 ${Math.round(gust)} · ${rain>0?('雨 '+rain+'mm'):'无降水'} · 湿${Math.round(hum)}% · ${Math.round(t)}°</div>`;
+    });
+    if(maxGust >= 10.8) shipWxWarn = `沿江阵风达 ${Math.round(maxGust)} m/s（≥6 级），注意封航/减速`;
+    applyShipCondition();
+    if(res.every(r => r.status !== 'fulfilled')){
+      box.innerHTML = '<div class="err-tip">气象接口暂不可用，可稍后刷新</div>';
+      live.className = 'tag-live snap'; live.textContent = '离线';
+    }
+  });
+}
+
+function renderShip(){
+  const cfg = getShip();
+  const stBox = document.getElementById('shipStations');
+  if(!cfg.stations.length){
+    stBox.innerHTML = '<div class="empty" style="padding:18px"><b>🌊</b>还没有设置水位站</div>';
+  }else{
+    stBox.innerHTML = cfg.stations.map(s => {
+      const low = (s.redline !== '' && s.redline != null && s.water !== '' && s.water != null && +s.water < +s.redline);
+      return `<div class="st-row ${low?'low':''}">
+        <div class="st-name">${esc(s.name)}</div>
+        <div class="st-vals">水位 <b>${s.water!==''&&s.water!=null?esc(s.water):'—'}</b> m<br>红线 ${esc(s.redline||'—')} m</div>
+      </div>`;
+    }).join('');
+  }
+  document.getElementById('shipNotes').textContent = cfg.note || '在「设置」里填写船闸、禁航与备注';
+  applyShipCondition();
+  fetchShipWeather();
+}
+
+/** 设置：城市多选 + 水位站增删 + 备注 */
+function openShipSet(){
+  const cfg = JSON.parse(JSON.stringify(getShip()));
+  if(!cfg.cities) cfg.cities = [];
+  if(!cfg.stations) cfg.stations = [];
+  const draw = () => {
+    const cityChecks = Object.keys(SHIP_CITIES).map(n =>
+      `<label class="chk"><input type="checkbox" data-city="${esc(n)}" ${cfg.cities.includes(n)?'checked':''}> ${esc(n)}</label>`).join('');
+    const stRows = cfg.stations.map((s,i) => `
+      <div class="st-edit-row">
+        <input placeholder="站名" value="${esc(s.name||'')}" data-i="${i}" data-f="name" class="se-name">
+        <input placeholder="水位m" value="${esc(s.water??'')}" data-i="${i}" data-f="water" class="se-num">
+        <input placeholder="红线m" value="${esc(s.redline??'')}" data-i="${i}" data-f="redline" class="se-num">
+        <button class="seg-del" data-del="${i}">✕</button>
+      </div>`).join('');
+    modal('航运情报设置', `
+      <div class="field"><label>关注的城市（用于实时气象）</label>
+        <div class="chk-grid">${cityChecks}</div></div>
+      <div class="field"><label>水位站（手录当前水位与红线水位）</label>
+        <div id="stEdit">${stRows}</div>
+        <button class="link-btn" id="stAdd">+ 添加水位站</button></div>
+      <div class="field"><label>船闸 / 禁航 / 备注</label>
+        <textarea id="shipNote" placeholder="例如：三峡待闸约120艘，预计延误6-10h；下游晨间有雾预警">${esc(cfg.note||'')}</textarea></div>
+      <div class="modal-btns"><button class="btn btn-primary" id="shipSave">保存</button></div>
+      <div class="hint" style="margin-top:10px">实时气象由 Open-Meteo 自动获取；水位、船闸、禁航目前需手动录入（公开水文接口暂无浏览器直连）。</div>`);
+
+    document.getElementById('stEdit').oninput = e => {
+      const t = e.target, i = +t.dataset.i, f = t.dataset.f; if(isNaN(i)) return;
+      cfg.stations[i][f] = t.value;
+    };
+    document.getElementById('stEdit').onclick = e => {
+      const b = e.target.closest('[data-del]'); if(!b) return;
+      cfg.stations.splice(+b.dataset.del, 1); draw();
+    };
+    document.getElementById('stAdd').onclick = () => { cfg.stations.push({name:'',water:'',redline:''}); draw(); };
+    document.getElementById('shipSave').onclick = () => {
+      cfg.cities = Array.from(document.querySelectorAll('#modalBody [data-city]:checked')).map(x => x.dataset.city);
+      cfg.note = document.getElementById('shipNote').value.trim();
+      setShip(cfg); closeModal(); renderShip(); toast('已保存');
+    };
+  };
+  draw();
 }
 
 /* =========================================================
@@ -833,6 +980,11 @@ function init(){
     if(cur==='hot') renderHot(); else if(cur==='news') renderNews(); else if(cur==='idea') renderIdea();
     setTimeout(() => { this.classList.remove('spin'); toast('已刷新'); }, 900);
   };
+
+  /* 航运情报 */
+  document.getElementById('btnShipSet').onclick = openShipSet;
+  document.getElementById('btnShipEditSt').onclick = openShipSet;
+  renderShip();
 
   /* 弹窗关闭 */
   document.getElementById('modalClose').onclick = closeModal;
