@@ -1,28 +1,29 @@
-/* ============ 基础 · 田园山野色系 ============ */
+/* ============ 基础 · 抹茶田园色系 v2 ============ */
 :root{
-  /* 背景 & 卡片 — 奶杏底 */
-  --bg:#FFF5F0;
+  /* 背景 — 浅绿格子感底色 */
+  --bg:#F2F7F0;
   --card:#FFFFFF;
-  --line:#E5DDD6;
-  --line2:#F0EAE4;
-  /* 文字 — 深林层次 */
-  --tx:#1A3D32;
-  --tx2:#5C7A6E;
-  --tx3:#9AB0A5;
-  /* 主色 — 深林绿 #004A3B */
-  --pri:#004A3B;
-  --pri-soft:#E8F2ED;
-  /* 语义色 — 田园调和 */
-  --red:#C45C4A;
-  --red-soft:#FCEDEB;
-  --green:#72A487;
-  --green-soft:#EDF5F1;
-  --orange:#DFD075;
-  --orange-soft:#FBF7ED;
-  --blue:#5B9A8A;
-  --blue-soft:#EBF3F0;
-  --pink:#D49A7A;
-  --pink-soft:#FAEDE6;
+  --line:#DCE8DC;
+  --line2:#E8F0EA;
+  /* 文字 — 抹茶层次（比之前浅） */
+  --tx:#2D5A42;
+  --tx2:#5A8068;
+  --tx3:#8BA994;
+  /* 主色 — 嫩叶绿（图片 Hello Kitty 裙子同款） */
+  --pri:#5B8C6A;
+  --pri-soft:#EDF5EF;
+  /* 语义色 — 粉色加大比重 */
+  --red:#D47272;
+  --red-soft:#FDECEC;
+  --green:#8FBFA5;
+  --green-soft:#EFF7F1;
+  /* 粉色提升为重要辅助色（腮红/蝴蝶结） */
+  --pink:#E8A0A0;
+  --pink-soft:#FDEEEE;
+  --orange:#D4C87A;
+  --orange-soft:#FBF9ED;
+  --blue:#7AA89A;
+  --blue-soft:#EDF4F1;
   --r:16px;
   --r-sm:10px;
   --sh:0 1px 2px rgba(16,24,40,.05),0 1px 3px rgba(16,24,40,.04);
@@ -34,6 +35,11 @@
 html,body{margin:0;padding:0}
 body{
   background:var(--bg);color:var(--tx);
+  /* 浅绿格子底纹（图片同款 gingham） */
+  background-image:
+    linear-gradient(90deg, rgba(143,191,165,.12) 1px, transparent 1px),
+    linear-gradient(rgba(143,191,165,.12) 1px, transparent 1px);
+  background-size: 24px 24px;
   font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
   font-size:15px;line-height:1.55;
   -webkit-font-smoothing:antialiased;
@@ -50,7 +56,7 @@ input,select,textarea{font-family:inherit;font-size:16px}
 .topbar{
   position:sticky;top:0;z-index:50;
   padding:calc(12px + var(--safe-t)) 16px 12px;
-  background:rgba(255,245,240,.88);
+  background:rgba(242,247,240,.88);
   backdrop-filter:saturate(180%) blur(14px);
   -webkit-backdrop-filter:saturate(180%) blur(14px);
   border-bottom:1px solid var(--line);
@@ -59,7 +65,7 @@ input,select,textarea{font-family:inherit;font-size:16px}
 .tb-left{display:flex;align-items:center;gap:11px;min-width:0}
 .avatar{
   width:40px;height:40px;flex:0 0 40px;border-radius:13px;
-  background:linear-gradient(135deg,#004A3B,#2D7A5F);
+  background:linear-gradient(135deg,#5B8C6A,#8FBFA5);
   color:#fff;font-weight:700;font-size:17px;
   display:flex;align-items:center;justify-content:center;
   box-shadow:0 3px 10px rgba(79,70,229,.3);
@@ -77,21 +83,22 @@ input,select,textarea{font-family:inherit;font-size:16px}
 @keyframes spin{to{transform:rotate(360deg)}}
 
 /* ============ 布局 ============ */
-#main{padding:14px 14px 8px;max-width:1180px;margin:0 auto}
-.page{display:none;animation:fade .22s ease}
+#main{padding:14px 14px 8px;max-width:1180px;margin:0 auto;position:relative}
+.page{display:none;animation:fade .22s ease;position:relative}
 .page.active{display:block}
 @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 
 .card{
   background:var(--card);border-radius:var(--r);padding:16px;
   box-shadow:var(--sh);margin-bottom:12px;border:1px solid rgba(0,0,0,.02);
+  position:relative;overflow:hidden;
 }
 .card-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:13px;gap:10px}
 .card-head h2{font-size:15.5px;font-weight:650;letter-spacing:-.2px}
 .head-right{display:flex;align-items:center;gap:8px;flex:0 0 auto}
 
 /* ============ 打卡 ============ */
-.punch-card{background:linear-gradient(150deg,#004A3B 0%,#2D7A5F 45%,#72A487 100%);color:#fff;border:none;box-shadow:0 8px 24px rgba(0,74,59,.22)}
+.punch-card{background:linear-gradient(150deg,#5B8C6A 0%,#7AA89A 45%,#A8CCBA 100%);color:#fff;border:none;box-shadow:0 8px 24px rgba(91,140,106,.22)}
 .punch-head{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}
 .punch-label{font-size:12.5px;opacity:.8;font-weight:500}
 .punch-timer{font-size:38px;font-weight:700;letter-spacing:-1.4px;line-height:1.12;font-variant-numeric:tabular-nums;margin-top:2px}
@@ -104,7 +111,7 @@ input,select,textarea{font-family:inherit;font-size:16px}
 .punch-actions{display:flex;gap:9px;margin-top:15px}
 .punch-actions .btn{flex:1}
 .punch-card .btn-primary{background:#fff;color:var(--pri)}
-.punch-card .btn-primary:active{background:#DDECE6}
+.punch-card .btn-primary:active{background:#DDEFE6}
 .punch-card .btn-primary.off{background:#fff;color:var(--red)}
 .punch-card .btn-ghost{background:rgba(255,255,255,.16);color:#fff}
 .punch-card .btn-ghost:active{background:rgba(255,255,255,.26)}
@@ -136,11 +143,11 @@ input,select,textarea{font-family:inherit;font-size:16px}
 .task-input{display:flex;gap:7px;margin-bottom:11px}
 .task-input input{
   flex:1;min-width:0;height:38px;border:1px solid var(--line);border-radius:10px;
-  padding:0 12px;font-size:15px;background:#FFFBF8;outline:none;transition:.15s;color:var(--tx);
+  padding:0 12px;font-size:15px;background:#FAFCF9;outline:none;transition:.15s;color:var(--tx);
 }
 .task-input input:focus{border-color:var(--pri);background:#fff;box-shadow:0 0 0 3px var(--pri-soft)}
 .task-input select{
-  height:38px;border:1px solid var(--line);border-radius:10px;background:#FFFBF8;
+  height:38px;border:1px solid var(--line);border-radius:10px;background:#FAFCF9;
   padding:0 6px;font-size:13px;outline:none;flex:0 0 auto;color:var(--tx2);
 }
 
@@ -151,7 +158,7 @@ input,select,textarea{font-family:inherit;font-size:16px}
 .task-list li:last-child{border-bottom:none}
 .tk-box{
   width:21px;height:21px;flex:0 0 21px;border-radius:7px;border:1.8px solid var(--line);
-  margin-top:1px;display:flex;align-items:center;justify-content:center;transition:.16s;background:#FFFBF8;
+  margin-top:1px;display:flex;align-items:center;justify-content:center;transition:.16s;background:#FAFCF9;
 }
 .tk-box:active{transform:scale(.88)}
 .tk-box svg{opacity:0;width:12px;height:12px;color:#fff;transition:.16s}
@@ -207,12 +214,12 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 .rank-list{background:var(--card);border-radius:var(--r);box-shadow:var(--sh);overflow:hidden}
 .rank-item{display:flex;gap:11px;padding:13px 15px;border-bottom:1px solid var(--line2);align-items:flex-start;transition:.12s}
 .rank-item:last-child{border-bottom:none}
-.rank-item:active{background:#FAF7F4}
+.rank-item:active{background:#F4F8F3}
 .rk-no{
   width:21px;height:21px;flex:0 0 21px;border-radius:7px;background:var(--line2);color:var(--tx3);
   font-size:11.5px;font-weight:700;display:flex;align-items:center;justify-content:center;margin-top:1px;
 }
-.rk-no.top{background:linear-gradient(135deg,#D49A7A,#C45C4A);color:#fff}
+.rk-no.top{background:linear-gradient(135deg,#E8A0A0,#D47272);color:#fff}
 .rk-body{flex:1;min-width:0}
 .rk-title{font-size:14.5px;line-height:1.45;font-weight:500;word-break:break-word}
 .rk-meta{display:flex;gap:9px;align-items:center;margin-top:5px;font-size:11.5px;color:var(--tx3);flex-wrap:wrap}
@@ -292,7 +299,7 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 
 /* ============ 灵感 ============ */
 .quote-card{
-  background:linear-gradient(140deg,#004A3B,#1A5D4A);color:#fff;border-radius:var(--r);
+  background:linear-gradient(140deg,#5B8C6A,#7AA89A);color:#fff;border-radius:var(--r);
   padding:20px 18px;margin-bottom:12px;box-shadow:0 8px 22px rgba(28,31,38,.2);
 }
 .quote-mark{font-size:34px;line-height:.7;opacity:.24;font-family:Georgia,serif}
@@ -316,7 +323,7 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
   background:var(--card);border-radius:12px;padding:12px;box-shadow:var(--sh);
   border:1px solid rgba(0,0,0,.02);transition:.14s;display:block;
 }
-.src-item:active{transform:scale(.98);background:#FAF7F4}
+.src-item:active{transform:scale(.98);background:#F4F8F3}
 .src-name{font-size:13.5px;font-weight:650;display:flex;align-items:center;gap:5px}
 .src-name::after{content:'↗';font-size:10px;color:var(--tx3);font-weight:400}
 .src-desc{font-size:11.5px;color:var(--tx3);line-height:1.5;margin-top:4px}
@@ -341,9 +348,9 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
   width:100%;max-width:30px;border-radius:7px 7px 3px 3px;background:var(--pri);
   min-height:3px;transition:height .5s cubic-bezier(.34,1.3,.64,1);position:relative;
 }
-.bar.today{background:linear-gradient(180deg,#DFD075,#C4B560)}
+.bar.today{background:linear-gradient(180deg,#E8A0A0,#D47272)}
 .bar.zero{background:var(--line)}
-.bar.over{background:linear-gradient(180deg,#2D7A5F,#004A3B)}
+.bar.over{background:linear-gradient(180deg,#7AA89A,#5B8C6A)}
 .bar-day{font-size:11px;color:var(--tx3);font-weight:550}
 .bar-day.is-today{color:var(--pri);font-weight:700}
 .goal-line{position:absolute;left:0;right:0;border-top:1.5px dashed var(--line);pointer-events:none}
@@ -369,7 +376,7 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 }
 .tab{
   flex:1;padding:8px 2px 7px;display:flex;flex-direction:column;align-items:center;gap:3px;
-  color:var(--tx3);transition:.15s;
+  color:var(--tx3);transition:.15s;position:relative;
 }
 .tab svg{width:21px;height:21px}
 .tab span{font-size:10px;font-weight:550}
@@ -402,7 +409,7 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 .field label{display:block;font-size:12.5px;color:var(--tx2);margin-bottom:6px;font-weight:550}
 .field input,.field select,.field textarea{
   width:100%;height:44px;border:1px solid var(--line);border-radius:11px;padding:0 12px;
-  background:#FFFBF8;outline:none;transition:.15s;color:var(--tx);
+  background:#FAFCF9;outline:none;transition:.15s;color:var(--tx);
 }
 .field textarea{height:auto;padding:11px 12px;resize:vertical;min-height:70px;font-size:15px;line-height:1.55}
 .field input:focus,.field select:focus,.field textarea:focus{border-color:var(--pri);background:#fff;box-shadow:0 0 0 3px var(--pri-soft)}
@@ -414,7 +421,7 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 
 .seg-list{margin-bottom:12px}
 .seg-row{display:flex;gap:8px;align-items:center;margin-bottom:8px}
-.seg-row input{flex:1;height:40px;border:1px solid var(--line);border-radius:10px;padding:0 10px;background:#FFFBF8;outline:none;font-size:15px;color:var(--tx)}
+.seg-row input{flex:1;height:40px;border:1px solid var(--line);border-radius:10px;padding:0 10px;background:#FAFCF9;outline:none;font-size:15px;color:var(--tx)}
 .seg-row input:focus{border-color:var(--pri);background:#fff}
 .seg-row span{color:var(--tx3);font-size:13px;flex:0 0 auto}
 .seg-del{color:var(--tx3);padding:5px 7px;font-size:16px;flex:0 0 auto}
@@ -429,7 +436,7 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 .set-k{font-size:14.5px}
 .set-k small{display:block;font-size:11.5px;color:var(--tx3);margin-top:2px;line-height:1.45}
 .set-v{flex:0 0 auto}
-.set-v input{width:78px;height:36px;border:1px solid var(--line);border-radius:9px;padding:0 10px;text-align:center;background:#FFFBF8;outline:none;color:var(--tx)}
+.set-v input{width:78px;height:36px;border:1px solid var(--line);border-radius:9px;padding:0 10px;text-align:center;background:#FAFCF9;outline:none;color:var(--tx)}
 .set-v input:focus{border-color:var(--pri);background:#fff}
 
 /* ============ Toast ============ */
@@ -442,7 +449,7 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 .toast.on{opacity:1;transform:translate(-50%,0)}
 
 /* ============ 骨架 / 状态 ============ */
-.skel-line{height:13px;border-radius:6px;background:linear-gradient(90deg,#F0EAE4 25%,#FAF7F4 50%,#F0EAE4 75%);background-size:200% 100%;animation:shim 1.3s infinite;margin-bottom:9px}
+.skel-line{height:13px;border-radius:6px;background:linear-gradient(90deg,#E8F0EA 25%,#F4F8F3 50%,#E8F0EA 75%);background-size:200% 100%;animation:shim 1.3s infinite;margin-bottom:9px}
 .skel-line:nth-child(2){width:88%}
 .skel-line:nth-child(3){width:64%}
 @keyframes shim{0%{background-position:200% 0}100%{background-position:-200% 0}}
@@ -542,4 +549,104 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
   }
   .grid-2{grid-template-columns:1fr 1fr 1fr}
   #page-news .grid-2{grid-template-columns:1fr 1fr}
+}
+
+/* ============ 🌿 抹茶田园装饰元素 ============ */
+
+/* ── 小叶子（卡片右上角浮动） ── */
+.card::before{
+  content:'';position:absolute;top:-4px;right:12px;
+  width:22px;height:22px;
+  background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M17 8C8 10 5.9 16.17 3.82 21.34l1.89.66.95-2.3c.48.17.98.3 1.34.3C19 20 22 3 22 3c-1 2-8 2.25-13 3.25S2 11.5 2 13.5s1.75 3.75 1.75 3.75C7 8 17 8 17 8z' fill='%238FBFA5' opacity='.35'/%3E%3C/svg%3E") center/contain no-repeat;
+  pointer-events:none;z-index:1;
+}
+.punch-card::before,.modal::before{display:none}
+
+/* ── 腮红粉圆点（Hello Kitty 同款） ── */
+.topbar::after{
+  content:'';position:absolute;bottom:6px;right:52px;
+  width:10px;height:10px;border-radius:50%;
+  background:radial-gradient(circle at 35% 35%,#FFB5B5,#E8A0A0);
+  opacity:.45;pointer-events:none;
+}
+.topbar::before{
+  content:'';position:absolute;bottom:6px;right:68px;
+  width:7px;height:7px;border-radius:50%;
+  background:radial-gradient(circle at 35% 35%,#FFB5B5,#E8A0A0);
+  opacity:.35;pointer-events:none;
+}
+
+/* ── 小圆点散落装饰（页面底部区域） ── */
+#main::after{
+  content:'';position:fixed;bottom:70px;left:12px;
+  width:14px;height:14px;border-radius:50%;
+  background:rgba(232,160,160,.28);pointer-events:none;z-index:0;
+}
+.page.active::after{
+  content:'';position:absolute;bottom:-20px;right:16px;
+  width:11px;height:11px;border-radius:50%;
+  background:rgba(143,191,165,.30);pointer-events:none;
+}
+
+/* ── 小猫剪影（工时页右下角） ── */
+#page-time::after{
+  content:'';position:absolute;bottom:20px;right:14px;
+  width:40px;height:36px;
+  background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 56'%3E%3Cellipse cx='32' cy='34' rx='18' ry='16' fill='%23F2F7F0' stroke='%238FBFA5' stroke-width='1.5'/%3E%3Ccircle cx='25' cy='30' r='2.5' fill='%235B8C6A'/%3E%3Ccircle cx='39' cy='30' r='2.5' fill='%235B8C6A'/%3E%3Cellipse cx='32' cy='37' rx='2' ry='1.5' fill='%23E8A0A0' opacity='.5'/%3E%3Cpath d='M15 24c-3-6-1-12 2-14s7 2 8 6' fill='%23F2F7F0' stroke='%238FBFA5' stroke-width='1.5'/%3E%3Cpath d='M49 24c3-6 1-12-2-14s-7 2-8 6' fill='%23F2F7F0' stroke='%238FBFA5' stroke-width='1.5'/%3E%3Cpath d='M26 44c0 3 2.5 5 6 5s6-2 6-5' fill='none' stroke='%238FBFA5' stroke-width='1.2' stroke-linecap='round'/%3E%3C/svg%3E") center/contain no-repeat;
+  pointer-events:none;opacity:.5;z-index:0;
+}
+
+/* ── 小植物/嫩芽图标（灵感区标题旁） ── */
+.idea-head::after{
+  content:'🌱';margin-left:6px;font-size:16px;
+}
+
+/* ── 格子纹边框强调（打卡卡片） ── */
+.punch-card{
+  position:relative;overflow:hidden;
+}
+.punch-card::after{
+  content:'';position:absolute;inset:0;
+  background:
+    linear-gradient(90deg,rgba(255,255,255,.08) 1px,transparent 1px),
+    linear-gradient(rgba(255,255,255,.08) 1px,transparent 1px);
+  background-size:18px 18px;
+  pointer-events:none;
+}
+
+/* ── 粉色标签提升（小红书/Agent 卡片更粉） ── */
+.xhs-tag{background:var(--pink-soft);color:var(--pink)}
+.badge.p{background:var(--pink-soft);color:var(--pink)}
+
+/* ── Tab 活跃态加粉色下划线 ── */
+.tab.active::after{
+  content:'';position:absolute;bottom:2px;left:50%;transform:translateX(-50%);
+  width:18px;height:3px;border-radius:2px;background:var(--pink);opacity:.7;
+}
+
+/* ── 打卡按钮加蝴蝶结感 ── */
+.btn-primary{
+  position:relative;overflow:hidden;
+}
+.btn-primary::after{
+  content:'';position:absolute;top:-8px;right:-8px;
+  width:24px;height:24px;border-radius:50%;
+  background:radial-gradient(circle,rgba(255,255,255,.25),transparent 70%);
+  pointer-events:none;
+}
+
+/* ── 桌面端装饰增强 ── */
+@media(min-width:760px){
+  /* 更大的叶子 */
+  .card::before{width:28px;height:28px;top:-6px;right:16px;opacity:.3}
+  /* 页面角落小植物 */
+  #page-home::after{
+    content:'';position:absolute;bottom:-10px;right:20px;
+    width:48px;height:48px;
+    background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath d='M24 44c-1-8 2-16 8-20' stroke='%238FBFA5' stroke-width='2' fill='none' stroke-linecap='round'/%3E%3Cpath d='M24 44c1-8-2-14-8-18' stroke='%238FBFA5' stroke-width='2' fill='none' stroke-linecap='round'/%3E%3Cellipse cx='20' cy='24' rx='7' ry='4' transform='rotate(-30 20 24)' fill='%23EDF5EF' stroke='%238FBFA5' stroke-width='1.2'/%3E%3Cellipse cx='28' cy='22' rx='6' ry='3.5' transform='rotate(20 28 22)' fill='%23EDF5EF' stroke='%238FBFA5' stroke-width='1.2'/%3E%3Ccircle cx='24' cy='44' r='2.5' fill='%235B8C6A'/%3E%3C/svg%3E") center/contain no-repeat;
+    pointer-events:none;opacity:.35;z-index:0;
+  }
+  /* 顶栏腮红更大更明显 */
+  .topbar::after{width:14px;height:14px;bottom:8px;opacity:.4}
+  .topbar::before{width:10px;height:10px;bottom:8px;opacity:.3}
 }
