@@ -799,6 +799,7 @@ function getShip(){
 function setShip(v){ S.set(K.ship, v); }
 
 let shipWxWarn = '';   // 气象大风/雾提示，由实时气象填充
+let shipWxReady = false; // 气象快照是否已加载（无论成败）
 
 /** 综合水位红线 + 气象，给出绿/黄/红结论 */
 function applyShipCondition(){
@@ -816,17 +817,17 @@ function applyShipCondition(){
   const light = document.getElementById('shipLight');
   const cond  = document.getElementById('shipCond');
   const sub   = document.getElementById('shipCondSub');
-  if(!cfg.stations.length && !shipWxWarn){
+  if(!shipWxReady && !cfg.stations.length){
     light.textContent = '🟡'; cond.textContent = '航行条件评估中…';
-    sub.textContent = '设置航线与红线水位后自动评估'; return;
+    sub.textContent = '设置水位站红线后自动评估'; return;
   }
   if(level === 2){ light.textContent = '🔴'; cond.textContent = '航行条件差 · 谨慎安排'; }
   else if(level === 1){ light.textContent = '🟡'; cond.textContent = '航行条件一般 · 注意减载/绕行'; }
   else { light.textContent = '🟢'; cond.textContent = '航行条件良好'; }
-  sub.textContent = msgs.join('；') || '各站水位正常';
+  sub.textContent = msgs.join('；') || (cfg.stations.length ? '各站水位正常' : '气象正常（未设置水位站，仅供参考）');
 }
 
-/** 实时气象：Open-Meteo 直连（免 key、CORS 友好） */
+/** 实时气象：读取服务端快照 data/weather.json（Open-Meteo 由定时任务抓取，国内稳定） */
 function fetchShipWeather(){
   const cfg = getShip();
   const box = document.getElementById('shipWx');
@@ -835,35 +836,33 @@ function fetchShipWeather(){
     box.innerHTML = '<div class="empty" style="padding:16px">先在「设置」选择沿江城市</div>';
     return;
   }
-  const names = cfg.cities.slice(0, 6);
-  const cells = {};
-  box.innerHTML = names.map((n,i) => `<div class="wx-cell" data-i="${i}"><div class="wx-name">${esc(n)}</div><div class="load-tip" style="padding:6px 0">加载中…</div></div>`).join('');
-  live.className = 'tag-live'; live.textContent = '实时';
-  shipWxWarn = '';
-
-  Promise.allSettled(names.map((n,i) => {
-    const c = SHIP_CITIES[n]; if(!c) return Promise.reject();
-    const url = `https://api.open-meteo.com/v1/forecast?latitude=${c[0]}&longitude=${c[1]}&current=wind_speed_10m,wind_gusts_10m,precipitation,relative_humidity_2m,temperature_2m&timezone=Asia%2FShanghai`;
-    return fetchJSON(url, 12000).then(j => ({ i, d:j.current }));
-  })).then(res => {
+  live.className = 'tag-live snap'; live.textContent = '快照';
+  box.innerHTML = '<div class="load-tip">加载中…</div>';
+  fetch('data/weather.json?t=' + Date.now()).then(r => r.json()).then(d => {
+    shipWxReady = true;
+    const cities = d.cities || {};
+    const list = cfg.cities.filter(n => cities[n] && !cities[n].error).slice(0, 6);
+    if(!list.length){
+      box.innerHTML = '<div class="empty">暂无气象数据，请稍后自动更新</div>';
+      applyShipCondition(); return;
+    }
     let maxGust = 0;
-    res.forEach(r => {
-      if(r.status !== 'fulfilled') return;
-      const i = r.value.i, d = r.value.d;
-      const wsp = d.wind_speed_10m||0, gust = d.wind_gusts_10m||0, rain = d.precipitation||0, hum = d.relative_humidity_2m||0, t = d.temperature_2m;
+    box.innerHTML = list.map(n => {
+      const w = cities[n];
+      const wsp = w.wind||0, gust = w.gust||0, rain = w.rain||0, hum = w.hum||0, t = w.temp;
       maxGust = Math.max(maxGust, gust);
-      const warn = gust >= 10.8;            // 阵风 ≥6 级
-      const fog  = hum >= 90 && wsp < 3;    // 近似雾（高湿低风）
-      cells[i].innerHTML = `<div class="wx-name">${esc(names[i])}${warn?' <span style="color:var(--red);font-size:11px">大风</span>':''}${fog?' <span style="color:var(--orange);font-size:11px">雾</span>':''}</div>
+      const warn = gust >= 10.8, fog = hum >= 90 && wsp < 3;
+      return `<div class="wx-cell"><div class="wx-name">${esc(n)}${warn?' <span style="color:var(--red);font-size:11px">大风</span>':''}${fog?' <span style="color:var(--orange);font-size:11px">雾</span>':''}</div>
         <div class="wx-wind ${warn?'warn':''}">${Math.round(wsp)}<small style="font-size:12px"> m/s</small></div>
-        <div class="wx-meta">阵风 ${Math.round(gust)} · ${rain>0?('雨 '+rain+'mm'):'无降水'} · 湿${Math.round(hum)}% · ${Math.round(t)}°</div>`;
-    });
+        <div class="wx-meta">阵风 ${Math.round(gust)} · ${rain>0?('雨 '+rain+'mm'):'无降水'} · 湿${Math.round(hum)}% · ${Math.round(t)}°</div></div>`;
+    }).join('');
     if(maxGust >= 10.8) shipWxWarn = `沿江阵风达 ${Math.round(maxGust)} m/s（≥6 级），注意封航/减速`;
     applyShipCondition();
-    if(res.every(r => r.status !== 'fulfilled')){
-      box.innerHTML = '<div class="err-tip">气象接口暂不可用，可稍后刷新</div>';
-      live.className = 'tag-live snap'; live.textContent = '离线';
-    }
+  }).catch(() => {
+    shipWxReady = true;
+    box.innerHTML = '<div class="err-tip">气象加载失败，稍后自动重试</div>';
+    live.className = 'tag-live snap'; live.textContent = '离线';
+    applyShipCondition();
   });
 }
 
