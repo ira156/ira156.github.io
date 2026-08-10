@@ -221,17 +221,41 @@ function renderTasks(){
         <div class="tk-main">
           <div class="tk-title">${esc(t.title)}</div>
           <div class="tk-sub">
-            <span class="chip p${t.prio}">${t.prio===3?'重要':t.prio===1?'低':'普通'}</span>
+            <button class="chip p${t.prio} prio-btn" data-act="prio" aria-label="修改优先级">${t.prio===3?'重要':t.prio===1?'低':'普通'}<span class="caret">▾</span></button>
             ${t.tpl?'<span class="chip tpl">每日</span>':''}
           </div>
         </div>
         <button class="tk-del" data-act="del" aria-label="删除">✕</button>
       </li>`).join('');
   }
-  const done = list.filter(t=>t.done).length;
+    const done = list.filter(t=>t.done).length;
   const pct = list.length ? Math.round(done/list.length*100) : 0;
   document.getElementById('ringFg').style.strokeDashoffset = 100 - pct;
   document.getElementById('ringTxt').textContent = pct + '%';
+}
+
+/** 点击任务项上的优先级按钮：就地弹出小菜单切换类型 */
+function openPrioMenu(btn, id){
+  const pop = document.getElementById('prioPop');
+  const opts = [['3','重要'],['2','普通'],['1','低']];
+  pop.innerHTML = opts.map(([v,l]) =>
+    `<button data-v="${v}"><span class="dot p${v}"></span>${l}</button>`).join('');
+  const r = btn.getBoundingClientRect();
+  const vw = document.documentElement.clientWidth;
+  let left = window.scrollX + r.left;
+  if(left + 132 > window.scrollX + vw) left = window.scrollX + vw - 132;
+  pop.style.left = Math.max(window.scrollX + 8, left) + 'px';
+  pop.style.top  = (window.scrollY + r.bottom + 6) + 'px';
+  pop.hidden = false;
+  pop.querySelectorAll('button').forEach(b => {
+    b.onclick = () => {
+      const day = dkey(); const list = ensureToday();
+      const idx = list.findIndex(t => t.id === id);
+      if(idx >= 0){ list[idx].prio = +b.dataset.v; setTasks(day, list); renderTasks(); }
+      pop.hidden = true;
+      toast('已改为「' + b.textContent + '」');
+    };
+  });
 }
 
 /* 每日重复任务模板 */
@@ -769,6 +793,7 @@ function init(){
     const li = e.target.closest('li'); if(!li) return;
     const day = dkey(); const list = ensureToday();
     const idx = list.findIndex(t => t.id === li.dataset.id); if(idx < 0) return;
+    if(btn.dataset.act === 'prio'){ e.stopPropagation(); openPrioMenu(btn, li.dataset.id); return; }
     if(btn.dataset.act === 'toggle'){
       list[idx].done = !list[idx].done;
       if(list[idx].done && list.every(t=>t.done)) setTimeout(()=>toast('今天的任务全部完成 🎉'), 260);
@@ -813,6 +838,11 @@ function init(){
   document.getElementById('modalClose').onclick = closeModal;
   document.getElementById('modalMask').onclick = closeModal;
   document.addEventListener('keydown', e => { if(e.key==='Escape') closeModal(); });
+  /* 点击空白处关闭优先级下拉 */
+  document.addEventListener('click', e => {
+    const pop = document.getElementById('prioPop');
+    if(!pop.hidden && !pop.contains(e.target)) pop.hidden = true;
+  });
 
   /* 深链 */
   const hash = (location.hash||'').replace('#','');
