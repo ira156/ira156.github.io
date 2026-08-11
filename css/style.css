@@ -201,7 +201,7 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 .chip.prio-btn:active{transform:scale(.95)}
 .chip.prio-btn .caret{font-size:8px;opacity:.7;margin-left:1px}
 /* 优先级快捷下拉浮层 */
-.prio-pop{position:absolute;z-index:120;background:#fff;border:1px solid var(--line);border-radius:12px;
+.prio-pop{position:fixed;z-index:120;background:#fff;border:1px solid var(--line);border-radius:12px;
   box-shadow:0 10px 30px rgba(16,24,40,.18);padding:5px;min-width:104px;overflow:hidden}
 .prio-pop[hidden]{display:none}
 .prio-pop button{display:flex;align-items:center;width:100%;gap:8px;padding:9px 11px;border:none;background:none;
