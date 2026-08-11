@@ -4,6 +4,6 @@
  * 不填则自动回退为「仅本机存储」，不影响现有功能。
  */
 window.ZC = {
-  SUPABASE_URL: '',   // 例：https://xxxx.supabase.co
-  SUPABASE_ANON: ''   // 例：eyJhbGciOiJIUzI1Ni...（Project API keys 里的 anon public）
+  SUPABASE_URL: 'https://ofdopyfurfpesdrexvqo.supabase.co',
+  SUPABASE_ANON: 'sb_publishable_z3eJbn8IDDKP-X0zqSy8PQ_zGL5mkAV'
 };
