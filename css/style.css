@@ -275,6 +275,8 @@ li.done .tk-title{color:var(--tx3);text-decoration:line-through}
 .tag-live::before{content:'';width:5px;height:5px;border-radius:50%;background:var(--green);animation:pulse 1.8s infinite}
 .tag-live.snap{color:var(--tx3);background:var(--line2)}
 .tag-live.snap::before{background:var(--tx3);animation:none}
+.tag-live.stale{color:var(--orange);background:var(--orange-soft)}
+.tag-live.stale::before{background:var(--orange);animation:none}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
 
 /* ============ 子 Tab ============ */
