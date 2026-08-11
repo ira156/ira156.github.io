@@ -182,11 +182,72 @@ function openPunchEdit(day){
 /* =========================================================
    2. 任务
    ========================================================= */
+/* ---------- 任务同步：Supabase 实时 + localStorage 兜底 ---------- */
+let SB = null;          // supabase 客户端
+let SB_OK = false;      // 是否已连上可用
+let MEM = null;         // 内存缓存：{ day: [task,...] }；未配置时回退 localStorage
+let SB_READY = false;
+const _sbWaiters = [];
+function sbConfigured(){ return !!(window.ZC && window.ZC.SUPABASE_URL && window.ZC.SUPABASE_ANON); }
+function whenSyncReady(fn){ if(SB_READY) fn(); else _sbWaiters.push(fn); }
+function _flushWaiters(){ while(_sbWaiters.length) _sbWaiters.shift()(); }
+
+async function initSync(){
+  MEM = MEM || {};
+  if(!sbConfigured() || typeof supabase === 'undefined'){ SB_OK = false; SB_READY = true; _flushWaiters(); return; }
+  try{
+    SB = supabase.createClient(window.ZC.SUPABASE_URL, window.ZC.SUPABASE_ANON, { auth:{ persistSession:false } });
+    const since = dkey(new Date(Date.now() - 90*864e5));
+    const { data, error } = await SB.from('tasks').select('*').gte('day', since);
+    if(error) throw error;
+    (data||[]).forEach(r => {
+      const arr = MEM[r.day] || (MEM[r.day] = []);
+      const t = { id:r.id, title:r.title, prio:r.prio, done:r.done, tpl:r.tpl };
+      if(!arr.find(x=>x.id===t.id)) arr.push(t);
+    });
+    // 首次迁移：本地已有的任务补进云端，避免切换时丢数据
+    const localAll = S.get(K.task, {});
+    Object.keys(localAll).forEach(d => { if(!(d in MEM)){ MEM[d] = localAll[d]; sbSaveDay(d, localAll[d]); } });
+    SB_OK = true;
+    SB.channel('zc-tasks-rt')
+      .on('postgres_changes', { event:'*', schema:'public', table:'tasks' }, () => sbPullDay(dkey()))
+      .subscribe();
+  }catch(e){ SB_OK = false; }
+  SB_READY = true; _flushWaiters();
+}
+/** 任一设备改动后，拉取当天最新并刷新界面 */
+async function sbPullDay(day){
+  if(!SB || !SB_OK) return;
+  const { data } = await SB.from('tasks').select('*').eq('day', day);
+  MEM[day] = (data||[]).map(r => ({ id:r.id, title:r.title, prio:r.prio, done:r.done, tpl:r.tpl }));
+  if(dkey() === day) renderTasks();
+}
+/** 后台写回云端（整日替换，简单且跨设备一致）；失败静默，下次改动重试 */
+async function sbSaveDay(day, list){
+  if(!SB || !SB_OK) return;
+  try{
+    await SB.from('tasks').delete().eq('day', day);
+    if(list && list.length){
+      await SB.from('tasks').insert(list.map(t => ({
+        day, id:t.id, title:t.title, prio:t.prio, done:!!t.done, tpl:!!t.tpl
+      })));
+    }
+  }catch(e){ /* ignore */ }
+}
+
 function getTasks(day){
+  day = day || dkey();
+  if(SB_OK) return (day in MEM) ? (MEM[day] || []) : null;
   const all = S.get(K.task, {});
-  return all[day || dkey()] || null;
+  return all[day] || null;
 }
 function setTasks(day, list){
+  day = day || dkey();
+  if(SB_OK){
+    MEM[day] = list.slice();
+    sbSaveDay(day, MEM[day]);   // 后台写入，不阻塞界面
+    return;
+  }
   const all = S.get(K.task, {});
   all[day] = list;
   // 只保留最近 90 天，避免无限膨胀
@@ -1002,8 +1063,9 @@ function openShipSet(){
 function init(){
   hello();
   renderPunch();
-  renderTasks();
+  renderTasks();          // 先用本机数据渲染，避免空白
   renderBrief();
+  initSync().then(() => renderTasks());   // 连上云端后拉取最新并刷新
 
   // 每秒刷新计时器
   tickTimer = setInterval(() => { if(isWorking(getPunch())) renderPunch(); }, 1000);
