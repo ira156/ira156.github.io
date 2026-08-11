@@ -1,0 +1,42 @@
+name: 赵梓池工作台·每日数据更新
+# 云端定时：无需本机软件，GitHub Actions 每天按北京时 07:30 / 12:30 / 19:30 自动跑
+# 机器可抓部分（气象/船队）必定刷新；每日内容(爆款/政策/资讯/灵感)需配置 LLM_API_KEY 后由 LLM 生成
+on:
+  schedule:
+    - cron: '30 23 * * *'   # 北京 07:30（UTC 23:30 前一天）
+    - cron: '30 4 * * *'    # 北京 12:30（UTC 04:30）
+    - cron: '30 11 * * *'   # 北京 19:30（UTC 11:30）
+  workflow_dispatch: {}     # 支持在 Actions 页面手动触发
+permissions:
+  contents: write
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: 抓取气象（Open-Meteo 免 key）
+        run: node fetch_weather.js
+      - name: 抓取船队（ShipXY，密钥取自 secret）
+        env:
+          SHIPXY_KEY: ${{ secrets.SHIPXY_KEY }}
+        run: node fetch_ships.js || echo "⚠️ 船队抓取失败，检查 SHIPXY_KEY secret"
+      - name: 生成每日内容（可选，配置 LLM_API_KEY 后生效）
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_PROVIDER: ${{ secrets.LLM_PROVIDER }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+        run: node gen_daily_api.js || echo "⚠️ 内容生成跳过（未配置 LLM_API_KEY）"
+      - name: 提交并推送到 GitHub Pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/weather.json data/ships.json data/daily.json js/ css/ index.html
+          git commit -m "每日数据更新 $(TZ=Asia/Shanghai date +%F)" || echo "无变更，跳过提交"
+          git push
