@@ -1,3 +1,11 @@
 .git-token
-bili_raw.json
+.shipxy-key
 *.tmp
+
+# 每日抓取产生的临时文件（禁止入库）
+bili_raw.json
+bili_top20.json
+build_daily.py
+cj.txt
+home.html
+*.cookies
