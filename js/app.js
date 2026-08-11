@@ -331,6 +331,15 @@ function snapshot(){
   if(SNAP) return Promise.resolve(SNAP);
   return fetchJSON('data/daily.json', 15000).then(d => { SNAP = d; return d; });
 }
+/** 快照新鲜度标签：是今天就显示「今日快照」，不是今天就明确标出日期并提示待更新 */
+function snapTag(){
+  const d = (SNAP && SNAP.date) || '';
+  if(!d) return '<span class="tag-live snap">快照</span>';
+  if(d === dkey()) return '<span class="tag-live snap">今日快照</span>';
+  const p = d.split('-');
+  const md = p.length === 3 ? (+p[1]) + '月' + (+p[2]) + '日' : d;
+  return `<span class="tag-live stale" title="快照生成于 ${d}，尚未更新到今天">${md}快照 · 待更新</span>`;
+}
 
 /* =========================================================
    4. 今日速览
@@ -392,7 +401,7 @@ function renderHot(){
   snapshot().then(s => {
     if(hotTab === 'xhs'){
       const list = s.xiaohongshu || [];
-      box.innerHTML = `<div class="sec-title"><span>小红书爆款内容 & 商品 · ${s.date}</span><span class="tag-live snap">每日快照</span></div>
+      box.innerHTML = `<div class="sec-title"><span>小红书爆款内容 & 商品 · ${s.date}</span>${snapTag()}</div>
         <div class="grid-2">` +
         list.map(x => `
         <div class="xhs-card">
@@ -461,7 +470,7 @@ function renderNews(){
           </a>`).join('') + '</div>';
       }
       if(s.status === 'fulfilled' && s.value.news_cn_extra){
-        html += `<div class="sec-title"><span>国内要闻精编</span><span class="tag-live snap">每日快照</span></div>
+        html += `<div class="sec-title"><span>国内要闻精编</span>${snapTag()}</div>
           <div class="grid-2">` +
           s.value.news_cn_extra.map(x => `
           <div class="news-card ${shipHit(x)?'ship':''}">
@@ -477,7 +486,7 @@ function renderNews(){
 
   snapshot().then(s => {
     if(newsTab === 'world'){
-      box.innerHTML = `<div class="sec-title"><span>国际要闻 · ${s.date}</span><span class="tag-live snap">每日快照</span></div>
+      box.innerHTML = `<div class="sec-title"><span>国际要闻 · ${s.date}</span>${snapTag()}</div>
         <div class="grid-2">` +
         (s.news_world||[]).map(x => `
         <div class="news-card">
@@ -505,7 +514,7 @@ function renderNews(){
             <div class="xhs-src" style="margin-top:12px">来源：${esc(x.source)}</div>
           </div></div>
         </div>`;
-      let html = `<div class="sec-title"><span>政策与法律更新 · 含行业影响解读</span><span class="tag-live snap">每日快照</span></div>`;
+      let html = `<div class="sec-title"><span>政策与法律更新 · 含行业影响解读</span>${snapTag()}</div>`;
       if(ship.length){
         html += `<div class="sec-title ship-h"><span>🚢 航运物流重点关注（${ship.length}）</span><span class="badge ship">已自动提炼</span></div>
           <div class="grid-2 ship-grid">` + ship.map(card).join('') + '</div>';
@@ -520,7 +529,7 @@ function renderNews(){
       });
     }
     else{
-      box.innerHTML = `<div class="sec-title"><span>新发布的 AI Agent / 智能体</span><span class="tag-live snap">每日快照</span></div>
+      box.innerHTML = `<div class="sec-title"><span>新发布的 AI Agent / 智能体</span>${snapTag()}</div>
         <div class="grid-2">` +
         (s.agents||[]).map(x => `
         <div class="ag-card">
@@ -837,34 +846,63 @@ function fetchShipWeather(){
     box.innerHTML = '<div class="empty" style="padding:16px">先在「设置」选择沿江城市</div>';
     return;
   }
-  live.className = 'tag-live snap'; live.textContent = '快照';
   box.innerHTML = '<div class="load-tip">加载中…</div>';
-  fetch('data/weather.json?t=' + Date.now()).then(r => r.json()).then(d => {
-    shipWxReady = true;
-    const cities = d.cities || {};
-    const list = cfg.cities.filter(n => cities[n] && !cities[n].error).slice(0, 6);
-    if(!list.length){
-      box.innerHTML = '<div class="empty">暂无气象数据，请稍后自动更新</div>';
-      applyShipCondition(); return;
-    }
-    let maxGust = 0;
-    box.innerHTML = list.map(n => {
-      const w = cities[n];
-      const wsp = w.wind||0, gust = w.gust||0, rain = w.rain||0, hum = w.hum||0, t = w.temp;
-      maxGust = Math.max(maxGust, gust);
-      const warn = gust >= 10.8, fog = hum >= 90 && wsp < 3;
-      return `<div class="wx-cell"><div class="wx-name">${esc(n)}${warn?' <span style="color:var(--red);font-size:11px">大风</span>':''}${fog?' <span style="color:var(--orange);font-size:11px">雾</span>':''}</div>
-        <div class="wx-wind ${warn?'warn':''}">${Math.round(wsp)}<small style="font-size:12px"> m/s</small></div>
-        <div class="wx-meta">阵风 ${Math.round(gust)} · ${rain>0?('雨 '+rain+'mm'):'无降水'} · 湿${Math.round(hum)}% · ${Math.round(t)}°</div></div>`;
-    }).join('');
-    if(maxGust >= 10.8) shipWxWarn = `沿江阵风达 ${Math.round(maxGust)} m/s（≥6 级），注意封航/减速`;
-    applyShipCondition();
-  }).catch(() => {
-    shipWxReady = true;
-    box.innerHTML = '<div class="err-tip">气象加载失败，稍后自动重试</div>';
-    live.className = 'tag-live snap'; live.textContent = '离线';
-    applyShipCondition();
-  });
+  const names = cfg.cities.slice(0, 6);
+
+  /* 双保险：先浏览器直连 Open-Meteo 取实时（网络通就是最新的），
+     失败/超时再回落服务端快照 data/weather.json，两条路都断才报离线。
+     注意 wind_speed_unit=ms —— 不写默认返回 km/h，数值会虚高 3.6 倍。 */
+  const tryLive = Promise.all(names.map(n => {
+    const c = SHIP_CITIES[n];
+    if(!c) return Promise.reject(new Error('unknown city'));
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${c[0]}&longitude=${c[1]}`
+      + `&current=wind_speed_10m,wind_gusts_10m,precipitation,relative_humidity_2m,temperature_2m`
+      + `&wind_speed_unit=ms&timezone=Asia%2FShanghai`;
+    return fetchJSON(url, 8000).then(j => {
+      const d = j.current || {};
+      return [n, { wind:d.wind_speed_10m||0, gust:d.wind_gusts_10m||0, rain:d.precipitation||0,
+                   hum:d.relative_humidity_2m||0, temp:d.temperature_2m }];
+    });
+  })).then(pairs => ({ cities:Object.fromEntries(pairs), mode:'live' }));
+
+  tryLive
+    .catch(() => fetch('data/weather.json?t=' + Date.now()).then(r => r.json())
+      .then(d => ({ cities:d.cities || {}, mode:'snap', at:d.updated })))
+    .then(res => {
+      shipWxReady = true;
+      const cities = res.cities;
+      const list = names.filter(n => cities[n] && !cities[n].error);
+      if(!list.length){
+        box.innerHTML = '<div class="empty">暂无气象数据，请稍后自动更新</div>';
+        live.className = 'tag-live snap'; live.textContent = '离线';
+        applyShipCondition(); return;
+      }
+      if(res.mode === 'live'){
+        live.className = 'tag-live'; live.textContent = '实时';
+      }else{
+        const t = res.at ? new Date(res.at) : null;
+        live.className = 'tag-live snap';
+        live.textContent = t ? ('快照 ' + pad(t.getHours()) + ':' + pad(t.getMinutes())) : '快照';
+      }
+      let maxGust = 0;
+      box.innerHTML = list.map(n => {
+        const w = cities[n];
+        const wsp = w.wind||0, gust = w.gust||0, rain = w.rain||0, hum = w.hum||0, t = w.temp;
+        maxGust = Math.max(maxGust, gust);
+        const warn = gust >= 10.8, fog = hum >= 90 && wsp < 3;   // 阵风≥10.8m/s 约 6 级
+        return `<div class="wx-cell"><div class="wx-name">${esc(n)}${warn?' <span style="color:var(--red);font-size:11px">大风</span>':''}${fog?' <span style="color:var(--orange);font-size:11px">雾</span>':''}</div>
+          <div class="wx-wind ${warn?'warn':''}">${wsp.toFixed(1)}<small style="font-size:12px"> m/s</small></div>
+          <div class="wx-meta">阵风 ${gust.toFixed(1)} · ${rain>0?('雨 '+rain+'mm'):'无降水'} · 湿${Math.round(hum)}% · ${Math.round(t)}°</div></div>`;
+      }).join('');
+      shipWxWarn = maxGust >= 10.8 ? `沿江阵风达 ${maxGust.toFixed(1)} m/s（≥6 级），注意封航/减速` : '';
+      applyShipCondition();
+    })
+    .catch(() => {
+      shipWxReady = true;
+      box.innerHTML = '<div class="err-tip">气象加载失败，稍后自动重试</div>';
+      live.className = 'tag-live snap'; live.textContent = '离线';
+      applyShipCondition();
+    });
 }
 
 function renderShip(){
