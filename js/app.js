@@ -408,7 +408,8 @@ function renderHot(){
         `<div class="err-tip">小红书没有公开的免费热榜接口，这里由每日抓取的趋势快照 + 数据源交叉验证生成，附带可执行洞察而非单纯榜单。</div>`;
     }else{
       const list = s.bilibili || [];
-      box.innerHTML = `<div class="sec-title"><span>B站全站排行榜 · ${s.date}</span><span class="tag-live snap">每日快照</span></div>
+      box.innerHTML = `<div class="sec-title"><span>B站全站排行榜</span><span class="tag-live snap">最近快照</span></div>
+        <div class="err-tip" style="margin:8px 0 4px">⚠️ B站官方接口需账号登录态才能实时读取，当前为最近一次成功抓取快照（非每日刷新）。如需每日自动更新，请提供 B站 Cookie。</div>
         <div class="rank-list">` + list.map((x,i) => `
         <a class="rank-item" href="${esc(x.link)}" target="_blank" rel="noopener">
           <span class="rk-no ${i<3?'top':''}">${i+1}</span>
