@@ -248,10 +248,11 @@ function openPrioMenu(btn, id){
     `<button data-v="${v}"><span class="dot p${v}"></span>${l}</button>`).join('');
   const r = btn.getBoundingClientRect();
   const vw = document.documentElement.clientWidth;
-  let left = window.scrollX + r.left;
-  if(left + 132 > window.scrollX + vw) left = window.scrollX + vw - 132;
-  pop.style.left = Math.max(window.scrollX + 8, left) + 'px';
-  pop.style.top  = (window.scrollY + r.bottom + 6) + 'px';
+  let left = r.left;
+  if(left + 132 > vw) left = vw - 132;
+  pop.style.left = Math.max(8, left) + 'px';
+  pop.style.top  = (r.bottom + 6) + 'px';
+  pop.dataset.for = id;
   pop.hidden = false;
   pop.querySelectorAll('button').forEach(b => {
     b.onclick = () => {
@@ -1028,7 +1029,11 @@ function init(){
     const li = e.target.closest('li'); if(!li) return;
     const day = dkey(); const list = ensureToday();
     const idx = list.findIndex(t => t.id === li.dataset.id); if(idx < 0) return;
-    if(btn.dataset.act === 'prio'){ e.stopPropagation(); openPrioMenu(btn, li.dataset.id); return; }
+    if(btn.dataset.act === 'prio'){ e.stopPropagation();
+      const pop = document.getElementById('prioPop');
+      if(!pop.hidden && pop.dataset.for === li.dataset.id) pop.hidden = true;   // 再次点击同一项则收起
+      else openPrioMenu(btn, li.dataset.id);
+      return; }
     if(btn.dataset.act === 'toggle'){
       list[idx].done = !list[idx].done;
       if(list[idx].done && list.every(t=>t.done)) setTimeout(()=>toast('今天的任务全部完成 🎉'), 260);
@@ -1078,10 +1083,13 @@ function init(){
   document.getElementById('modalClose').onclick = closeModal;
   document.getElementById('modalMask').onclick = closeModal;
   document.addEventListener('keydown', e => { if(e.key==='Escape') closeModal(); });
-  /* 点击空白处关闭优先级下拉 */
+  /* 点击空白处关闭优先级下拉（点三角按钮本身由 taskList 处理，不在此关闭） */
   document.addEventListener('click', e => {
     const pop = document.getElementById('prioPop');
-    if(!pop.hidden && !pop.contains(e.target)) pop.hidden = true;
+    if(pop.hidden) return;
+    if(pop.contains(e.target)) return;
+    if(e.target.closest('[data-act="prio"]')) return;   // 防止同次点击把刚打开的菜单又关掉（双保险）
+    pop.hidden = true;
   });
 
   /* 深链 */
