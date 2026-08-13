@@ -35,6 +35,7 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_PROVIDER: ${{ secrets.LLM_PROVIDER }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
         run: node gen_daily_api.js || echo "⚠️ 内容生成跳过（未配置 LLM_API_KEY）"
       - name: 提交并推送到 GitHub Pages
         run: |
