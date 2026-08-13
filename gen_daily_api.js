@@ -55,19 +55,29 @@ function buildBody() {
     let text = j.choices?.[0]?.message?.content || '';
     text = text.replace(/^```(?:json)?/i, '').replace(/```$/, '').trim();
     const data = JSON.parse(text);
-    const now = new Date();
+    // 用北京时间日期（07:30 北京档对应 UTC 前一天，不能用 UTC 日期）
+    const bj = new Date(Date.now() + 8 * 3600e3);
+    const today = bj.toISOString().slice(0, 10);
     const out = {
-      generated_at: now.toLocaleString('zh-CN', { hour12: false }),
-      date: now.toISOString().slice(0, 10),
-      weekday: ['周日','周一','周二','周三','周四','周五','周六'][now.getDay()],
-      note: '每日快照由云端 LLM（真实公开来源整理）；B站排行榜需登录态，沿用最近一次成功快照。',
+      generated_at: bj.toISOString().replace('T', ' ').slice(0, 19) + ' +08:00',
+      date: today,
+      weekday: ['周日','周一','周二','周三','周四','周五','周六'][bj.getUTCDay()],
+      note: '每日快照由云端 LLM（真实公开来源整理）+ 公开接口每日抓取。',
       xiaohongshu: data.xiaohongshu || [],
       policy: data.policy || [],
       agents: data.agents || [],
-      news_world: data.news_world || [],
+      news_world: (data.news_world && data.news_world.length) ? data.news_world : (old.news_world || []),
       news_cn_extra: data.news_cn_extra || [],
       inspiration: data.inspiration || old.inspiration || {},
-      bilibili: old.bilibili || []
+      // 保留 fetch_hot.js 抓取的实时分区（热榜/微博兜底）
+      bilibili: old.bilibili || [],
+      weibo: old.weibo || [],
+      xhs_hot: old.xhs_hot || [],
+      // LLM 精编分区的日期刷新为今天
+      policy_date: today,
+      agents_date: today,
+      xiaohongshu_date: today,
+      news_cn_extra_date: today
     };
     fs.mkdirSync(path.join(base, 'data'), { recursive: true });
     fs.writeFileSync(path.join(base, 'data', 'daily.json'), JSON.stringify(out, null, 2), 'utf8');
