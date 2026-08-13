@@ -393,14 +393,15 @@ function snapshot(){
   if(SNAP) return Promise.resolve(SNAP);
   return fetchJSON('data/daily.json', 15000).then(d => { SNAP = d; return d; });
 }
-/** 快照新鲜度标签：是今天就显示「今日快照」，不是今天就明确标出日期并提示待更新 */
-function snapTag(){
-  const d = (SNAP && SNAP.date) || '';
-  if(!d) return '<span class="tag-live snap">快照</span>';
+/** 快照新鲜度标签：是今天就显示「今日快照」，不是今天就明确标出日期并提示待更新。
+ *  可传入指定分区的日期（policy_date/agents_date 等），缺省用快照总日期。 */
+function snapTag(dateStr){
+  const d = dateStr || (SNAP && SNAP.date) || '';
+  if(!d) return '<span class="tag-live stale" title="该分区暂无数据">待更新</span>';
   if(d === dkey()) return '<span class="tag-live snap">今日快照</span>';
   const p = d.split('-');
   const md = p.length === 3 ? (+p[1]) + '月' + (+p[2]) + '日' : d;
-  return `<span class="tag-live stale" title="快照生成于 ${d}，尚未更新到今天">${md}快照 · 待更新</span>`;
+  return `<span class="tag-live stale" title="该分区内容生成于 ${d}，尚未更新到今天">${md}快照 · 待更新</span>`;
 }
 
 /* =========================================================
@@ -442,9 +443,8 @@ function renderHot(){
 
   if(hotTab === 'douyin' || hotTab === 'weibo'){
     const isDy = hotTab === 'douyin';
-    live(isDy ? 'douyin' : 'weibo').then(d => {
-      if(!Array.isArray(d) || !d.length) throw new Error('empty');
-      box.innerHTML = `<div class="sec-title"><span>${isDy?'抖音':'微博'}实时热榜 · 共 ${d.length} 条</span><span class="tag-live">实时</span></div>
+    const drawRank = (d, tag) => {
+      box.innerHTML = `<div class="sec-title"><span>${isDy?'抖音':'微博'}热榜 · 共 ${d.length} 条</span>${tag}</div>
         <div class="rank-list">` + d.slice(0,40).map((x,i) => `
         <a class="rank-item" href="${esc(x.link||'#')}" target="_blank" rel="noopener">
           <span class="rk-no ${i<3?'top':''}">${i+1}</span>
@@ -454,16 +454,44 @@ function renderHot(){
           </div>
           ${x.cover?`<img class="rk-cover" src="${esc(x.cover)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:''}
         </a>`).join('') + '</div>';
+    };
+    live(isDy ? 'douyin' : 'weibo').then(d => {
+      if(!Array.isArray(d) || !d.length) throw new Error('empty');
+      drawRank(d, '<span class="tag-live">实时</span>');
     }).catch(() => {
-      box.innerHTML = `<div class="err-tip">实时热榜接口暂时不可用（可能是网络或上游波动）。请稍后点右上角刷新重试。</div>`;
+      if(isDy){ box.innerHTML = `<div class="err-tip">实时热榜接口暂时不可用（可能是网络或上游波动）。请稍后点右上角刷新重试。</div>`; return; }
+      // 微博直连失败 → 回落到云端每日抓取的快照
+      snapshot().then(s => {
+        const list = s.weibo || [];
+        if(!list.length){ box.innerHTML = `<div class="err-tip">微博实时接口暂时不可用，云端快照也为空。请稍后刷新重试。</div>`; return; }
+        drawRank(list, snapTag());
+      }).catch(() => {
+        box.innerHTML = `<div class="err-tip">实时热榜接口暂时不可用（可能是网络或上游波动）。请稍后点右上角刷新重试。</div>`;
+      });
     });
     return;
   }
 
   snapshot().then(s => {
     if(hotTab === 'xhs'){
+      // 优先：云端每日抓取的小红书热榜（rednote 公开数据）
+      const hot = s.xhs_hot || [];
+      if(hot.length){
+        box.innerHTML = `<div class="sec-title"><span>小红书热点榜 · ${s.date}</span>${snapTag()}</div>
+          <div class="rank-list">` + hot.map((x,i) => `
+          <a class="rank-item" href="${esc(x.link||'#')}" target="_blank" rel="noopener">
+            <span class="rk-no ${i<3?'top':''}">${x.rank||i+1}</span>
+            <div class="rk-body">
+              <div class="rk-title">${esc(x.title)}</div>
+              <div class="rk-meta"><span class="rk-hot">🔥 ${esc(x.score||'')}</span>${x.word_type?`<span class="badge r">${esc(x.word_type)}</span>`:''}</div>
+            </div>
+          </a>`).join('') + '</div>' +
+          `<div class="err-tip">每日由云端抓自小红书公开热榜数据，点击可跳转查看。</div>`;
+        return;
+      }
+      // 兜底：LLM 精编的爆款卡片（旧快照）
       const list = s.xiaohongshu || [];
-      box.innerHTML = `<div class="sec-title"><span>小红书爆款内容 & 商品 · ${s.date}</span>${snapTag()}</div>
+      box.innerHTML = `<div class="sec-title"><span>小红书爆款内容 & 商品 · ${s.date}</span>${snapTag(s.xiaohongshu_date)}</div>
         <div class="grid-2">` +
         list.map(x => `
         <div class="xhs-card">
@@ -479,8 +507,8 @@ function renderHot(){
         `<div class="err-tip">小红书没有公开的免费热榜接口，这里由每日抓取的趋势快照 + 数据源交叉验证生成，附带可执行洞察而非单纯榜单。</div>`;
     }else{
       const list = s.bilibili || [];
-      box.innerHTML = `<div class="sec-title"><span>B站全站排行榜</span><span class="tag-live snap">最近快照</span></div>
-        <div class="err-tip" style="margin:8px 0 4px">⚠️ B站官方接口需账号登录态才能实时读取，当前为最近一次成功抓取快照（非每日刷新）。如需每日自动更新，请提供 B站 Cookie。</div>
+      box.innerHTML = `<div class="sec-title"><span>B站全站热门 · ${s.date}</span>${snapTag()}</div>
+        <div class="err-tip" style="margin:8px 0 4px">每日由云端抓自 B 站官方热门接口（免登录），浏览器直连有风控所以走快照。</div>
         <div class="rank-list">` + list.map((x,i) => `
         <a class="rank-item" href="${esc(x.link)}" target="_blank" rel="noopener">
           <span class="rk-no ${i<3?'top':''}">${i+1}</span>
@@ -532,7 +560,7 @@ function renderNews(){
           </a>`).join('') + '</div>';
       }
       if(s.status === 'fulfilled' && s.value.news_cn_extra){
-        html += `<div class="sec-title"><span>国内要闻精编</span>${snapTag()}</div>
+        html += `<div class="sec-title"><span>国内要闻精编</span>${snapTag(s.value.news_cn_extra_date)}</div>
           <div class="grid-2">` +
           s.value.news_cn_extra.map(x => `
           <div class="news-card ${shipHit(x)?'ship':''}">
@@ -576,7 +604,7 @@ function renderNews(){
             <div class="xhs-src" style="margin-top:12px">来源：${esc(x.source)}</div>
           </div></div>
         </div>`;
-      let html = `<div class="sec-title"><span>政策与法律更新 · 含行业影响解读</span>${snapTag()}</div>`;
+      let html = `<div class="sec-title"><span>政策与法律更新 · 含行业影响解读</span>${snapTag(s.policy_date)}</div>`;
       if(ship.length){
         html += `<div class="sec-title ship-h"><span>🚢 航运物流重点关注（${ship.length}）</span><span class="badge ship">已自动提炼</span></div>
           <div class="grid-2 ship-grid">` + ship.map(card).join('') + '</div>';
@@ -591,7 +619,7 @@ function renderNews(){
       });
     }
     else{
-      box.innerHTML = `<div class="sec-title"><span>新发布的 AI Agent / 智能体</span>${snapTag()}</div>
+      box.innerHTML = `<div class="sec-title"><span>新发布的 AI Agent / 智能体</span>${snapTag(s.agents_date)}</div>
         <div class="grid-2">` +
         (s.agents||[]).map(x => `
         <div class="ag-card">
@@ -774,8 +802,8 @@ function openSettings(){
       <button class="btn btn-primary" id="btnSetSave">保存</button>
     </div>
     <div style="margin-top:18px;padding-top:14px;border-top:1px solid var(--line2);font-size:11.5px;color:var(--tx3);line-height:1.65">
-      数据说明：抖音 / 微博 / 头条 / 60 秒新闻为浏览器实时直连接口，每次打开都是最新；
-      B站 / 小红书 / 政策法律 / AI Agent 因接口有风控或无公开免费接口，由服务端每日抓取快照。
+      数据说明：抖音 / 头条 / 60 秒新闻为浏览器实时直连，每次打开都是最新；微博直连失败时自动回落云端快照；
+      B站 / 小红书热榜 / 国际要闻 / 金句由云端公开接口每日抓取；政策法律 / AI Agent / 小红书精选为 LLM 精编分区，分区标签会标注各自更新日期。
       <br><br>快照生成时间：<b id="snapTime">—</b>
     </div>`);
 
