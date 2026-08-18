@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 08:01:10 +08:00",
+  "generated_at": "2026-08-18 13:51:58 +08:00",
   "date": "2026-08-18",
   "weekday": "周二",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "不要太小看人类了！",
-      "from": "《加油大魔王》"
+      "text": "身为冒险者，如果安静的老死在床上，那简直就是耻辱！",
+      "from": "跳舞 · 《恶魔法则》"
     },
     "angles": [
       {
@@ -435,136 +435,145 @@
   },
   "bilibili": [
     {
-      "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
-      "author": "istupidpig",
-      "view": 1278498,
-      "like": 68813,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1wrba6iE56",
-      "cover": "http://i1.hdslb.com/bfs/archive/336919079a3a2d7bb31f9937d0bfa6c9c77d96cd.jpg"
+      "title": "地球毁灭后，人类只剩四条路｜你会把文明带向哪里？",
+      "author": "丁达尔的梦-",
+      "view": 1574162,
+      "like": 77572,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1DTbv6xEHK",
+      "cover": "http://i1.hdslb.com/bfs/archive/68e421d35236db6313e7b50b0611fd9d959e3b51.jpg"
     },
     {
-      "title": "危！秘境最终奖励竟然亮起了血条？！【小明修仙传EP9】【AI全民制作人】",
-      "author": "路人甲导演",
-      "view": 880000,
-      "like": 29703,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1uAbh6CEwg",
-      "cover": "http://i1.hdslb.com/bfs/archive/1641578fa13db531d54572f23e1515c01ef2e53d.jpg"
+      "title": "《鸣潮》共鸣者「清宵」PV | 修行",
+      "author": "鸣潮",
+      "view": 661192,
+      "like": 48059,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1GFbk6LEVm",
+      "cover": "http://i0.hdslb.com/bfs/archive/336279f99106e119149a1e24a2c9933e674a2b1c.jpg"
+    },
+    {
+      "title": "我这一生最大的罪，是把人写成了妖……",
+      "author": "青瓜蛋丶",
+      "view": 515770,
+      "like": 46686,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+      "cover": "http://i0.hdslb.com/bfs/archive/6533ca786585f35bbf352cee7cf74c8df25fcb01.jpg"
     },
     {
       "title": "忍术回战   26分钟沉浸式观看",
       "author": "牙牙的包裹",
-      "view": 475081,
-      "like": 53050,
+      "view": 1269396,
+      "like": 116625,
       "cat": "同人·手书",
       "link": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
       "cover": "http://i0.hdslb.com/bfs/archive/3599363aa0e993e3370e4066993edf305be07d24.jpg"
     },
     {
-      "title": "【独家】《记忆管理局》第5集 主角光环【8月国创】",
-      "author": "哔哩哔哩国创",
-      "view": 903496,
-      "like": 14177,
-      "cat": "国产动画",
-      "link": "https://www.bilibili.com/video/BV1N2gp6iEn8",
-      "cover": "http://i0.hdslb.com/bfs/archive/4e9ed192d2a9e8f4278a60caea866c55c7641036.png"
+      "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
+      "author": "istupidpig",
+      "view": 3159732,
+      "like": 139230,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1wrba6iE56",
+      "cover": "http://i1.hdslb.com/bfs/archive/336919079a3a2d7bb31f9937d0bfa6c9c77d96cd.jpg"
     },
     {
-      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
-      "author": "超级神奇的木偶",
-      "view": 5438294,
-      "like": 272600,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV18Tby67EG9",
-      "cover": "http://i0.hdslb.com/bfs/archive/bee4feba305f4386af069218dbd00cca10cc74f3.jpg"
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "author": "PlayStation",
+      "view": 500257,
+      "like": 26533,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "cover": "http://i2.hdslb.com/bfs/archive/04efbab08a961b3bb3d9c36ef4d7ca11bb7bfcfe.jpg"
     },
     {
       "title": "我们不欢迎这样的客人，也不赚这种米",
       "author": "谢谢侬陈森",
-      "view": 560956,
-      "like": 56332,
+      "view": 1379665,
+      "like": 157865,
       "cat": "美食侦探",
       "link": "https://www.bilibili.com/video/BV1Neba63EDK",
       "cover": "http://i0.hdslb.com/bfs/archive/8b62929a51eca7e2b17693c6515a16f65724ceb3.jpg"
     },
     {
-      "title": "极品金灵根各峰主都想收我为徒#meme剧场",
-      "author": "狸果宝",
-      "view": 5704370,
-      "like": 124417,
-      "cat": "舞蹈综合",
-      "link": "https://www.bilibili.com/video/BV1x6gu6AEyb",
-      "cover": "http://i2.hdslb.com/bfs/archive/c3042f55ca172a46441a0d8b7c00ec9dfb22211d.jpg"
+      "title": "音画不同步！为什么视频口型总是怪怪的？",
+      "author": "影视飓风",
+      "view": 372698,
+      "like": 35021,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1A2bi6UEev",
+      "cover": "http://i0.hdslb.com/bfs/archive/926bb765207a99c6b7022cafe84ef18be65a53d4.jpg"
     },
     {
-      "title": "周处除三害现实版，我们干掉他了！",
-      "author": "温柔JUNZ",
-      "view": 1472842,
-      "like": 255166,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV1VfbR6pEw9",
-      "cover": "http://i0.hdslb.com/bfs/archive/8ec963e2a06f63e149e11b3f966439e0a6428520.jpg"
-    },
-    {
-      "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
-      "author": "咩咩是个迷",
-      "view": 1022271,
-      "like": 93461,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1gMgM6KEUM",
-      "cover": "http://i1.hdslb.com/bfs/archive/06bc5d8c63a9cdc49b34a04f0180fadb17575465.jpg"
-    },
-    {
-      "title": "这个旅游包活吗？？？【听天由命1】",
-      "author": "拉宏桑",
-      "view": 1265755,
-      "like": 58297,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1SBbS6hEHa",
-      "cover": "http://i1.hdslb.com/bfs/archive/7f5b361c6e66cff2dbba95799d1d5db9d5e8e01a.jpg"
+      "title": "童年最大愿望实现啦！100元在各家能买多少汉堡？！",
+      "author": "NBzhuoc大",
+      "view": 485413,
+      "like": 32343,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1DKbY6EEF3",
+      "cover": "http://i0.hdslb.com/bfs/archive/9c05429ee149d7e53840dcbd5f4097d9690c492c.jpg"
     },
     {
       "title": "当搞艺术的一切需求得到满足",
       "author": "想想工作室",
-      "view": 454778,
-      "like": 22990,
+      "view": 1242906,
+      "like": 50651,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1DybY6pEiA",
       "cover": "http://i2.hdslb.com/bfs/archive/5edfbe0997a4da670af3a6d72f01e7cde7300200.jpg"
     },
     {
-      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
-      "author": "即兴演奏家",
-      "view": 4483166,
-      "like": 372730,
+      "title": "三角洲s11老太扮演全局实况",
+      "author": "周二过后是周一",
+      "view": 762549,
+      "like": 28720,
       "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1Z9gT61EnM",
-      "cover": "http://i2.hdslb.com/bfs/archive/20ecb26c085b126975eec231bde50428c19183ec.jpg"
+      "link": "https://www.bilibili.com/video/BV1Kibi6xEUq",
+      "cover": "http://i1.hdslb.com/bfs/archive/616d5bf8722fbd900314ac2fdaf3cd9ab868f546.jpg"
     },
     {
-      "title": "三角洲s11前瞻爆料",
-      "author": "杨齐家_",
-      "view": 2605145,
-      "like": 145314,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV11Xb96qE97",
-      "cover": "http://i2.hdslb.com/bfs/archive/850bb3d9fbb4174f6316771d4973c276fb4b154e.jpg"
+      "title": "极品金灵根各峰主都想收我为徒#meme剧场",
+      "author": "狸果宝",
+      "view": 6383947,
+      "like": 147070,
+      "cat": "舞蹈综合",
+      "link": "https://www.bilibili.com/video/BV1x6gu6AEyb",
+      "cover": "http://i2.hdslb.com/bfs/archive/c3042f55ca172a46441a0d8b7c00ec9dfb22211d.jpg"
     },
     {
-      "title": "什么⁉Bye bye baby blue翻译竟然是错的✖！",
-      "author": "毛毛qi",
-      "view": 1971521,
-      "like": 280793,
-      "cat": "娱乐粉丝创作",
-      "link": "https://www.bilibili.com/video/BV1tMby62EC4",
-      "cover": "http://i1.hdslb.com/bfs/archive/6e444c1468cad37a86715ea905017448efc53b05.jpg"
+      "title": "危！秘境最终奖励竟然亮起了血条？！【小明修仙传EP9】【AI全民制作人】",
+      "author": "路人甲导演",
+      "view": 1529353,
+      "like": 42872,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1uAbh6CEwg",
+      "cover": "http://i1.hdslb.com/bfs/archive/1641578fa13db531d54572f23e1515c01ef2e53d.jpg"
+    },
+    {
+      "title": "《关于室友邀请我参加他婚礼这件事》",
+      "author": "张天翊yi",
+      "view": 1844035,
+      "like": 91693,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1QWb16sEjm",
+      "cover": "http://i1.hdslb.com/bfs/archive/1212696f21d000a115f60b2667de6146f2d219c4.jpg"
+    },
+    {
+      "title": "原来骆驼是这么尿的啊",
+      "author": "妮娜Nina_1212",
+      "view": 2184251,
+      "like": 112818,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1Aqba6uEw6",
+      "cover": "http://i0.hdslb.com/bfs/archive/ae72edca3c207b1b66979c83c3fa5f5d580a294c.jpg"
     },
     {
       "title": "龙 餐 馆 连 线 勇 哥",
       "author": "新世纪咖啡战士v",
-      "view": 2677763,
-      "like": 94020,
+      "view": 3014741,
+      "like": 104304,
       "cat": "鬼畜剧场",
       "link": "https://www.bilibili.com/video/BV1o8b96pEQA",
       "cover": "http://i0.hdslb.com/bfs/archive/0689730ddffebbaa96dfe92013395d206d921bfc.jpg"
@@ -572,249 +581,240 @@
     {
       "title": "特效小哥大战逗比的雀巢！",
       "author": "特效小哥studio",
-      "view": 1117608,
-      "like": 69556,
+      "view": 1474183,
+      "like": 104195,
       "cat": "娱乐粉丝创作",
       "link": "https://www.bilibili.com/video/BV1mkbQ6iEWJ",
       "cover": "http://i1.hdslb.com/bfs/archive/bcbf101cf6afcb4a06de732c8bfaf89b0f57fb2a.jpg"
     },
     {
-      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "author": "你的影月月",
-      "view": 11668704,
-      "like": 137545,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "cover": "http://i2.hdslb.com/bfs/archive/27180b14e7059784f50b68b5023e0634104976f8.jpg"
-    },
-    {
-      "title": "《鸣潮》共鸣者战斗演示 | 清宵",
-      "author": "鸣潮",
-      "view": 2005410,
-      "like": 96510,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1q2b86sEZz",
-      "cover": "http://i1.hdslb.com/bfs/archive/be07b49779b2330b42074abf906b9e092835e6e6.jpg"
-    },
-    {
-      "title": "严浩翔生日会全程回顾：严浩翔YAN常热爱【2026时代少年团系列直播】",
-      "author": "时代少年团",
-      "view": 1537807,
-      "like": 13756,
-      "cat": "综艺",
-      "link": "https://www.bilibili.com/video/BV1e3gA6ZE7u",
-      "cover": "http://i1.hdslb.com/bfs/archive/ee31fcc7303fd55a8c00497287d2e24b72a60815.png"
-    },
-    {
-      "title": "飞机安检模拟器",
-      "author": "鲤鱼Ace",
-      "view": 6384436,
-      "like": 392821,
+      "title": "绝境降临！狭小缆车空间怎样熬过危机四伏的一百天！！「缆车惊变100天」",
+      "author": "夏天y",
+      "view": 254277,
+      "like": 46010,
       "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1fTb16KEDk",
-      "cover": "http://i1.hdslb.com/bfs/archive/820b598a960056cc2c5135b6ac0fb03935aa0406.jpg"
+      "link": "https://www.bilibili.com/video/BV1gibB6PEih",
+      "cover": "http://i2.hdslb.com/bfs/archive/e3e3cb87e2362f523f34b064d5f9a0e7d1a6dfec.jpg"
+    },
+    {
+      "title": "周处除三害现实版，我们干掉他了！",
+      "author": "温柔JUNZ",
+      "view": 1857402,
+      "like": 306765,
+      "cat": "社科·法律·心理",
+      "link": "https://www.bilibili.com/video/BV1VfbR6pEw9",
+      "cover": "http://i0.hdslb.com/bfs/archive/8ec963e2a06f63e149e11b3f966439e0a6428520.jpg"
+    },
+    {
+      "title": "微酸的青苹果",
+      "author": "刺妮酱",
+      "view": 766582,
+      "like": 84300,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1Dxbe6sEgk",
+      "cover": "http://i0.hdslb.com/bfs/archive/277af41cce1ce308eb97d4533d87df1c7d857995.jpg"
     }
   ],
   "weibo": [
     {
-      "title": "多方回应女子杭州酒局遭伤害",
-      "hot_value": 1232093,
-      "link": "https://s.weibo.com/weibo?q=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E9%81%AD%E4%BC%A4%E5%AE%B3"
+      "title": "天安门下半旗悼念朱镕基同志",
+      "hot_value": 1018731,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97"
     },
     {
-      "title": "大批AI博主停更了",
-      "hot_value": 840243,
-      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86"
+      "title": "游泳 腺病毒",
+      "hot_value": 988778,
+      "link": "https://s.weibo.com/weibo?q=%E6%B8%B8%E6%B3%B3%20%E8%85%BA%E7%97%85%E6%AF%92"
     },
     {
       "title": "前7个月国民经济总体平稳向新向优",
-      "hot_value": 690560,
+      "hot_value": 969046,
       "link": "https://s.weibo.com/weibo?q=%E5%89%8D7%E4%B8%AA%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98"
     },
     {
-      "title": "榴莲价格彻底崩了",
-      "hot_value": 456023,
-      "link": "https://s.weibo.com/weibo?q=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86"
+      "title": "睡前9分钟清除皮质醇的废物",
+      "hot_value": 913596,
+      "link": "https://s.weibo.com/weibo?q=%E7%9D%A1%E5%89%8D9%E5%88%86%E9%92%9F%E6%B8%85%E9%99%A4%E7%9A%AE%E8%B4%A8%E9%86%87%E7%9A%84%E5%BA%9F%E7%89%A9"
     },
     {
-      "title": "3孩非亲生案女方当庭承认出轨",
-      "hot_value": 376373,
-      "link": "https://s.weibo.com/weibo?q=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E5%BD%93%E5%BA%AD%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8"
+      "title": "BBA集体大降价",
+      "hot_value": 882865,
+      "link": "https://s.weibo.com/weibo?q=BBA%E9%9B%86%E4%BD%93%E5%A4%A7%E9%99%8D%E4%BB%B7"
     },
     {
-      "title": "井迪音乐节",
-      "hot_value": 271242,
-      "link": "https://s.weibo.com/weibo?q=%E4%BA%95%E8%BF%AA%E9%9F%B3%E4%B9%90%E8%8A%82"
+      "title": "中1签赚55万",
+      "hot_value": 851788,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD1%E7%AD%BE%E8%B5%9A55%E4%B8%87"
     },
     {
-      "title": "小狗乖乖坐挖掘机电梯出坑",
-      "hot_value": 265511,
-      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E4%B9%96%E4%B9%96%E5%9D%90%E6%8C%96%E6%8E%98%E6%9C%BA%E7%94%B5%E6%A2%AF%E5%87%BA%E5%9D%91"
+      "title": "12345 滥用",
+      "hot_value": 699669,
+      "link": "https://s.weibo.com/weibo?q=12345%20%E6%BB%A5%E7%94%A8"
     },
     {
-      "title": "高铁咸猪手男子被拘留",
-      "hot_value": 177492,
-      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E5%92%B8%E7%8C%AA%E6%89%8B%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8B%98%E7%95%99"
+      "title": "巴基斯坦博主看欢迎来龙餐馆不适",
+      "hot_value": 637620,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8D%9A%E4%B8%BB%E7%9C%8B%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E4%B8%8D%E9%80%82"
     },
     {
-      "title": "美航母多人精神崩溃想跳海",
-      "hot_value": 143062,
-      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%88%AA%E6%AF%8D%E5%A4%9A%E4%BA%BA%E7%B2%BE%E7%A5%9E%E5%B4%A9%E6%BA%83%E6%83%B3%E8%B7%B3%E6%B5%B7"
+      "title": "高考只差一分却过上了两种人生",
+      "hot_value": 371037,
+      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8F%AA%E5%B7%AE%E4%B8%80%E5%88%86%E5%8D%B4%E8%BF%87%E4%B8%8A%E4%BA%86%E4%B8%A4%E7%A7%8D%E4%BA%BA%E7%94%9F"
     },
     {
-      "title": "龙餐馆 删减",
-      "hot_value": 137339,
-      "link": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E5%88%A0%E5%87%8F"
+      "title": "觉醒开机",
+      "hot_value": 371031,
+      "link": "https://s.weibo.com/weibo?q=%E8%A7%89%E9%86%92%E5%BC%80%E6%9C%BA"
     },
     {
-      "title": "只有中国人才能识别的加密暗号",
-      "hot_value": 136774,
-      "link": "https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8D%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9A%97%E5%8F%B7"
+      "title": "赵海峰关联超20家招商蛇口公司",
+      "hot_value": 370524,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%B5%B7%E5%B3%B0%E5%85%B3%E8%81%94%E8%B6%8520%E5%AE%B6%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E5%85%AC%E5%8F%B8"
     },
     {
-      "title": "彭宇案 彭宇确实碰了老人",
-      "hot_value": 136685,
-      "link": "https://s.weibo.com/weibo?q=%E5%BD%AD%E5%AE%87%E6%A1%88%20%E5%BD%AD%E5%AE%87%E7%A1%AE%E5%AE%9E%E7%A2%B0%E4%BA%86%E8%80%81%E4%BA%BA"
+      "title": "易立竞当面拆穿蓝盈莹",
+      "hot_value": 370277,
+      "link": "https://s.weibo.com/weibo?q=%E6%98%93%E7%AB%8B%E7%AB%9E%E5%BD%93%E9%9D%A2%E6%8B%86%E7%A9%BF%E8%93%9D%E7%9B%88%E8%8E%B9"
     },
     {
-      "title": "胖东来被房东逼走房东纳税了吗",
-      "hot_value": 134940,
-      "link": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%A2%AB%E6%88%BF%E4%B8%9C%E9%80%BC%E8%B5%B0%E6%88%BF%E4%B8%9C%E7%BA%B3%E7%A8%8E%E4%BA%86%E5%90%97"
+      "title": "李嫣几乎看不见唇腭裂修复痕迹",
+      "hot_value": 369900,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AB%A3%E5%87%A0%E4%B9%8E%E7%9C%8B%E4%B8%8D%E8%A7%81%E5%94%87%E8%85%AD%E8%A3%82%E4%BF%AE%E5%A4%8D%E7%97%95%E8%BF%B9"
     },
     {
-      "title": "17岁女孩搭车路过邵阳司机下车失联被锁2小时",
-      "hot_value": 134918,
-      "link": "https://s.weibo.com/weibo?q=17%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%90%AD%E8%BD%A6%E8%B7%AF%E8%BF%87%E9%82%B5%E9%98%B3%E5%8F%B8%E6%9C%BA%E4%B8%8B%E8%BD%A6%E5%A4%B1%E8%81%94%E8%A2%AB%E9%94%812%E5%B0%8F%E6%97%B6"
+      "title": "3孩非亲生女方认为男方理应养孩子",
+      "hot_value": 369592,
+      "link": "https://s.weibo.com/weibo?q=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%96%B9%E7%90%86%E5%BA%94%E5%85%BB%E5%AD%A9%E5%AD%90"
     },
     {
-      "title": "曝时代少年团工作人员公费旅游",
-      "hot_value": 134835,
-      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%85%AC%E8%B4%B9%E6%97%85%E6%B8%B8"
+      "title": "刘亦菲素颜穿79.8元防晒衣",
+      "hot_value": 369215,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%B4%A0%E9%A2%9C%E7%A9%BF79.8%E5%85%83%E9%98%B2%E6%99%92%E8%A1%A3"
     },
     {
-      "title": "曹骏初舞台人气票数倒挂",
-      "hot_value": 134772,
-      "link": "https://s.weibo.com/weibo?q=%E6%9B%B9%E9%AA%8F%E5%88%9D%E8%88%9E%E5%8F%B0%E4%BA%BA%E6%B0%94%E7%A5%A8%E6%95%B0%E5%80%92%E6%8C%82"
+      "title": "时代峰峻半夜发招聘",
+      "hot_value": 369056,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%8D%8A%E5%A4%9C%E5%8F%91%E6%8B%9B%E8%81%98"
     },
     {
-      "title": "桃黑黑",
-      "hot_value": 134696,
-      "link": "https://s.weibo.com/weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91"
+      "title": "在华18年日本人参拜靖国神社",
+      "hot_value": 368739,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%A8%E5%8D%8E18%E5%B9%B4%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE"
     },
     {
-      "title": "特朗普将宣布霍尔木兹为美国领土",
-      "hot_value": 134612,
-      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F"
+      "title": "贺涵PPT做得太丑了",
+      "hot_value": 368414,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%BA%E6%B6%B5PPT%E5%81%9A%E5%BE%97%E5%A4%AA%E4%B8%91%E4%BA%86"
     },
     {
-      "title": "女患者称被男医生猥亵揉胸",
-      "hot_value": 134587,
-      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%82%A3%E8%80%85%E7%A7%B0%E8%A2%AB%E7%94%B7%E5%8C%BB%E7%94%9F%E7%8C%A5%E4%BA%B5%E6%8F%89%E8%83%B8"
+      "title": "杭州酒局事件受害女子家人回应",
+      "hot_value": 345576,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6%E5%8F%97%E5%AE%B3%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94"
     },
     {
-      "title": "左奇函回应身体状况",
-      "hot_value": 134533,
-      "link": "https://s.weibo.com/weibo?q=%E5%B7%A6%E5%A5%87%E5%87%BD%E5%9B%9E%E5%BA%94%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5"
+      "title": "带摄像头AirPods实机演示曝光",
+      "hot_value": 344106,
+      "link": "https://s.weibo.com/weibo?q=%E5%B8%A6%E6%91%84%E5%83%8F%E5%A4%B4AirPods%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E6%9B%9D%E5%85%89"
     },
     {
-      "title": "蓝盈莹承认恋情",
-      "hot_value": 134519,
-      "link": "https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85"
+      "title": "张若昀白客玩蔡徐坤梗",
+      "hot_value": 342384,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E7%99%BD%E5%AE%A2%E7%8E%A9%E8%94%A1%E5%BE%90%E5%9D%A4%E6%A2%97"
     },
     {
-      "title": "女子想烫大波浪结果烫成钢丝球",
-      "hot_value": 133194,
-      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%83%B3%E7%83%AB%E5%A4%A7%E6%B3%A2%E6%B5%AA%E7%BB%93%E6%9E%9C%E7%83%AB%E6%88%90%E9%92%A2%E4%B8%9D%E7%90%83"
+      "title": "董明珠办技校当校长",
+      "hot_value": 341581,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%8A%9E%E6%8A%80%E6%A0%A1%E5%BD%93%E6%A0%A1%E9%95%BF"
     },
     {
-      "title": "张艺谋电影 肖战",
-      "hot_value": 132372,
-      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%94%B5%E5%BD%B1%20%E8%82%96%E6%88%98"
+      "title": "赵海峰酒局 拿地潜规则",
+      "hot_value": 339427,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%B5%B7%E5%B3%B0%E9%85%92%E5%B1%80%20%E6%8B%BF%E5%9C%B0%E6%BD%9C%E8%A7%84%E5%88%99"
     },
     {
-      "title": "郭敬明发百妖谱原始帧",
-      "hot_value": 131799,
-      "link": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%E5%8F%91%E7%99%BE%E5%A6%96%E8%B0%B1%E5%8E%9F%E5%A7%8B%E5%B8%A7"
+      "title": "招商蛇口总部开展调查",
+      "hot_value": 338110,
+      "link": "https://s.weibo.com/weibo?q=%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E6%80%BB%E9%83%A8%E5%BC%80%E5%B1%95%E8%B0%83%E6%9F%A5"
     },
     {
-      "title": "越不操心的人越是人生赢家",
-      "hot_value": 130456,
-      "link": "https://s.weibo.com/weibo?q=%E8%B6%8A%E4%B8%8D%E6%93%8D%E5%BF%83%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%98%AF%E4%BA%BA%E7%94%9F%E8%B5%A2%E5%AE%B6"
+      "title": "BBA大降价 宝马5系跌至28万",
+      "hot_value": 335619,
+      "link": "https://s.weibo.com/weibo?q=BBA%E5%A4%A7%E9%99%8D%E4%BB%B7%20%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%B7%8C%E8%87%B328%E4%B8%87"
     },
     {
-      "title": "曹骏 蓝盈莹",
-      "hot_value": 129562,
-      "link": "https://s.weibo.com/weibo?q=%E6%9B%B9%E9%AA%8F%20%E8%93%9D%E7%9B%88%E8%8E%B9"
+      "title": "肖战香港被偶遇",
+      "hot_value": 335497,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%A6%99%E6%B8%AF%E8%A2%AB%E5%81%B6%E9%81%87"
     },
     {
-      "title": "杭州涉事招商蛇口高管已被免职",
-      "hot_value": 129476,
-      "link": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E6%B6%89%E4%BA%8B%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E9%AB%98%E7%AE%A1%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C"
+      "title": "赵海峰 酒桌文化",
+      "hot_value": 329946,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%B5%B7%E5%B3%B0%20%E9%85%92%E6%A1%8C%E6%96%87%E5%8C%96"
     },
     {
-      "title": "东部战区重磅视频",
-      "hot_value": 128308,
-      "link": "https://s.weibo.com/weibo?q=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E9%87%8D%E7%A3%85%E8%A7%86%E9%A2%91"
+      "title": "林志颖说kimi不想出道",
+      "hot_value": 319630,
+      "link": "https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96%E8%AF%B4kimi%E4%B8%8D%E6%83%B3%E5%87%BA%E9%81%93"
     },
     {
-      "title": "Jennie不得不用头发遮挡",
-      "hot_value": 111007,
-      "link": "https://s.weibo.com/weibo?q=Jennie%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%94%A8%E5%A4%B4%E5%8F%91%E9%81%AE%E6%8C%A1"
+      "title": "王橹杰比董洁亲儿子还小一岁",
+      "hot_value": 306453,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%AF%94%E8%91%A3%E6%B4%81%E4%BA%B2%E5%84%BF%E5%AD%90%E8%BF%98%E5%B0%8F%E4%B8%80%E5%B2%81"
     },
     {
-      "title": "湘潭大学回应弟弟举报哥哥冒名顶替",
-      "hot_value": 105127,
-      "link": "https://s.weibo.com/weibo?q=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%BC%9F%E5%BC%9F%E4%B8%BE%E6%8A%A5%E5%93%A5%E5%93%A5%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF"
+      "title": "印度教授发中国街景称被印媒骗惨了",
+      "hot_value": 298139,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%95%99%E6%8E%88%E5%8F%91%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF%E7%A7%B0%E8%A2%AB%E5%8D%B0%E5%AA%92%E9%AA%97%E6%83%A8%E4%BA%86"
     },
     {
-      "title": "桃黑黑勘误",
-      "hot_value": 104890,
-      "link": "https://s.weibo.com/weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%E5%8B%98%E8%AF%AF"
+      "title": "学籍顶替案母亲称弟弟当公务员后飘了",
+      "hot_value": 295036,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%A6%E7%B1%8D%E9%A1%B6%E6%9B%BF%E6%A1%88%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%BC%9F%E5%BC%9F%E5%BD%93%E5%85%AC%E5%8A%A1%E5%91%98%E5%90%8E%E9%A3%98%E4%BA%86"
     },
     {
-      "title": "蓝盈盈和男友刚在一起没多久",
-      "hot_value": 104421,
-      "link": "https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E7%9B%88%E5%92%8C%E7%94%B7%E5%8F%8B%E5%88%9A%E5%9C%A8%E4%B8%80%E8%B5%B7%E6%B2%A1%E5%A4%9A%E4%B9%85"
+      "title": "三女非亲生案奶奶改口曾想留1个",
+      "hot_value": 288500,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%A5%B3%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B6%E5%A5%B6%E6%94%B9%E5%8F%A3%E6%9B%BE%E6%83%B3%E7%95%991%E4%B8%AA"
     },
     {
-      "title": "黄仁勋称失去中国市场美国AI必败",
-      "hot_value": 104012,
-      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E5%A4%B1%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%BE%8E%E5%9B%BDAI%E5%BF%85%E8%B4%A5"
+      "title": "被容嬷嬷凶相骗了近30年",
+      "hot_value": 288411,
+      "link": "https://s.weibo.com/weibo?q=%E8%A2%AB%E5%AE%B9%E5%AC%B7%E5%AC%B7%E5%87%B6%E7%9B%B8%E9%AA%97%E4%BA%86%E8%BF%9130%E5%B9%B4"
     },
     {
-      "title": "菜市场偶遇90岁李明启老师",
-      "hot_value": 102537,
-      "link": "https://s.weibo.com/weibo?q=%E8%8F%9C%E5%B8%82%E5%9C%BA%E5%81%B6%E9%81%8790%E5%B2%81%E6%9D%8E%E6%98%8E%E5%90%AF%E8%80%81%E5%B8%88"
+      "title": "李嫣6岁举办了人生第一场画展",
+      "hot_value": 284058,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AB%A36%E5%B2%81%E4%B8%BE%E5%8A%9E%E4%BA%86%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%9C%BA%E7%94%BB%E5%B1%95"
     },
     {
-      "title": "成功要对自己狠到什么程度",
-      "hot_value": 94339,
-      "link": "https://s.weibo.com/weibo?q=%E6%88%90%E5%8A%9F%E8%A6%81%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%8B%A0%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6"
+      "title": "3孩非亲生奶奶想尽快送走3个孙女",
+      "hot_value": 264725,
+      "link": "https://s.weibo.com/weibo?q=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B6%E5%A5%B6%E6%83%B3%E5%B0%BD%E5%BF%AB%E9%80%81%E8%B5%B03%E4%B8%AA%E5%AD%99%E5%A5%B3"
     },
     {
-      "title": "曝iPhone18ProMax独占可变光圈",
-      "hot_value": 92302,
-      "link": "https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18ProMax%E7%8B%AC%E5%8D%A0%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88"
+      "title": "黄圣依离婚后首次带儿子安麟出镜",
+      "hot_value": 249971,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%9C%A3%E4%BE%9D%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E6%AC%A1%E5%B8%A6%E5%84%BF%E5%AD%90%E5%AE%89%E9%BA%9F%E5%87%BA%E9%95%9C"
     },
     {
-      "title": "建议大家开车一定要专心",
-      "hot_value": 87449,
-      "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%BC%80%E8%BD%A6%E4%B8%80%E5%AE%9A%E8%A6%81%E4%B8%93%E5%BF%83"
+      "title": "刘亦菲高定是工作防晒衣是生活",
+      "hot_value": 243012,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E9%AB%98%E5%AE%9A%E6%98%AF%E5%B7%A5%E4%BD%9C%E9%98%B2%E6%99%92%E8%A1%A3%E6%98%AF%E7%94%9F%E6%B4%BB"
     },
     {
-      "title": "陈伟霆为九门十年不接军装戏",
-      "hot_value": 86061,
-      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E4%B8%BA%E4%B9%9D%E9%97%A8%E5%8D%81%E5%B9%B4%E4%B8%8D%E6%8E%A5%E5%86%9B%E8%A3%85%E6%88%8F"
+      "title": "桃黑黑已签约MCN",
+      "hot_value": 239296,
+      "link": "https://s.weibo.com/weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%E5%B7%B2%E7%AD%BE%E7%BA%A6MCN"
     },
     {
-      "title": "左奇函 身体状况",
-      "hot_value": 82329,
-      "link": "https://s.weibo.com/weibo?q=%E5%B7%A6%E5%A5%87%E5%87%BD%20%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5"
+      "title": "卡戴珊汉密尔顿热恋秀恩爱",
+      "hot_value": 233266,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%A1%E6%88%B4%E7%8F%8A%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF%E7%83%AD%E6%81%8B%E7%A7%80%E6%81%A9%E7%88%B1"
     },
     {
-      "title": "学霸父母劝700分女儿读中职或更合适",
-      "hot_value": 77720,
-      "link": "https://s.weibo.com/weibo?q=%E5%AD%A6%E9%9C%B8%E7%88%B6%E6%AF%8D%E5%8A%9D700%E5%88%86%E5%A5%B3%E5%84%BF%E8%AF%BB%E4%B8%AD%E8%81%8C%E6%88%96%E6%9B%B4%E5%90%88%E9%80%82"
+      "title": "红车误入婚车车队成主角",
+      "hot_value": 192351,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%A2%E8%BD%A6%E8%AF%AF%E5%85%A5%E5%A9%9A%E8%BD%A6%E8%BD%A6%E9%98%9F%E6%88%90%E4%B8%BB%E8%A7%92"
     }
   ],
   "xhs_hot": [
