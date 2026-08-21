@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 08:02:59 +08:00",
+  "generated_at": "2026-08-21 13:59:12 +08:00",
   "date": "2026-08-21",
   "weekday": "周五",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "星星之火，可以燎原。",
-      "from": "毛泽东 · 《毛主席语录》"
+      "text": "我见诸君多有病，料诸君见我、应如是。",
+      "from": "《魔道祖师》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
-      "title": "《黑神话：钟馗》15分钟实机演示",
-      "author": "黑神话",
-      "view": 7822267,
-      "like": 712499,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "cover": "http://i0.hdslb.com/bfs/archive/05d77b6337611727f47d5228d0d027f587c238b4.jpg"
+      "title": "《下一个是谁》第七季（3）",
+      "author": "啊吗粽",
+      "view": 294464,
+      "like": 68923,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1yj8T6zE1N",
+      "cover": "http://i1.hdslb.com/bfs/archive/492f7074f5fd3316e0f651d45adb33f9bd4d235c.jpg"
+    },
+    {
+      "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
+      "author": "崩坏星穹铁道",
+      "view": 486275,
+      "like": 68281,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
+      "cover": "http://i0.hdslb.com/bfs/archive/193aa670f4f3091179dd9a96af88298eb7a3bcb6.jpg"
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "author": "青瓜蛋丶",
-      "view": 8789961,
-      "like": 878025,
+      "view": 9402965,
+      "like": 924226,
       "cat": "人文历史",
       "link": "https://www.bilibili.com/video/BV1rHbY6MEB9",
       "cover": "http://i0.hdslb.com/bfs/archive/6533ca786585f35bbf352cee7cf74c8df25fcb01.jpg"
     },
     {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "author": "PlayStation",
-      "view": 7977631,
-      "like": 90751,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "cover": "http://i2.hdslb.com/bfs/archive/04efbab08a961b3bb3d9c36ef4d7ca11bb7bfcfe.jpg"
-    },
-    {
       "title": "【独家】时光代理人 第三季 PartOne 第3集 血洗缅挝【8月国创】",
       "author": "哔哩哔哩国创",
-      "view": 1644826,
-      "like": 16721,
+      "view": 2249392,
+      "like": 24290,
       "cat": "国产动画",
       "link": "https://www.bilibili.com/video/BV1bX8u6XEWm",
       "cover": "http://i2.hdslb.com/bfs/archive/c3afc7de50d88869afc7d5d2071e757991dba0e0.png"
     },
     {
+      "title": "《黑神话：钟馗》15分钟实机演示",
+      "author": "黑神话",
+      "view": 8529891,
+      "like": 752155,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "cover": "http://i0.hdslb.com/bfs/archive/05d77b6337611727f47d5228d0d027f587c238b4.jpg"
+    },
+    {
       "title": "假如你是一个诗人",
       "author": "农民伯伯吖",
-      "view": 2022237,
-      "like": 111805,
+      "view": 3753115,
+      "like": 197481,
       "cat": "软件应用",
       "link": "https://www.bilibili.com/video/BV1rTbf6CECX",
       "cover": "http://i1.hdslb.com/bfs/archive/2728817283907439bb195c054a8c4def18c29cfb.jpg"
     },
     {
-      "title": "停更7年，我又以经典的方式玩MC",
-      "author": "时空小涵",
-      "view": 1263800,
-      "like": 85270,
+      "title": "《诡秘之主》游戏全平台公测现已开启 | 祝你拥有非凡的一天！",
+      "author": "诡秘之主游戏",
+      "view": 794279,
+      "like": 26515,
       "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-      "cover": "http://i0.hdslb.com/bfs/archive/ca6c70b80222af8521e4d85d26012963ac8f49e4.jpg"
-    },
-    {
-      "title": "全面拆解钟馗隐藏细节！《黑神话钟馗》PV逐帧解析",
-      "author": "利维坦mY",
-      "view": 981248,
-      "like": 82673,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1Ns8w6fE4k",
-      "cover": "http://i2.hdslb.com/bfs/archive/bdeb2ac993295275ef51412bf75f33d01c05de7f.jpg"
-    },
-    {
-      "title": "动态视频｜火箭降落的全过程，拍到了！",
-      "author": "影视飓风",
-      "view": 822179,
-      "like": 89909,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1nSbo6TEv4",
-      "cover": "http://i2.hdslb.com/bfs/archive/dfde57c6c6ed858937635c5124a63f9103e29032.jpg"
-    },
-    {
-      "title": "知道为啥这乐队没主唱了吧",
-      "author": "王老师贵姓",
-      "view": 2584453,
-      "like": 173433,
-      "cat": "翻唱",
-      "link": "https://www.bilibili.com/video/BV1vF8n6ZEUz",
-      "cover": "http://i2.hdslb.com/bfs/archive/48f093bbe30eba5775aef4d04237acbcd15308a0.jpg"
-    },
-    {
-      "title": "【独家/完结】《将夜》第19集 光明之夜【4月国创】",
-      "author": "哔哩哔哩国创",
-      "view": 1206021,
-      "like": 17592,
-      "cat": "国产动画",
-      "link": "https://www.bilibili.com/video/BV1UE8p6WEP3",
-      "cover": "http://i1.hdslb.com/bfs/archive/8106c7b8e89ab811754a4dd002ee67a4f5eeff47.png"
-    },
-    {
-      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
-      "author": "阿蔡美食雕刻",
-      "view": 3368923,
-      "like": 159429,
-      "cat": "美食制作",
-      "link": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "cover": "http://i2.hdslb.com/bfs/archive/36252dff1783102ceccd1a3cc512d39360850f07.jpg"
-    },
-    {
-      "title": "举手之劳 亦是人间微光",
-      "author": "二雷外卖",
-      "view": 975078,
-      "like": 89154,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "cover": "http://i1.hdslb.com/bfs/archive/d4a9e476521a2ee193ededca62fe06dc5a2b1c4b.jpg"
-    },
-    {
-      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
-      "author": "小憩memories",
-      "view": 5301128,
-      "like": 244940,
-      "cat": "演奏",
-      "link": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "cover": "http://i2.hdslb.com/bfs/archive/9e9504d0198e4158e14fc16abc36c21ce2b72f0a.jpg"
-    },
-    {
-      "title": "房主反杀非法上门强拆者，陕西判了，无罪",
-      "author": "慕容律师",
-      "view": 694058,
-      "like": 27071,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV1pn8E6iEEo",
-      "cover": "http://i2.hdslb.com/bfs/archive/fb459358f9ed957e054b92bc820b782f4c801a1f.jpg"
-    },
-    {
-      "title": "《鸡来》一个半小时超长电影！！！",
-      "author": "限时理想-背带侠",
-      "view": 2615687,
-      "like": 168500,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1NBbe6jEzz",
-      "cover": "http://i2.hdslb.com/bfs/archive/012ee8be9b800615248a66483acd9b9578558067.jpg"
-    },
-    {
-      "title": "【IGN】《黑神话：钟馗》实机演示",
-      "author": "IGN中国",
-      "view": 1345356,
-      "like": 53375,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1SDbZ6sETi",
-      "cover": "http://i0.hdslb.com/bfs/archive/cd8a7421fb1a0abe1d190b2065794b3cc20f0176.jpg"
-    },
-    {
-      "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
-      "author": "拉宏桑",
-      "view": 553168,
-      "like": 72883,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1yh8w6RE4b",
-      "cover": "http://i0.hdslb.com/bfs/archive/5677910b77a52666e96d7ef4e5e2b66c877ad9e2.jpg"
-    },
-    {
-      "title": "七夕节老番茄就和自己玩游戏",
-      "author": "老番茄",
-      "view": 3278875,
-      "like": 310731,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1q28V6VEYU",
-      "cover": "http://i2.hdslb.com/bfs/archive/d161dd3122f9ae5dd9340a364505c12f65e18c09.jpg"
+      "link": "https://www.bilibili.com/video/BV1uJ8w6AEm3",
+      "cover": "http://i0.hdslb.com/bfs/archive/dbb68163d2e234a9a3f4fb928f8876e25ab14cf7.jpg"
     },
     {
       "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
       "author": "他予回声StarToU",
-      "view": 2722696,
-      "like": 58968,
+      "view": 3289098,
+      "like": 60307,
       "cat": "明星综合",
       "link": "https://www.bilibili.com/video/BV1bM8E6yEYd",
       "cover": "http://i1.hdslb.com/bfs/archive/15b667447439ee90a8b01cd622dfd13f98a78f25.jpg"
     },
     {
-      "title": "一口气看7小时高质量原创文娱漫剧《我只想亏钱，怎么捧出一个时代》1~26集",
-      "author": "上台就犯病",
-      "view": 904393,
-      "like": 64587,
+      "title": "举手之劳 亦是人间微光",
+      "author": "二雷外卖",
+      "view": 1719723,
+      "like": 151216,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1akbY69ECQ",
+      "cover": "http://i1.hdslb.com/bfs/archive/d4a9e476521a2ee193ededca62fe06dc5a2b1c4b.jpg"
+    },
+    {
+      "title": "林肯号航母士兵“哗变”？赫排长面临中年危机",
+      "author": "麻薯波比呀",
+      "view": 219456,
+      "like": 18808,
+      "cat": "社科·法律·心理",
+      "link": "https://www.bilibili.com/video/BV1XP8u6xEwk",
+      "cover": "http://i0.hdslb.com/bfs/archive/cbc6b4d96911d6e3fc654fb203468413cf1fb154.jpg"
+    },
+    {
+      "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
+      "author": "六霸会教宗",
+      "view": 1173350,
+      "like": 78908,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1HQbf6CEG4",
+      "cover": "http://i0.hdslb.com/bfs/archive/d2246f9a68fc2f210fe156ebbf6dce6cd06a76e2.jpg"
+    },
+    {
+      "title": "我的蚊子生病了，带它去看病",
+      "author": "柯铭和四只熊孩子",
+      "view": 2663766,
+      "like": 195608,
+      "cat": "汪星人",
+      "link": "https://www.bilibili.com/video/BV1Dx876VEXe",
+      "cover": "http://i2.hdslb.com/bfs/archive/8e0edaefa0651a4ffb60dd84057b480f37c0cbdf.jpg"
+    },
+    {
+      "title": "《原神》过场动画-「星锋」",
+      "author": "原神",
+      "view": 166558,
+      "like": 26608,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1e58P65EmC",
+      "cover": "http://i0.hdslb.com/bfs/archive/012a6b57007e55511d6facfcfcc30a8fb55f7301.jpg"
+    },
+    {
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "author": "PlayStation",
+      "view": 8863751,
+      "like": 93115,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "cover": "http://i2.hdslb.com/bfs/archive/04efbab08a961b3bb3d9c36ef4d7ca11bb7bfcfe.jpg"
+    },
+    {
+      "title": "【万字硬核考据】全方位拆解《黑钟馗》-主角/怪物/战斗/剧情/符箓",
+      "author": "天师道的白山正",
+      "view": 553176,
+      "like": 27567,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1Ew8P6pEUE",
+      "cover": "http://i0.hdslb.com/bfs/archive/693a39362ae569ef3df0005c15a130a97e44349f.jpg"
+    },
+    {
+      "title": "知道为啥这乐队没主唱了吧",
+      "author": "王老师贵姓",
+      "view": 3379394,
+      "like": 231363,
+      "cat": "翻唱",
+      "link": "https://www.bilibili.com/video/BV1vF8n6ZEUz",
+      "cover": "http://i2.hdslb.com/bfs/archive/48f093bbe30eba5775aef4d04237acbcd15308a0.jpg"
+    },
+    {
+      "title": "动态视频｜火箭降落的全过程，拍到了！",
+      "author": "影视飓风",
+      "view": 1275689,
+      "like": 116032,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1nSbo6TEv4",
+      "cover": "http://i2.hdslb.com/bfs/archive/dfde57c6c6ed858937635c5124a63f9103e29032.jpg"
+    },
+    {
+      "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
+      "author": "拉宏桑",
+      "view": 901029,
+      "like": 101326,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1yh8w6RE4b",
+      "cover": "http://i0.hdslb.com/bfs/archive/5677910b77a52666e96d7ef4e5e2b66c877ad9e2.jpg"
+    },
+    {
+      "title": "《 黑 神 话 咕 嘎 》终极典藏版",
+      "author": "皮蛋瘦肉粥煎鸡蛋",
+      "view": 282659,
+      "like": 23991,
       "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV17tb96RENv",
-      "cover": "http://i2.hdslb.com/bfs/archive/d2065708b50d19e461b96bc7089152f49b880d76.jpg"
+      "link": "https://www.bilibili.com/video/BV1wV8c6EEyx",
+      "cover": "http://i2.hdslb.com/bfs/archive/0e8b4b7497b105795cc7fb320911e50540ccb2ce.jpg"
+    },
+    {
+      "title": "停更7年，我又以经典的方式玩MC",
+      "author": "时空小涵",
+      "view": 1638360,
+      "like": 111975,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
+      "cover": "http://i0.hdslb.com/bfs/archive/ca6c70b80222af8521e4d85d26012963ac8f49e4.jpg"
     }
   ],
   "weibo": [
