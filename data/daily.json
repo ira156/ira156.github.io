@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 13:48:19 +08:00",
+  "generated_at": "2026-08-22 19:58:11 +08:00",
   "date": "2026-08-22",
   "weekday": "周六",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "山风山风等等我，带我去山那头。",
-      "from": "王健美 · 《山风山风等等我》"
+      "text": "世间无限丹青手，一片伤心画不成。",
+      "from": "高蟾 · 《金陵晚望》"
     },
     "angles": [
       {
@@ -437,182 +437,182 @@
     {
       "title": "\"复活吧！我的（ ）\"",
       "author": "HL-Flame",
-      "view": 2456244,
-      "like": 316251,
+      "view": 3195536,
+      "like": 395005,
       "cat": "网络游戏",
       "link": "https://www.bilibili.com/video/BV1G48M6XEBt",
       "cover": "http://i0.hdslb.com/bfs/archive/32bd89a388d516e86c9aef3669217f4d9a8b231d.jpg"
     },
     {
-      "title": "做最黑暗的料理，送给最爱整活的甲方...",
-      "author": "绵羊料理",
-      "view": 2198190,
-      "like": 84173,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1qdb16eEF5",
-      "cover": "http://i0.hdslb.com/bfs/archive/e2f58df7452340ed3330db7bcf222f864423bd03.jpg"
-    },
-    {
-      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
-      "author": "wuhu动画人空间",
-      "view": 1650737,
-      "like": 96693,
-      "cat": "预告·资讯",
-      "link": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "cover": "http://i2.hdslb.com/bfs/archive/d897578f027afb00fd98dc9775d87077794047fd.jpg"
-    },
-    {
-      "title": "【独家】《凡人修仙传之慕兰之战》第12集【总第188集】",
-      "author": "哔哩哔哩国创",
-      "view": 2351656,
-      "like": 92730,
-      "cat": "国产动画",
-      "link": "https://www.bilibili.com/video/BV1Ka866BEo8",
-      "cover": "http://i2.hdslb.com/bfs/archive/8525304c37682ba1cf339b3c2ef7990bed4e411f.jpg"
+      "title": "严肃观看儿子的历史记录",
+      "author": "逗比的雀巢",
+      "view": 672921,
+      "like": 116603,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "cover": "http://i2.hdslb.com/bfs/archive/28c24920d68bd97718f88201f7fdbc401b7506a4.jpg"
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "author": "青瓜蛋丶",
-      "view": 11140269,
-      "like": 1065524,
+      "view": 11745777,
+      "like": 1108408,
       "cat": "人文历史",
       "link": "https://www.bilibili.com/video/BV1rHbY6MEB9",
       "cover": "http://i0.hdslb.com/bfs/archive/6533ca786585f35bbf352cee7cf74c8df25fcb01.jpg"
     },
     {
-      "title": "《下一个是谁》第七季（3）",
-      "author": "啊吗粽",
-      "view": 1992732,
-      "like": 251363,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "cover": "http://i1.hdslb.com/bfs/archive/492f7074f5fd3316e0f651d45adb33f9bd4d235c.jpg"
+      "title": "【独家】《凡人修仙传之慕兰之战》第12集【总第188集】",
+      "author": "哔哩哔哩国创",
+      "view": 4213305,
+      "like": 134596,
+      "cat": "国产动画",
+      "link": "https://www.bilibili.com/video/BV1Ka866BEo8",
+      "cover": "http://i2.hdslb.com/bfs/archive/8525304c37682ba1cf339b3c2ef7990bed4e411f.jpg"
+    },
+    {
+      "title": "《牛莱》",
+      "author": "言吾言_",
+      "view": 1333452,
+      "like": 75732,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1vj8K6DE8D",
+      "cover": "http://i1.hdslb.com/bfs/archive/d7006dc7d25b18d38d5ec9b90eee4b4e83cb89ad.jpg"
+    },
+    {
+      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
+      "author": "wuhu动画人空间",
+      "view": 2336830,
+      "like": 139788,
+      "cat": "预告·资讯",
+      "link": "https://www.bilibili.com/video/BV17N8P6HEVy",
+      "cover": "http://i2.hdslb.com/bfs/archive/d897578f027afb00fd98dc9775d87077794047fd.jpg"
+    },
+    {
+      "title": "《原神》过场动画-「『复活』之时将至」",
+      "author": "原神",
+      "view": 183438,
+      "like": 29608,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1UP8q6FEmU",
+      "cover": "http://i2.hdslb.com/bfs/archive/22bde5aa8cb2a91f0975352335c2f56df7afdeb7.jpg"
+    },
+    {
+      "title": "本关最优解：放70个窝瓜僵尸 【bilibilionly同人扶持计划】",
+      "author": "Winkle雪线",
+      "view": 1512114,
+      "like": 88660,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1Qc8T6SESo",
+      "cover": "http://i0.hdslb.com/bfs/archive/b6214d851a8edad3e4fe5de80650f168777f8b82.jpg"
     },
     {
       "title": "我收容了100位粉丝到我的一辈子存档里！",
       "author": "与山0v0",
-      "view": 1905148,
-      "like": 173589,
+      "view": 2616364,
+      "like": 213257,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1DV8F6bEkz",
       "cover": "http://i1.hdslb.com/bfs/archive/aa01fede97db851573fd79f37c7e8167ed197eb0.jpg"
     },
     {
-      "title": "我想超小傲",
-      "author": "杜海皇",
-      "view": 165839,
-      "like": 30482,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1t48i6xEL3",
-      "cover": "http://i0.hdslb.com/bfs/archive/c66319cbc747b1774edbdc42b25b401640eb7c57.jpg"
-    },
-    {
-      "title": "《晒足一百ber天3.0》",
-      "author": "嘞是唐孃孃",
-      "view": 1274304,
-      "like": 93589,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1JDbo6iEaR",
-      "cover": "http://i0.hdslb.com/bfs/archive/6f7fa777c889a374ebdab41cde30ec5c4fa9186e.jpg"
-    },
-    {
       "title": "【纪录片】守护解放西·探案季 第十集  难以“置信”",
       "author": "哔哩哔哩纪录片",
-      "view": 1285264,
-      "like": 4852,
+      "view": 1607697,
+      "like": 6156,
       "cat": "社会·美食·旅行",
       "link": "https://www.bilibili.com/video/BV1ET8K6oETN",
       "cover": "http://i2.hdslb.com/bfs/archive/7f58f4656d4b9d829f32ce389cf98e6b1b03fe00.jpg"
     },
     {
-      "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
-      "author": "明日方舟终末地",
-      "view": 1365481,
-      "like": 80644,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
-      "cover": "http://i0.hdslb.com/bfs/archive/3fdff61b119d2be05b9816b2ba4ba5c4e2df0a97.jpg"
+      "title": "牛来听完这故事，哭着喊着说不来了",
+      "author": "李炮炮儿",
+      "view": 1306435,
+      "like": 84950,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1JA8K68Eqa",
+      "cover": "http://i1.hdslb.com/bfs/archive/9ba3ace35ce9d982097004a22036bdcdb6c27442.jpg"
     },
     {
-      "title": "《原神》过场动画-「『死亡』已在身边」",
-      "author": "原神",
-      "view": 170710,
-      "like": 28118,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV11G8q69EwV",
-      "cover": "http://i2.hdslb.com/bfs/archive/456d176b63c32085d7383ebbb6b03411dd80d23c.jpg"
+      "title": "《下一个是谁》第七季（3）",
+      "author": "啊吗粽",
+      "view": 2280372,
+      "like": 277252,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1yj8T6zE1N",
+      "cover": "http://i1.hdslb.com/bfs/archive/492f7074f5fd3316e0f651d45adb33f9bd4d235c.jpg"
+    },
+    {
+      "title": "上学都被没收过哪些东西？",
+      "author": "脱缰凯Kk",
+      "view": 181071,
+      "like": 20983,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1UL8169EUX",
+      "cover": "http://i1.hdslb.com/bfs/archive/311286e22c08def4cf3e917135dd7ad409573515.jpg"
+    },
+    {
+      "title": "⚡️很恐怖游戏，使我大叫⚡️",
+      "author": "黑猫大少爷",
+      "view": 820632,
+      "like": 50042,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1NG8q6REJZ",
+      "cover": "http://i1.hdslb.com/bfs/archive/6c7cec6a47f78f51e85de9ad630640c7dcb6c6e4.jpg"
+    },
+    {
+      "title": "当1000倍计量的毒品进入身体，会发生什么？",
+      "author": "李白尼的猜想",
+      "view": 1747040,
+      "like": 58287,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV16s8z6WENQ",
+      "cover": "http://i2.hdslb.com/bfs/archive/6ba2bd9f9504ea7a5dc1da7e8591a4054361bfd1.jpg"
+    },
+    {
+      "title": "读秒挑战~",
+      "author": "瓜哥超爱玩QAQ",
+      "view": 2212093,
+      "like": 61918,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1ii8T6dEyP",
+      "cover": "http://i2.hdslb.com/bfs/archive/bebcaaaf25dbf6275876932c862a0bdfe2c4f1ed.jpg"
     },
     {
       "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
       "author": "这里是莱里",
-      "view": 1248757,
-      "like": 81470,
+      "view": 1912381,
+      "like": 116757,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1jM8P6EEDy",
       "cover": "http://i1.hdslb.com/bfs/archive/bc9cf1c8ab723af97f6052fca3c7e92c98d686d1.jpg"
     },
     {
-      "title": "我要超过杜海皇",
-      "author": "小傲想睡觉",
-      "view": 126376,
-      "like": 25153,
-      "cat": "美食制作",
-      "link": "https://www.bilibili.com/video/BV1d18i6GEob",
-      "cover": "http://i0.hdslb.com/bfs/archive/67b538ef920932201282b120cb59bb43bd32eee1.jpg"
+      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
+      "author": "泛式",
+      "view": 200479,
+      "like": 30089,
+      "cat": "动漫杂谈",
+      "link": "https://www.bilibili.com/video/BV1LP816AETT",
+      "cover": "http://i0.hdslb.com/bfs/archive/808a4927e81d66f5b0806b3bc27ea99f7f72611e.jpg"
     },
     {
-      "title": "加缪：如果正义必须伤害无辜，它还是正义吗？",
-      "author": "大圆镜科普",
-      "view": 701811,
-      "like": 63510,
-      "cat": "科学科普",
-      "link": "https://www.bilibili.com/video/BV14R8r6rE3C",
-      "cover": "http://i2.hdslb.com/bfs/archive/8a97ad5a11da07924aca3605d6ecb4e66486bcf6.jpg"
+      "title": "您好 没有为您拼命的义务 #乐意效劳",
+      "author": "还有地虎侠n",
+      "view": 1259431,
+      "like": 209161,
+      "cat": "街舞",
+      "link": "https://www.bilibili.com/video/BV1Kz8M6CEVz",
+      "cover": "http://i2.hdslb.com/bfs/archive/9138da0b564348cf0ea37d2f6ddb063acbf4f62a.jpg"
     },
     {
-      "title": "全球十大餐厅！为吃这顿饭！我们在欧洲被偷5万！到底值不值？",
-      "author": "HOLA小测佬",
-      "view": 1696291,
-      "like": 71595,
-      "cat": "出行",
-      "link": "https://www.bilibili.com/video/BV1UU8q6FEPL",
-      "cover": "http://i0.hdslb.com/bfs/archive/9c499446932b68d6dafd811a925f7b3e69fb6780.jpg"
-    },
-    {
-      "title": "《你咋开的车》",
-      "author": "伤心欲茄222",
-      "view": 3503252,
-      "like": 251720,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1dS8P6JEha",
-      "cover": "http://i0.hdslb.com/bfs/archive/2a87579aa32e008c9163ce0592327a8a4ae8f171.jpg"
-    },
-    {
-      "title": "混子哥边走边画边讲：神秘的核电站",
-      "author": "中核集团",
-      "view": 812377,
-      "like": 40928,
-      "cat": "科学科普",
-      "link": "https://www.bilibili.com/video/BV1Xg8F6hEMr",
-      "cover": "http://i0.hdslb.com/bfs/archive/8fd8db61d10159c4c0f48a74bbf96ca14744b53e.jpg"
-    },
-    {
-      "title": "【二维动画】画二渲三，但是渲出来一堆BUG",
-      "author": "宇宙无敌汪师傅",
-      "view": 503046,
-      "like": 77605,
-      "cat": "同人·手书",
-      "link": "https://www.bilibili.com/video/BV1rL8q6QEk1",
-      "cover": "http://i1.hdslb.com/bfs/archive/c2bcdfb94c2ed9938d51686ac057f89e2a8ff8eb.jpg"
-    },
-    {
-      "title": "举手之劳 亦是人间微光",
-      "author": "二雷外卖",
-      "view": 4083318,
-      "like": 327468,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "cover": "http://i1.hdslb.com/bfs/archive/d4a9e476521a2ee193ededca62fe06dc5a2b1c4b.jpg"
+      "title": "李信没了还可以玩六耳，拆完塔一个筋斗云就走了",
+      "author": "磊哥游戏",
+      "view": 862509,
+      "like": 43867,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1fm8B6UEnG",
+      "cover": "http://i0.hdslb.com/bfs/archive/47924554a906c6c2b4307f772914527776de265b.jpg"
     }
   ],
   "weibo": [
