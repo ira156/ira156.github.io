@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 07:58:55 +08:00",
+  "generated_at": "2026-08-24 14:06:22 +08:00",
   "date": "2026-08-24",
   "weekday": "周一",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "牛羊成群，唯猛虎独行。",
-      "from": "会说话的肘子 · 《夜的命名术》"
+      "text": "生尽欢，死无憾。",
+      "from": "云天青 · 《仙剑4》"
     },
     "angles": [
       {
@@ -435,46 +435,19 @@
   },
   "bilibili": [
     {
-      "title": "原创民俗AI短片《槐灯》",
-      "author": "二白午",
-      "view": 766721,
-      "like": 100065,
-      "cat": "短片",
-      "link": "https://www.bilibili.com/video/BV15B8z61EbV",
-      "cover": "http://i1.hdslb.com/bfs/archive/8e5f936c76d2402f664ce0d09fcd9dd39df174d4.jpg"
-    },
-    {
-      "title": "\"复活吧！我的（ ）\"",
-      "author": "HL-Flame",
-      "view": 5416818,
-      "like": 579795,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "cover": "http://i0.hdslb.com/bfs/archive/32bd89a388d516e86c9aef3669217f4d9a8b231d.jpg"
-    },
-    {
-      "title": "我这一生最大的罪，是把人写成了妖……",
-      "author": "青瓜蛋丶",
-      "view": 13544073,
-      "like": 1242013,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "cover": "http://i0.hdslb.com/bfs/archive/6533ca786585f35bbf352cee7cf74c8df25fcb01.jpg"
-    },
-    {
-      "title": "【独家】牧神记 第97集 登基",
-      "author": "哔哩哔哩国创",
-      "view": 2607947,
-      "like": 40729,
-      "cat": "国产动画",
-      "link": "https://www.bilibili.com/video/BV1rg8y6uEtG",
-      "cover": "http://i0.hdslb.com/bfs/archive/8d4838d42c3bbec124ce015003c8bb654e0d5d75.png"
+      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
+      "author": "战双帕弥什",
+      "view": 2397502,
+      "like": 85598,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1VH8K67ENH",
+      "cover": "http://i0.hdslb.com/bfs/archive/f739f267f9a277157d83e12cd89cfb7847e5a20d.jpg"
     },
     {
       "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
       "author": "修仙摆烂王",
-      "view": 445526,
-      "like": 30902,
+      "view": 1432622,
+      "like": 93668,
       "cat": "国产原创相关",
       "link": "https://www.bilibili.com/video/BV1j38B65Eyw",
       "cover": "http://i0.hdslb.com/bfs/archive/22adb8b0da98dee24b9da4dd29d8cc74ebea6bec.jpg"
@@ -482,137 +455,164 @@
     {
       "title": "护理：一把斩向死亡的温柔刀",
       "author": "大圆镜科普",
-      "view": 2171407,
-      "like": 225870,
+      "view": 2893740,
+      "like": 285577,
       "cat": "科学科普",
       "link": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
       "cover": "http://i0.hdslb.com/bfs/archive/727eb69bd061ea85e3d174395cae41df0d0132a7.jpg"
     },
     {
-      "title": "严肃观看儿子的历史记录",
-      "author": "逗比的雀巢",
-      "view": 3180806,
-      "like": 390737,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "cover": "http://i2.hdslb.com/bfs/archive/28c24920d68bd97718f88201f7fdbc401b7506a4.jpg"
+      "title": "原创民俗AI短片《槐灯》",
+      "author": "二白午",
+      "view": 1090809,
+      "like": 139118,
+      "cat": "短片",
+      "link": "https://www.bilibili.com/video/BV15B8z61EbV",
+      "cover": "http://i1.hdslb.com/bfs/archive/8e5f936c76d2402f664ce0d09fcd9dd39df174d4.jpg"
+    },
+    {
+      "title": "\"复活吧！我的（ ）\"",
+      "author": "HL-Flame",
+      "view": 5900699,
+      "like": 613494,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1G48M6XEBt",
+      "cover": "http://i0.hdslb.com/bfs/archive/32bd89a388d516e86c9aef3669217f4d9a8b231d.jpg"
     },
     {
       "title": "【纪录片TV】大乾乾被撞成两半了……",
       "author": "大乾乾是顾乾宇",
-      "view": 2720055,
-      "like": 233369,
+      "view": 3346617,
+      "like": 278205,
       "cat": "小剧场",
       "link": "https://www.bilibili.com/video/BV1db8x6VE73",
       "cover": "http://i2.hdslb.com/bfs/archive/35af6a33d947498227703aa692870cefb0207d7d.jpg"
     },
     {
-      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
-      "author": "小椰子专栏",
-      "view": 2452975,
-      "like": 92909,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV1ES876dErp",
-      "cover": "http://i2.hdslb.com/bfs/archive/7c0602d88b99a5c79251b5d0725fb55610d6149d.jpg"
+      "title": "我这一生最大的罪，是把人写成了妖……",
+      "author": "青瓜蛋丶",
+      "view": 13815183,
+      "like": 1260197,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+      "cover": "http://i0.hdslb.com/bfs/archive/6533ca786585f35bbf352cee7cf74c8df25fcb01.jpg"
+    },
+    {
+      "title": "严肃观看儿子的历史记录",
+      "author": "逗比的雀巢",
+      "view": 3471327,
+      "like": 413184,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "cover": "http://i2.hdslb.com/bfs/archive/28c24920d68bd97718f88201f7fdbc401b7506a4.jpg"
+    },
+    {
+      "title": "警员执法遇F-18战机坠落，6700万战损，飞行员报警求助！",
+      "author": "爱看热闹的大鹏",
+      "view": 942204,
+      "like": 45759,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1P38x6dET4",
+      "cover": "http://i2.hdslb.com/bfs/archive/983c940d63c3e1f6439b3d86ad9be376a3ab32ed.jpg"
     },
     {
       "title": "【独家】《记忆管理局》第6集 空洞【8月国创】",
       "author": "哔哩哔哩国创",
-      "view": 808331,
-      "like": 17122,
+      "view": 929803,
+      "like": 18884,
       "cat": "国产动画",
       "link": "https://www.bilibili.com/video/BV1GT8F6YEKY",
       "cover": "http://i0.hdslb.com/bfs/archive/eb0ba1da8946c142745a643343f9391ca4b124fd.png"
     },
     {
-      "title": "神坛之下06｜金碧妖庭歌舞盛，觥筹交错人为宴！",
-      "author": "阿墩的AI小剧场",
-      "view": 764930,
-      "like": 25206,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1j38B65ERd",
-      "cover": "http://i2.hdslb.com/bfs/archive/eda33e8038e197bc79ecc341d68c2e370e25fc83.jpg"
+      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
+      "author": "小椰子专栏",
+      "view": 3710312,
+      "like": 108460,
+      "cat": "社科·法律·心理",
+      "link": "https://www.bilibili.com/video/BV1ES876dErp",
+      "cover": "http://i2.hdslb.com/bfs/archive/7c0602d88b99a5c79251b5d0725fb55610d6149d.jpg"
     },
     {
-      "title": "我收容了100位粉丝到我的一辈子存档里！",
-      "author": "与山0v0",
-      "view": 4918068,
-      "like": 299785,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "cover": "http://i1.hdslb.com/bfs/archive/aa01fede97db851573fd79f37c7e8167ed197eb0.jpg"
+      "title": "我做了两个一模一样的视频，你被分配到的是——真人手搓版",
+      "author": "阿星and阿奇",
+      "view": 868461,
+      "like": 48950,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1tA8U68ESF",
+      "cover": "http://i1.hdslb.com/bfs/archive/9909e42c2ba8b277907edb8ebb8baa4aa628f9c9.jpg"
     },
     {
-      "title": "特大暴雨来了：三台风几乎都已锁定我国，超强台风沙德尔走位古怪",
-      "author": "中气爱",
-      "view": 467992,
-      "like": 20910,
-      "cat": "科学科普",
-      "link": "https://www.bilibili.com/video/BV1rM8h6AERG",
-      "cover": "http://i0.hdslb.com/bfs/archive/aafe81ff3fa1cd75ebe0e943cfcff2f4f8f18494.jpg"
+      "title": "Attention 注意别喝多",
+      "author": "莫梓艺大笑",
+      "view": 1078118,
+      "like": 149858,
+      "cat": "原创音乐",
+      "link": "https://www.bilibili.com/video/BV11S826nE2Z",
+      "cover": "http://i2.hdslb.com/bfs/archive/67855a089007289064ff2e952c3972d51492b17e.jpg"
     },
     {
-      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
-      "author": "老爸评测",
-      "view": 2014429,
-      "like": 131209,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-      "cover": "http://i2.hdslb.com/bfs/archive/d2d5e23de6695d03f2d8ae50b22b02988fb5a3bd.jpg"
-    },
-    {
-      "title": "我正在烧烤…哦不是..思考..",
-      "author": "青浦模子",
-      "view": 3350480,
-      "like": 154977,
-      "cat": "绘画",
-      "link": "https://www.bilibili.com/video/BV1RT816FEYe",
-      "cover": "http://i2.hdslb.com/bfs/archive/40940992b5ecd995ed4dbf4daae2608e2eb529aa.jpg"
-    },
-    {
-      "title": "原来我是只蚊子！",
-      "author": "薪儿姐师尊",
-      "view": 1938243,
-      "like": 82471,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1Br8m6yEaS",
-      "cover": "http://i2.hdslb.com/bfs/archive/9c830000ff1846abea4ac675370bc1c28e56439c.jpg"
-    },
-    {
-      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
-      "author": "战双帕弥什",
-      "view": 1819268,
-      "like": 76336,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1VH8K67ENH",
-      "cover": "http://i0.hdslb.com/bfs/archive/f739f267f9a277157d83e12cd89cfb7847e5a20d.jpg"
-    },
-    {
-      "title": "真的...没有人类了",
-      "author": "人类观察所",
-      "view": 3904127,
-      "like": 261500,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1au8F6wEhC",
-      "cover": "http://i0.hdslb.com/bfs/archive/f80e8ae8a7102ffe025a4ebdf1509e1b93427294.jpg"
+      "title": "僵 尸 进 村",
+      "author": "次级英雄娄不凡",
+      "view": 455298,
+      "like": 21008,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV15v8x6gEjN",
+      "cover": "http://i1.hdslb.com/bfs/archive/9981a4114b6497e218542e3415595a0c6b33364e.jpg"
     },
     {
       "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
       "author": "燃茶哥哥在此",
-      "view": 2388664,
-      "like": 104514,
+      "view": 4385546,
+      "like": 135160,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1rv8m6UEiU",
       "cover": "http://i0.hdslb.com/bfs/archive/dac0f6bd4471b3c744c50ad9d0b8f646a9f6963f.jpg"
     },
     {
-      "title": "最近日本关于中国的媒体报道，我想跟大家说几句话",
-      "author": "山下智博",
-      "view": 596324,
-      "like": 26876,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1RG8S6GEGr",
-      "cover": "http://i2.hdslb.com/bfs/archive/2d6a6b7f17145b1f6f5642e83ad825d955f1ea19.jpg"
+      "title": "新三国up锐评老三国14：这美人计，谁上谁也遭不住",
+      "author": "吃蛋挞的折棒",
+      "view": 212254,
+      "like": 17108,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1EF8s6LEHP",
+      "cover": "http://i1.hdslb.com/bfs/archive/3a12223c48b0ab9663178d677a214bd44880ae01.jpg"
+    },
+    {
+      "title": "《一直在思考》",
+      "author": "嘞是唐孃孃",
+      "view": 841207,
+      "like": 58520,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1pC8b6hEWE",
+      "cover": "http://i0.hdslb.com/bfs/archive/fcfb5f90efe646ebd3173a0d3c3a4985aba07541.jpg"
+    },
+    {
+      "title": "电影里的纽约vs真实的纽约",
+      "author": "马佳PopMatta",
+      "view": 1001663,
+      "like": 41483,
+      "cat": "出行",
+      "link": "https://www.bilibili.com/video/BV1Nv8B6ZEj9",
+      "cover": "http://i0.hdslb.com/bfs/archive/8e8610ece2be393cedbb7969e4a9329fb5ac9a12.jpg"
+    },
+    {
+      "title": "【电影·罗小黑战记2】超长配音花絮",
+      "author": "山新",
+      "view": 456823,
+      "like": 48096,
+      "cat": "配音",
+      "link": "https://www.bilibili.com/video/BV1aJ846uEh7",
+      "cover": "http://i1.hdslb.com/bfs/archive/e51b677d50d860b5bbabc81117299176abeb6e4f.jpg"
+    },
+    {
+      "title": "浑身难受",
+      "author": "脱缰凯Kk",
+      "view": 693251,
+      "like": 54359,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1Dk8t6GEpF",
+      "cover": "http://i0.hdslb.com/bfs/archive/5f578625260e8b0f8f3a540675d8fa0c39e88cf1.jpg"
     }
   ],
   "weibo": [
