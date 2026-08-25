@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24 22:08:03 +08:00",
-  "date": "2026-08-24",
-  "weekday": "周一",
+  "generated_at": "2026-08-25 08:01:56 +08:00",
+  "date": "2026-08-25",
+  "weekday": "周二",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "最短的捷径就是绕远路。",
-      "from": "杰洛·齐贝林 · 《STEEL BALL RUN》"
+      "text": "谎话被歌颂，扮清醒的人作哑装聋。",
+      "from": "南语 · 《不痛》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
-      "title": "放弃一切，只为等你",
-      "author": "三金啊GC",
-      "view": 1378513,
-      "like": 64857,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1f38b6pE5x",
-      "cover": "http://i1.hdslb.com/bfs/archive/5626a802f321c6cb4add2957b1be973e17f3f189.jpg"
+      "title": "王中王夺冠自战解说",
+      "author": "柯洁",
+      "view": 1483980,
+      "like": 190876,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1PEhP6vERe",
+      "cover": "http://i0.hdslb.com/bfs/archive/dff6e9ccc224bbf49cd62806dc620ae1e0b66014.jpg"
     },
     {
-      "title": "小米玄戒O3芯片前瞻上手：外星科技！",
-      "author": "极客湾Geekerwan",
-      "view": 607196,
-      "like": 48849,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1fhhP6xEMp",
-      "cover": "http://i1.hdslb.com/bfs/archive/b78896f946b651f83cd437d55ccdbb945a1f3531.jpg"
+      "title": "贱谍过家家（8）",
+      "author": "小潮院长",
+      "view": 628636,
+      "like": 102312,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1gLhK6LEcb",
+      "cover": "http://i1.hdslb.com/bfs/archive/9bda56f1a45fd9ed421ea1c18451a962f8345029.jpg"
+    },
+    {
+      "title": "那个被当成毛泽东的人，日本人认错了他，但我们应该认识他！",
+      "author": "了不起De中国人",
+      "view": 770426,
+      "like": 51256,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1S9hP66EK1",
+      "cover": "http://i1.hdslb.com/bfs/archive/85a0487dcbb5d8edaecebf4991210482d58e99ea.jpg"
     },
     {
       "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
       "author": "修仙摆烂王",
-      "view": 2184081,
-      "like": 144821,
+      "view": 2466497,
+      "like": 163044,
       "cat": "国产原创相关",
       "link": "https://www.bilibili.com/video/BV1j38B65Eyw",
       "cover": "http://i0.hdslb.com/bfs/archive/22adb8b0da98dee24b9da4dd29d8cc74ebea6bec.jpg"
     },
     {
-      "title": "严肃观看儿子的历史记录",
-      "author": "逗比的雀巢",
-      "view": 4021161,
-      "like": 454659,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "cover": "http://i2.hdslb.com/bfs/archive/28c24920d68bd97718f88201f7fdbc401b7506a4.jpg"
-    },
-    {
       "title": "\"复活吧！我的（ ）\"",
       "author": "HL-Flame",
-      "view": 6326823,
-      "like": 647493,
+      "view": 6497244,
+      "like": 661672,
       "cat": "网络游戏",
       "link": "https://www.bilibili.com/video/BV1G48M6XEBt",
       "cover": "http://i0.hdslb.com/bfs/archive/32bd89a388d516e86c9aef3669217f4d9a8b231d.jpg"
     },
     {
-      "title": "僵 尸 进 村",
-      "author": "次级英雄娄不凡",
-      "view": 1404117,
-      "like": 61250,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV15v8x6gEjN",
-      "cover": "http://i1.hdslb.com/bfs/archive/9981a4114b6497e218542e3415595a0c6b33364e.jpg"
-    },
-    {
-      "title": "护理：一把斩向死亡的温柔刀",
-      "author": "大圆镜科普",
-      "view": 3533111,
-      "like": 342143,
-      "cat": "科学科普",
-      "link": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-      "cover": "http://i0.hdslb.com/bfs/archive/727eb69bd061ea85e3d174395cae41df0d0132a7.jpg"
-    },
-    {
-      "title": "原创民俗AI短片《槐灯》",
-      "author": "二白午",
-      "view": 1649332,
-      "like": 178130,
-      "cat": "短片",
-      "link": "https://www.bilibili.com/video/BV15B8z61EbV",
-      "cover": "http://i1.hdslb.com/bfs/archive/8e5f936c76d2402f664ce0d09fcd9dd39df174d4.jpg"
-    },
-    {
-      "title": "以色列狠狠压力美国",
-      "author": "燕三嘤嘤嘤",
-      "view": 1011972,
-      "like": 72162,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1rg8Y6zET2",
-      "cover": "http://i2.hdslb.com/bfs/archive/e94d18fde833769809a2f7b7b843a26a60846e5b.jpg"
+      "title": "小米玄戒O3芯片前瞻上手：外星科技！",
+      "author": "极客湾Geekerwan",
+      "view": 1103384,
+      "like": 74466,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1fhhP6xEMp",
+      "cover": "http://i1.hdslb.com/bfs/archive/b78896f946b651f83cd437d55ccdbb945a1f3531.jpg"
     },
     {
       "title": "《新数码宝贝 · 全面战争》【8分钟管饱】",
       "author": "不睡的彻",
-      "view": 437905,
-      "like": 28327,
+      "view": 819964,
+      "like": 46175,
       "cat": "职业职场",
       "link": "https://www.bilibili.com/video/BV1hN8t6BEMs",
       "cover": "http://i0.hdslb.com/bfs/archive/afebb29008be9cc7acb6001e4cc58c6b1ccab697.jpg"
     },
     {
+      "title": "🦋 炼 定 仙 游 ♂ 股 🦋",
+      "author": "哦呼w",
+      "view": 578346,
+      "like": 41785,
+      "cat": "鬼畜调教",
+      "link": "https://www.bilibili.com/video/BV1F58v61EXV",
+      "cover": "http://i0.hdslb.com/bfs/archive/b0ec201b2c0e17a3e8eddee6828dd95030053537.jpg"
+    },
+    {
+      "title": "【苏星河眼镜】铺天盖地宣传的AI眼镜，究竟能让你看到什么？",
+      "author": "苏星河牛通",
+      "view": 706699,
+      "like": 10838,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV12u8q6dEay",
+      "cover": "http://i1.hdslb.com/bfs/archive/23dac40bd36d5ca604e3a9f6878f92438506e981.jpg"
+    },
+    {
+      "title": "放弃一切，只为等你",
+      "author": "三金啊GC",
+      "view": 2279949,
+      "like": 102547,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1f38b6pE5x",
+      "cover": "http://i1.hdslb.com/bfs/archive/5626a802f321c6cb4add2957b1be973e17f3f189.jpg"
+    },
+    {
+      "title": "原创民俗AI短片《槐灯》",
+      "author": "二白午",
+      "view": 1812566,
+      "like": 194746,
+      "cat": "短片",
+      "link": "https://www.bilibili.com/video/BV15B8z61EbV",
+      "cover": "http://i1.hdslb.com/bfs/archive/8e5f936c76d2402f664ce0d09fcd9dd39df174d4.jpg"
+    },
+    {
+      "title": "严肃观看儿子的历史记录",
+      "author": "逗比的雀巢",
+      "view": 4303135,
+      "like": 477599,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "cover": "http://i2.hdslb.com/bfs/archive/28c24920d68bd97718f88201f7fdbc401b7506a4.jpg"
+    },
+    {
+      "title": "以色列狠狠压力美国",
+      "author": "燕三嘤嘤嘤",
+      "view": 1313322,
+      "like": 85306,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1rg8Y6zET2",
+      "cover": "http://i2.hdslb.com/bfs/archive/e94d18fde833769809a2f7b7b843a26a60846e5b.jpg"
+    },
+    {
+      "title": "僵 尸 进 村",
+      "author": "次级英雄娄不凡",
+      "view": 1700628,
+      "like": 75145,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV15v8x6gEjN",
+      "cover": "http://i1.hdslb.com/bfs/archive/9981a4114b6497e218542e3415595a0c6b33364e.jpg"
+    },
+    {
       "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
       "author": "小椰子专栏",
-      "view": 4772929,
-      "like": 130379,
+      "view": 5203389,
+      "like": 144098,
       "cat": "社科·法律·心理",
       "link": "https://www.bilibili.com/video/BV1ES876dErp",
       "cover": "http://i2.hdslb.com/bfs/archive/7c0602d88b99a5c79251b5d0725fb55610d6149d.jpg"
     },
     {
-      "title": "学生办事流程多，魏老师替孩子把话说",
-      "author": "脱缰凯Kk",
-      "view": 338995,
-      "like": 35235,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV16uhN68EpK",
-      "cover": "http://i0.hdslb.com/bfs/archive/5232a0516c114f04bc27c52184b972d8627e9026.jpg"
+      "title": "护理：一把斩向死亡的温柔刀",
+      "author": "大圆镜科普",
+      "view": 3741685,
+      "like": 360818,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
+      "cover": "http://i0.hdslb.com/bfs/archive/727eb69bd061ea85e3d174395cae41df0d0132a7.jpg"
     },
     {
-      "title": "【挑战】耗时两个月，超平坦世界+游戏加速100倍+极限模式通关MC！",
-      "author": "逸云不是肝帝",
-      "view": 258563,
-      "like": 25177,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1NZ8t6AEFt",
-      "cover": "http://i1.hdslb.com/bfs/archive/11137a5d6835328cceff826e137ee1122b9faf5f.jpg"
-    },
-    {
-      "title": "警员执法遇F-18战机坠落，6700万战损，飞行员报警求助！",
-      "author": "爱看热闹的大鹏",
-      "view": 1397835,
-      "like": 66356,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1P38x6dET4",
-      "cover": "http://i2.hdslb.com/bfs/archive/983c940d63c3e1f6439b3d86ad9be376a3ab32ed.jpg"
-    },
-    {
-      "title": "【纪录片TV】大乾乾被撞成两半了……",
-      "author": "大乾乾是顾乾宇",
-      "view": 3707699,
-      "like": 308433,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1db8x6VE73",
-      "cover": "http://i2.hdslb.com/bfs/archive/35af6a33d947498227703aa692870cefb0207d7d.jpg"
+      "title": "老吃家是怎么吃泡面的？",
+      "author": "华南有志弹涂鱼",
+      "view": 704548,
+      "like": 59326,
+      "cat": "美食记录",
+      "link": "https://www.bilibili.com/video/BV18b8h6UEAF",
+      "cover": "http://i0.hdslb.com/bfs/archive/a3ed5fffcfb27bb60b2590c3d02686a04bdcc608.jpg"
     },
     {
       "title": "325",
       "author": "我才不是嘉年",
-      "view": 817660,
-      "like": 95378,
+      "view": 984767,
+      "like": 110574,
       "cat": "搞笑",
       "link": "https://www.bilibili.com/video/BV1Wq846oExx",
       "cover": "http://i1.hdslb.com/bfs/archive/088a4f7229aba6b980bf7adea44ea961a3737a0a.jpg"
     },
     {
-      "title": "抽象新闻：8月人类迷惑行为大赏（上）",
-      "author": "我是M菌",
-      "view": 1698771,
-      "like": 121771,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1CW8C66E5r",
-      "cover": "http://i1.hdslb.com/bfs/archive/4410aeb070f92cfabb66fed62cddc9f72d85f508.jpg"
+      "title": "闭店通知",
+      "author": "粥饼伦灌饼",
+      "view": 533613,
+      "like": 36325,
+      "cat": "亲子",
+      "link": "https://www.bilibili.com/video/BV1gMhP6GEpb",
+      "cover": "http://i2.hdslb.com/bfs/archive/477572d997626c84dfd76771b242f67c0c91a5a8.jpg"
     },
     {
-      "title": "「小白」小米玄戒O3芯片实测解析：太豪了！",
-      "author": "小白测评",
-      "view": 468310,
-      "like": 21674,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1b68v6oEv9",
-      "cover": "http://i0.hdslb.com/bfs/archive/257903fa778e9d3d14843c6981e90a597efeef24.jpg"
-    },
-    {
-      "title": "大起诉时代震撼内娱，《我们的少年时代2》弱势来袭",
-      "author": "接二连珊妄想症",
-      "view": 240583,
-      "like": 25927,
-      "cat": "娱乐杂谈",
-      "link": "https://www.bilibili.com/video/BV1rMhN6cEAg",
-      "cover": "http://i0.hdslb.com/bfs/archive/38fadb0d9ff9fd1101cbf32c5a40acd049aadb30.jpg"
-    },
-    {
-      "title": "爆辣挑战",
-      "author": "周二快乐小生活",
-      "view": 514658,
-      "like": 55917,
-      "cat": "美食记录",
-      "link": "https://www.bilibili.com/video/BV1KC8y62EiP",
-      "cover": "http://i0.hdslb.com/bfs/archive/dbe3d81f611d4add7ce7f4b387681d5c928539a5.jpg"
+      "title": "【科学修仙】你给姐下套，姐带你打瓦...【up动画】",
+      "author": "么鸣堂",
+      "view": 642593,
+      "like": 31557,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1ZL8h6tEmn",
+      "cover": "http://i0.hdslb.com/bfs/archive/6a6344f883b7d92c70ac3c97511836a869d11712.jpg"
     }
   ],
   "weibo": [
