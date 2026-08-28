@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 05:20:50 +08:00",
+  "generated_at": "2026-08-29 05:49:38 +08:00",
   "date": "2026-08-29",
   "weekday": "周六",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "似水流年是一个人所有的一切，只有这个东西，才真正归你所有。",
-      "from": "王小波 · 《似水流年》"
+      "text": "沧海月明珠有泪，蓝田日暖玉生烟。",
+      "from": "李商隐 · 《锦瑟》"
     },
     "angles": [
       {
@@ -437,44 +437,53 @@
     {
       "title": "耗时一年，救赎相信光的小女孩，完整后续来了！",
       "author": "扯淡人生-",
-      "view": 557592,
-      "like": 95747,
+      "view": 595294,
+      "like": 100193,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1Jrtc6GEVU",
       "cover": "http://i0.hdslb.com/bfs/archive/36c0298e013922e9f12e3f1a03125f2fc570052a.jpg"
     },
     {
+      "title": "美术展里的假人模型，为何变成了真人尸体...？",
+      "author": "某幻君",
+      "view": 753080,
+      "like": 63488,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1NC4Z6VEUQ",
+      "cover": "http://i1.hdslb.com/bfs/archive/bb3b20ba89b826261e657fd9ace457a44dedf7a2.jpg"
+    },
+    {
       "title": "寿星来切蛋糕啦！！「谁是杀手」？？！",
       "author": "大炒面制造者Cen",
-      "view": 785166,
-      "like": 81945,
+      "view": 787882,
+      "like": 82036,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1Go8f6PEHd",
       "cover": "http://i0.hdslb.com/bfs/archive/1b0cc23eff48e6f426cbfa53a3fa4aeb9e5c7a53.jpg"
     },
     {
+      "title": "这不是幻想",
+      "author": "7鲸尾",
+      "view": 759832,
+      "like": 64662,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV137tc6ZExx",
+      "cover": "http://i2.hdslb.com/bfs/archive/c4f3acec1083f2a2ce3ba5a31a551cd5a2778d01.jpg"
+    },
+    {
       "title": "【招笑版】新植物2:朝阳葵",
       "author": "时空go蛙",
-      "view": 1006806,
-      "like": 42652,
+      "view": 1018632,
+      "like": 43175,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1P6496fExM",
       "cover": "http://i2.hdslb.com/bfs/archive/70d636ea01df21014e7d61c1cb7518b99f208e9a.jpg"
     },
     {
-      "title": "【硬核横测】打工人《鱿鱼游戏》，三款AI搭子谁能让我“活”着下班？",
-      "author": "GenJi是真想教会你",
-      "view": 208108,
-      "like": 6922,
-      "cat": "计算机技术",
-      "link": "https://www.bilibili.com/video/BV178hF6rEHE",
-      "cover": "http://i0.hdslb.com/bfs/archive/13bca6baabcf14aed3883aa13d24d9170088da3c.jpg"
-    },
-    {
       "title": "【2026LPL第三赛段】8月28日 TT vs IG",
       "author": "哔哩哔哩英雄联盟赛事",
-      "view": 1460393,
-      "like": 10842,
+      "view": 1468921,
+      "like": 10886,
       "cat": "电子竞技",
       "link": "https://www.bilibili.com/video/BV166tA6SECF",
       "cover": "http://i1.hdslb.com/bfs/archive/3dd3a127b632bed471fa357ff90c75f95c998e59.jpg"
@@ -482,137 +491,128 @@
     {
       "title": "Grand Theft Auto VI：分量十足的一瞥",
       "author": "RockstarGames",
-      "view": 959275,
-      "like": 63136,
+      "view": 961651,
+      "like": 63278,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1vm4f6bETN",
       "cover": "http://i1.hdslb.com/bfs/archive/ca971949f738fe0c9d0455fdeeda4f89b1652911.jpg"
     },
     {
-      "title": "美术展里的假人模型，为何变成了真人尸体...？",
-      "author": "某幻君",
-      "view": 742320,
-      "like": 63179,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1NC4Z6VEUQ",
-      "cover": "http://i1.hdslb.com/bfs/archive/bb3b20ba89b826261e657fd9ace457a44dedf7a2.jpg"
-    },
-    {
-      "title": "这不是幻想",
-      "author": "7鲸尾",
-      "view": 753732,
-      "like": 64263,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV137tc6ZExx",
-      "cover": "http://i2.hdslb.com/bfs/archive/c4f3acec1083f2a2ce3ba5a31a551cd5a2778d01.jpg"
-    },
-    {
       "title": "币圈富豪孙宇晨手撕景甜，索赔3千万彩礼，娱乐圈+金融圈惊天巨瓜！",
       "author": "一只吐槽圆",
-      "view": 3932090,
-      "like": 98018,
+      "view": 3938967,
+      "like": 98126,
       "cat": "娱乐杂谈",
       "link": "https://www.bilibili.com/video/BV1N1tF6SE2S",
       "cover": "http://i0.hdslb.com/bfs/archive/4f7e70b7e9fb44d2710adfe7414ff396f43ca1cb.jpg"
     },
     {
-      "title": "《绝区零》3.2版本PV | 她与她的隐秘往事",
-      "author": "绝区零",
-      "view": 493763,
-      "like": 32993,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1vRtA6gE5m",
-      "cover": "http://i2.hdslb.com/bfs/archive/8ff09f60fa3bc06acadf6e0ee234b75c7597bb58.jpg"
-    },
-    {
-      "title": "三姐妹凌晨醉酒后，居然？？？ 【雷霆姐妹花2】",
-      "author": "宝剑嫂",
-      "view": 1429732,
-      "like": 100792,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1QX8e6fE3g",
-      "cover": "http://i1.hdslb.com/bfs/archive/fa9ae49ef44cd052070f11597365187a8e5e5fba.jpg"
-    },
-    {
-      "title": "接下来一万期都是这家剁椒面了",
-      "author": "庞博zoro",
-      "view": 1461699,
-      "like": 148145,
-      "cat": "美食测评",
-      "link": "https://www.bilibili.com/video/BV1Wz8b6PEgU",
-      "cover": "http://i2.hdslb.com/bfs/archive/18b097b6e3dc0e8996c1d8e953ac3f68c12c5628.jpg"
-    },
-    {
       "title": "我被100名警察追捕，抓到我赢50万美金！",
       "author": "野兽先生MrBeast",
-      "view": 3657735,
-      "like": 217575,
+      "view": 3659731,
+      "like": 217670,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1bMhV6PEtE",
       "cover": "http://i0.hdslb.com/bfs/archive/8d417f4476382f277e8bb32678cc825329ef5e02.jpg"
     },
     {
-      "title": "炸了！3亿代孕费！片场互相睡！2026头号大瓜新鲜出炉！",
-      "author": "LexBurner",
-      "view": 2023353,
-      "like": 60214,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1XT4f6dED8",
-      "cover": "http://i0.hdslb.com/bfs/archive/57894e2496ee9c3e1ea1201b8e2038465aaf19bf.jpg"
-    },
-    {
-      "title": "【万字解说】用一部电影的时间看完CSOL大灾变全故事剧情",
-      "author": "穿板鞋的橘猫",
-      "view": 1013316,
-      "like": 36763,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1ALh36DEPa",
-      "cover": "http://i2.hdslb.com/bfs/archive/567efddf960ccc2c689d7acc0296fcdef00ec82e.jpg"
-    },
-    {
-      "title": "看了10年网络热门生物，无穷小亮能看出AI吗？",
-      "author": "影视飓风",
-      "view": 717304,
-      "like": 62844,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1eVtc6hEhn",
-      "cover": "http://i1.hdslb.com/bfs/archive/e441244fa5052d5129c86e554b0c6e15c8d0d194.jpg"
-    },
-    {
       "title": "怪兽中 出了一个...不对！是一群奥特曼的卧底！【AI全民制作人】",
       "author": "istupidpig",
-      "view": 2593743,
-      "like": 106924,
+      "view": 2596943,
+      "like": 107064,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1DNhw6iE1V",
       "cover": "http://i1.hdslb.com/bfs/archive/c3500b545e7ab1879170cb4e0dea8ed2cd2011cb.jpg"
     },
     {
-      "title": "“无法善终的王。”",
-      "author": "Mr-Ferret",
-      "view": 536216,
-      "like": 66451,
-      "cat": "绘画",
-      "link": "https://www.bilibili.com/video/BV1Bktc66EA7",
-      "cover": "http://i0.hdslb.com/bfs/archive/03f2b14cb873559ddb34abf63be9fa9fbce91484.jpg"
+      "title": "看了10年网络热门生物，无穷小亮能看出AI吗？",
+      "author": "影视飓风",
+      "view": 720849,
+      "like": 63041,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1eVtc6hEhn",
+      "cover": "http://i1.hdslb.com/bfs/archive/e441244fa5052d5129c86e554b0c6e15c8d0d194.jpg"
+    },
+    {
+      "title": "《绝区零》3.2版本PV | 她与她的隐秘往事",
+      "author": "绝区零",
+      "view": 500101,
+      "like": 33159,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1vRtA6gE5m",
+      "cover": "http://i2.hdslb.com/bfs/archive/8ff09f60fa3bc06acadf6e0ee234b75c7597bb58.jpg"
+    },
+    {
+      "title": "这盘棋已经赢不了，只能把对面打死了！",
+      "author": "修2",
+      "view": 3597889,
+      "like": 153505,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1DR8e6tE3P",
+      "cover": "http://i1.hdslb.com/bfs/archive/6383755ab715c42416c7a061db0d195fd15ff95f.jpg"
+    },
+    {
+      "title": "接下来一万期都是这家剁椒面了",
+      "author": "庞博zoro",
+      "view": 1464347,
+      "like": 148397,
+      "cat": "美食测评",
+      "link": "https://www.bilibili.com/video/BV1Wz8b6PEgU",
+      "cover": "http://i2.hdslb.com/bfs/archive/18b097b6e3dc0e8996c1d8e953ac3f68c12c5628.jpg"
+    },
+    {
+      "title": "吃瓜必看！一个视频带你全面复盘景甜、孙宇晨炸裂大瓜！娱乐圈还是太乱了",
+      "author": "三代鹿人",
+      "view": 2180161,
+      "like": 54533,
+      "cat": "影视杂谈",
+      "link": "https://www.bilibili.com/video/BV1JJtF6qEgn",
+      "cover": "http://i2.hdslb.com/bfs/archive/aced4a288e75a5ed634c39620d17fb7bb19233db.jpg"
+    },
+    {
+      "title": "中国首位逃离塔科夫专属主播定制道具拥有者——油墨香车",
+      "author": "油墨香车",
+      "view": 881257,
+      "like": 43695,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1Gp4963Egk",
+      "cover": "http://i1.hdslb.com/bfs/archive/3403bd0b715797b889195af0262553c8e05ec314.jpg"
+    },
+    {
+      "title": "贵州大美男系列山歌，一次看过瘾！",
+      "author": "贵州倒二宝",
+      "view": 1377775,
+      "like": 94109,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1sehc6oEQ4",
+      "cover": "http://i2.hdslb.com/bfs/archive/bbecb6d44321639f16e69b7e1fd562e57e286005.jpg"
     },
     {
       "title": "日元创40年新低，美国突然出手，怎么回事儿？",
       "author": "小Lin说",
-      "view": 491985,
-      "like": 24367,
+      "view": 495654,
+      "like": 24474,
       "cat": "财经商业",
       "link": "https://www.bilibili.com/video/BV16rtc63EgT",
       "cover": "http://i1.hdslb.com/bfs/archive/eb5ee332388fbd5d5f1bc769ae5885eee8d22f12.jpg"
     },
     {
-      "title": "这盘棋已经赢不了，只能把对面打死了！",
-      "author": "修2",
-      "view": 3593501,
-      "like": 153341,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1DR8e6tE3P",
-      "cover": "http://i1.hdslb.com/bfs/archive/6383755ab715c42416c7a061db0d195fd15ff95f.jpg"
+      "title": "【茧物语】坐电梯下楼，那是弱者的思维",
+      "author": "艺术家不2真人",
+      "view": 939984,
+      "like": 53511,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1h7hg68Ey3",
+      "cover": "http://i1.hdslb.com/bfs/archive/1d9235ae3451754a46b1baaf7613024f0500e4bb.jpg"
+    },
+    {
+      "title": "三姐妹凌晨醉酒后，居然？？？ 【雷霆姐妹花2】",
+      "author": "宝剑嫂",
+      "view": 1431466,
+      "like": 100848,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1QX8e6fE3g",
+      "cover": "http://i1.hdslb.com/bfs/archive/fa9ae49ef44cd052070f11597365187a8e5e5fba.jpg"
     }
   ],
   "weibo": [
