@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30 12:34:02 +08:00",
+  "generated_at": "2026-08-30 19:32:39 +08:00",
   "date": "2026-08-30",
   "weekday": "周日",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "我只对现实世界绝望过，却未对自己绝望过！",
-      "from": "《只有神知道的世界》"
+      "text": "天若有情天亦老，我将千年换明朝。",
+      "from": "廖羽/和汇慧 · 《千年》"
     },
     "angles": [
       {
@@ -435,55 +435,118 @@
   },
   "bilibili": [
     {
-      "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
-      "author": "多梦综合征",
-      "view": 894550,
-      "like": 64337,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1Hy4k64Erk",
-      "cover": "http://i2.hdslb.com/bfs/archive/9d403164087ae95338497c94080ad91d0915b8f5.jpg"
+      "title": "《古神: 风里希》科隆游戏展最新预告片 | 世界观前瞻",
+      "author": "古神风里希",
+      "view": 5296528,
+      "like": 50676,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1xQtw6WELS",
+      "cover": "http://i2.hdslb.com/bfs/archive/42c545df75ab930423c5ca5b7357bddf92bcae27.jpg"
     },
     {
-      "title": "去了一趟西班牙2.0（荒岛四兄弟篇）",
-      "author": "影视飓风",
-      "view": 173200,
-      "like": 23295,
-      "cat": "出行",
-      "link": "https://www.bilibili.com/video/BV1Na4Q64Eos",
-      "cover": "http://i0.hdslb.com/bfs/archive/b0b220f1953c34b1ed89888c18450cf94ef0480e.jpg"
+      "title": "【大学生就业指导】麦当当薯条N重奏！200块买两斤土豆？不能够了！",
+      "author": "阿白的金手指厨房",
+      "view": 940386,
+      "like": 83431,
+      "cat": "美食制作",
+      "link": "https://www.bilibili.com/video/BV16g4y6tEzY",
+      "cover": "http://i1.hdslb.com/bfs/archive/e0797c541685edf703f8609e441c102daab7cf08.jpg"
     },
     {
-      "title": "当你的资产缩水到A0层级，挑选优质桥洞的六大方案！",
-      "author": "手搓工坊M",
-      "view": 1766947,
-      "like": 104994,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1ZNtA6CExY",
-      "cover": "http://i2.hdslb.com/bfs/archive/6fd4131ea6d02d3d16d65c280138ace43b096845.jpg"
+      "title": "二游做载具没一个能打的，《无限大》也不例外【NFSLYY】",
+      "author": "NFSLYY",
+      "view": 410270,
+      "like": 9085,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1gP4C6CEUo",
+      "cover": "http://i0.hdslb.com/bfs/archive/1ebb720fe0383f265a2d9260a6671ecafd0ae225.jpg"
     },
     {
       "title": "【独家】牧神记 第98集 杀新皇",
       "author": "哔哩哔哩国创",
-      "view": 586182,
-      "like": 11550,
+      "view": 2048597,
+      "like": 30325,
       "cat": "国产动画",
       "link": "https://www.bilibili.com/video/BV1bt4k6MEPF",
       "cover": "http://i1.hdslb.com/bfs/archive/bb07f65ece9852ed1eac07a1992fb40517fa1599.png"
     },
     {
-      "title": "您叫的骑手正忙 请稍后再拨",
-      "author": "脱缰凯Kk",
-      "view": 1172045,
-      "like": 85447,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV13k4C6mEDv",
-      "cover": "http://i2.hdslb.com/bfs/archive/229ab1620692ba89e4bebb58ad0e974aca359dff.jpg"
+      "title": "FALSITY…（完整版电影 / 官方正版)",
+      "author": "7xqree",
+      "view": 483380,
+      "like": 87207,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1qH4U6iEEy",
+      "cover": "http://i2.hdslb.com/bfs/archive/d7ada75e75c0d9f8b42e167d09d511f01c61434a.jpg"
+    },
+    {
+      "title": "《龙族：卡塞尔之门》x《新世纪福音战士》全新联动 | 世界余响",
+      "author": "龙族卡塞尔之门",
+      "view": 923769,
+      "like": 52475,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1D5tc6fEzM",
+      "cover": "http://i2.hdslb.com/bfs/archive/d81f42c1053851500753a5bc4d48ef65a827886d.jpg"
+    },
+    {
+      "title": "⚡ 舞 立 方 . m p 4 ⚡",
+      "author": "沉默-_-微笑",
+      "view": 1132123,
+      "like": 151513,
+      "cat": "音游",
+      "link": "https://www.bilibili.com/video/BV1td4o6LEFr",
+      "cover": "http://i1.hdslb.com/bfs/archive/5331201ca4b08b5c5bf4e246dbe7d7d2183f8814.jpg"
+    },
+    {
+      "title": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
+      "author": "特厨隋坡",
+      "view": 540821,
+      "like": 44303,
+      "cat": "美食侦探",
+      "link": "https://www.bilibili.com/video/BV18s4k6gESU",
+      "cover": "http://i2.hdslb.com/bfs/archive/8fa6002467c449d9c93a3c653e90a194fe065dd0.jpg"
+    },
+    {
+      "title": "去了一趟西班牙2.0（荒岛四兄弟篇）",
+      "author": "影视飓风",
+      "view": 740606,
+      "like": 74148,
+      "cat": "出行",
+      "link": "https://www.bilibili.com/video/BV1Na4Q64Eos",
+      "cover": "http://i0.hdslb.com/bfs/archive/b0b220f1953c34b1ed89888c18450cf94ef0480e.jpg"
+    },
+    {
+      "title": "【独家/完结】《记忆管理局》第7集 记忆这样脆弱的东西【8月国创】",
+      "author": "哔哩哔哩国创",
+      "view": 742634,
+      "like": 20201,
+      "cat": "国产动画",
+      "link": "https://www.bilibili.com/video/BV1dTtc6eEno",
+      "cover": "http://i2.hdslb.com/bfs/archive/af73148f5060c4420eac69e14b5f73063f5c24e9.png"
+    },
+    {
+      "title": "【第四十五赛季·精华1】故事视频公开：——“如坠梦中的幸福时光，万物焕然……”",
+      "author": "网易第五人格手游",
+      "view": 390564,
+      "like": 16224,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1S64D6wEdq",
+      "cover": "http://i2.hdslb.com/bfs/archive/11c527bd5fe6fca98a6035bebe3811c5f339f77b.jpg"
+    },
+    {
+      "title": "武德充沛！在美国当牛仔到底有多刺激！",
+      "author": "食贫道",
+      "view": 861639,
+      "like": 38220,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1HP4y6YEyQ",
+      "cover": "http://i1.hdslb.com/bfs/archive/6a9e240bb13afb240e8b00532aff680510284639.jpg"
     },
     {
       "title": "吃自助餐的九大神队友！你属于哪一种？",
       "author": "Leon里昂SS",
-      "view": 1335465,
-      "like": 58288,
+      "view": 2098813,
+      "like": 91030,
       "cat": "美食记录",
       "link": "https://www.bilibili.com/video/BV17TtA6VEuH",
       "cover": "http://i2.hdslb.com/bfs/archive/951503367c1cd3180fa0aa21ecaa4c1a29c8bc8c.jpg"
@@ -491,128 +554,65 @@
     {
       "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影",
       "author": "野生锅导演",
-      "view": 221524,
-      "like": 19284,
+      "view": 576734,
+      "like": 48758,
       "cat": "影视剪辑",
       "link": "https://www.bilibili.com/video/BV1o74y6XEcM",
       "cover": "http://i0.hdslb.com/bfs/archive/041975b1de6259be51c6d811d2288340f7e759ba.jpg"
     },
     {
-      "title": "立志成为恶兽第一集",
-      "author": "立志成为恶兽",
-      "view": 1306614,
-      "like": 124229,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1iRtA6gEuc",
-      "cover": "http://i0.hdslb.com/bfs/archive/0e51be7c92618cec77962604eb100f907bc44f17.jpg"
+      "title": "我的世界，但所有人共享背包！？",
+      "author": "大橙橙橙子",
+      "view": 378040,
+      "like": 39921,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV16E4D6jE9K",
+      "cover": "http://i2.hdslb.com/bfs/archive/64c2b84490bb5da4d19e3f5cd0bd9c9ac96bd48e.jpg"
     },
     {
-      "title": "立瓶子挑战，相亲相爱~",
-      "author": "瓜哥超爱玩QAQ",
-      "view": 498971,
-      "like": 22539,
+      "title": "当你的资产缩水到A0层级，挑选优质桥洞的六大方案！",
+      "author": "手搓工坊M",
+      "view": 2995941,
+      "like": 199226,
       "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1PN4266Eys",
-      "cover": "http://i1.hdslb.com/bfs/archive/424cbd58da76e40fc6c3919363418c4892477688.jpg"
-    },
-    {
-      "title": "火柴人 VS 我的世界 第四十集 苦力怕部族（Creeper Clan）",
-      "author": "火柴人AlanBecker",
-      "view": 690775,
-      "like": 76716,
-      "cat": "同人·手书",
-      "link": "https://www.bilibili.com/video/BV163426vE3s",
-      "cover": "http://i1.hdslb.com/bfs/archive/aa837909b76e2b0ea811c372734e34f4d4691d01.jpg"
+      "link": "https://www.bilibili.com/video/BV1ZNtA6CExY",
+      "cover": "http://i2.hdslb.com/bfs/archive/6fd4131ea6d02d3d16d65c280138ace43b096845.jpg"
     },
     {
       "title": "世界破破烂烂，总有人缝缝补补",
       "author": "高天天天翔",
-      "view": 1270256,
-      "like": 49203,
+      "view": 2584618,
+      "like": 81265,
       "cat": "影视剪辑",
       "link": "https://www.bilibili.com/video/BV1wZtw6JERc",
       "cover": "http://i2.hdslb.com/bfs/archive/2445c5586c9fa974a6b874652b937b16172e3073.jpg"
     },
     {
-      "title": "谁能想到这种事情现实真的存在",
-      "author": "鼠鼠鼠老板",
-      "view": 484144,
-      "like": 70087,
+      "title": "您叫的骑手正忙 请稍后再拨",
+      "author": "脱缰凯Kk",
+      "view": 1705650,
+      "like": 111754,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV13k4C6mEDv",
+      "cover": "http://i2.hdslb.com/bfs/archive/229ab1620692ba89e4bebb58ad0e974aca359dff.jpg"
+    },
+    {
+      "title": "这个丝瓜抹布真的有这么好用吗！！！",
+      "author": "小马哥测评",
+      "view": 823096,
+      "like": 54333,
+      "cat": "家居房产",
+      "link": "https://www.bilibili.com/video/BV1Q5tc6fEn4",
+      "cover": "http://i2.hdslb.com/bfs/archive/976fc0d1bc504917b881425391363993b4ced67d.jpg"
+    },
+    {
+      "title": "《我们的家2》",
+      "author": "是许木木啊",
+      "view": 723518,
+      "like": 82718,
       "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1sYtA6xEjX",
-      "cover": "http://i1.hdslb.com/bfs/archive/03672ee63bf214d966202b8d7c06fab6af89da49.jpg"
-    },
-    {
-      "title": "【英雄联盟】我们的十五年征途，就是英雄之路",
-      "author": "英雄联盟",
-      "view": 1259924,
-      "like": 45623,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1Ngtw6pE8q",
-      "cover": "http://i0.hdslb.com/bfs/archive/34620a998ad7fb504e468d228bef97f83dce3a73.jpg"
-    },
-    {
-      "title": "挑战共享单车100km去台湾",
-      "author": "赛亚人阿廖",
-      "view": 1101891,
-      "like": 61068,
-      "cat": "出行",
-      "link": "https://www.bilibili.com/video/BV12YtN6AEF1",
-      "cover": "http://i0.hdslb.com/bfs/archive/2c82a7cfdc03d4b6dfd194eb3e630090a72ca5e1.jpg"
-    },
-    {
-      "title": "老叟戏顽童 白俄戏欧盟",
-      "author": "燕三嘤嘤嘤",
-      "view": 1634813,
-      "like": 107734,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1VitP6GE9o",
-      "cover": "http://i2.hdslb.com/bfs/archive/421bf66cd0671c78477dcc83828594c2dbf3682c.jpg"
-    },
-    {
-      "title": "【剧情】暗影蜘蛛侠（2026）01【尼古拉斯·凯奇 / 拉蒙尼·莫里斯】",
-      "author": "迷影社",
-      "view": 277868,
-      "like": 3000,
-      "cat": "海外剧",
-      "link": "https://www.bilibili.com/video/BV1P74R6eEii",
-      "cover": "http://i2.hdslb.com/bfs/archive/6ac17e064e5d8b362b5e3b496d53abd759552905.jpg"
-    },
-    {
-      "title": "工藤星一：3岁，是名侦探【名侦探阿星01】",
-      "author": "御坂魔丸",
-      "view": 226920,
-      "like": 25150,
-      "cat": "同人·手书",
-      "link": "https://www.bilibili.com/video/BV1gMhw6eEcC",
-      "cover": "http://i0.hdslb.com/bfs/archive/c37de910441d2e6f325eb9b8beb4c7c325978825.jpg"
-    },
-    {
-      "title": "《下一个是谁》恐怖特辑——无限循环的寺庙",
-      "author": "雨哥到处跑",
-      "view": 1514259,
-      "like": 139721,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1GrtK62EfT",
-      "cover": "http://i1.hdslb.com/bfs/archive/f50e6dc488a62bf86abfd44edc76beeba31a4ce6.jpg"
-    },
-    {
-      "title": "道士也怕鬼（第一集）个人原创剧情",
-      "author": "旋转皮坨",
-      "view": 748821,
-      "like": 53095,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1838R6EEtj",
-      "cover": "http://i2.hdslb.com/bfs/archive/8ac4ec27cae978fcdbf4a530ea88b2a3d7c8ff28.jpg"
-    },
-    {
-      "title": "《小杨有约29#》：陈泽",
-      "author": "小杨Johnson",
-      "view": 1691311,
-      "like": 157788,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1s7tK6AECw",
-      "cover": "http://i2.hdslb.com/bfs/archive/20aacc6599b134529474193e50a64b99abea4a15.jpg"
+      "link": "https://www.bilibili.com/video/BV1pP4y6YEBq",
+      "cover": "http://i2.hdslb.com/bfs/archive/8e826657910470bc15dc0ee52d3eaa7bb900454c.jpg"
     }
   ],
   "weibo": [
