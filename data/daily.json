@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 07:36:35 +08:00",
+  "generated_at": "2026-09-01 12:37:39 +08:00",
   "date": "2026-09-01",
   "weekday": "周二",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "别问我的心里有没有你，我余光中都是你。",
-      "from": "余光中 · 《乡愁》"
+      "text": "天匠染青红，花腰呈嬝娜。",
+      "from": "欧阳修 · 《依韵和圣俞见寄》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
-      "title": "李炮儿在李炮儿模仿大赛中获得了第二名",
-      "author": "李炮炮儿",
-      "view": 622767,
-      "like": 39426,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1u4tt6iEvf",
-      "cover": "http://i0.hdslb.com/bfs/archive/2f527d80d1a0ae14e0656804eeb73ff1b9f7cd4a.jpg"
+      "title": "L3 自动驾驶，又是狼来了吗？",
+      "author": "所长Wy",
+      "view": 3825315,
+      "like": 56510,
+      "cat": "汽车生活",
+      "link": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "cover": "http://i0.hdslb.com/bfs/archive/a38bf453af11905dc538410797ed1fc56cef67fd.jpg"
+    },
+    {
+      "title": "【9月耳夹式耳机推荐】2026年9月开放式耳机选购指南！自费无恰饭！内含音质和漏音测试！全部实拍实测推荐！挂耳式/耳夹式开放蓝牙耳机！",
+      "author": "音悦阁主",
+      "view": 1018542,
+      "like": 5947,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1DutM6jEYs",
+      "cover": "http://i0.hdslb.com/bfs/archive/4e8b72e5dcdf5102b1bb1f7daba02b80d824b676.jpg"
+    },
+    {
+      "title": "【9月蓝牙耳机推荐】蓝牙耳机开学季推荐指南！内含入耳式/半入耳式/开放式！全价位手机厂/HiFi厂对比！看完不再上当！",
+      "author": "掷地有声sound",
+      "view": 1009339,
+      "like": 5574,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV18gtM61EXr",
+      "cover": "http://i1.hdslb.com/bfs/archive/9577c8337bb236e76dfaa4c875b10dcc2a95dd25.jpg"
+    },
+    {
+      "title": "第一期（上）：败走华容道 关羽义释曹操【时差五小时3】",
+      "author": "综艺哔哔机",
+      "view": 1108266,
+      "like": 9243,
+      "cat": "综艺",
+      "link": "https://www.bilibili.com/video/BV19o4k6EEXD",
+      "cover": "http://i1.hdslb.com/bfs/archive/430272316ee0d8604a5efdaabe7767b3d2400448.png"
+    },
+    {
+      "title": "这也能装？给车内塞一套工作站！小米澎程N90 Max用车体验！",
+      "author": "苏打baka",
+      "view": 1144798,
+      "like": 26305,
+      "cat": "极客DIY",
+      "link": "https://www.bilibili.com/video/BV1k2t86hEuD",
+      "cover": "http://i1.hdslb.com/bfs/archive/ef082542984f1d00976076acec0b5d86db02b842.jpg"
+    },
+    {
+      "title": "【2026年9月电脑椅推荐】不云评，全实拍实测！开学季看这一期就够，人体工学椅推荐，电竞椅推荐人体工学椅还是电竞椅怎么选 清闲/黑白调/歌德利/京造/西昊/傲风",
+      "author": "梦寐椅求",
+      "view": 1029276,
+      "like": 4007,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1328X62EKu",
+      "cover": "http://i0.hdslb.com/bfs/archive/22afbe003588f7c991306618eff8b62acdfcb72b.jpg"
+    },
+    {
+      "title": "这是我今年最不后悔买的车！",
+      "author": "有车有肉的肉肉",
+      "view": 432692,
+      "like": 8821,
+      "cat": "汽车生活",
+      "link": "https://www.bilibili.com/video/BV1Kvtt6cEFY",
+      "cover": "http://i2.hdslb.com/bfs/archive/c2aea6141db1575bbe52f7454ff38aa06c517c6e.jpg"
+    },
+    {
+      "title": "不同年代用什么游戏测试电脑性能？",
+      "author": "上海滩许Van强",
+      "view": 708281,
+      "like": 11035,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV11nth6TEUk",
+      "cover": "http://i2.hdslb.com/bfs/archive/ad99c6b924a99a4b6072508de3333f7c3452523a.jpg"
+    },
+    {
+      "title": "时隔47年的恐怖顶流？《异形》做成联机究竟有多疯狂！",
+      "author": "雁老师",
+      "view": 295922,
+      "like": 19383,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1Pkt86PEfe",
+      "cover": "http://i1.hdslb.com/bfs/archive/500564562453b619882dadd7fa0b338fd8b43ce8.jpg"
+    },
+    {
+      "title": "尺度神作扎堆大世界，无限大做一堆神人NPC和小游戏！再把所有人逗笑！",
+      "author": "鲁过一世",
+      "view": 964946,
+      "like": 39421,
+      "cat": "影视杂谈",
+      "link": "https://www.bilibili.com/video/BV1DF4X6TEfa",
+      "cover": "http://i0.hdslb.com/bfs/archive/23a611a3613916dcf9c3e3e91b0abe8fcce7b0f1.jpg"
+    },
+    {
+      "title": "【2026年9月音箱推荐】开学季哪些桌面音箱怎么选？桌面音箱选购攻略，分体式/长条音箱，涵盖众多品牌：BOSE/OXS傲希/漫步者/七彩虹/漫步者花再/哈曼卡顿",
+      "author": "充电大宝_",
+      "view": 1038343,
+      "like": 9067,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1Sv8d6DEhc",
+      "cover": "http://i1.hdslb.com/bfs/archive/9cf134502ea6d777dbedaab607565d3d69c37d31.jpg"
+    },
+    {
+      "title": "“冲 徒 逆 师”",
+      "author": "雾枝今天行不行啊",
+      "view": 281565,
+      "like": 12231,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1b84y6yENg",
+      "cover": "http://i1.hdslb.com/bfs/archive/86f1b87c8d875b5e836118fa05c015aef9aa7171.jpg"
+    },
+    {
+      "title": "我永远都会原谅《GTA6》的车",
+      "author": "银河小黄哥",
+      "view": 181274,
+      "like": 5698,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1D44y62EFq",
+      "cover": "http://i2.hdslb.com/bfs/archive/55bc5e940d83e363a1367a40cb52693b1102b8d3.jpg"
     },
     {
       "title": "三年之期已到，恭迎世一上归位！【第6集】",
       "author": "九夜听风",
-      "view": 381779,
-      "like": 26537,
+      "view": 833694,
+      "like": 37549,
       "cat": "影视剪辑",
       "link": "https://www.bilibili.com/video/BV1eHt86mErz",
       "cover": "http://i1.hdslb.com/bfs/archive/1de578cb70c3cbe423f64652d38700d71165ce14.jpg"
     },
     {
+      "title": "李炮儿在李炮儿模仿大赛中获得了第二名",
+      "author": "李炮炮儿",
+      "view": 1099888,
+      "like": 65778,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1u4tt6iEvf",
+      "cover": "http://i0.hdslb.com/bfs/archive/2f527d80d1a0ae14e0656804eeb73ff1b9f7cd4a.jpg"
+    },
+    {
+      "title": "2026 MacBook 全系选购指南",
+      "author": "橙红Iris",
+      "view": 515057,
+      "like": 18613,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV13a8d69EDe",
+      "cover": "http://i2.hdslb.com/bfs/archive/8fe4fc863a95c6ea37a3037da70d934d0eb5fe25.jpg"
+    },
+    {
       "title": "当广告挡住关键时刻，可能就是生死之间",
       "author": "中国新闻网",
-      "view": 390253,
-      "like": 53888,
+      "view": 1005000,
+      "like": 134654,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1YNtb66ErA",
       "cover": "http://i0.hdslb.com/bfs/archive/b40c7614fdb2e18c3a29e096e69227ae80716711.jpg"
     },
     {
-      "title": "《安心安全 | 安心安全》MV ：日本制造最重视的就是企业形象",
-      "author": "即兴演奏家",
-      "view": 218246,
-      "like": 25471,
+      "title": "从最期待变最难绷，一个城市还没做完就做第二个，没任何公开测试就宣布上线日期，无限大能好好把游戏做完吗？",
+      "author": "老坑zzz",
+      "view": 248588,
+      "like": 10032,
       "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1WPt86FETB",
-      "cover": "http://i0.hdslb.com/bfs/archive/a42fb27a5ba9e67c95acf894b7f5f78892c940a0.jpg"
+      "link": "https://www.bilibili.com/video/BV1Y2tb6rEj7",
+      "cover": "http://i2.hdslb.com/bfs/archive/4551e1e6ef89c292513e5579b3db3c3391e9380c.jpg"
     },
     {
-      "title": "漂亮的恶意01|误入充满恶意的顶级财阀校园，川渝转学生表示，她真的只想好好学习！",
-      "author": "海底蟹黄堡007",
-      "view": 548254,
-      "like": 34052,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1Aj4D6UEHB",
-      "cover": "http://i1.hdslb.com/bfs/archive/d3b5a7cf7224e85f8af46308962f199d34cf599f.jpg"
-    },
-    {
-      "title": "当你穿进老钱班34",
-      "author": "侯绿萝",
-      "view": 850536,
-      "like": 56754,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1e6tb61ETL",
-      "cover": "http://i0.hdslb.com/bfs/archive/e5567f653a4a94d41279bb20f80c339d7e9157b1.jpg"
-    },
-    {
-      "title": "四千人失踪，尼泊尔终究不放开接受外国援助",
-      "author": "波士顿圆脸",
-      "view": 371997,
-      "like": 24179,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV15Wt86jEFH",
-      "cover": "http://i2.hdslb.com/bfs/archive/eb8b255ae274932368d7938a04a957a9f86e1023.jpg"
-    },
-    {
-      "title": "罢黜百官",
-      "author": "脱缰凯Kk",
-      "view": 450511,
-      "like": 44277,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1mit86ME4z",
-      "cover": "http://i0.hdslb.com/bfs/archive/f31eb25eeefb7ca7f85e3d08dc2251689915d005.jpg"
-    },
-    {
-      "title": "带精神小妹买衣服，并回复评论区的一些评论",
-      "author": "旺卡_Wonka",
-      "view": 271526,
-      "like": 15666,
+      "title": "【9月蓝牙耳机推荐】2026蓝牙耳机开学季实测！内含入耳式/耳夹式/头戴式耳机大合集！看完不踩雷！小白必看！建议收藏！蓝牙耳机推荐2026/降噪耳机/耳机推荐/",
+      "author": "实测耳机推荐",
+      "view": 2126578,
+      "like": 8362,
       "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1swt86hE64",
-      "cover": "http://i2.hdslb.com/bfs/archive/c1511b5c21b87cd478cdd258df3af4b229a3737e.jpg"
+      "link": "https://www.bilibili.com/video/BV1fQtt6JEmX",
+      "cover": "http://i0.hdslb.com/bfs/archive/9e96de3abcd36fca0e461b137b195cf055a5975d.jpg"
     },
     {
-      "title": "全程高能！队友接连失踪？活着并逃离这里！！！「逃离疯人院」",
-      "author": "夏天y",
-      "view": 770349,
-      "like": 84275,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1CGtp66EEM",
-      "cover": "http://i0.hdslb.com/bfs/archive/a3663f39a80b3fcbe61c009a8e01b21a4d61f765.jpg"
-    },
-    {
-      "title": "和龙龙录一次猜英雄。太好玩了",
-      "author": "骚男丶注意马叉虫",
-      "view": 361631,
-      "like": 18065,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1aTtb6uEZW",
-      "cover": "http://i0.hdslb.com/bfs/archive/5f881e41c67208d382fcac8cb9e42c55862d7d1f.jpg"
-    },
-    {
-      "title": "《釜山行》2.0？当丧尸学会进化，比人类还团结，我们还能有胜算吗？延尚昊导演科幻惊悚片《群体》",
-      "author": "小片片说大片",
-      "view": 216550,
-      "like": 10809,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1wUt86FETK",
-      "cover": "http://i1.hdslb.com/bfs/archive/194ac2b09c384e090c5dfa3f5d5404bd40370777.jpg"
-    },
-    {
-      "title": "【我在现代当幽差】EP02 神仙？妖怪？谢谢【UP动画】",
-      "author": "红豆稀饭中",
-      "view": 1417231,
-      "like": 76271,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1xttH6rEKu",
-      "cover": "http://i1.hdslb.com/bfs/archive/26584a1ae9d38b8cb94c8ca600dc7637d2bf43bb.jpg"
-    },
-    {
-      "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
-      "author": "多梦综合征",
-      "view": 2440588,
-      "like": 168713,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1Hy4k64Erk",
-      "cover": "http://i2.hdslb.com/bfs/archive/9d403164087ae95338497c94080ad91d0915b8f5.jpg"
-    },
-    {
-      "title": "黑乌龟历险记vol.3",
-      "author": "小博博三角洲行动",
-      "view": 670493,
-      "like": 29883,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1nG8d6qE18",
-      "cover": "http://i1.hdslb.com/bfs/archive/41bc847a68550dca0d8c1e844755ea9fa5c846ad.jpg"
-    },
-    {
-      "title": "一条视频看8月：债务和土地，中美旧账单到期，全世界开始找备选方案【地球村月刊】",
-      "author": "小王Albert",
-      "view": 825860,
-      "like": 56949,
-      "cat": "财经商业",
-      "link": "https://www.bilibili.com/video/BV1AetW6LEZz",
-      "cover": "http://i2.hdslb.com/bfs/archive/6419125c1b8bb076851f04fa890b6a76e48053e7.jpg"
-    },
-    {
-      "title": "他，凭什么成为中华民国的国父？【历史调研室105】",
-      "author": "历史调研室",
-      "view": 329538,
-      "like": 27996,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1tLth6rE1n",
-      "cover": "http://i1.hdslb.com/bfs/archive/59d11eaad6cf683b2982752f744739ef7eb6cbea.jpg"
-    },
-    {
-      "title": "广安.第二顿 厨子探店¥33",
-      "author": "真探唐仁杰",
-      "view": 519148,
-      "like": 51568,
-      "cat": "美食侦探",
-      "link": "https://www.bilibili.com/video/BV1dRtx6BE7z",
-      "cover": "http://i0.hdslb.com/bfs/archive/e4e0e834817b7020757afec4a707224c78c3b5d0.jpg"
-    },
-    {
-      "title": "弄了口大钢牙",
-      "author": "手工耿",
-      "view": 574518,
-      "like": 48657,
-      "cat": "手工",
-      "link": "https://www.bilibili.com/video/BV1Ljtt6VEAS",
-      "cover": "http://i1.hdslb.com/bfs/archive/bc81ae96a92e3d2c16c3f5156e0a416e4f65b2c8.jpg"
-    },
-    {
-      "title": "对面牢玩家外出一趟，他队友就被我们牢玩家杀光了",
-      "author": "磊哥游戏",
-      "view": 744319,
-      "like": 47689,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1xhtW67EgF",
-      "cover": "http://i0.hdslb.com/bfs/archive/76c01198ff0f690a0f2adf8fb99d5ab31cb7ce49.jpg"
+      "title": "新三国up锐评神探狄仁杰14：前倨而后恭……这词儿咋这么耳熟？",
+      "author": "吃蛋挞的折棒",
+      "view": 148830,
+      "like": 12129,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1ktth6aEJL",
+      "cover": "http://i1.hdslb.com/bfs/archive/2ef2a3ec0d3914300d854e1f98e41b520a8edba6.jpg"
     }
   ],
   "weibo": [
