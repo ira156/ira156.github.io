@@ -1,69 +1,69 @@
 {
-  "updated": "2026-09-01T23:37:24.941Z",
+  "updated": "2026-09-02T04:37:58.524Z",
   "cities": {
     "重庆": {
       "name": "重庆",
-      "wind": 1.4,
-      "gust": 4.7,
+      "wind": 1.5,
+      "gust": 12.6,
       "rain": 0,
-      "hum": 84,
-      "temp": 23.2
+      "hum": 46,
+      "temp": 30.4
     },
     "宜昌": {
       "name": "宜昌",
-      "wind": 6,
-      "gust": 9.4,
-      "rain": 0.2,
-      "hum": 96,
-      "temp": 21.8
+      "wind": 14.3,
+      "gust": 33.1,
+      "rain": 0,
+      "hum": 57,
+      "temp": 27.2
     },
     "武汉": {
       "name": "武汉",
-      "wind": 16,
-      "gust": 36.7,
-      "rain": 0.1,
-      "hum": 63,
-      "temp": 24.6
+      "wind": 18.3,
+      "gust": 47.2,
+      "rain": 0,
+      "hum": 46,
+      "temp": 30.1
     },
     "城陵矶": {
       "name": "城陵矶",
-      "wind": 24.7,
-      "gust": 33.5,
+      "wind": 24.5,
+      "gust": 32.4,
       "rain": 0,
-      "hum": 77,
-      "temp": 23
+      "hum": 71,
+      "temp": 26.3
     },
     "九江": {
       "name": "九江",
-      "wind": 15.5,
-      "gust": 34.9,
+      "wind": 22.8,
+      "gust": 51.5,
       "rain": 0,
-      "hum": 86,
-      "temp": 23.7
+      "hum": 74,
+      "temp": 25.9
     },
     "南京": {
       "name": "南京",
-      "wind": 15.8,
-      "gust": 35.3,
+      "wind": 16.2,
+      "gust": 40.7,
       "rain": 0,
-      "hum": 81,
-      "temp": 23.7
+      "hum": 71,
+      "temp": 27.6
     },
     "南通": {
       "name": "南通",
-      "wind": 12.2,
-      "gust": 23.8,
+      "wind": 17.5,
+      "gust": 35.6,
       "rain": 0,
-      "hum": 90,
-      "temp": 25.8
+      "hum": 75,
+      "temp": 28.5
     },
     "上海": {
       "name": "上海",
-      "wind": 10.1,
-      "gust": 22,
-      "rain": 0,
-      "hum": 83,
-      "temp": 27.3
+      "wind": 14.4,
+      "gust": 34.2,
+      "rain": 0.1,
+      "hum": 69,
+      "temp": 29.3
     }
   }
 }

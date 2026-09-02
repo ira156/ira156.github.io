@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02 07:37:26 +08:00",
+  "generated_at": "2026-09-02 12:37:59 +08:00",
   "date": "2026-09-02",
   "weekday": "周三",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "我们即使发了一千次短信，心与心之间大概也只能靠近1厘米。",
-      "from": "远野贵树 · 《秒速五厘米》"
+      "text": "记住摆烂太久是会被收走天赋的！",
+      "from": "鼠仔- · 《网易云“世界上的另一个我”评论区》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
+      "title": "《明日方舟》干员「结城理」技能展示PV",
+      "author": "明日方舟",
+      "view": 567714,
+      "like": 43724,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1RhtV6iEt3",
+      "cover": "http://i2.hdslb.com/bfs/archive/b0fd9b63cd9449f0e82153a787595a63b4075915.jpg"
+    },
+    {
+      "title": "《明日方舟：终末地》提弗洛斯EP - Fragmented Dreams",
+      "author": "明日方舟终末地",
+      "view": 217907,
+      "like": 16676,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1Vot56BEHd",
+      "cover": "http://i2.hdslb.com/bfs/archive/a13f14af7f87a137a729ba9f0cc1782c4611678a.jpg"
+    },
+    {
+      "title": "《异环》灵可角色PV丨宇宙的频段",
+      "author": "异环",
+      "view": 443523,
+      "like": 7373,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1jVtt6LEjP",
+      "cover": "http://i2.hdslb.com/bfs/archive/e60a611c784be94c9bc855bfb8d053a3aece2015.jpg"
+    },
+    {
+      "title": "巴塞罗那的小偷把我带到了欧洲，让我在纽北被围了起来",
+      "author": "狗哥FastDog",
+      "view": 988285,
+      "like": 39441,
+      "cat": "汽车生活",
+      "link": "https://www.bilibili.com/video/BV1ej4Q6qEb8",
+      "cover": "http://i2.hdslb.com/bfs/archive/af28d8c3c05148200e27e24f08816f86efff283a.jpg"
+    },
+    {
+      "title": "华强买瓜，但郝哥能控制AI",
+      "author": "伊介书生",
+      "view": 391055,
+      "like": 16539,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1reth6tEFm",
+      "cover": "http://i0.hdslb.com/bfs/archive/c6a46080031546e3dd9717e628293993d998279f.jpg"
+    },
+    {
       "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
       "author": "张拉灯",
-      "view": 1800085,
-      "like": 112705,
+      "view": 2583105,
+      "like": 148685,
       "cat": "同人·手书",
       "link": "https://www.bilibili.com/video/BV1a3th65EQb",
       "cover": "http://i0.hdslb.com/bfs/archive/f6deea4b2be71c9cb7bba80264abcaed8b33c318.jpg"
     },
     {
-      "title": "绝活",
-      "author": "脱缰凯Kk",
-      "view": 650444,
-      "like": 51590,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1GStg6oEQe",
-      "cover": "http://i0.hdslb.com/bfs/archive/f366fb9ffbbe06420fa8a9b4cd97c3660c8ada1e.jpg"
+      "title": "1.6万人同唱，龚琳娜现场全开麦！《剑网3》十七周年庆典全程回顾上线",
+      "author": "剑网3",
+      "view": 950027,
+      "like": 5883,
+      "cat": "GMV",
+      "link": "https://www.bilibili.com/video/BV1FXt864EDe",
+      "cover": "http://i0.hdslb.com/bfs/archive/30b4e1dc4a01dee22aa0ef2cd2beab94a887ceb9.jpg"
     },
     {
-      "title": "为了测试这台7座车，我们找来了最难伺候的6种人！",
-      "author": "老蒋巨靠谱",
-      "view": 910822,
-      "like": 15394,
-      "cat": "汽车生活",
-      "link": "https://www.bilibili.com/video/BV17Jta6oEyE",
-      "cover": "http://i1.hdslb.com/bfs/archive/2418462574a5244e31073ed3c77d2266ca98d7a5.jpg"
-    },
-    {
-      "title": "从零开始，黑龙江发现废弃石头屋改造寒冬避难所，首场暴风雪来之前要做好准备，提前存储物资",
-      "author": "漠生铁铁",
-      "view": 721660,
-      "like": 21263,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1BLt86QECJ",
-      "cover": "http://i1.hdslb.com/bfs/archive/2ee43933b346b9e0074a6f9aca54874070bae72f.jpg"
+      "title": "这制作水平，当C忍是不是太屈才了",
+      "author": "叶忍菌",
+      "view": 382494,
+      "like": 11788,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV19Utg6tEJm",
+      "cover": "http://i1.hdslb.com/bfs/archive/52808cac88b8562621a404c9b4d0feaaae092e90.jpg"
     },
     {
       "title": "【蕾米埃尔】：入木三分，原来是字面意思？",
       "author": "木姬空语",
-      "view": 681263,
-      "like": 52709,
+      "view": 1008746,
+      "like": 70033,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1bLth6rE1T",
       "cover": "http://i2.hdslb.com/bfs/archive/259c520165891305d3b49140ec2a3911d756a1f2.jpg"
     },
     {
-      "title": "来这吃牛肉，格局和肚子都大了…",
-      "author": "野文不懂吃",
-      "view": 1344629,
-      "like": 42153,
-      "cat": "美食记录",
-      "link": "https://www.bilibili.com/video/BV1yF8h6BEWL",
-      "cover": "http://i0.hdslb.com/bfs/archive/947d246f65a528a1f5e3df26d18e642a89dcbec7.jpg"
+      "title": "曾经最成功的游戏类型，为什么没人做了？",
+      "author": "智能路障",
+      "view": 724658,
+      "like": 11075,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1Zpt36PE2n",
+      "cover": "http://i1.hdslb.com/bfs/archive/5ff17c9504ec3cbf493ece06c385473d7141acd6.jpg"
     },
     {
-      "title": "【何同学】库克时代",
-      "author": "老师好我叫何同学",
-      "view": 691466,
-      "like": 51480,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1G7tG6tEwL",
-      "cover": "http://i2.hdslb.com/bfs/archive/e3416393aba9346f8524bd3e84c621ad5c8ca0e0.jpg"
-    },
-    {
-      "title": "日语版《朋友的酒》citypop remix（空城计の小曲）",
-      "author": "181319",
-      "view": 790003,
-      "like": 32559,
-      "cat": "音乐综合",
-      "link": "https://www.bilibili.com/video/BV1AvtW6yEan",
-      "cover": "http://i2.hdslb.com/bfs/archive/379696de028be9caadb835f2b5abd9cbccf52d3e.jpg"
-    },
-    {
-      "title": "开疆拓土特朗普，可算美国总统GOAT？",
-      "author": "麻薯波比呀",
-      "view": 513420,
-      "like": 41785,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV1n5t366E6q",
-      "cover": "http://i1.hdslb.com/bfs/archive/73e0cd8052d370f3e11d2997fcf743d915ebc746.jpg"
-    },
-    {
-      "title": "“我现在被撞了，你意思是我活该吗？”女子骑电动自行车横穿机动车道，交警：全责！",
-      "author": "人民日报",
-      "view": 443178,
-      "like": 29793,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV15bt36cERX",
-      "cover": "http://i0.hdslb.com/bfs/archive/4789aff1ec1b4f225ed9d1657c136e7b83669a1d.jpg"
-    },
-    {
-      "title": "第二集。",
-      "author": "立志成为恶兽",
-      "view": 305561,
-      "like": 43090,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1xWtg6yEob",
-      "cover": "http://i2.hdslb.com/bfs/archive/8097da78c1e5ee12238a7e2457b0e1b504d54e6f.jpg"
-    },
-    {
-      "title": "这也能装？给车内塞一套工作站！小米澎程N90 Max用车体验！",
-      "author": "苏打baka",
-      "view": 2108703,
-      "like": 40565,
-      "cat": "极客DIY",
-      "link": "https://www.bilibili.com/video/BV1k2t86hEuD",
-      "cover": "http://i1.hdslb.com/bfs/archive/ef082542984f1d00976076acec0b5d86db02b842.jpg"
-    },
-    {
-      "title": "把公司当成主题乐园",
-      "author": "papi酱",
-      "view": 553089,
-      "like": 65894,
-      "cat": "短片",
-      "link": "https://www.bilibili.com/video/BV1n1tA67EsT",
-      "cover": "http://i1.hdslb.com/bfs/archive/a621db649f4c9e9f4c495416eb8ca9d57757813b.jpg"
-    },
-    {
-      "title": "【魔女养成计划6】当“中国制造”出现在幻想世界里，嘿嘿 【up动画】",
-      "author": "泡椒小鸡",
-      "view": 1862907,
-      "like": 49367,
+      "title": "绝活",
+      "author": "脱缰凯Kk",
+      "view": 1045305,
+      "like": 74109,
       "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1BXjA6HEQ7",
-      "cover": "http://i2.hdslb.com/bfs/archive/52ec5cffab37bd858ece86087012e6d2e98cebe4.jpg"
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！【第6集】",
-      "author": "九夜听风",
-      "view": 1791825,
-      "like": 64470,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1eHt86mErz",
-      "cover": "http://i1.hdslb.com/bfs/archive/1de578cb70c3cbe423f64652d38700d71165ce14.jpg"
+      "link": "https://www.bilibili.com/video/BV1GStg6oEQe",
+      "cover": "http://i0.hdslb.com/bfs/archive/f366fb9ffbbe06420fa8a9b4cd97c3660c8ada1e.jpg"
     },
     {
       "title": "有市无价再创记录！世界最大顶级黄油蟹与巨型松茸的完美邂逅！鱼子酱只配当咸菜？！",
       "author": "大祥哥来了",
-      "view": 287590,
-      "like": 32858,
+      "view": 435452,
+      "like": 42709,
       "cat": "美食测评",
       "link": "https://www.bilibili.com/video/BV1ZJtu6tEyd",
       "cover": "http://i1.hdslb.com/bfs/archive/66de99e5a73ebe8615951dd2c0716bdbaf508993.jpg"
     },
     {
-      "title": "每说一个“瓜”字，华强血液酒精含量增加20mg/100ml",
-      "author": "新世纪咖啡战士v",
-      "view": 281346,
-      "like": 10657,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1nF8m6CEzi",
-      "cover": "http://i2.hdslb.com/bfs/archive/431bc130f0a45ea2190eafff1fcef173cf02d842.jpg"
+      "title": "“我现在被撞了，你意思是我活该吗？”女子骑电动自行车横穿机动车道，交警：全责！",
+      "author": "人民日报",
+      "view": 1193084,
+      "like": 74298,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV15bt36cERX",
+      "cover": "http://i0.hdslb.com/bfs/archive/4789aff1ec1b4f225ed9d1657c136e7b83669a1d.jpg"
     },
     {
-      "title": "《安心安全 | 安心安全》MV ：日本制造最重视的就是企业形象",
-      "author": "即兴演奏家",
-      "view": 1242818,
-      "like": 88357,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1WPt86FETB",
-      "cover": "http://i0.hdslb.com/bfs/archive/a42fb27a5ba9e67c95acf894b7f5f78892c940a0.jpg"
+      "title": "“小传人”来了（假期拍摄，快乐起来）",
+      "author": "铭门学府张超",
+      "view": 332659,
+      "like": 74040,
+      "cat": "亲子",
+      "link": "https://www.bilibili.com/video/BV1potV6SEWY",
+      "cover": "http://i1.hdslb.com/bfs/archive/a5454d6843ac2cc19408b7d7092a8c05a17a9287.jpg"
     },
     {
-      "title": "纯手搓的视频，初音会喜欢吗？【bilibilionly同人扶持计划】",
-      "author": "利利那TD25",
-      "view": 268502,
-      "like": 59612,
-      "cat": "MMD·3D",
-      "link": "https://www.bilibili.com/video/BV1XPtM6SEHv",
-      "cover": "http://i1.hdslb.com/bfs/archive/5dcfff8a6f5afd6638ace8464870b754df688e2d.jpg"
+      "title": "把公司当成主题乐园",
+      "author": "papi酱",
+      "view": 791294,
+      "like": 85500,
+      "cat": "短片",
+      "link": "https://www.bilibili.com/video/BV1n1tA67EsT",
+      "cover": "http://i1.hdslb.com/bfs/archive/a621db649f4c9e9f4c495416eb8ca9d57757813b.jpg"
     },
     {
-      "title": "对话黄眉大王：《时空朋友圈》第二季 EP01",
-      "author": "云的设计杂谈",
-      "view": 1132879,
-      "like": 35054,
-      "cat": "设计·创意",
-      "link": "https://www.bilibili.com/video/BV1NRtP6FE2p",
-      "cover": "http://i0.hdslb.com/bfs/archive/5e6afa8ab89468cc79fefc21e58aa98f0ca91494.jpg"
+      "title": "08年美国讽刺金曲《朋友的酒》（英语填词cover）“空城计の小曲”",
+      "author": "梨茗子",
+      "view": 432552,
+      "like": 26045,
+      "cat": "MV",
+      "link": "https://www.bilibili.com/video/BV1Este6wExx",
+      "cover": "http://i1.hdslb.com/bfs/archive/1204c897ffd6499dd62ceab4ab78aba563cb769b.jpg"
+    },
+    {
+      "title": "我养的牛里混入了奇怪的东西！找到并击毙它！",
+      "author": "与山0v0",
+      "view": 57985,
+      "like": 7880,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1CTtu6qEQN",
+      "cover": "http://i0.hdslb.com/bfs/archive/adfa6d53a4c09662b0ae7337be63e54e0b303d80.jpg"
+    },
+    {
+      "title": "连英语人都发不明白uygur这个词的音",
+      "author": "路西法Lusiferr",
+      "view": 416678,
+      "like": 20330,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1Datu6JEEi",
+      "cover": "http://i0.hdslb.com/bfs/archive/b24283a07f860df0380ec551bcd09f1e83551c29.jpg"
+    },
+    {
+      "title": "【何同学】库克时代",
+      "author": "老师好我叫何同学",
+      "view": 896387,
+      "like": 62494,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1G7tG6tEwL",
+      "cover": "http://i2.hdslb.com/bfs/archive/e3416393aba9346f8524bd3e84c621ad5c8ca0e0.jpg"
+    },
+    {
+      "title": "兵线全被卡住了，但这样我防御塔就安全了",
+      "author": "磊哥游戏",
+      "view": 208119,
+      "like": 20491,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1NLtL6xEiF",
+      "cover": "http://i2.hdslb.com/bfs/archive/73ab05c36622fd39c37d3fef9073227916861dd7.jpg"
     }
   ],
   "weibo": [
