@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05 07:37:04 +08:00",
+  "generated_at": "2026-09-05 12:36:11 +08:00",
   "date": "2026-09-05",
   "weekday": "周六",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "可口可乐和百事可乐相比之下，冰镇可乐喝得更痛快。",
-      "from": "《网络》"
+      "text": "也如春骄秋瑟处，胜景未在浸寒水。",
+      "from": "storm1614 · 《storm1614.top》"
     },
     "angles": [
       {
@@ -435,91 +435,82 @@
   },
   "bilibili": [
     {
+      "title": "【独家】《凡人修仙传之慕兰之战》第14集【总第190集】",
+      "author": "哔哩哔哩国创",
+      "view": 1446550,
+      "like": 55604,
+      "cat": "国产动画",
+      "link": "https://www.bilibili.com/video/BV1Satr6zETw",
+      "cover": "http://i2.hdslb.com/bfs/archive/9a03bdfbe9ef950b61ac65b1284239e020a92d52.jpg"
+    },
+    {
       "title": "万人追更的终南山怪虫，只有我们拍到了真相！",
       "author": "中国国家地理",
-      "view": 942710,
-      "like": 92053,
+      "view": 2194216,
+      "like": 213020,
       "cat": "科学科普",
       "link": "https://www.bilibili.com/video/BV1yuto66E8J",
       "cover": "http://i2.hdslb.com/bfs/archive/1630841f6b3f1630e9c319e0e0f0747f09ad28b3.jpg"
     },
     {
-      "title": "【半佛】下一代的孩子还会知道原神吗？",
-      "author": "硬核的半佛仙人",
-      "view": 798150,
-      "like": 28843,
+      "title": "全B站最垃圾的一期视频",
+      "author": "小潮院长",
+      "view": 632913,
+      "like": 74394,
       "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV15GtZ6tEGS",
-      "cover": "http://i1.hdslb.com/bfs/archive/ecb763474f101cd375517e4b467b563273f9761d.jpg"
-    },
-    {
-      "title": "“请与我一同，战胜时间的伟力。”",
-      "author": "Mr-Ferret",
-      "view": 539735,
-      "like": 62713,
-      "cat": "绘画",
-      "link": "https://www.bilibili.com/video/BV1NQti6HEaC",
-      "cover": "http://i0.hdslb.com/bfs/archive/561e6395a9532c282f8acaad12f2df32c23eb9bd.jpg"
-    },
-    {
-      "title": "天 雷 滚 滚 纽 约 城【神奇组织53】",
-      "author": "小约翰可汗",
-      "view": 2515401,
-      "like": 129995,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1bHtd6CESR",
-      "cover": "http://i2.hdslb.com/bfs/archive/8136c66675bf9b68ac93c4473d9c34b801d005dd.jpg"
-    },
-    {
-      "title": "美国总统爱吃的芝士牛排三明治，什么味儿？",
-      "author": "食贫道",
-      "view": 528177,
-      "like": 26170,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1Qstz6qEsS",
-      "cover": "http://i1.hdslb.com/bfs/archive/32acf7f1faa6321d1e4899d3d87b849568377a88.jpg"
-    },
-    {
-      "title": "《绝区零》克拉蕾角色展示 | 不想培训，但攻略已写好",
-      "author": "绝区零",
-      "view": 1391942,
-      "like": 117361,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1wote6gEQ1",
-      "cover": "http://i0.hdslb.com/bfs/archive/78c7032651157d88e625a196d2ed51c9c7a62622.jpg"
-    },
-    {
-      "title": "真实事件改编！一口气抢268个银行保险柜，翻出公主私密照，官员play实录，有钱人玩儿得够花！《银行大劫案》",
-      "author": "小片片说大片",
-      "view": 286124,
-      "like": 11892,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1L3tA66EKt",
-      "cover": "http://i1.hdslb.com/bfs/archive/1b651052863f965781d8c7889a6b1502845938ff.jpg"
-    },
-    {
-      "title": "你往「快乐驿站」里加了什么！",
-      "author": "非桥段",
-      "view": 326637,
-      "like": 22638,
-      "cat": "人力VOCALOID",
-      "link": "https://www.bilibili.com/video/BV18Bto6DEWn",
-      "cover": "http://i2.hdslb.com/bfs/archive/43177c791e3ac40d2df657d1a1d805bdefcf3e3c.jpg"
+      "link": "https://www.bilibili.com/video/BV1sxtk6YEGp",
+      "cover": "http://i1.hdslb.com/bfs/archive/f49c3e26b86db67d7914485877b22f2f949998f7.jpg"
     },
     {
       "title": "这只猫，性格好到让我无语",
       "author": "萌宠指南",
-      "view": 1565874,
-      "like": 183970,
+      "view": 2225345,
+      "like": 248354,
       "cat": "喵星人",
       "link": "https://www.bilibili.com/video/BV12Sto6VEnH",
       "cover": "http://i1.hdslb.com/bfs/archive/125cb602d82eca567f3d4843b5d8e7cd016acb84.jpg"
     },
     {
+      "title": "当你觉得自己很没用时：",
+      "author": "一串大福",
+      "view": 2173429,
+      "like": 124649,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1sUtR6KEbd",
+      "cover": "http://i2.hdslb.com/bfs/archive/cc75f0d34b0d965dc1fa77157405679d75a7d127.jpg"
+    },
+    {
+      "title": "旗腹姬蜂是蟑螂杀手",
+      "author": "古法造物主",
+      "view": 2459071,
+      "like": 55919,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1qCt96DEpj",
+      "cover": "http://i2.hdslb.com/bfs/archive/7399a35f1490d929b3be606c324ee58885d463c0.jpg"
+    },
+    {
+      "title": "美国总统爱吃的芝士牛排三明治，什么味儿？",
+      "author": "食贫道",
+      "view": 1041639,
+      "like": 41098,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1Qstz6qEsS",
+      "cover": "http://i1.hdslb.com/bfs/archive/32acf7f1faa6321d1e4899d3d87b849568377a88.jpg"
+    },
+    {
+      "title": "“请与我一同，战胜时间的伟力。”",
+      "author": "Mr-Ferret",
+      "view": 1058148,
+      "like": 108459,
+      "cat": "绘画",
+      "link": "https://www.bilibili.com/video/BV1NQti6HEaC",
+      "cover": "http://i0.hdslb.com/bfs/archive/561e6395a9532c282f8acaad12f2df32c23eb9bd.jpg"
+    },
+    {
       "title": "多诺米骨牌",
       "author": "我是明晚",
-      "view": 1329276,
-      "like": 199819,
+      "view": 2247687,
+      "like": 299010,
       "cat": "手工",
       "link": "https://www.bilibili.com/video/BV1t6tR6rEVT",
       "cover": "http://i1.hdslb.com/bfs/archive/b86c0fc72d6bddcd88ec7de2e019ead52bc84f1f.jpg"
@@ -527,92 +518,101 @@
     {
       "title": "云南人最宝贝的一根棍子，巨下饭！",
       "author": "日食记",
-      "view": 586995,
-      "like": 20918,
+      "view": 993045,
+      "like": 28815,
       "cat": "美食制作",
       "link": "https://www.bilibili.com/video/BV1kqtq6SEUX",
       "cover": "http://i0.hdslb.com/bfs/archive/af4010f4692bc40ad62ef485eaf45ec57079c823.jpg"
     },
     {
-      "title": "我发现了动画最离谱的BUG？",
-      "author": "大福咕咕",
-      "view": 311074,
-      "like": 16549,
-      "cat": "动漫杂谈",
-      "link": "https://www.bilibili.com/video/BV1oGtz6yEj2",
-      "cover": "http://i2.hdslb.com/bfs/archive/01594c3c6f3bf016ae2c7cf62d01ba11e3052911.jpg"
-    },
-    {
-      "title": "史上最烂DC电影！万字赤石《超女》！",
-      "author": "BuriedAlien",
-      "view": 430064,
-      "like": 29439,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1mntg62Ed8",
-      "cover": "http://i2.hdslb.com/bfs/archive/1cfa976ef5908d4fd5f4dd68a2aa405e362a44d4.jpg"
-    },
-    {
-      "title": "和五条人在完全没人认识他们的县城里做一场演出！丨HOPICO X 小鹿Lawrence",
-      "author": "HOPICO",
-      "view": 302324,
-      "like": 10143,
-      "cat": "乐评盘点",
-      "link": "https://www.bilibili.com/video/BV1xBtD64EB7",
-      "cover": "http://i1.hdslb.com/bfs/archive/b32284db4a44c101791081af2ba9de4ea1e5773b.jpg"
+      "title": "我们全班都在嘲笑物理老师那支丑爆了的棕色",
+      "author": "科普不无聊",
+      "view": 654252,
+      "like": 71814,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV15Xtd6pEA7",
+      "cover": "http://i0.hdslb.com/bfs/archive/6eb1e59a62682c1ec9cbf7ba080d0bd68c3c125b.jpg"
     },
     {
       "title": "这次是真玩爽了",
       "author": "爱弹琴的Jony",
-      "view": 863404,
-      "like": 104821,
+      "view": 1191553,
+      "like": 138176,
       "cat": "演奏",
       "link": "https://www.bilibili.com/video/BV1e8tR6EER5",
       "cover": "http://i0.hdslb.com/bfs/archive/505e0248c88be510f7e5cce68940e0e3b6908dd8.jpg"
     },
     {
-      "title": "解毒大师",
-      "author": "脱缰凯Kk",
-      "view": 419053,
-      "like": 37759,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1NdtB64Edm",
-      "cover": "http://i1.hdslb.com/bfs/archive/af192bbd3cd325bbc299d826f6a68b45f50331b9.jpg"
+      "title": "这一次我们能赢吗？",
+      "author": "销冠李老板",
+      "view": 810807,
+      "like": 164430,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1ARte6rEKL",
+      "cover": "http://i0.hdslb.com/bfs/archive/4c16a9503b1c6076746d49017d82371369e94ffa.jpg"
     },
     {
-      "title": "DECO*27 - 洗脳 feat. 初音未来",
-      "author": "DECO27_Official",
-      "view": 256520,
-      "like": 60995,
-      "cat": "VOCALOID·UTAU",
-      "link": "https://www.bilibili.com/video/BV1UW8i6tEo1",
-      "cover": "http://i0.hdslb.com/bfs/archive/1990b0672ac4bee26abdb8ef4c995b2273320b33.jpg"
+      "title": "留⚡️学⚡️人⚡️能⚡️飞",
+      "author": "中国银行APP",
+      "view": 483726,
+      "like": 38841,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1Kttd66ELQ",
+      "cover": "http://i0.hdslb.com/bfs/archive/d95751284cba4737826adc4403415fe772277698.jpg"
+    },
+    {
+      "title": "接了好多蝌蚪…",
+      "author": "不辣的-皮冻",
+      "view": 749790,
+      "like": 56014,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1mT4X6aEKp",
+      "cover": "http://i1.hdslb.com/bfs/archive/4140398d26dcaec4ab88e4c91a96172d10d11c5d.jpg"
+    },
+    {
+      "title": "【花学12大历史事件逐帧解读】第一回：伦敦暖气致疯事件",
+      "author": "一只吐槽圆",
+      "view": 108442,
+      "like": 5691,
+      "cat": "娱乐杂谈",
+      "link": "https://www.bilibili.com/video/BV1nGtC6wE9y",
+      "cover": "http://i2.hdslb.com/bfs/archive/67ddc84dc405c982e029be572655f814a56c391b.jpg"
+    },
+    {
+      "title": "新 生 开 学 有 多 爽 ？！！",
+      "author": "进击的金厂长",
+      "view": 494828,
+      "like": 34664,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1R7tz63Ea6",
+      "cover": "http://i2.hdslb.com/bfs/archive/48dd2cf86076729a3436ca846055287f1bd510cd.jpg"
     },
     {
       "title": "美国拉斯维加斯有点爽！",
       "author": "蓝战非OvO",
-      "view": 595913,
-      "like": 51838,
+      "view": 800228,
+      "like": 67058,
       "cat": "出行",
       "link": "https://www.bilibili.com/video/BV1jct96JE1n",
       "cover": "http://i0.hdslb.com/bfs/archive/5fbd63290774ed5647e9a428d6804313da4acfd4.jpg"
     },
     {
-      "title": "结城理的入职测试！【明日方舟】",
-      "author": "-碱式碳酸咸鱼-",
-      "view": 735247,
-      "like": 42624,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1c1tq6LEVW",
-      "cover": "http://i1.hdslb.com/bfs/archive/c34995779f5645d7d3aa55c27791a717cd6ac33a.jpg"
+      "title": "一口气看完手撸坚守者通关！",
+      "author": "MJ_军师",
+      "view": 317084,
+      "like": 18242,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1mWtv6DEfG",
+      "cover": "http://i0.hdslb.com/bfs/archive/4135771ab969f261e9826ab733287677e3142d97.jpg"
     },
     {
-      "title": "桃花源记",
-      "author": "累渠_",
-      "view": 1141076,
-      "like": 107328,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV16Hto6aE4v",
-      "cover": "http://i1.hdslb.com/bfs/archive/45a811a701bd6b3777080e205d0f5704073f41a3.jpg"
+      "title": "我们来做手替，帮你试了破窗锤了！",
+      "author": "黄磊讲安全",
+      "view": 337983,
+      "like": 21079,
+      "cat": "亲子",
+      "link": "https://www.bilibili.com/video/BV1T9tB6ZESk",
+      "cover": "http://i1.hdslb.com/bfs/archive/314f374651cd5fe7425db80ae0d544c0b814f475.jpg"
     }
   ],
   "weibo": [
