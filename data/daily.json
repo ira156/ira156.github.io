@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07 12:39:40 +08:00",
+  "generated_at": "2026-09-07 19:38:06 +08:00",
   "date": "2026-09-07",
   "weekday": "周一",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "江山代有才人出，各领风骚数百年。",
-      "from": "赵翼 · 《论诗五首·其二》"
+      "text": "你的无畏来源于无知",
+      "from": "《三体》"
     },
     "angles": [
       {
@@ -435,28 +435,100 @@
   },
   "bilibili": [
     {
+      "title": "出界就死（2）",
+      "author": "高斯Goh",
+      "view": 136154,
+      "like": 17582,
+      "cat": "综艺",
+      "link": "https://www.bilibili.com/video/BV1KFtr6aEoc",
+      "cover": "http://i0.hdslb.com/bfs/archive/fb8ca56b13e58e928fc63a2965064a40588701d4.jpg"
+    },
+    {
+      "title": "乌克兰的军统和中统内斗",
+      "author": "燕三嘤嘤嘤",
+      "view": 727940,
+      "like": 56159,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1Akbw6WECj",
+      "cover": "http://i2.hdslb.com/bfs/archive/d67f390dbf346431fb169019243dd1269c8d5285.jpg"
+    },
+    {
+      "title": "薛甄珠手撕凌玲,但在印度",
+      "author": "烨猫只玩抽象",
+      "view": 380244,
+      "like": 21580,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV11cb46tECC",
+      "cover": "http://i0.hdslb.com/bfs/archive/ef14f46d058bf2f217077a0210be1d8ed50090fe.jpg"
+    },
+    {
+      "title": "第2期（上）：“神秘技师”惊现按摩店？！【时差五小时3】",
+      "author": "综艺哔哔机",
+      "view": 268548,
+      "like": 2226,
+      "cat": "综艺",
+      "link": "https://www.bilibili.com/video/BV1Cibn6gEC2",
+      "cover": "http://i1.hdslb.com/bfs/archive/738645d75e1cc55827d0f4a6191c47e80ac5603f.jpg"
+    },
+    {
+      "title": "江苏 | 南京麦乐鸡块碎尸案",
+      "author": "K侦探说案",
+      "view": 1622047,
+      "like": 57832,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1E1t26KEwz",
+      "cover": "http://i2.hdslb.com/bfs/archive/8c00a068cba45006c157d4d8b678e985c3c36147.jpg"
+    },
+    {
+      "title": "萌黄我...终于拥有新衣服了！！",
+      "author": "火影忍者手游情报君",
+      "view": 302142,
+      "like": 25520,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1GSbA6BEyn",
+      "cover": "http://i1.hdslb.com/bfs/archive/fd9d709ffb758d781129885796a433455b005e80.jpg"
+    },
+    {
       "title": "月捐数年“无人问” 停捐一月遭“催捐”？四川单亲妈妈自曝“寒心”经历 多名网友评论区晒同款经历",
       "author": "闪电新闻",
-      "view": 696831,
-      "like": 38376,
+      "view": 1368927,
+      "like": 92272,
       "cat": "社会",
       "link": "https://www.bilibili.com/video/BV1xrbs6pEjp",
       "cover": "http://i1.hdslb.com/bfs/archive/14559b47238cc7d7aaaf72a373768d37ece0ca0e.jpg"
     },
     {
-      "title": "当你吃出口腔溃疡时体内正在发生什么",
-      "author": "meme小短剧",
-      "view": 2222212,
-      "like": 102987,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV145t66AEfZ",
-      "cover": "http://i2.hdslb.com/bfs/archive/6a0da40591cb6daaa5a89d2c8d6af717a992c176.jpg"
+      "title": "《鸣潮》共鸣者战斗演示 | 景燃",
+      "author": "鸣潮",
+      "view": 1433191,
+      "like": 56460,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1PTbL6REMT",
+      "cover": "http://i2.hdslb.com/bfs/archive/c3fdb749591f844800ccbb792240940416d76a6d.jpg"
+    },
+    {
+      "title": "北京门钉肉饼挑战，十分钟吃十个免单，你能吃多少？30个走起！",
+      "author": "橙飞一下",
+      "view": 766716,
+      "like": 27261,
+      "cat": "美食记录",
+      "link": "https://www.bilibili.com/video/BV13rbH6dEU6",
+      "cover": "http://i2.hdslb.com/bfs/archive/8041461c5d53eaaec8de82d37ec17d7165bee62e.jpg"
+    },
+    {
+      "title": "更Air了？全新一代华为MatePad Air上手体验！",
+      "author": "箱庭计划",
+      "view": 64257,
+      "like": 5247,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV168bA6nEkP",
+      "cover": "http://i1.hdslb.com/bfs/archive/d2276449e14f554e52dba6d90588a77bc4594e90.jpg"
     },
     {
       "title": "怎么有网友让我走到西藏啊…",
       "author": "拉宏桑",
-      "view": 808360,
-      "like": 56306,
+      "view": 1299972,
+      "like": 81288,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1eBbH6ZEL9",
       "cover": "http://i2.hdslb.com/bfs/archive/e1b13433d1454cb312a78f84173e329fbb8a2c9a.jpg"
@@ -464,8 +536,8 @@
     {
       "title": "香槟射马云、舞女十八蹲！许家印从首富到白毛萝莉的一生【网络狠人114】",
       "author": "喵喵即正义",
-      "view": 506918,
-      "like": 22788,
+      "view": 928565,
+      "like": 38591,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV11dbH6LEm2",
       "cover": "http://i1.hdslb.com/bfs/archive/c7834483e804c1697ad1d1303f04e3076aef9891.jpg"
@@ -473,146 +545,74 @@
     {
       "title": "华强买瓜，但死神来了",
       "author": "伊介书生",
-      "view": 1554603,
-      "like": 70258,
+      "view": 1999752,
+      "like": 87889,
       "cat": "鬼畜剧场",
       "link": "https://www.bilibili.com/video/BV1UBbL6YEtN",
       "cover": "http://i2.hdslb.com/bfs/archive/fc35aeafe11b4178e47b5275844d8c363e0ec60b.jpg"
     },
     {
-      "title": "【招笑版】新僵尸1:健忘撑杆跳",
-      "author": "时空go蛙",
-      "view": 1050373,
-      "like": 40455,
+      "title": "【终末地1.5】全网最强基建！划时代创新科技！颠覆你对基建深度的认知！",
+      "author": "斯改",
+      "view": 230034,
+      "like": 19901,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1tgbW6RE6W",
+      "cover": "http://i2.hdslb.com/bfs/archive/419038a6c5899f61300164d1bdb7096f397fa6b5.jpg"
+    },
+    {
+      "title": "早期视频，方块小镇大乱斗1",
+      "author": "鲤鱼Ace",
+      "view": 140179,
+      "like": 16866,
       "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1Ygbj6rEQP",
-      "cover": "http://i2.hdslb.com/bfs/archive/028cd5911f82912108694b2b0c0fc0c6f9bea613.jpg"
+      "link": "https://www.bilibili.com/video/BV12ZbA6wEiA",
+      "cover": "http://i2.hdslb.com/bfs/archive/e4e334259fa66cccd5959c3abfe2086269166fcc.jpg"
+    },
+    {
+      "title": "当你吃出口腔溃疡时体内正在发生什么",
+      "author": "meme小短剧",
+      "view": 2701220,
+      "like": 121740,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV145t66AEfZ",
+      "cover": "http://i2.hdslb.com/bfs/archive/6a0da40591cb6daaa5a89d2c8d6af717a992c176.jpg"
+    },
+    {
+      "title": "【古希腊AI短片】普罗米修斯：愚者的火种",
+      "author": "Ryan冰汤圆",
+      "view": 534876,
+      "like": 37154,
+      "cat": "短片",
+      "link": "https://www.bilibili.com/video/BV134tz6KE9i",
+      "cover": "http://i2.hdslb.com/bfs/archive/4cde8ececf1fc472e06587a3929ccca8abe45a5d.jpg"
+    },
+    {
+      "title": "孤岛小夫 第三集",
+      "author": "派之新",
+      "view": 112683,
+      "like": 12830,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1wKbs67Emc",
+      "cover": "http://i2.hdslb.com/bfs/archive/d36d23db6bc26d4a5d673cea6d5691a175aed123.jpg"
+    },
+    {
+      "title": "【極言極语vol.49】就这样一步一步向前",
+      "author": "iG电子竞技俱乐部",
+      "view": 76755,
+      "like": 4375,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV13qbK6VE5q",
+      "cover": "http://i2.hdslb.com/bfs/archive/d1ad6aa3b4acdc2cc2f62d402cfec77308906d87.jpg"
     },
     {
       "title": "《下一个是谁》第七季（4）",
       "author": "力元君",
-      "view": 1608176,
-      "like": 238826,
+      "view": 1893909,
+      "like": 264155,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1HBbE6cEc5",
       "cover": "http://i0.hdslb.com/bfs/archive/7c84047cc908074ec674663a2872f60ec78b04a2.jpg"
-    },
-    {
-      "title": "江苏 | 南京麦乐鸡块碎尸案",
-      "author": "K侦探说案",
-      "view": 1244020,
-      "like": 44893,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1E1t26KEwz",
-      "cover": "http://i2.hdslb.com/bfs/archive/8c00a068cba45006c157d4d8b678e985c3c36147.jpg"
-    },
-    {
-      "title": "给盲人投放弹窗广告？",
-      "author": "销冠李老板",
-      "view": 2133860,
-      "like": 452773,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1gNbH6nEfT",
-      "cover": "http://i0.hdslb.com/bfs/archive/b9dca6a27ef8f08d6dd601978dff921f916c1f22.jpg"
-    },
-    {
-      "title": "最长vlog之-参加千万网红的婚礼！",
-      "author": "销冠李老板",
-      "view": 437652,
-      "like": 16978,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1Cwbp63E53",
-      "cover": "http://i1.hdslb.com/bfs/archive/cbfa20d3788f21afa6d66c3d3eca9381b375b60b.jpg"
-    },
-    {
-      "title": "IG疯了！要去世界赛！涅槃登峰大变天！TES终于转不动了！【1酱赛评LPL季后赛篇】",
-      "author": "你是想气死1酱么",
-      "view": 292320,
-      "like": 8253,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV12nbx6dE1N",
-      "cover": "http://i2.hdslb.com/bfs/archive/eaaeb962e302f142eaf04efdce86ff9e7af14db2.jpg"
-    },
-    {
-      "title": "北京门钉肉饼挑战，十分钟吃十个免单，你能吃多少？30个走起！",
-      "author": "橙飞一下",
-      "view": 478929,
-      "like": 19572,
-      "cat": "美食记录",
-      "link": "https://www.bilibili.com/video/BV13rbH6dEU6",
-      "cover": "http://i2.hdslb.com/bfs/archive/8041461c5d53eaaec8de82d37ec17d7165bee62e.jpg"
-    },
-    {
-      "title": "天灾降临！前方道路被龙卷风全部摧毁！我们该如何应对！！「缆车惊变100天#2」",
-      "author": "夏天y",
-      "view": 115140,
-      "like": 20377,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1TJbx64Ejk",
-      "cover": "http://i2.hdslb.com/bfs/archive/ed007aaa2b9d0964dba344d34a41b58320b5da57.jpg"
-    },
-    {
-      "title": "真实事件改编，史上最离谱的劫机案！韩国政府这波极限忽悠我给满分《凶降喜讯》",
-      "author": "阿斗归来了",
-      "view": 366515,
-      "like": 15542,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1Wqbn6zEbn",
-      "cover": "http://i0.hdslb.com/bfs/archive/49951726c02dd06ab8c3e66d077610e1b0f6f381.jpg"
-    },
-    {
-      "title": "【STN快报第8.5季19】这德国科隆给我干哪来了？这真不是国内吗？",
-      "author": "STN工作室",
-      "view": 464255,
-      "like": 31534,
-      "cat": "综艺",
-      "link": "https://www.bilibili.com/video/BV1oabW6zEms",
-      "cover": "http://i0.hdslb.com/bfs/archive/03a59fe9bc08871be1419910f1421dc82054cd9e.jpg"
-    },
-    {
-      "title": "用手还原badapple-终于还是走到了这一步",
-      "author": "风间_苍月",
-      "view": 1157487,
-      "like": 134745,
-      "cat": "演奏",
-      "link": "https://www.bilibili.com/video/BV1tHbj6PEmH",
-      "cover": "http://i2.hdslb.com/bfs/archive/3c046ea6c61aaaf2ad619b73f0abfc46bb1601b0.jpg"
-    },
-    {
-      "title": "【千年村庄】我建了这么久的房子，只有一个小朋友过来",
-      "author": "磊哥游戏",
-      "view": 188554,
-      "like": 26321,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1mcb46tEgq",
-      "cover": "http://i0.hdslb.com/bfs/archive/550b44e0b664d61232013b9fa026148a092c16d8.jpg"
-    },
-    {
-      "title": "回顾这些年我在黄金赛道上折腾过的那些抽象的物件们（不完整",
-      "author": "笑三西",
-      "view": 511257,
-      "like": 13613,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1gdb56AEP4",
-      "cover": "http://i2.hdslb.com/bfs/archive/9ffb3055fb5e9523d3e5dcc8bc7a26205acab1fd.jpg"
-    },
-    {
-      "title": "什么！“紫色的蜂蜜？如果给蜜蜂喂火龙果里的天然色素，会不会吧蜂巢里的“蜂蜜”也染色？今天就来做一下实验！看看会不会酿造出“紫色的蜂蜜”！",
-      "author": "蜂农小姜",
-      "view": 828356,
-      "like": 29207,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1p8bj6ZEZm",
-      "cover": "http://i1.hdslb.com/bfs/archive/4d3814af72b64ad36a7f1be96f9e3ba5f742c438.jpg"
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！【第7集】",
-      "author": "九夜听风",
-      "view": 955964,
-      "like": 39346,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1GAbW68EcH",
-      "cover": "http://i2.hdslb.com/bfs/archive/98d4888233ca0d621e66d5cab8c3bb574566ce65.jpg"
     }
   ],
   "weibo": [
