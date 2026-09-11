@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 09:22:28 +08:00",
+  "generated_at": "2026-09-11 17:00:30 +08:00",
   "date": "2026-09-11",
   "weekday": "周五",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "不管你说再多的慌，只有自己的内心，是无法欺骗的啊。",
-      "from": "《七大罪》"
+      "text": "落霞与孤鹜齐飞，秋水共长天一色。",
+      "from": "《滕王阁序》"
     },
     "angles": [
       {
@@ -435,19 +435,73 @@
   },
   "bilibili": [
     {
-      "title": "刘慈欣原著授权 |《流浪地球：望日》首支预告片",
-      "author": "流浪地球望日",
-      "view": 5304422,
-      "like": 177594,
-      "cat": "预告·资讯",
-      "link": "https://www.bilibili.com/video/BV1tSYx66EvP",
-      "cover": "http://i1.hdslb.com/bfs/archive/209ba78daae5a3de79a389683a52b6821ceadc84.jpg"
+      "title": "行业top3厂二代，出生就在罗马，毕业后却还是得每天上班，压力山大",
+      "author": "摩的司机徐师傅",
+      "view": 651182,
+      "like": 15596,
+      "cat": "出行",
+      "link": "https://www.bilibili.com/video/BV1jBYT6KEWQ",
+      "cover": "http://i0.hdslb.com/bfs/archive/b128047c8f5dfc73a0b751d4b502c131fb4a87dd.jpg"
+    },
+    {
+      "title": "换一种心跳，感受世界的奇妙——《伊莫》联结玩法实机",
+      "author": "伊莫",
+      "view": 892221,
+      "like": 38686,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1kMYb6KEQ9",
+      "cover": "http://i2.hdslb.com/bfs/archive/03be5a665ab438058a61fd5139bc9219d043065c.jpg"
+    },
+    {
+      "title": "《对三骗王炸》",
+      "author": "伤心欲茄222",
+      "view": 438301,
+      "like": 44637,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1bxYV6BEwS",
+      "cover": "http://i0.hdslb.com/bfs/archive/c6e01ff5475a046ccacc1c401f5456ec09d422db.jpg"
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第6集 试探【8月国创】",
+      "author": "哔哩哔哩国创",
+      "view": 761363,
+      "like": 9077,
+      "cat": "国产动画",
+      "link": "https://www.bilibili.com/video/BV1t5b56cELB",
+      "cover": "http://i1.hdslb.com/bfs/archive/99aecdd1a4e759702c85380f1a97a54b1dc68858.png"
+    },
+    {
+      "title": "当我把“大地”穿在身上｜结合自然元素还原绝美大地女神",
+      "author": "o小庄o",
+      "view": 862178,
+      "like": 81185,
+      "cat": "仿妆cos",
+      "link": "https://www.bilibili.com/video/BV1uFYg6fETn",
+      "cover": "http://i2.hdslb.com/bfs/archive/a63518da73c53e7555680f6e329ea5e8e062b565.jpg"
+    },
+    {
+      "title": "【糖果】人类就要冲出太阳系了！然后被宇宙嫌弃了",
+      "author": "DiDi_OK",
+      "view": 1021630,
+      "like": 81892,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1WuYh6VEaS",
+      "cover": "http://i0.hdslb.com/bfs/archive/7e8249af71465b84b164f1e2def6cc3f9818db7c.jpg"
+    },
+    {
+      "title": "假如你是一个雪饼",
+      "author": "农民伯伯吖",
+      "view": 1033692,
+      "like": 40260,
+      "cat": "软件应用",
+      "link": "https://www.bilibili.com/video/BV1ciYp6XEpW",
+      "cover": "http://i0.hdslb.com/bfs/archive/4cc47b8412bc04a3badb96e31136cea4385e3af0.jpg"
     },
     {
       "title": "【招笑版】新植物9:力竭豌豆【bilibilionly同人扶持计划】",
       "author": "时空go蛙",
-      "view": 938121,
-      "like": 36320,
+      "view": 1811932,
+      "like": 62973,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1sbbj6bEut",
       "cover": "http://i1.hdslb.com/bfs/archive/2fc5da20482c56fa1d9dea5856fe9efdc4498082.jpg"
@@ -455,164 +509,110 @@
     {
       "title": "三年之期已到，恭迎世一上归位！【第8集】",
       "author": "九夜听风",
-      "view": 379857,
-      "like": 24481,
+      "view": 1021125,
+      "like": 44584,
       "cat": "影视剪辑",
       "link": "https://www.bilibili.com/video/BV1CDYg69EGL",
       "cover": "http://i0.hdslb.com/bfs/archive/d61decfe25590fee4801288aee42a2673234cdc8.jpg"
     },
     {
-      "title": "【独家】时光代理人 第三季 PartOne 第6集 试探【8月国创】",
-      "author": "哔哩哔哩国创",
-      "view": 525018,
-      "like": 6244,
-      "cat": "国产动画",
-      "link": "https://www.bilibili.com/video/BV1t5b56cELB",
-      "cover": "http://i1.hdslb.com/bfs/archive/99aecdd1a4e759702c85380f1a97a54b1dc68858.png"
+      "title": "刘慈欣原著授权 |《流浪地球：望日》首支预告片",
+      "author": "流浪地球望日",
+      "view": 6261970,
+      "like": 189766,
+      "cat": "预告·资讯",
+      "link": "https://www.bilibili.com/video/BV1tSYx66EvP",
+      "cover": "http://i1.hdslb.com/bfs/archive/209ba78daae5a3de79a389683a52b6821ceadc84.jpg"
     },
     {
-      "title": "会卖萌的…太空歌剧??  - 新世代科幻RPG大作【EXODUS】最新试玩揭晓~ (Leya蕾雅)",
-      "author": "Leya蕾雅",
-      "view": 735308,
-      "like": 37019,
+      "title": "【IGN】Switch 2版《艾尔登法环 褪色者版》 59分钟实机演示02",
+      "author": "IGN中国",
+      "view": 391389,
+      "like": 22433,
       "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1QWtz6TEjL",
-      "cover": "http://i1.hdslb.com/bfs/archive/aefe32713e82715b9af94b50e07887b0b187b702.jpg"
-    },
-    {
-      "title": "【糖果】人类就要冲出太阳系了！然后被宇宙嫌弃了",
-      "author": "DiDi_OK",
-      "view": 364189,
-      "like": 32445,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1WuYh6VEaS",
-      "cover": "http://i0.hdslb.com/bfs/archive/7e8249af71465b84b164f1e2def6cc3f9818db7c.jpg"
-    },
-    {
-      "title": "传奇历史人物志——达尔文",
-      "author": "抽象历史人物志",
-      "view": 583412,
-      "like": 48555,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1AcYK6kEf5",
-      "cover": "http://i1.hdslb.com/bfs/archive/d13a8ba8f9c22495be9d4e34942ab3236863d874.jpg"
-    },
-    {
-      "title": "一根铅笔300块？如今的文具让我大开眼界...",
-      "author": "-LKs-",
-      "view": 798152,
-      "like": 33821,
-      "cat": "手工",
-      "link": "https://www.bilibili.com/video/BV16hb56JEeU",
-      "cover": "http://i1.hdslb.com/bfs/archive/64ae79b7d4e371faacebc63f6734d06f93edcab1.jpg"
-    },
-    {
-      "title": "只不过是学会了化妆，对象非说我整容了……",
-      "author": "王七四-",
-      "view": 480577,
-      "like": 17024,
-      "cat": "美妆护肤",
-      "link": "https://www.bilibili.com/video/BV14NYg6xEdH",
-      "cover": "http://i2.hdslb.com/bfs/archive/fcdb163d165b46c9984c6b5aba8b1b787db7b64d.jpg"
-    },
-    {
-      "title": "大美王朝2026：党争、测谎，挪用军饷，美国真有大明那味了！",
-      "author": "星辰趣味屋",
-      "view": 389625,
-      "like": 31213,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1bwYg6tExB",
-      "cover": "http://i2.hdslb.com/bfs/archive/f14bb6393ccf7ccc95a06cd9c8d43abf6ab51376.jpg"
-    },
-    {
-      "title": "《崩坏：星穹铁道》砂金•戏浪角色PV——「独家爆料」",
-      "author": "崩坏星穹铁道",
-      "view": 2021766,
-      "like": 161441,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1yjYx6AEp7",
-      "cover": "http://i2.hdslb.com/bfs/archive/d60c194240c047cd4357c227fa464e8010ad0ebe.jpg"
-    },
-    {
-      "title": "下一个是谁幕后公开！（偶像来啦）",
-      "author": "力元君",
-      "view": 388823,
-      "like": 30645,
-      "cat": "明星综合",
-      "link": "https://www.bilibili.com/video/BV1HtYN6NEFs",
-      "cover": "http://i2.hdslb.com/bfs/archive/e7b08f5da039b888db9972c2f31377e6886c4e66.jpg"
-    },
-    {
-      "title": "性格好到无语的猫（第二弹）",
-      "author": "萌宠指南",
-      "view": 752577,
-      "like": 111006,
-      "cat": "喵星人",
-      "link": "https://www.bilibili.com/video/BV1iiYx6JEhL",
-      "cover": "http://i0.hdslb.com/bfs/archive/00a8dd6fc8f3c9a4649af32a3d5d8fd9fc4df331.jpg"
+      "link": "https://www.bilibili.com/video/BV1cgYM65EQw",
+      "cover": "http://i0.hdslb.com/bfs/archive/9dfdde5fd30d09bdec6ce600de0c61e2fcd9eb08.jpg"
     },
     {
       "title": "众望所归，今天带孙艺洲自律！",
       "author": "花小龙oy",
-      "view": 716384,
-      "like": 56153,
+      "view": 1105996,
+      "like": 81429,
       "cat": "健身",
       "link": "https://www.bilibili.com/video/BV1e1Y86fEPD",
       "cover": "http://i0.hdslb.com/bfs/archive/687ec2dcf3e4903f4898bcdcfb7c1be7e97cf9ce.jpg"
     },
     {
-      "title": "热烈欢迎欧阳娜娜！我们的第二位00后嘉宾～看看喜欢搞婚庆的娜娜带了什么可爱（但没用）的小东西呢？",
-      "author": "papi酱",
-      "view": 761326,
-      "like": 65064,
-      "cat": "短片",
-      "link": "https://www.bilibili.com/video/BV1YkYx6LEun",
-      "cover": "http://i1.hdslb.com/bfs/archive/1d065e8dcc29706747af6828e3498512decadcf7.jpg"
+      "title": "【warma/怒九】出国！去逛全球最大的游戏展吧！",
+      "author": "Warma",
+      "view": 141308,
+      "like": 25038,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1fsYG6JErA",
+      "cover": "http://i1.hdslb.com/bfs/archive/e76f89a6945bf77269da0de934f40d591cfa973d.jpg"
     },
     {
-      "title": "管理员: 哭？哭也算时间哦？",
-      "author": "Kais",
-      "view": 314876,
-      "like": 31117,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1zeYt6bEc4",
-      "cover": "http://i1.hdslb.com/bfs/archive/251f9171e37e4058842b8bc3159098faae785a87.jpg"
+      "title": "每说一个杰字，文明倒退一次",
+      "author": "兰斯的画室LanceStudio",
+      "view": 1465260,
+      "like": 43714,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1mcYH6oEGp",
+      "cover": "http://i1.hdslb.com/bfs/archive/cbef14a9c328ed1c24b0756adb3310348b0eebd2.jpg"
     },
     {
-      "title": "捉奸变藏尸？！开局够抓马，反转够吸睛，全程无尿点！年度高分韩剧《现在不是出轨的问题》上",
-      "author": "小片片说大片",
-      "view": 496594,
-      "like": 19488,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1sFYb6rEjD",
-      "cover": "http://i0.hdslb.com/bfs/archive/6534c69fadc39c0c9708ebdbde38ea0063669340.jpg"
+      "title": "挑战从深圳坐公交去西藏，到广西南宁了！",
+      "author": "拉宏桑",
+      "view": 569640,
+      "like": 40473,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV19TYT64ET3",
+      "cover": "http://i2.hdslb.com/bfs/archive/1aec8b36adbf9e8e912446543e5cd17b24ea6b58.jpg"
     },
     {
-      "title": "能在原神里玩空洞骑士了！这还是原神吗？？",
-      "author": "小问号Official",
-      "view": 1205092,
-      "like": 86839,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV19CYt6pEQ9",
-      "cover": "http://i1.hdslb.com/bfs/archive/09e0d749ef40f1897a401ed57d0c901027b25f41.jpg"
+      "title": "海外玩家翻墙也要玩的中国服务器？",
+      "author": "国电武术馆馆长",
+      "view": 164972,
+      "like": 9247,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1AxYT6LEq1",
+      "cover": "http://i1.hdslb.com/bfs/archive/fb6d8fdd5af7c58301d76fbfd6438d1fc2245139.jpg"
     },
     {
-      "title": "车间裸奔事件：别让真相止于宁德时代辟谣，查清劳动者的真实处境同样重要",
-      "author": "大象新闻",
-      "view": 420252,
-      "like": 21971,
-      "cat": "社会",
-      "link": "https://www.bilibili.com/video/BV1uQYN6UEQg",
-      "cover": "http://i0.hdslb.com/bfs/archive/44c390e5c7c484c3a3963d2385dd721f74a41b0b.jpg"
+      "title": "「突围吧·少年」 —— 这一次，“突围”不是带出物资",
+      "author": "新华社",
+      "view": 1224056,
+      "like": 125640,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1iTYp6kEwG",
+      "cover": "http://i1.hdslb.com/bfs/archive/e4abe125d4a4d20d71bf6327c17341edc7afdecd.jpg"
     },
     {
       "title": "鼠鼠勇闯长弓溪谷！！！",
       "author": "超级蓝狼狼",
-      "view": 424076,
-      "like": 30737,
+      "view": 721082,
+      "like": 41590,
       "cat": "同人·手书",
       "link": "https://www.bilibili.com/video/BV1AcYK6kEiq",
       "cover": "http://i2.hdslb.com/bfs/archive/b72fe5b11000da1bd702315e42feeb00bb869adc.jpg"
+    },
+    {
+      "title": "新三国up锐评老三国17：往日种种……皆作云烟！",
+      "author": "吃蛋挞的折棒",
+      "view": 283397,
+      "like": 21345,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1VXY36GEQs",
+      "cover": "http://i2.hdslb.com/bfs/archive/870a5afc56a71100f079c61d7d47ad4f2e6d895c.jpg"
+    },
+    {
+      "title": "当我背着8斤相机来到贵州",
+      "author": "cintia_",
+      "view": 348713,
+      "like": 11729,
+      "cat": "出行",
+      "link": "https://www.bilibili.com/video/BV1ceYu6mE7y",
+      "cover": "http://i0.hdslb.com/bfs/archive/319fd926a162e08ee7223e9f0d3cd431fb5b2710.jpg"
     }
   ],
   "weibo": [
