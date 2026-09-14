@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13 22:57:17 +08:00",
-  "date": "2026-09-13",
-  "weekday": "周日",
+  "generated_at": "2026-09-14 09:26:02 +08:00",
+  "date": "2026-09-14",
+  "weekday": "周一",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "安慰别人一套一套，安慰自己三二一跳。",
-      "from": "网络 · 《网易云音乐》"
+      "text": "我没辜负你，你看到了吗？",
+      "from": "茉莉雨 · 《有感》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
-      "title": "《魔兽世界》：“无限”宣传动画 《崭新的天地》",
-      "author": "魔兽世界",
-      "view": 2979270,
-      "like": 22934,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1WQYd6DEgs",
-      "cover": "http://i0.hdslb.com/bfs/archive/79b8b51898b2b5aafed0781916375206430a9d06.jpg"
-    },
-    {
-      "title": "《魔兽世界》：“至暗之夜”“临界蚀刻”揭晓预告片《一门之隔》",
-      "author": "魔兽世界",
-      "view": 663352,
-      "like": 4243,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1PaYo6WEfo",
-      "cover": "http://i0.hdslb.com/bfs/archive/d97561e748a75017fa60fc2fa070142d49ce8a4d.jpg"
-    },
-    {
-      "title": "思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！",
-      "author": "留意炫饭吖",
-      "view": 5577561,
-      "like": 376232,
-      "cat": "美食记录",
-      "link": "https://www.bilibili.com/video/BV1TEYX62EMp",
-      "cover": "http://i2.hdslb.com/bfs/archive/ecefad1b4f3d44f382809930966e792b49fca046.jpg"
-    },
-    {
-      "title": "【独家】牧神记 第100集 鬼上身",
-      "author": "哔哩哔哩国创",
-      "view": 2059921,
-      "like": 38623,
-      "cat": "国产动画",
-      "link": "https://www.bilibili.com/video/BV1nTYS6tEjG",
-      "cover": "http://i0.hdslb.com/bfs/archive/aa10948a4e3098c88ee54d2a8b7fad15cc6607c4.png"
+      "title": "重返渴望现场｜百事可乐音乐盛典完整回放正式上线！",
+      "author": "百事可乐",
+      "view": 2003093,
+      "like": 5036,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1uKY26hETJ",
+      "cover": "http://i1.hdslb.com/bfs/archive/aad2e3b3b30c7e4ae4b26975083ebc2226ab494a.jpg"
     },
     {
       "title": "端倪",
       "author": "安吉-AnJ",
-      "view": 762649,
-      "like": 73250,
+      "view": 1363276,
+      "like": 103832,
       "cat": "影视剪辑",
       "link": "https://www.bilibili.com/video/BV19mYX6dEQ6",
       "cover": "http://i1.hdslb.com/bfs/archive/3cc3527ac5b68539ce86c6ffb2327ce0dd2a59b0.jpg"
     },
     {
+      "title": "锐评AL战胜BLG获得2026LPL总冠军：经典老味道...",
+      "author": "喵仙人ovo",
+      "view": 377558,
+      "like": 8437,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1H2YB6wE2u",
+      "cover": "http://i1.hdslb.com/bfs/archive/42f1351dabdb2933b6ae7bcbdd80750ca3a4de8f.jpg"
+    },
+    {
+      "title": "【独家】牧神记 第100集 鬼上身",
+      "author": "哔哩哔哩国创",
+      "view": 2312751,
+      "like": 43555,
+      "cat": "国产动画",
+      "link": "https://www.bilibili.com/video/BV1nTYS6tEjG",
+      "cover": "http://i0.hdslb.com/bfs/archive/aa10948a4e3098c88ee54d2a8b7fad15cc6607c4.png"
+    },
+    {
+      "title": "Re：从零开始的异世界学园生活·序",
+      "author": "ka殿",
+      "view": 169106,
+      "like": 20818,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1PeYe69EWk",
+      "cover": "http://i0.hdslb.com/bfs/archive/a3ea537fe2a43fb7dcc420e8d4c2a026ce6f88d2.jpg"
+    },
+    {
+      "title": "十赌九输",
+      "author": "脱缰凯Kk",
+      "view": 466551,
+      "like": 40919,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1YfYi65EPx",
+      "cover": "http://i1.hdslb.com/bfs/archive/797eade55ce0d962d382f33539e3c6901fd9a43f.jpg"
+    },
+    {
+      "title": "还原我吃完菌子做的噩梦",
+      "author": "一只大哈鱼",
+      "view": 451761,
+      "like": 43136,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1JJYd6rEwA",
+      "cover": "http://i1.hdslb.com/bfs/archive/d11c9f0bc51a116c903354b52ec42c3305d1d795.jpg"
+    },
+    {
+      "title": "吃一把拇指西瓜以为香甜爆汁，结果……【主播说三农】",
+      "author": "央视农业",
+      "view": 939210,
+      "like": 44613,
+      "cat": "三农",
+      "link": "https://www.bilibili.com/video/BV1wZYY6EE6m",
+      "cover": "http://i0.hdslb.com/bfs/archive/2c87eedaef2aad2ed071118527e927361ec7f1f9.jpg"
+    },
+    {
       "title": "【假装讲电影】笑死！黑帮集体跳槽干物业！结果发现物业更黑啊！！！",
       "author": "假装讲电影",
-      "view": 1709879,
-      "like": 55366,
+      "view": 2086141,
+      "like": 62987,
       "cat": "影视杂谈",
       "link": "https://www.bilibili.com/video/BV1vnYQ6xEMr",
       "cover": "http://i1.hdslb.com/bfs/archive/4a184d7221eda63c30f0681ebf4e5134383e4cb5.jpg"
     },
     {
-      "title": "什么是洲同学？洲同学就是洲同学！",
-      "author": "三角洲行动",
-      "view": 560665,
-      "like": 41697,
-      "cat": "GMV",
-      "link": "https://www.bilibili.com/video/BV1EWYY6rEEZ",
-      "cover": "http://i0.hdslb.com/bfs/archive/d0c6df0ee2e6b87699fd47441794bf0f74b25b33.jpg"
-    },
-    {
-      "title": "假如你是一个雪饼",
-      "author": "农民伯伯吖",
-      "view": 4950550,
-      "like": 213412,
-      "cat": "软件应用",
-      "link": "https://www.bilibili.com/video/BV1ciYp6XEpW",
-      "cover": "http://i0.hdslb.com/bfs/archive/4cc47b8412bc04a3badb96e31136cea4385e3af0.jpg"
-    },
-    {
-      "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
-      "author": "巫暖聪",
-      "view": 1840051,
-      "like": 216860,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1S5YE6HE9Q",
-      "cover": "http://i0.hdslb.com/bfs/archive/74bdb100295baa417948902ef1832192e4f24e7a.jpg"
-    },
-    {
-      "title": "《魔兽世界》：“无限”内容预览",
-      "author": "魔兽世界",
-      "view": 1196262,
-      "like": 6927,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1HoYd67EJq",
-      "cover": "http://i2.hdslb.com/bfs/archive/94db9189059999eea701935460afdbffcffce1a0.jpg"
-    },
-    {
-      "title": "《听见你的心声》05我能听见我的初恋在想什么。老师……你拉链真的开了。本故事纯属虚构，请相信科学。",
-      "author": "编导叶小白",
-      "view": 855826,
-      "like": 55069,
-      "cat": "综合",
-      "link": "https://www.bilibili.com/video/BV1u7YX67ETK",
-      "cover": "http://i1.hdslb.com/bfs/archive/5cbf4d3e2bfb3775cd9bc90a9b602b00d2226a69.jpg"
-    },
-    {
-      "title": "中国人能飞",
-      "author": "一打七弟弟",
-      "view": 3210093,
-      "like": 167404,
-      "cat": "仿妆cos",
-      "link": "https://www.bilibili.com/video/BV1URYD6VETC",
-      "cover": "http://i2.hdslb.com/bfs/archive/7ae0b02929f7db7fda7c24828466078eff9f86c1.jpg"
-    },
-    {
-      "title": "表哥的新房",
-      "author": "新华网",
-      "view": 614526,
-      "like": 75079,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1hxYL6jE4J",
-      "cover": "http://i0.hdslb.com/bfs/archive/788a3af3cd1be91209cc2568e6e8a3752ceb50e8.jpg"
+      "title": "特大暴雨来了：川渝华南将大范围多阴雨，新台风酝酿或中秋前靠近",
+      "author": "中气爱",
+      "view": 371541,
+      "like": 19504,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV19FYq6CEwu",
+      "cover": "http://i1.hdslb.com/bfs/archive/d79e9fcf75156554c916a277e2f1f70e01fc00f2.jpg"
     },
     {
       "title": "自驾穿越美国加州，遭遇野生黑熊，住进绿皮书里汽车hotel",
       "author": "超Carry的柴西",
-      "view": 1000039,
-      "like": 41256,
+      "view": 1187209,
+      "like": 44895,
       "cat": "出行",
       "link": "https://www.bilibili.com/video/BV1F5Y96uEqs",
       "cover": "http://i1.hdslb.com/bfs/archive/3515cc5345a68b57dc1b2bd3b9c15d9ec9592d9a.jpg"
     },
     {
-      "title": "亲爱的拉瓦锡夫人，请让我再介绍你一次。",
-      "author": "何大爷课堂",
-      "view": 563041,
-      "like": 61758,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1FBYR6rE2x",
-      "cover": "http://i1.hdslb.com/bfs/archive/74643090cc9ebf97a2a9dfc75d742834f35d473b.jpg"
+      "title": "「吉田凛·雷之律者」实机演示 | 9月11日登场，雳霆裁诏，狂雷涤罪！",
+      "author": "使命召唤手游官方",
+      "view": 853699,
+      "like": 18760,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV15ZYs6jEmR",
+      "cover": "http://i2.hdslb.com/bfs/archive/c4661e100b8c110e341a2fb9377d91258da5d7ff.jpg"
     },
     {
-      "title": "探访野生狗奶原产地，味道居然还不错",
-      "author": "咪克菌",
-      "view": 1527655,
-      "like": 46422,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1cgYQ6PE8c",
-      "cover": "http://i0.hdslb.com/bfs/archive/994390e69954f1b938b6166dd37ce249ef179a4d.jpg"
+      "title": "麒麟9050 Pro能效实测！华为Mate XT2性能有多强？",
+      "author": "极客湾Geekerwan",
+      "view": 1156850,
+      "like": 77440,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1HEYv6XETo",
+      "cover": "http://i0.hdslb.com/bfs/archive/606f13ce30e0c415ef73580d9cdbfba5917eeda6.jpg"
     },
     {
-      "title": "那个和我对话的衰小孩，不过是脑海幻想出来的罢了！",
-      "author": "北鸣玄狗",
-      "view": 485145,
-      "like": 51872,
+      "title": "《原神》六周年配音演员祝福-「循音致远的足迹」",
+      "author": "原神",
+      "view": 540760,
+      "like": 97762,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1sdYZ6dEmq",
+      "cover": "http://i0.hdslb.com/bfs/archive/7209cb23a82299849dae8234a0794725251a495d.jpg"
+    },
+    {
+      "title": "【1818黄金眼】女会员的健身照 店长发朋友圈引流？",
+      "author": "1818黄金眼",
+      "view": 464320,
+      "like": 18136,
+      "cat": "社会",
+      "link": "https://www.bilibili.com/video/BV1L8YY6qEM3",
+      "cover": "http://i2.hdslb.com/bfs/archive/16ddee39260110377d128d1f94351c1fe3f632b0.jpg"
+    },
+    {
+      "title": "那些年为了听歌做过的事？你中了几个？也许那首歌才能带我们回到过去。。。",
+      "author": "李如儒也是李蠕蠕",
+      "view": 294280,
+      "like": 23723,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1rvYa65E1Z",
+      "cover": "http://i1.hdslb.com/bfs/archive/ae7f22470822daccbd01dc549d6fad5a570f18c7.jpg"
+    },
+    {
+      "title": "《听见你的心声》05我能听见我的初恋在想什么。老师……你拉链真的开了。本故事纯属虚构，请相信科学。",
+      "author": "编导叶小白",
+      "view": 1148973,
+      "like": 70709,
       "cat": "综合",
-      "link": "https://www.bilibili.com/video/BV1xyY96mEJ8",
-      "cover": "http://i1.hdslb.com/bfs/archive/2339432beed7074379080ce2be68c03c420347d3.jpg"
+      "link": "https://www.bilibili.com/video/BV1u7YX67ETK",
+      "cover": "http://i1.hdslb.com/bfs/archive/5cbf4d3e2bfb3775cd9bc90a9b602b00d2226a69.jpg"
     },
     {
-      "title": "5分钟网页开发上线全流程 | 豆包工作和我的爱恨纠缠",
-      "author": "英雄哪里出来",
-      "view": 1032826,
-      "like": 16472,
-      "cat": "计算机技术",
-      "link": "https://www.bilibili.com/video/BV1xFYb6rEuc",
-      "cover": "http://i1.hdslb.com/bfs/archive/ae37ac83cba85f0ff90a44eaf02a43f54f2d8326.jpg"
+      "title": "套假牌，超速200+，自称德国不限速。难度2星",
+      "author": "地图侦探",
+      "view": 1792435,
+      "like": 75212,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1UeYQ62Eq3",
+      "cover": "http://i1.hdslb.com/bfs/archive/ba225f6b8beadf8f0a2139e0b2d8bfea600c1143.jpg"
     },
     {
-      "title": "逆天小游戏2391",
-      "author": "小白云玩游戏",
-      "view": 957119,
-      "like": 62857,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1uLYX6UEfR",
-      "cover": "http://i0.hdslb.com/bfs/archive/d85127ac8456622d6c50c9bec4e6a28a8b9efb72.jpg"
+      "title": "中国人能飞",
+      "author": "一打七弟弟",
+      "view": 3833803,
+      "like": 194273,
+      "cat": "仿妆cos",
+      "link": "https://www.bilibili.com/video/BV1URYD6VETC",
+      "cover": "http://i2.hdslb.com/bfs/archive/7ae0b02929f7db7fda7c24828466078eff9f86c1.jpg"
     },
     {
-      "title": "什么事比丈夫出轨还头疼？！年度8.7高分抓马韩剧万字详解",
-      "author": "小侠夜班车",
-      "view": 629588,
-      "like": 13494,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1mwY96jEom",
-      "cover": "http://i0.hdslb.com/bfs/archive/7d9f2dc47c7d14d8e10270175b5b43329d2d87c6.jpg"
+      "title": "《淘汰回放》",
+      "author": "伤心欲茄222",
+      "view": 767530,
+      "like": 78416,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1g9YX6XEi1",
+      "cover": "http://i1.hdslb.com/bfs/archive/212fb658de246309644bdb0adf5d7f902c3ad80d.jpg"
     }
   ],
   "weibo": [
