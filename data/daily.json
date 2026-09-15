@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 00:59:44 +08:00",
+  "generated_at": "2026-09-15 09:45:35 +08:00",
   "date": "2026-09-15",
   "weekday": "周二",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "非人之学能，非人之能学。",
-      "from": "朴素 · 《大世》"
+      "text": "福生于清俭，德生于卑退。",
+      "from": "夏侯惇 · 《三国杀》"
     },
     "angles": [
       {
@@ -435,19 +435,28 @@
   },
   "bilibili": [
     {
-      "title": "全网首发！感谢大家参与！二周年彩蛋我们解出来啦！大战场篇完事！三角洲真的太阴了！",
-      "author": "Key725",
-      "view": 272712,
-      "like": 26399,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1NuYy6DEtZ",
-      "cover": "http://i2.hdslb.com/bfs/archive/856323f37380da738f5bd85537eee3b75195a0d2.jpg"
+      "title": "985本硕毕业后，30岁小伙重读本科，成功入住宿舍，跟大家介绍我的新家",
+      "author": "亮子李",
+      "view": 657305,
+      "like": 10805,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1dTYC6AEYQ",
+      "cover": "http://i2.hdslb.com/bfs/archive/84f6fa78aef6a3bf4e5315589fb9c41b55a6ef13.jpg"
+    },
+    {
+      "title": "亲证",
+      "author": "安吉-AnJ",
+      "view": 710974,
+      "like": 50416,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1zoY66wE6J",
+      "cover": "http://i2.hdslb.com/bfs/archive/42c2c735c6865fb2ab0d0125d3abddf1f53554b4.jpg"
     },
     {
       "title": "全网首发！二周年彩蛋解密完成！每个鸟窝都是入口！难度大大降低！这些东西速买！要爆！",
       "author": "Key725",
-      "view": 215329,
-      "like": 12527,
+      "view": 537014,
+      "like": 28324,
       "cat": "网络游戏",
       "link": "https://www.bilibili.com/video/BV1wge56aEhC",
       "cover": "http://i2.hdslb.com/bfs/archive/c7fbcbff0754994ca15329c44802e9e1e15d77d4.jpg"
@@ -455,164 +464,155 @@
     {
       "title": "你说你要一锅端？",
       "author": "新华社",
-      "view": 560163,
-      "like": 53269,
+      "view": 881877,
+      "like": 70792,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1F9Y66NEVP",
       "cover": "http://i1.hdslb.com/bfs/archive/581adb30f0c1e69d47dfca44ce392fed37c9da84.jpg"
     },
     {
-      "title": "Re：从零开始的异世界学园生活·序",
-      "author": "ka殿",
-      "view": 1125656,
-      "like": 105441,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1PeYe69EWk",
-      "cover": "http://i0.hdslb.com/bfs/archive/a3ea537fe2a43fb7dcc420e8d4c2a026ce6f88d2.jpg"
-    },
-    {
-      "title": "锵锵锵",
-      "author": "脱缰凯Kk",
-      "view": 526324,
-      "like": 41324,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1tsY16bEwp",
-      "cover": "http://i0.hdslb.com/bfs/archive/52026bc81d5d457906545ff9195f1a7c475396b8.jpg"
-    },
-    {
-      "title": "亲证",
-      "author": "安吉-AnJ",
-      "view": 380962,
-      "like": 38122,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1zoY66wE6J",
-      "cover": "http://i2.hdslb.com/bfs/archive/42c2c735c6865fb2ab0d0125d3abddf1f53554b4.jpg"
-    },
-    {
       "title": "驯化西瓜：一颗苦涩有毒的野瓜，如何成为世界顶流",
       "author": "大圆镜科普",
-      "view": 478556,
-      "like": 63454,
+      "view": 640407,
+      "like": 75069,
       "cat": "科学科普",
       "link": "https://www.bilibili.com/video/BV11CYk6UEB4",
       "cover": "http://i0.hdslb.com/bfs/archive/5959712a92138aa68c014d3dcef9348d88bca27c.jpg"
     },
     {
-      "title": "我来接受中国朋友们的挑战啦！",
-      "author": "野兽先生MrBeast",
-      "view": 318890,
-      "like": 33480,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1qdY76eE46",
-      "cover": "http://i1.hdslb.com/bfs/archive/2fd47db4d6e322b856ac247bc8be3d2476f8ed1b.jpg"
-    },
-    {
-      "title": "和五月天阿信见了他",
-      "author": "影视飓风",
-      "view": 562028,
-      "like": 44182,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV17PYC6KEXu",
-      "cover": "http://i1.hdslb.com/bfs/archive/c9036763439c028fd6e9a9bd2c01fca10f58059c.jpg"
-    },
-    {
-      "title": "【萌黄一槽】夺走你的心！角都[晓·北]全技能爆料",
-      "author": "火影忍者手游情报君",
-      "view": 747812,
-      "like": 40493,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1seY16pEh9",
-      "cover": "http://i1.hdslb.com/bfs/archive/de5f7cae2eca0e50b753d970f3e31a4c7701a181.jpg"
-    },
-    {
-      "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
-      "author": "SillyZ_Official",
-      "view": 1087107,
-      "like": 80828,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1PYYo6XEW9",
-      "cover": "http://i0.hdslb.com/bfs/archive/6c55230d9a3946473970595c4ae1d860e6567724.jpg"
-    },
-    {
       "title": "花了 4.61 亿 token，我把整个 N 网汉化了",
       "author": "丶易风雪",
-      "view": 103183,
-      "like": 8749,
+      "view": 239649,
+      "like": 16722,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1LcYr68EpR",
       "cover": "http://i0.hdslb.com/bfs/archive/592e83e275ab4a1a8ad73b22ea88086c295796de.jpg"
     },
     {
-      "title": "985本硕毕业后，30岁小伙重读本科，成功入住宿舍，跟大家介绍我的新家",
-      "author": "亮子李",
-      "view": 222311,
-      "like": 6722,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1dTYC6AEYQ",
-      "cover": "http://i2.hdslb.com/bfs/archive/84f6fa78aef6a3bf4e5315589fb9c41b55a6ef13.jpg"
+      "title": "重返渴望现场｜百事可乐音乐盛典完整回放正式上线！",
+      "author": "百事可乐",
+      "view": 3040771,
+      "like": 7002,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1uKY26hETJ",
+      "cover": "http://i1.hdslb.com/bfs/archive/aad2e3b3b30c7e4ae4b26975083ebc2226ab494a.jpg"
     },
     {
-      "title": "住宅爆响&低频噪音现场溯源的两个案例-苏州、镇江",
-      "author": "朱林-声学",
-      "view": 350476,
-      "like": 28145,
-      "cat": "家居房产",
-      "link": "https://www.bilibili.com/video/BV199YR68E7d",
-      "cover": "http://i1.hdslb.com/bfs/archive/d4460e05016888b254323701494c3e484782a8c9.jpg"
+      "title": "我的移动野生动物拍摄基地，小米澎程N90 Max 探索版担当的起吗？",
+      "author": "龙女之声",
+      "view": 121575,
+      "like": 7769,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1owYC6iEtf",
+      "cover": "http://i0.hdslb.com/bfs/archive/eb8ce021c8e5fb54e53f21a924bafa0344d24e44.jpg"
+    },
+    {
+      "title": "最成功的“魔改”，恰恰背叛了原著？160年了，爱丽丝为什么总在被改写？【万字拉片】《爱丽丝梦游仙境》P1",
+      "author": "呼呼炖汤",
+      "view": 435476,
+      "like": 9939,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1zmYi6QEZQ",
+      "cover": "http://i0.hdslb.com/bfs/archive/1a2c42e06fd304ddeef02cba2e475569f85fb1be.jpg"
+    },
+    {
+      "title": "猫师傅进城第一天，没钱住店却遇见了一群好人",
+      "author": "喵喵王小橘",
+      "view": 597729,
+      "like": 37974,
+      "cat": "喵星人",
+      "link": "https://www.bilibili.com/video/BV1rPYS6bEhY",
+      "cover": "http://i0.hdslb.com/bfs/archive/0ef3e3d92127ca5a1186189641c76b6ba76a43b8.jpg"
+    },
+    {
+      "title": "《你以为的支教只教课时，但实际上...》",
+      "author": "狗哥的猫meme小剧场",
+      "view": 982974,
+      "like": 113944,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1z7Y96KEU4",
+      "cover": "http://i2.hdslb.com/bfs/archive/58a72b4ea067948f5a9b45cfcc98dc9d36fb346d.jpg"
+    },
+    {
+      "title": "全网首发！感谢大家参与！二周年彩蛋我们解出来啦！大战场篇完事！三角洲真的太阴了！",
+      "author": "Key725",
+      "view": 515821,
+      "like": 43540,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1NuYy6DEtZ",
+      "cover": "http://i2.hdslb.com/bfs/archive/856323f37380da738f5bd85537eee3b75195a0d2.jpg"
+    },
+    {
+      "title": "自民党琉球狂胜 民众对日美的反抗要落幕了吗？",
+      "author": "波士顿圆脸",
+      "view": 352212,
+      "like": 19846,
+      "cat": "社科·法律·心理",
+      "link": "https://www.bilibili.com/video/BV11mYy69Erq",
+      "cover": "http://i1.hdslb.com/bfs/archive/d5e4310ac5b85e1430bb13e48934ed52bfef354f.jpg"
+    },
+    {
+      "title": "锵锵锵",
+      "author": "脱缰凯Kk",
+      "view": 726154,
+      "like": 51486,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1tsY16bEwp",
+      "cover": "http://i0.hdslb.com/bfs/archive/52026bc81d5d457906545ff9195f1a7c475396b8.jpg"
+    },
+    {
+      "title": "和五月天阿信见了他",
+      "author": "影视飓风",
+      "view": 681559,
+      "like": 50280,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV17PYC6KEXu",
+      "cover": "http://i1.hdslb.com/bfs/archive/c9036763439c028fd6e9a9bd2c01fca10f58059c.jpg"
+    },
+    {
+      "title": "女子散步时被蝙蝠撞到脸，连夜打狂犬病疫苗，医生：直接接触蝙蝠 无论有无伤口，即判定为狂犬病III级暴露，一旦发病死亡率是100%",
+      "author": "大象新闻",
+      "view": 1816243,
+      "like": 73482,
+      "cat": "社会",
+      "link": "https://www.bilibili.com/video/BV1EuYi6UEH4",
+      "cover": "http://i2.hdslb.com/bfs/archive/d16dbbfc982de4e5d7132b4f4fd53364161f8b61.jpg"
+    },
+    {
+      "title": "峰哥亡命越南，河内一天逛吃vlog",
+      "author": "峰哥亡命天涯",
+      "view": 582849,
+      "like": 18438,
+      "cat": "出行",
+      "link": "https://www.bilibili.com/video/BV1h3Yr6QEoY",
+      "cover": "http://i0.hdslb.com/bfs/archive/2cda7fcb2e9c33f13b0098678b2a443fe2596345.jpg"
+    },
+    {
+      "title": "我来接受中国朋友们的挑战啦！",
+      "author": "野兽先生MrBeast",
+      "view": 430991,
+      "like": 41186,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1qdY76eE46",
+      "cover": "http://i1.hdslb.com/bfs/archive/2fd47db4d6e322b856ac247bc8be3d2476f8ed1b.jpg"
+    },
+    {
+      "title": "纯黑《漫威金刚狼》二周目最高难度纯爽杀解说",
+      "author": "-纯黑-",
+      "view": 43019,
+      "like": 3617,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1Mwej61EPz",
+      "cover": "http://i2.hdslb.com/bfs/archive/db6e7541f2008f8ac68d611e45f58203a1aac3ea.jpg"
     },
     {
       "title": "《地狱之家》改编自粉丝真实经历",
       "author": "谢星白",
-      "view": 1017333,
-      "like": 92439,
+      "view": 1141273,
+      "like": 101374,
       "cat": "搞笑",
       "link": "https://www.bilibili.com/video/BV1MUYv6AEJS",
       "cover": "http://i2.hdslb.com/bfs/archive/dde1a58a06c8aa2a945b153a9029d03cc4aef18a.jpg"
-    },
-    {
-      "title": "夏以昼主线分线「你与我的偏航线」PV公开——起落安妥，欢迎返航",
-      "author": "恋与深空",
-      "view": 409129,
-      "like": 8130,
-      "cat": "GMV",
-      "link": "https://www.bilibili.com/video/BV1m7Yr6mEzx",
-      "cover": "http://i2.hdslb.com/bfs/archive/b6363d6f02f54e5c5db0fc2af975e59968f22b55.jpg"
-    },
-    {
-      "title": "那些年为了听歌做过的事？你中了几个？也许那首歌才能带我们回到过去。。。",
-      "author": "李如儒也是李蠕蠕",
-      "view": 1015305,
-      "like": 60048,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1rvYa65E1Z",
-      "cover": "http://i1.hdslb.com/bfs/archive/ae7f22470822daccbd01dc549d6fad5a570f18c7.jpg"
-    },
-    {
-      "title": "挑战用24小时跑完世界最长地铁线",
-      "author": "爱健身小庞",
-      "view": 157220,
-      "like": 17964,
-      "cat": "美食测评",
-      "link": "https://www.bilibili.com/video/BV15QYC6AEz9",
-      "cover": "http://i2.hdslb.com/bfs/archive/3ed29a213b94fa2753e9138450f720341b48b4f0.jpg"
-    },
-    {
-      "title": "《魔兽争霸3》，听说魔兽出了新英雄，来检测一下它的实力如何",
-      "author": "公孙雅量",
-      "view": 200902,
-      "like": 9743,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1qNY16GETE",
-      "cover": "http://i1.hdslb.com/bfs/archive/33fe8afcfbcc34897424fc3f99e3b1efc53efcc2.jpg"
-    },
-    {
-      "title": "一想到这几个b刚认识半个月我就想笑",
-      "author": "只是在摸鱼的姜某",
-      "view": 799455,
-      "like": 52660,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1qDYo63E3k",
-      "cover": "http://i1.hdslb.com/bfs/archive/5b4ba85bfd8c4c1630b749046402818b1bec5e6c.jpg"
     }
   ],
   "weibo": [
