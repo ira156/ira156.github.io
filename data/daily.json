@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20 22:45:29 +08:00",
-  "date": "2026-09-20",
-  "weekday": "周日",
+  "generated_at": "2026-09-21 09:24:05 +08:00",
+  "date": "2026-09-21",
+  "weekday": "周一",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "如果事事都要追求一清二楚，那烦恼无穷无尽，而且没有效率。",
-      "from": "神里凌人 · 《原神》"
+      "text": "还记得爱你时的每个心跳。",
+      "from": "刘家泽 · 《我很好》"
     },
     "angles": [
       {
@@ -435,19 +435,100 @@
   },
   "bilibili": [
     {
-      "title": "《崩坏：星穹铁道》4.6版本「月升之前，与兽共舞」前瞻特别节目",
-      "author": "崩坏星穹铁道",
-      "view": 527806,
-      "like": 31951,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1wXeq6wEGR",
-      "cover": "http://i2.hdslb.com/bfs/archive/60b3307b4396f04f5b583c2632ce1c97b262723d.jpg"
+      "title": "KPL十周年宣传片：《保持纯粹的热爱》",
+      "author": "哔哩哔哩王者荣耀赛事",
+      "view": 1024981,
+      "like": 6261,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1Wsem6cEBw",
+      "cover": "http://i2.hdslb.com/bfs/archive/0d44c9f7309c67246fb86e052dcfd9286d19640a.jpg"
+    },
+    {
+      "title": "那个满眼满心都是我的小猫，去世了！",
+      "author": "泰哥是只小暖猫",
+      "view": 520742,
+      "like": 29816,
+      "cat": "喵星人",
+      "link": "https://www.bilibili.com/video/BV15bez6xEEB",
+      "cover": "http://i1.hdslb.com/bfs/archive/69254c1ed2b1f8bbd06ec190e3c71add095d7a7c.jpg"
+    },
+    {
+      "title": "正视",
+      "author": "安吉-AnJ",
+      "view": 756554,
+      "like": 58577,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV11kev6cEhk",
+      "cover": "http://i1.hdslb.com/bfs/archive/97c681dff91ca2bd25ba7d9cb95fe72de1f6b193.jpg"
+    },
+    {
+      "title": "【独家】牧神记 第101集 巫法杀人",
+      "author": "哔哩哔哩国创",
+      "view": 2020490,
+      "like": 32662,
+      "cat": "国产动画",
+      "link": "https://www.bilibili.com/video/BV1MEe46yEzC",
+      "cover": "http://i1.hdslb.com/bfs/archive/181a4fbb1b593813f8f3b98edfa4e554a41dad74.png"
+    },
+    {
+      "title": "师徒PK最后一舞，谁输了谁改名！我将拿出我最伟大的作品。",
+      "author": "良田田田",
+      "view": 561195,
+      "like": 40955,
+      "cat": "时尚潮流",
+      "link": "https://www.bilibili.com/video/BV1X9eb6tEvy",
+      "cover": "http://i1.hdslb.com/bfs/archive/97c99b67607fa58863716ced0c3a80d994a599ad.jpg"
+    },
+    {
+      "title": "炎拳天使目前只卖了一千份，感觉皮特儿他们工作室要无了",
+      "author": "挪威老王",
+      "view": 447800,
+      "like": 26527,
+      "cat": "出行",
+      "link": "https://www.bilibili.com/video/BV1jJeq69Eob",
+      "cover": "http://i2.hdslb.com/bfs/archive/1c1baff84c53f96ea9d9d598a44be542c1e3f249.jpg"
+    },
+    {
+      "title": "【杀死比赛】真人演唱殿堂级宏大交响重构版《琵琶曲》",
+      "author": "巨蟒大鳞片",
+      "view": 487448,
+      "like": 29970,
+      "cat": "翻唱",
+      "link": "https://www.bilibili.com/video/BV14Ue86DEjn",
+      "cover": "http://i2.hdslb.com/bfs/archive/da7cd7f042c822546dd29ab2aa1eb2cda3bcd6a2.jpg"
+    },
+    {
+      "title": "电动车钥匙丢了？锁坐桶里了？别急",
+      "author": "王大能耐爱发明",
+      "view": 1918208,
+      "like": 74093,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1myet61EDn",
+      "cover": "http://i2.hdslb.com/bfs/archive/8f86f187d3b2d619281d838dd6b688c1de946691.jpg"
+    },
+    {
+      "title": "华强找茬 但是全惹不起",
+      "author": "神威-狗剩",
+      "view": 1210526,
+      "like": 34609,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1Leeu66EYR",
+      "cover": "http://i1.hdslb.com/bfs/archive/3c06d9e19cdb5e9efd645bd98af00e5e504b8444.jpg"
+    },
+    {
+      "title": "陌生的女人，竟在我家偷偷住了二十年....",
+      "author": "某幻君",
+      "view": 923437,
+      "like": 45333,
+      "cat": "职业职场",
+      "link": "https://www.bilibili.com/video/BV157eY6zEec",
+      "cover": "http://i2.hdslb.com/bfs/archive/d8bd6c780f9480f5288c8d31a61e3fa693951910.jpg"
     },
     {
       "title": "“乡土凝存温情，善念永续流年.”【Blue Dragon-Inst】【乡土の小曲】",
       "author": "早睡起大王",
-      "view": 587318,
-      "like": 70194,
+      "view": 1277178,
+      "like": 131503,
       "cat": "人力VOCALOID",
       "link": "https://www.bilibili.com/video/BV1ZCeb6NEyM",
       "cover": "http://i1.hdslb.com/bfs/archive/5e462c2847e1aeb183a6fd94437d6f415a5adda4.jpg"
@@ -455,164 +536,83 @@
     {
       "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
       "author": "No_Tables",
-      "view": 89843,
-      "like": 18189,
+      "view": 357721,
+      "like": 52869,
       "cat": "手机游戏",
       "link": "https://www.bilibili.com/video/BV1woez6TECm",
-      "cover": "http://i1.hdslb.com/bfs/archive/e3cb204391a6f4325c56e328b7772b759e84b55e.jpg"
-    },
-    {
-      "title": "【独家】牧神记 第101集 巫法杀人",
-      "author": "哔哩哔哩国创",
-      "view": 1735495,
-      "like": 28216,
-      "cat": "国产动画",
-      "link": "https://www.bilibili.com/video/BV1MEe46yEzC",
-      "cover": "http://i1.hdslb.com/bfs/archive/181a4fbb1b593813f8f3b98edfa4e554a41dad74.png"
-    },
-    {
-      "title": "依旧获得优先择偶权",
-      "author": "未曾去过须弥山",
-      "view": 2192598,
-      "like": 140390,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1vgeb6ZEN7",
-      "cover": "http://i2.hdslb.com/bfs/archive/9b1bf54efedc272501ee10e22488273d338851c4.jpg"
-    },
-    {
-      "title": "《崩坏：星穹铁道》4.6版本PV：「月升之前，与兽共舞」",
-      "author": "崩坏星穹铁道",
-      "view": 659864,
-      "like": 43523,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1rhei64EVA",
-      "cover": "http://i1.hdslb.com/bfs/archive/fa7efcf052b7d726e94aa8ba5bf0b8f5f7ceede4.jpg"
-    },
-    {
-      "title": "【逐影集趣】DP全关卡攻略 摆完挂机 简单好抄",
-      "author": "萧然Q",
-      "view": 569334,
-      "like": 12148,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1wXeq6wEpo",
-      "cover": "http://i2.hdslb.com/bfs/archive/7032830465746a41e2b91c21833714650b44827c.jpg"
-    },
-    {
-      "title": "采访了刘慈欣",
-      "author": "食贫道",
-      "view": 465258,
-      "like": 36577,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1bLei6BEGo",
-      "cover": "http://i1.hdslb.com/bfs/archive/0d3a475cd29d9d127370e5c631c1ea7a81828a51.jpg"
-    },
-    {
-      "title": "快讯！艾莲与耀嘉音即将登陆星穹列车！",
-      "author": "崩坏星穹铁道",
-      "view": 631307,
-      "like": 55491,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1Kreq6zEn6",
-      "cover": "http://i1.hdslb.com/bfs/archive/2eabd7eb2eb7cdb04ca63ab2924454f5163a5cb1.jpg"
-    },
-    {
-      "title": "坐在购物车里狂奔！懒虫：荣耀购物车",
-      "author": "鲤鱼Ace",
-      "view": 890309,
-      "like": 112971,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV17Aeb6YEZE",
-      "cover": "http://i0.hdslb.com/bfs/archive/bc4cbae40b7082d24ed19d21f790869a29f47a67.jpg"
+      "cover": "http://i2.hdslb.com/bfs/archive/aa214b2f5f07941ab759bbe93aa14adbac18424b.jpg"
     },
     {
       "title": "评分9.3！长大能有多苦涩？重温野比大雄的人生！咋和童年看着不一样？【瓶子君152】",
       "author": "瓶子君152",
-      "view": 254348,
-      "like": 29819,
+      "view": 602155,
+      "like": 49325,
       "cat": "手机游戏",
       "link": "https://www.bilibili.com/video/BV1uhev6BEpe",
       "cover": "http://i2.hdslb.com/bfs/archive/3ce5b53de75e1af0424decfb65a168b62108d901.jpg"
     },
     {
-      "title": "正视",
-      "author": "安吉-AnJ",
-      "view": 337210,
-      "like": 39841,
+      "title": "第36集|外卖小哥穿越修仙世界，徒手斗恶龙",
+      "author": "绯红天尊",
+      "view": 219047,
+      "like": 12114,
       "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV11kev6cEhk",
-      "cover": "http://i1.hdslb.com/bfs/archive/97c681dff91ca2bd25ba7d9cb95fe72de1f6b193.jpg"
+      "link": "https://www.bilibili.com/video/BV1ELeq64E2t",
+      "cover": "http://i2.hdslb.com/bfs/archive/5b87477cc3451319b582430304244e27cee5ca75.jpg"
     },
     {
-      "title": "80岁的奶奶把\"豆包\"当闺蜜。。。",
-      "author": "特效小哥studio",
-      "view": 866681,
-      "like": 28045,
-      "cat": "娱乐粉丝创作",
-      "link": "https://www.bilibili.com/video/BV1Jvem6WE5g",
-      "cover": "http://i1.hdslb.com/bfs/archive/99d1bf5ed5401561c70bbf7a74d03c4c60ed6854.jpg"
+      "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
+      "author": "Stormz67",
+      "view": 156067,
+      "like": 27620,
+      "cat": "MMD·3D",
+      "link": "https://www.bilibili.com/video/BV1aSei65EFe",
+      "cover": "http://i0.hdslb.com/bfs/archive/cdda30baf36a96eb96a193ec2416e80fb44c6852.jpg"
     },
     {
-      "title": "《明日方舟：终末地》「雪凇幽梦」版本更新情报",
-      "author": "明日方舟终末地",
-      "view": 616599,
-      "like": 22841,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1o6e46bERx",
-      "cover": "http://i0.hdslb.com/bfs/archive/2803375877b2460c13d372b970ea503e092059bf.jpg"
+      "title": "这牌咋样？",
+      "author": "见绮莉",
+      "view": 987908,
+      "like": 51659,
+      "cat": "桌游棋牌",
+      "link": "https://www.bilibili.com/video/BV1EKeh6uEVd",
+      "cover": "http://i1.hdslb.com/bfs/archive/e775d4d68a35f64684923c6bc9f7eac9205cda9a.jpg"
     },
     {
-      "title": "《反乌托邦Pt2》，但是反驳型人格",
-      "author": "零蛋填词昆西昆",
-      "view": 131642,
-      "like": 26717,
-      "cat": "MV",
-      "link": "https://www.bilibili.com/video/BV1pzeh62E8E",
-      "cover": "http://i1.hdslb.com/bfs/archive/60440b3089590b7d530761dadcf0eabaed47da8e.jpg"
+      "title": "仅5.87MB？全新重构Bongocat，推荐所有人使用！",
+      "author": "宇痕冫",
+      "view": 649624,
+      "like": 63431,
+      "cat": "软件应用",
+      "link": "https://www.bilibili.com/video/BV1E2eb6PE5Q",
+      "cover": "http://i1.hdslb.com/bfs/archive/412726a55b8c8d3737547ef31fa8a82ee0388007.jpg"
     },
     {
-      "title": "6连胜之后必输的魔咒，必输局，直接来吧",
-      "author": "磊哥游戏",
-      "view": 676503,
-      "like": 46134,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV172eb6PEBA",
-      "cover": "http://i2.hdslb.com/bfs/archive/e48b368ecace5f8f3d8b9b52246ffbb3a952397c.jpg"
+      "title": "【STN快报第8.5季21】索尼把金刚狼做成了金刚",
+      "author": "STN工作室",
+      "view": 361871,
+      "like": 29776,
+      "cat": "预告·资讯",
+      "link": "https://www.bilibili.com/video/BV1vmeB6WEEb",
+      "cover": "http://i1.hdslb.com/bfs/archive/8b4a567854da11608a1c27173e30a46312f953d2.jpg"
     },
     {
-      "title": "「北国特快计划」原神同人特别节目【HoYoFair x bilibilionly】",
-      "author": "提瓦特同人协会",
-      "view": 37063,
-      "like": 7509,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1b9ei6rE65",
-      "cover": "http://i2.hdslb.com/bfs/archive/2da4d72fa2beeec20af2e29616da347f0eec2986.jpg"
+      "title": "循环歌单|【Star Crossing Night】|“【校规の小曲】”",
+      "author": "蛋某人音乐",
+      "view": 1028511,
+      "like": 72391,
+      "cat": "乐评盘点",
+      "link": "https://www.bilibili.com/video/BV1E2eQ6aE3k",
+      "cover": "http://i0.hdslb.com/bfs/archive/2945ace8e724b777b29c1a67bdf5a77d1b8f0b14.jpg"
     },
     {
-      "title": "【传奇耐熬王】荒野独居2026👊全球最高规格荒野比赛🔪世界各地绝活哥前来参赛...兔王鹿王鱼王大战！",
-      "author": "-超级小能猫-",
-      "view": 846559,
-      "like": 47049,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1fCeb6NEEy",
-      "cover": "http://i1.hdslb.com/bfs/archive/acc75283d89cf5afd62be1082cd86a8c9179f221.jpg"
-    },
-    {
-      "title": "他的秘密",
-      "author": "大瑶同学remix",
-      "view": 620662,
-      "like": 50051,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1qFe46oECx",
-      "cover": "http://i1.hdslb.com/bfs/archive/5d12a37f95032aebac4b2bebbfe52e7351e698c9.jpg"
-    },
-    {
-      "title": "烟盒战队-复抽者！",
-      "author": "限时理想-背带侠",
-      "view": 2177409,
-      "like": 124215,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV131eC6cEm3",
-      "cover": "http://i0.hdslb.com/bfs/archive/036358ea48667f143fba2854fab2ebfa104b3da6.jpg"
+      "title": "神兽厨房：给梅山来的7位客人做饭",
+      "author": "神兽厨房",
+      "view": 829756,
+      "like": 53533,
+      "cat": "美食制作",
+      "link": "https://www.bilibili.com/video/BV1oxet6ZEPS",
+      "cover": "http://i0.hdslb.com/bfs/archive/2107cb0dd69668377332a32cffefc6f7eb9202a2.jpg"
     }
   ],
   "weibo": [
