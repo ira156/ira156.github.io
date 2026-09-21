@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21 18:06:36 +08:00",
-  "date": "2026-09-21",
-  "weekday": "周一",
+  "generated_at": "2026-09-22 01:07:49 +08:00",
+  "date": "2026-09-22",
+  "weekday": "周二",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "晾晾灵感，也晾晾风，晒晒暖暖的太阳，也晒晒毛茸茸。",
-      "from": "《无限暖暖》"
+      "text": "My life for aiur!",
+      "from": "《星际争霸2》"
     },
     "angles": [
       {
@@ -435,28 +435,55 @@
   },
   "bilibili": [
     {
-      "title": "最小的蝶翼，也能掀起风暴 | 守护生命，幸好有你！",
-      "author": "三角洲行动",
-      "view": 849136,
-      "like": 39815,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1MShe6dEkn",
-      "cover": "http://i1.hdslb.com/bfs/archive/980cb210ac0ea7f4918a8e8b6f0e4e280d6b5b6c.jpg"
+      "title": "【大鸣王潮1566】你是岁主还是共鸣者",
+      "author": "寞桀緣才",
+      "view": 125116,
+      "like": 17618,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1Xgh662E4o",
+      "cover": "http://i2.hdslb.com/bfs/archive/451d89e716cea839ffc1fc0428e7c1c444b3e91e.jpg"
     },
     {
-      "title": "我修改了Minecraft的船：",
-      "author": "晓晨Momore",
-      "view": 839554,
-      "like": 70121,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1Hjez6eEPv",
-      "cover": "http://i1.hdslb.com/bfs/archive/56c8a800303b89ce7cd2d17f3523f49814b7b58d.jpg"
+      "title": "《曾经的梦想》",
+      "author": "IPx的粉红豹",
+      "view": 1428008,
+      "like": 69870,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV15Qhh6oEWC",
+      "cover": "http://i1.hdslb.com/bfs/archive/4faa442cbb2a16ee2a0ce0befd33e36a874b14b3.jpg"
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第10集】",
+      "author": "九夜听风",
+      "view": 373720,
+      "like": 32727,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV13KhB6rE7N",
+      "cover": "http://i0.hdslb.com/bfs/archive/8af7a2d66103c8a0bfc9f99ad362e2b13452863c.jpg"
+    },
+    {
+      "title": "后续就是还有高手",
+      "author": "未曾去过须弥山",
+      "view": 3365990,
+      "like": 204508,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV14mez6VEG9",
+      "cover": "http://i2.hdslb.com/bfs/archive/5cfa1f9be78e4b04749f6a293efd82a2a1c4ae5b.jpg"
+    },
+    {
+      "title": "《异环》黑羽角色PV丨「魔女」的工作",
+      "author": "异环",
+      "view": 1149595,
+      "like": 40413,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1iWej6hEe6",
+      "cover": "http://i1.hdslb.com/bfs/archive/48b2ca24d3fd1c68b62a466f8e6776b4b1be60f3.jpg"
     },
     {
       "title": "谁不想上《琵琶行》的时候急头白脸听语文老师弹个琵琶呢？",
       "author": "芝士面线糊",
-      "view": 518348,
-      "like": 18268,
+      "view": 1357016,
+      "like": 56473,
       "cat": "音乐综合",
       "link": "https://www.bilibili.com/video/BV17Lev6UEKS",
       "cover": "http://i2.hdslb.com/bfs/archive/ede24a00d3d09f7cfd7aa278d9bc371480ae285a.jpg"
@@ -464,155 +491,128 @@
     {
       "title": "《原神》角色预告-「薇斯纳：春之晨舞」",
       "author": "原神",
-      "view": 593619,
-      "like": 77260,
+      "view": 1124146,
+      "like": 126024,
       "cat": "手机游戏",
       "link": "https://www.bilibili.com/video/BV16Leq64Ei3",
       "cover": "http://i2.hdslb.com/bfs/archive/d5513cf3f8e299f5b0789a5151c74dbf647b7705.jpg"
     },
     {
-      "title": "千校千问，和每一个你共赴新的课堂",
-      "author": "千问APP",
-      "view": 606706,
-      "like": 9645,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1Leeu66EX4",
-      "cover": "http://i1.hdslb.com/bfs/archive/748c858d5dca812dccc13807449b3232fb52c37d.jpg"
+      "title": "我让选择变得正确 | 无畏契约上海全球冠军赛 VCT CN 出征片",
+      "author": "无畏契约电竞",
+      "view": 406900,
+      "like": 6090,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1cWhe6CEzd",
+      "cover": "http://i2.hdslb.com/bfs/archive/3ac494b4c184d1d5d6c1783198124ae30a17414f.jpg"
     },
     {
-      "title": "后续就是还有高手",
-      "author": "未曾去过须弥山",
-      "view": 1138808,
-      "like": 69712,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV14mez6VEG9",
-      "cover": "http://i2.hdslb.com/bfs/archive/5cfa1f9be78e4b04749f6a293efd82a2a1c4ae5b.jpg"
+      "title": "我修改了Minecraft的船：",
+      "author": "晓晨Momore",
+      "view": 1809386,
+      "like": 133172,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1Hjez6eEPv",
+      "cover": "http://i1.hdslb.com/bfs/archive/56c8a800303b89ce7cd2d17f3523f49814b7b58d.jpg"
     },
     {
       "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
       "author": "No_Tables",
-      "view": 784098,
-      "like": 88716,
+      "view": 1126938,
+      "like": 117893,
       "cat": "手机游戏",
       "link": "https://www.bilibili.com/video/BV1woez6TECm",
       "cover": "http://i2.hdslb.com/bfs/archive/aa214b2f5f07941ab759bbe93aa14adbac18424b.jpg"
     },
     {
+      "title": "驯化咖啡：一种植物武器，为什么被人类喝了六百年",
+      "author": "大圆镜科普",
+      "view": 432401,
+      "like": 41090,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1nshi6DEh4",
+      "cover": "http://i1.hdslb.com/bfs/archive/7a14446900b37905416c13aaf20eb51846cfb553.jpg"
+    },
+    {
+      "title": "保健品行业“烂”透了?",
+      "author": "耿同学讲故事",
+      "view": 268358,
+      "like": 6887,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1LMeb6FEqp",
+      "cover": "http://i2.hdslb.com/bfs/archive/af5e7fb6b4e2b871e7ab62a696dbee9390992c43.jpg"
+    },
+    {
+      "title": "《鸣潮》3.7版本PV | 镜锁妄世，心照红尘",
+      "author": "鸣潮",
+      "view": 1424150,
+      "like": 33844,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1mKe86JES7",
+      "cover": "http://i1.hdslb.com/bfs/archive/7b4aa568c053f1f99ca6941383b5551b79749452.jpg"
+    },
+    {
       "title": "那个满眼满心都是我的小猫，去世了！",
       "author": "泰哥是只小暖猫",
-      "view": 1153084,
-      "like": 78429,
+      "view": 1853586,
+      "like": 135993,
       "cat": "喵星人",
       "link": "https://www.bilibili.com/video/BV15bez6xEEB",
       "cover": "http://i1.hdslb.com/bfs/archive/69254c1ed2b1f8bbd06ec190e3c71add095d7a7c.jpg"
     },
     {
-      "title": "【杀死比赛】真人演唱殿堂级宏大交响重构版《琵琶曲》",
-      "author": "巨蟒大鳞片",
-      "view": 1036077,
-      "like": 62749,
-      "cat": "翻唱",
-      "link": "https://www.bilibili.com/video/BV14Ue86DEjn",
-      "cover": "http://i2.hdslb.com/bfs/archive/da7cd7f042c822546dd29ab2aa1eb2cda3bcd6a2.jpg"
+      "title": "穿越冰岛无人区，我遇到了百年一遇的奇观……",
+      "author": "极速拍档",
+      "view": 386341,
+      "like": 24446,
+      "cat": "汽车生活",
+      "link": "https://www.bilibili.com/video/BV13vez6HEYS",
+      "cover": "http://i0.hdslb.com/bfs/archive/aeca96585233f0bd531faba5471680b8f20da49f.jpg"
+    },
+    {
+      "title": "他罗斯有步坦协同，但我金朝有超位魔法！【帝国时代4】",
+      "author": "DarkCarrot",
+      "view": 343503,
+      "like": 30657,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV17Qhv6VEaE",
+      "cover": "http://i1.hdslb.com/bfs/archive/72eb9fe59a1faa6ddb1390d72126df58aeca790a.jpg"
+    },
+    {
+      "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
+      "author": "Stormz67",
+      "view": 536154,
+      "like": 76271,
+      "cat": "MMD·3D",
+      "link": "https://www.bilibili.com/video/BV1aSei65EFe",
+      "cover": "http://i0.hdslb.com/bfs/archive/cdda30baf36a96eb96a193ec2416e80fb44c6852.jpg"
     },
     {
       "title": "单纯的约会（92）",
       "author": "-显眼宝-",
-      "view": 697162,
-      "like": 56476,
+      "view": 916132,
+      "like": 68645,
       "cat": "小剧场",
       "link": "https://www.bilibili.com/video/BV1AueU6cE3d",
       "cover": "http://i0.hdslb.com/bfs/archive/399a343df50f8fcb3ddefec557d98e802143b9e1.jpg"
     },
     {
-      "title": "【第四十五赛季·精华2】故事视频公开：——“驼铃迤逦，幸存者向沙洲月告解：我有罪……”",
-      "author": "网易第五人格手游",
-      "view": 271870,
-      "like": 8488,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1U1he6tEQX",
-      "cover": "http://i2.hdslb.com/bfs/archive/18e87406fc8a77a2588e53161d2493c7b37e1dcd.jpg"
+      "title": "【杀死比赛】真人演唱殿堂级宏大交响重构版《琵琶曲》",
+      "author": "巨蟒大鳞片",
+      "view": 1603692,
+      "like": 99708,
+      "cat": "翻唱",
+      "link": "https://www.bilibili.com/video/BV14Ue86DEjn",
+      "cover": "http://i2.hdslb.com/bfs/archive/da7cd7f042c822546dd29ab2aa1eb2cda3bcd6a2.jpg"
     },
     {
-      "title": "《异环》黑羽角色PV丨「魔女」的工作",
-      "author": "异环",
-      "view": 463994,
-      "like": 21484,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1iWej6hEe6",
-      "cover": "http://i1.hdslb.com/bfs/archive/48b2ca24d3fd1c68b62a466f8e6776b4b1be60f3.jpg"
-    },
-    {
-      "title": "歌剧老师锐评《披荆斩棘的哥哥2026》三公（上）",
-      "author": "铁豆钢蛋",
-      "view": 89822,
-      "like": 5066,
-      "cat": "乐评盘点",
-      "link": "https://www.bilibili.com/video/BV1QChi6qEv8",
-      "cover": "http://i1.hdslb.com/bfs/archive/4e64a31eb01401c6000745341e14497f05fa7bd7.jpg"
-    },
-    {
-      "title": "《曾经的梦想》",
-      "author": "IPx的粉红豹",
-      "view": 307511,
-      "like": 25221,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV15Qhh6oEWC",
-      "cover": "http://i1.hdslb.com/bfs/archive/4faa442cbb2a16ee2a0ce0befd33e36a874b14b3.jpg"
-    },
-    {
-      "title": "评分9.3！长大能有多苦涩？重温野比大雄的人生！咋和童年看着不一样？【瓶子君152】",
-      "author": "瓶子君152",
-      "view": 1171768,
-      "like": 69981,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1uhev6BEpe",
-      "cover": "http://i2.hdslb.com/bfs/archive/3ce5b53de75e1af0424decfb65a168b62108d901.jpg"
-    },
-    {
-      "title": "？？？？？？？？？",
-      "author": "三金啊GC",
-      "view": 588578,
-      "like": 25900,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV14teb6jEGH",
-      "cover": "http://i2.hdslb.com/bfs/archive/ba4d23918bbb71fbc13ad8a019851ea8e8f7e403.jpg"
-    },
-    {
-      "title": "KPL十周年宣传片：《保持纯粹的热爱》",
-      "author": "哔哩哔哩王者荣耀赛事",
-      "view": 1781337,
-      "like": 8899,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1Wsem6cEBw",
-      "cover": "http://i2.hdslb.com/bfs/archive/0d44c9f7309c67246fb86e052dcfd9286d19640a.jpg"
-    },
-    {
-      "title": "让村民们自己发展6个小时，回来后我竟然被架空了",
-      "author": "磊哥游戏",
-      "view": 453834,
-      "like": 37003,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1CRez6BEe9",
-      "cover": "http://i2.hdslb.com/bfs/archive/46a1b0446bb97151760916a8cd37359ae2d855e4.jpg"
-    },
-    {
-      "title": "这牌咋样？",
-      "author": "见绮莉",
-      "view": 1652493,
-      "like": 86362,
-      "cat": "桌游棋牌",
-      "link": "https://www.bilibili.com/video/BV1EKeh6uEVd",
-      "cover": "http://i1.hdslb.com/bfs/archive/e775d4d68a35f64684923c6bc9f7eac9205cda9a.jpg"
-    },
-    {
-      "title": "【三国杀×猪猪侠联动】新武将！新皮肤！新玩法！新场景！版本内容抢先看！",
-      "author": "三国杀一将成名",
-      "view": 777989,
-      "like": 18486,
-      "cat": "桌游棋牌",
-      "link": "https://www.bilibili.com/video/BV1oAeB6WESb",
-      "cover": "http://i0.hdslb.com/bfs/archive/f0853f4e8b5f5a2813666388bd63561321268cae.jpg"
+      "title": "全明星发癫，笑到停不下来，极致抽象的恶搞喜剧——《越光宝盒》",
+      "author": "灯影刘肉丝",
+      "view": 844201,
+      "like": 12852,
+      "cat": "影视杂谈",
+      "link": "https://www.bilibili.com/video/BV13sey6eEu3",
+      "cover": "http://i0.hdslb.com/bfs/archive/b3164592b974bb219344b8e811773f866bcc8d12.jpg"
     }
   ],
   "weibo": [
