@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30 10:17:33 +08:00",
+  "generated_at": "2026-09-30 18:36:54 +08:00",
   "date": "2026-09-30",
   "weekday": "周三",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "隆科多，皇额娘，果冻我要喜之郎。",
-      "from": "《网络》"
+      "text": "我们生活在阴沟里，但有人依然仰望星空。",
+      "from": "陈念 · 《少年的你》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
-      "title": "参数天花乱坠，实测原形毕露！12款热门空气炸锅，谁是不虚标实力派？",
-      "author": "京东家电家居采销团",
-      "view": 1036567,
-      "like": 24742,
-      "cat": "家居房产",
-      "link": "https://www.bilibili.com/video/BV1NKaV6bEv2",
-      "cover": "http://i1.hdslb.com/bfs/archive/4b1f4c4c6233fbf9f9ab505babb2f96a2dfe90dc.jpg"
+      "title": "让照片好看，这两个方法都不行啊！",
+      "author": "何大爷课堂",
+      "view": 595209,
+      "like": 38415,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1sFan61EPi",
+      "cover": "http://i1.hdslb.com/bfs/archive/fb68b6fcaa64cd25b850633155bf3d25d9a29e4d.jpg"
     },
     {
       "title": "艺术斗法",
       "author": "想想工作室",
-      "view": 705170,
-      "like": 32676,
+      "view": 2036212,
+      "like": 93265,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1deaJ6YEWH",
       "cover": "http://i1.hdslb.com/bfs/archive/b7f0dc7414a04b1a96889913b1385366e412347f.jpg"
     },
     {
-      "title": "【无聊的开箱】能装进口袋的性能怪兽！iQOO Pad Ultra上手开箱！",
-      "author": "无聊的开箱",
-      "view": 395793,
-      "like": 5418,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1vJap66EDr",
-      "cover": "http://i2.hdslb.com/bfs/archive/5454082daac8db02d4b6af3437366fbc68a991ac.jpg"
-    },
-    {
-      "title": "【剧情】长生契（2026）11【方逸伦 / 谢可寅】",
-      "author": "迷影社",
-      "view": 433372,
-      "like": 1050,
-      "cat": "国产剧",
-      "link": "https://www.bilibili.com/video/BV13Uem6yEzo",
-      "cover": "http://i2.hdslb.com/bfs/archive/04c2a5172149f9a58198ba0bd27f32783dbafbeb.jpg"
-    },
-    {
-      "title": "手绘465张！One Last Kiss【EVA30周年回忆重逢计划】",
-      "author": "棕与灰9",
-      "view": 1214613,
-      "like": 165545,
-      "cat": "绘画",
-      "link": "https://www.bilibili.com/video/BV1i4aL6QEYX",
-      "cover": "http://i0.hdslb.com/bfs/archive/d174a334a827a8a74fb716d0c2c70a47233510c8.jpg"
-    },
-    {
-      "title": "这个量筒里到底有几毫升水？别笑，你也答不上来！",
-      "author": "毕的二阶导",
-      "view": 1629310,
-      "like": 82505,
-      "cat": "科学科普",
-      "link": "https://www.bilibili.com/video/BV1R2aG63EBP",
-      "cover": "http://i1.hdslb.com/bfs/archive/873bf6bade1a9796feba8d5be57a7be354f6dba7.jpg"
-    },
-    {
-      "title": "你管这叫只会一点点？？？",
-      "author": "洛温阿特金森",
-      "view": 1510949,
-      "like": 86777,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1jXat6WEwR",
-      "cover": "http://i0.hdslb.com/bfs/archive/0f4400c1e63851ab8fdfad2b2b8df8075b3031f5.jpg"
-    },
-    {
-      "title": "手机的研究",
-      "author": "张开-",
-      "view": 562035,
-      "like": 42182,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1hXaA6jEoF",
-      "cover": "http://i0.hdslb.com/bfs/archive/bc374545a42cc1174a57fd1eb400e87a78d05005.jpg"
-    },
-    {
-      "title": "风声1",
-      "author": "脱缰凯Kk",
-      "view": 669449,
-      "like": 64977,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1iJap66E7D",
-      "cover": "http://i1.hdslb.com/bfs/archive/4b08d2213cbabdd5bc650fcf10ad6c5320eb3d42.jpg"
-    },
-    {
-      "title": "欧洲扒手猖獗横行，这才是文明的底蕴？",
-      "author": "麻薯波比呀",
-      "view": 662145,
-      "like": 47371,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV15pap6BEMq",
-      "cover": "http://i2.hdslb.com/bfs/archive/ccfd71da39c956373943d48efae9b892e64eb8f4.jpg"
-    },
-    {
-      "title": "“柳条人年年立起，没人记得这火燃了几世”",
-      "author": "治愈哥CULT",
-      "view": 930377,
-      "like": 39590,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1Jda36jENB",
-      "cover": "http://i0.hdslb.com/bfs/archive/61db4495843eea4292e03aa5f3e6856279cf6908.jpg"
-    },
-    {
-      "title": "【矢量突破#3】拟生态全关卡 摆完挂机 简单好抄 核心突破/特别战线",
-      "author": "萧然Q",
-      "view": 590186,
-      "like": 11611,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV17dan6MECs",
-      "cover": "http://i1.hdslb.com/bfs/archive/45202a873d2b5c80fb360b87e672ca0c078d336b.jpg"
-    },
-    {
-      "title": "专是专本是本，而我专升本",
-      "author": "上饒天選之子",
-      "view": 924561,
-      "like": 81429,
+      "title": "《最绝望の小兵》",
+      "author": "伤心欲茄222",
+      "view": 615366,
+      "like": 54210,
       "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1N2aV6wELJ",
-      "cover": "http://i0.hdslb.com/bfs/archive/9b41c22f29f873ecfb7cd632c489181fe2b255f2.jpg"
+      "link": "https://www.bilibili.com/video/BV1odan6TEgR",
+      "cover": "http://i1.hdslb.com/bfs/archive/29a286bf4ce745b769e44a1c9ec8c97665f12593.jpg"
+    },
+    {
+      "title": "【给阿嬷的情书】做人得有情义",
+      "author": "哔哩哔哩电影",
+      "view": 1148239,
+      "like": 27216,
+      "cat": "国产电影",
+      "link": "https://www.bilibili.com/video/BV1BGa361E2B",
+      "cover": "http://i2.hdslb.com/bfs/archive/5c51caa2d2d816b5ae27ce6dbce1f2c300c79d7b.png"
     },
     {
       "title": "《善》善良是什么",
       "author": "阿廖沙别害怕_",
-      "view": 375963,
-      "like": 42705,
+      "view": 813751,
+      "like": 86393,
       "cat": "搞笑",
       "link": "https://www.bilibili.com/video/BV1ygaL6YEbx",
-      "cover": "http://i2.hdslb.com/bfs/archive/a71131a20ce4551746ea0d7905c6db53e5316350.jpg"
+      "cover": "http://i1.hdslb.com/bfs/archive/1c6b570ea5214336ad98d2011d83a147209a6f00.jpg"
     },
     {
       "title": "深不可测的恐惧：斯克拉奇溪，溯源之惧 第六章",
       "author": "鲤鱼Ace",
-      "view": 458430,
-      "like": 57027,
+      "view": 998815,
+      "like": 95725,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1Gtap6NEPB",
       "cover": "http://i0.hdslb.com/bfs/archive/be33951f3d9fdcc78a1a2555d969f35c050a626a.jpg"
     },
     {
-      "title": "溶洞里动植物鲜活的秘密，藏着好空气的标准",
-      "author": "新奇哔选",
-      "view": 1854205,
-      "like": 17243,
-      "cat": "出行",
-      "link": "https://www.bilibili.com/video/BV1huaG6qEzf",
-      "cover": "http://i0.hdslb.com/bfs/archive/1ea88fe8e3b304d3074c564f945fe735cec7e12a.jpg"
+      "title": "跟我一起在农场度过一天",
+      "author": "大鬍子牛仔",
+      "view": 836046,
+      "like": 95032,
+      "cat": "动物综合",
+      "link": "https://www.bilibili.com/video/BV1x9ab6rE2C",
+      "cover": "http://i0.hdslb.com/bfs/archive/e25ef61cb307e11697c651d6cc2ea20fcf60826c.jpg"
     },
     {
-      "title": "《坦克模拟器-增强版》",
-      "author": "马鹿blyat",
-      "view": 1427626,
-      "like": 121166,
-      "cat": "极客DIY",
-      "link": "https://www.bilibili.com/video/BV1V6ho6cEQw",
-      "cover": "http://i1.hdslb.com/bfs/archive/4e98dff2a9636c3adfd2026e14cf756b874e73e2.jpg"
+      "title": "二洲年庆典｜二洲年音乐会",
+      "author": "三角洲行动",
+      "view": 260132,
+      "like": 30847,
+      "cat": "GMV",
+      "link": "https://www.bilibili.com/video/BV1PbaW6WETf",
+      "cover": "http://i0.hdslb.com/bfs/archive/ab715f823911e79478bd9d91b4489387adeb233b.jpg"
     },
     {
-      "title": "六耳单曲《金钵之下》：真假皆由方寸起，阴阳只在一念间",
-      "author": "漫游会议室",
-      "view": 738701,
-      "like": 41674,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1JGhU67Ezy",
-      "cover": "http://i1.hdslb.com/bfs/archive/c18c9ab8109bd28475018dcb4bbaadfc53945116.jpg"
+      "title": "⚡️门捷列夫 科学界巡演 怒唱元素周期表⚡️",
+      "author": "酸奶煎个蛋",
+      "view": 1187669,
+      "like": 66973,
+      "cat": "音乐现场",
+      "link": "https://www.bilibili.com/video/BV1bban6dEJo",
+      "cover": "http://i0.hdslb.com/bfs/archive/47d831762403c865efe2667a8637bc03c9ebfae3.jpg"
     },
     {
-      "title": "究竟是四神树还是四废树？一期视频带你全面了解暮色四圣树的全部知识",
-      "author": "小N正在加载中",
-      "view": 496390,
-      "like": 26020,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1F9aV64EZt",
-      "cover": "http://i2.hdslb.com/bfs/archive/fe960be742ff123a469725ecc8ae6fb23cf017fc.jpg"
+      "title": "【剧情】长生契（2026）08【方逸伦 / 谢可寅】",
+      "author": "迷影社",
+      "view": 255828,
+      "like": 1255,
+      "cat": "国产剧",
+      "link": "https://www.bilibili.com/video/BV1aUem6yEbe",
+      "cover": "http://i1.hdslb.com/bfs/archive/9c2e3d3e35f22046e8d057258ce5a3e713ec6fef.png"
     },
     {
-      "title": "问我有没有对女人动过心？",
-      "author": "知名相声演员BBBBB大王",
-      "view": 295022,
-      "like": 16678,
+      "title": "手绘465张！One Last Kiss【EVA30周年回忆重逢计划】",
+      "author": "棕与灰9",
+      "view": 2208707,
+      "like": 298485,
+      "cat": "绘画",
+      "link": "https://www.bilibili.com/video/BV1i4aL6QEYX",
+      "cover": "http://i0.hdslb.com/bfs/archive/d174a334a827a8a74fb716d0c2c70a47233510c8.jpg"
+    },
+    {
+      "title": "手机的研究",
+      "author": "张开-",
+      "view": 1241885,
+      "like": 87268,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1hXaA6jEoF",
+      "cover": "http://i0.hdslb.com/bfs/archive/bc374545a42cc1174a57fd1eb400e87a78d05005.jpg"
+    },
+    {
+      "title": "这个海胆金枪鱼泥寿司得卖3000元一份，厨师长用下班剩的边角料研发的",
+      "author": "张森的下班料理",
+      "view": 725920,
+      "like": 68705,
+      "cat": "美食记录",
+      "link": "https://www.bilibili.com/video/BV1zEaV6JEFD",
+      "cover": "http://i0.hdslb.com/bfs/archive/dfb3b2275bb7be654e9ab3ef5b7c58caca0dd052.jpg"
+    },
+    {
+      "title": "动态视频｜泳池里究竟有多少尿？",
+      "author": "亿点点不一样",
+      "view": 1000860,
+      "like": 63774,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1aza76HERk",
+      "cover": "http://i2.hdslb.com/bfs/archive/7904bfd4859ffb8b16b103efdc9d09f1595d48ff.jpg"
+    },
+    {
+      "title": "90后，00的童年的含金量还在一步步提升",
+      "author": "小卡拉米AIGC",
+      "view": 500868,
+      "like": 38445,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1wjaL68EY5",
+      "cover": "http://i1.hdslb.com/bfs/archive/96ad0c8d1aa8f13e7ccda2ac92bc3a6f942840d9.jpg"
+    },
+    {
+      "title": "参数天花乱坠，实测原形毕露！12款热门空气炸锅，谁是不虚标实力派？",
+      "author": "京东家电家居采销团",
+      "view": 1546375,
+      "like": 32576,
+      "cat": "家居房产",
+      "link": "https://www.bilibili.com/video/BV1NKaV6bEv2",
+      "cover": "http://i1.hdslb.com/bfs/archive/4b1f4c4c6233fbf9f9ab505babb2f96a2dfe90dc.jpg"
+    },
+    {
+      "title": "鱼香肉丝葱烧海参菠菜鸡蛋牛肉汤拌饭抹茶生巧蛋糕",
+      "author": "巨爱吃的周黑鸭",
+      "view": 630742,
+      "like": 56342,
       "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1WoaJ6mEkH",
-      "cover": "http://i0.hdslb.com/bfs/archive/7416457ea89f5fa2a6a077d7685065b750d11221.jpg"
+      "link": "https://www.bilibili.com/video/BV19vaL6jEwh",
+      "cover": "http://i2.hdslb.com/bfs/archive/ee76b2baee2662f2928cbf43afeb31f3a9c78cd9.jpg"
+    },
+    {
+      "title": "大家想要的AI，OPPO先做出来了！",
+      "author": "冰淇淋不吃喵",
+      "view": 101862,
+      "like": 5430,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1RFaH6eEJx",
+      "cover": "http://i0.hdslb.com/bfs/archive/adddedea92d124e372d00019b09868d824c0500c.jpg"
+    },
+    {
+      "title": "小潮team的欢迎仪式！",
+      "author": "炎辰大鸽子",
+      "view": 234654,
+      "like": 24303,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV14Fao6HEoL",
+      "cover": "http://i1.hdslb.com/bfs/archive/7e4f5c842d139a61a16df706fb7e66243d3a3aad.jpg"
+    },
+    {
+      "title": "别睡啦！你存档要被删了法大王！醒醒！【至冬7.1主线梳理】",
+      "author": "骚橙丶",
+      "view": 55392,
+      "like": 7443,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1Yyad6aEZ2",
+      "cover": "http://i1.hdslb.com/bfs/archive/36c586ca97cbf84042cdfd797b18b580dfcf4c9e.jpg"
     }
   ],
   "weibo": [
