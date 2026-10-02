@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02 01:25:49 +08:00",
+  "generated_at": "2026-10-02 10:28:36 +08:00",
   "date": "2026-10-02",
   "weekday": "周五",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "这两个过早的品尝了人世沧桑的孩子一见如故。",
-      "from": "J.K.罗琳 · 《神奇动物在哪里》"
+      "text": "天空一无所有，却拥有了一切。",
+      "from": "雨杨 · 《仰望》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
-      "title": "《下一个是谁》第七季（5）",
-      "author": "在下哲别",
-      "view": 1174586,
-      "like": 184644,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1cAYP6YEvj",
-      "cover": "http://i2.hdslb.com/bfs/archive/efb17940a5cefc75aeaac8e0009d93ffb24e42c4.jpg"
-    },
-    {
-      "title": "我———问你为什么要折断奥特钥匙!！！（大结局下）",
-      "author": "百火哥斯拉",
-      "view": 1348983,
-      "like": 241297,
-      "cat": "特摄",
-      "link": "https://www.bilibili.com/video/BV1zmYP6aEdH",
-      "cover": "http://i0.hdslb.com/bfs/archive/c2c33ea113452198230ba208d119f9b85c005a0a.jpg"
-    },
-    {
-      "title": "《大回忆时代》",
-      "author": "韩波格_",
-      "view": 3575025,
-      "like": 245377,
-      "cat": "篮球",
-      "link": "https://www.bilibili.com/video/BV1ujaZ68Ea5",
-      "cover": "http://i0.hdslb.com/bfs/archive/36889d67be6a4821aad15bf0089b6ed13710ede9.jpg"
-    },
-    {
-      "title": "【独家】时光代理人 第三季 PartOne 第9集 坦白【8月国创】",
-      "author": "哔哩哔哩国创",
-      "view": 567341,
-      "like": 6558,
-      "cat": "国产动画",
-      "link": "https://www.bilibili.com/video/BV11UaL6qEnA",
-      "cover": "http://i2.hdslb.com/bfs/archive/98a7d4c14430da200a64eeb3d3c23a361aca8584.jpg"
-    },
-    {
-      "title": "你再看看你后面呢！!",
-      "author": "最帅的鸭-",
-      "view": 719661,
-      "like": 47182,
-      "cat": "综合",
-      "link": "https://www.bilibili.com/video/BV1r8aW6QEsR",
-      "cover": "http://i2.hdslb.com/bfs/archive/2ebfc880a04b1e7500c5f46be44c2bec937ddc77.jpg"
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！【第12集】",
-      "author": "九夜听风",
-      "view": 143267,
-      "like": 13091,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1NGa66uEHg",
-      "cover": "http://i0.hdslb.com/bfs/archive/4cba9edfa138eefa0a405a71b7df1488b307147c.jpg"
-    },
-    {
       "title": "章鱼哥，快乐都去哪了呢？",
       "author": "就叫阿路8",
-      "view": 829766,
-      "like": 99501,
+      "view": 1412989,
+      "like": 168664,
       "cat": "影视剪辑",
       "link": "https://www.bilibili.com/video/BV1mjad6DEK1",
       "cover": "http://i2.hdslb.com/bfs/archive/602dc5d48df60a85badba50df766f99f56575fac.jpg"
     },
     {
-      "title": "“诈骗”拯救世界？20世纪规模最大的慈善演唱会是如何诞生的？",
-      "author": "柠檬橙子橘子梨",
-      "view": 381750,
-      "like": 14072,
-      "cat": "软件应用",
-      "link": "https://www.bilibili.com/video/BV1Q8ae6aED9",
-      "cover": "http://i0.hdslb.com/bfs/archive/eb1be56d77ada586a67e430f5c35d7ff035cc0af.jpg"
-    },
-    {
-      "title": "我和我的室友们",
-      "author": "阁下有炸",
-      "view": 1809643,
-      "like": 84831,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1XuaZ6PEGR",
-      "cover": "http://i1.hdslb.com/bfs/archive/629e9de35a603fc4a996393ff5444b8fe00471ae.jpg"
-    },
-    {
-      "title": "全网最爽职业被我找到了！真有这么爽吗？！？！",
-      "author": "Super也好君",
-      "view": 2568207,
-      "like": 84078,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1zead6uEnQ",
-      "cover": "http://i1.hdslb.com/bfs/archive/5b9969365dfe83d303a77d988a6b8c81254b0025.jpg"
-    },
-    {
-      "title": "机米售货机第二季大合集！",
-      "author": "股神巴雷特",
-      "view": 5099250,
-      "like": 68184,
-      "cat": "喵星人",
-      "link": "https://www.bilibili.com/video/BV1x7aY6QE7q",
-      "cover": "http://i0.hdslb.com/bfs/archive/39849194819d3ffa39c96868826079be54fc7d07.jpg"
-    },
-    {
-      "title": "高市早苗真没啥面",
-      "author": "燕三嘤嘤嘤",
-      "view": 1113914,
-      "like": 87037,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1oFaZ6gEtm",
-      "cover": "http://i2.hdslb.com/bfs/archive/cb3961094b66c8ea6114b0bac2621c33a179dc5f.jpg"
-    },
-    {
-      "title": "二洲年庆典｜二洲年音乐会",
-      "author": "三角洲行动",
-      "view": 1556453,
-      "like": 97317,
-      "cat": "GMV",
-      "link": "https://www.bilibili.com/video/BV1PbaW6WETf",
-      "cover": "http://i0.hdslb.com/bfs/archive/ab715f823911e79478bd9d91b4489387adeb233b.jpg"
-    },
-    {
-      "title": "忙活了20个小时炸了47盘的护：打完这单妻离子散，兄弟反目成仇了",
-      "author": "高城-三角洲",
-      "view": 613578,
-      "like": 43000,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1qAa56JEkn",
-      "cover": "http://i2.hdslb.com/bfs/archive/7b5b776861c572a934d91de3f99c02afd9c7a62e.jpg"
-    },
-    {
       "title": "【亿万级特效！】猫核老鼠：量子网球对决！（全程高能！）",
       "author": "6老铁2333",
-      "view": 547520,
-      "like": 63042,
+      "view": 1188716,
+      "like": 98744,
       "cat": "鬼畜剧场",
       "link": "https://www.bilibili.com/video/BV1s3Yc68EJK",
       "cover": "http://i0.hdslb.com/bfs/archive/ac4e8b97a6ff2ec2651fcd7cc6cf5874f268429f.jpg"
     },
     {
-      "title": "宙bin国庆国庆杭州游vlog",
-      "author": "0人在此",
-      "view": 532489,
-      "like": 12951,
-      "cat": "出行",
-      "link": "https://www.bilibili.com/video/BV11Maf69Epk",
-      "cover": "http://i2.hdslb.com/bfs/archive/00bb7619eb07e3f9861ada1315889dfc1fa66ce8.jpg"
+      "title": "开着“移动小洋楼”去打鸟，是什么体验？小米澎程N90 Max探索版",
+      "author": "所长Wy",
+      "view": 849983,
+      "like": 14104,
+      "cat": "汽车生活",
+      "link": "https://www.bilibili.com/video/BV1mWYF6aEn3",
+      "cover": "http://i1.hdslb.com/bfs/archive/87bb920f58691e9a653858df50e3ef3d607ccd48.jpg"
     },
     {
-      "title": "【什么是世面？？？】",
-      "author": "富贵咸蛋黄",
-      "view": 2089805,
-      "like": 218723,
+      "title": "【独家】时光代理人 第三季 PartOne 第9集 坦白【8月国创】",
+      "author": "哔哩哔哩国创",
+      "view": 729126,
+      "like": 7276,
+      "cat": "国产动画",
+      "link": "https://www.bilibili.com/video/BV11UaL6qEnA",
+      "cover": "http://i2.hdslb.com/bfs/archive/98a7d4c14430da200a64eeb3d3c23a361aca8584.jpg"
+    },
+    {
+      "title": "“没有人可以回到过去 但可以现在开始”",
+      "author": "北古橘右京",
+      "view": 633516,
+      "like": 33218,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1oLYP6WEKx",
+      "cover": "http://i0.hdslb.com/bfs/archive/055d98567e9dba76f9a08e253862407e78922aa7.jpg"
+    },
+    {
+      "title": "都什么年代，谁还走传统西游路？！！",
+      "author": "马刀刻森",
+      "view": 686071,
+      "like": 56558,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1doaR6eEoP",
+      "cover": "http://i1.hdslb.com/bfs/archive/a116f21641127d2218b39e495b053634ab5a50b2.jpg"
+    },
+    {
+      "title": "“诈骗”拯救世界？20世纪规模最大的慈善演唱会是如何诞生的？",
+      "author": "柠檬橙子橘子梨",
+      "view": 772817,
+      "like": 23234,
+      "cat": "软件应用",
+      "link": "https://www.bilibili.com/video/BV1Q8ae6aED9",
+      "cover": "http://i0.hdslb.com/bfs/archive/eb1be56d77ada586a67e430f5c35d7ff035cc0af.jpg"
+    },
+    {
+      "title": "抽象新闻：9月人类迷惑行为大赏（中）",
+      "author": "我是M菌",
+      "view": 960143,
+      "like": 25758,
       "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1wbad6CEFf",
-      "cover": "http://i1.hdslb.com/bfs/archive/1c2c43b6097a60db7883e6b57c2c0b2e7974530c.jpg"
+      "link": "https://www.bilibili.com/video/BV1raaZ6EEQa",
+      "cover": "http://i0.hdslb.com/bfs/archive/5762c762e415b0b0bc4d48108176ad3705e1723d.jpg"
     },
     {
-      "title": "“谁还做鸟窝，我有信号棒”",
-      "author": "教官金银-监控盾",
-      "view": 290250,
-      "like": 38825,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV16cYF6EEux",
-      "cover": "http://i0.hdslb.com/bfs/archive/8a50ba314df26ae59d8532f713cfba5f7e0e7dda.jpg"
+      "title": "我让AI建造了最安全的基地！但它居然囚禁了我…",
+      "author": "锡德JorisSid",
+      "view": 788532,
+      "like": 28425,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1ZKYw6QEhg",
+      "cover": "http://i1.hdslb.com/bfs/archive/404470b048994ee70148f0e76d5fc73df3b4324c.jpg"
     },
     {
-      "title": "奶茶店倒闭回忆录",
-      "author": "皮欧皮皮",
-      "view": 646193,
-      "like": 74150,
+      "title": "《下一个是谁》第七季（5）",
+      "author": "在下哲别",
+      "view": 1407280,
+      "like": 206502,
       "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1jdaX6tEky",
-      "cover": "http://i1.hdslb.com/bfs/archive/ca35bb3b1d834ae4a2daa353182118ef64efc1af.jpg"
+      "link": "https://www.bilibili.com/video/BV1cAYP6YEvj",
+      "cover": "http://i2.hdslb.com/bfs/archive/efb17940a5cefc75aeaac8e0009d93ffb24e42c4.jpg"
     },
     {
-      "title": "【边狱巴士】“我反复感到我更像自己”Mili-Rendezvous（幽会）默尔索 主题曲 【字幕+演出MV】",
-      "author": "时色放流",
-      "view": 427051,
-      "like": 18877,
-      "cat": "音乐综合",
-      "link": "https://www.bilibili.com/video/BV1wCYP6KEgC",
-      "cover": "http://i2.hdslb.com/bfs/archive/0e33bfef132d36743a03b7f963fe51ad2454646b.jpg"
+      "title": "当张拿铁知道混血儿就是串",
+      "author": "张踩铃",
+      "view": 613408,
+      "like": 36648,
+      "cat": "亲子",
+      "link": "https://www.bilibili.com/video/BV1cDao67ErR",
+      "cover": "http://i2.hdslb.com/bfs/archive/16701b5c4d37797dd386b9e9ffa164fe523bcf71.jpg"
+    },
+    {
+      "title": "忙活了20个小时炸了47盘的护：打完这单妻离子散，兄弟反目成仇了",
+      "author": "高城-三角洲",
+      "view": 905513,
+      "like": 60648,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1qAa56JEkn",
+      "cover": "http://i2.hdslb.com/bfs/archive/7b5b776861c572a934d91de3f99c02afd9c7a62e.jpg"
+    },
+    {
+      "title": "《大回忆时代》",
+      "author": "韩波格_",
+      "view": 4225136,
+      "like": 278790,
+      "cat": "篮球",
+      "link": "https://www.bilibili.com/video/BV1ujaZ68Ea5",
+      "cover": "http://i0.hdslb.com/bfs/archive/36889d67be6a4821aad15bf0089b6ed13710ede9.jpg"
+    },
+    {
+      "title": "我———问你为什么要折断奥特钥匙!！！（大结局下）",
+      "author": "百火哥斯拉",
+      "view": 1562071,
+      "like": 256987,
+      "cat": "特摄",
+      "link": "https://www.bilibili.com/video/BV1zmYP6aEdH",
+      "cover": "http://i0.hdslb.com/bfs/archive/c2c33ea113452198230ba208d119f9b85c005a0a.jpg"
+    },
+    {
+      "title": "【短的发布会】今天你要驾给我！智界RX化身驾控旗舰谁开谁迷糊",
+      "author": "短的发布会",
+      "view": 514172,
+      "like": 5848,
+      "cat": "新能源车",
+      "link": "https://www.bilibili.com/video/BV11Ead6JEoZ",
+      "cover": "http://i1.hdslb.com/bfs/archive/40a94ba735769a0a62181feb41b1dc2cc6e8aba2.jpg"
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第12集】",
+      "author": "九夜听风",
+      "view": 433687,
+      "like": 25245,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1NGa66uEHg",
+      "cover": "http://i0.hdslb.com/bfs/archive/4cba9edfa138eefa0a405a71b7df1488b307147c.jpg"
+    },
+    {
+      "title": "你离开的事实原创高至豪偶遇粉丝，于是为她演奏一曲",
+      "author": "Pianoboy高至豪",
+      "view": 294268,
+      "like": 47194,
+      "cat": "音乐现场",
+      "link": "https://www.bilibili.com/video/BV1wAYP6YEif",
+      "cover": "http://i0.hdslb.com/bfs/archive/86a785a19eac9cae5f8f475df8c4293e0fd6bcd7.jpg"
+    },
+    {
+      "title": "树的世界",
+      "author": "-陨风-",
+      "view": 2248909,
+      "like": 122798,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1Faad6rEe7",
+      "cover": "http://i0.hdslb.com/bfs/archive/deda5a8d5440474d10beb7b9bd49bc3912f5be64.jpg"
+    },
+    {
+      "title": "你再看看你后面呢！!",
+      "author": "最帅的鸭-",
+      "view": 1085916,
+      "like": 64690,
+      "cat": "综合",
+      "link": "https://www.bilibili.com/video/BV1r8aW6QEsR",
+      "cover": "http://i2.hdslb.com/bfs/archive/2ebfc880a04b1e7500c5f46be44c2bec937ddc77.jpg"
+    },
+    {
+      "title": "【轰】别惹，这样一点就炸的闺蜜居然有四个！！",
+      "author": "米尼麦泥轰",
+      "view": 1210341,
+      "like": 44746,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1hKYN6JEX9",
+      "cover": "http://i1.hdslb.com/bfs/archive/0b86cc86685a1d3c601eea3483fbf476ce752fac.jpg"
     }
   ],
   "weibo": [
