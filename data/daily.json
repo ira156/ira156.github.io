@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05 10:16:34 +08:00",
+  "generated_at": "2026-10-05 19:42:59 +08:00",
   "date": "2026-10-05",
   "weekday": "周一",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "我们没有永恒的朋友，也没有永恒的敌人，只有永恒的利益。",
-      "from": "《亨利·坦普尔》"
+      "text": "谈恋爱我就不派电脑人去，这么好的事派它去干吗啊？",
+      "from": "陈嘉映 · 《漫谈人工智能》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
-      "title": "【春物语】我的婚后生活果然有问题 第1话：于是，结婚半年的两人还没叫过对方的名字。",
-      "author": "冰尖の霜语",
-      "view": 858652,
-      "like": 28739,
-      "cat": "MAD·AMV",
-      "link": "https://www.bilibili.com/video/BV14sHj62EzS",
-      "cover": "http://i0.hdslb.com/bfs/archive/f7b72bfcb0c96146c8fd45c82f136854db2f7180.jpg"
+      "title": "《诡异的她》第一季全集·纯享",
+      "author": "编剧六一",
+      "view": 1549199,
+      "like": 75328,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1c3HL6qEyq",
+      "cover": "http://i2.hdslb.com/bfs/archive/5230119f918b90070b4a7030e8e098bc50b87d9d.jpg"
     },
     {
-      "title": "《依旧忆苦思甜》",
-      "author": "嘞是唐孃孃",
-      "view": 1389175,
-      "like": 97083,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1mEad6JEs8",
-      "cover": "http://i1.hdslb.com/bfs/archive/3ce9d60d59a3d91f592d3d41db28f34b28af3533.jpg"
-    },
-    {
-      "title": "广州街唱《万疆》唱到一半，李玉刚本人来了？！",
-      "author": "Vaniah维",
-      "view": 628673,
-      "like": 21508,
-      "cat": "翻唱",
-      "link": "https://www.bilibili.com/video/BV1TWHj67ESg",
-      "cover": "http://i1.hdslb.com/bfs/archive/5ccec497da7b03c5ca63d54fc615ad8a8013aa5b.jpg"
-    },
-    {
-      "title": "【独家】牧神记 第103集 温酒",
-      "author": "哔哩哔哩国创",
-      "view": 2083777,
-      "like": 33044,
-      "cat": "国产动画",
-      "link": "https://www.bilibili.com/video/BV1AbaZ6HEfF",
-      "cover": "http://i1.hdslb.com/bfs/archive/27e9640f2d3b3ef1c534b47c901cfa5b91c74fdd.png"
-    },
-    {
-      "title": "再见了地球",
-      "author": "一条牢超哦233",
-      "view": 575002,
-      "like": 48080,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1jSHr6iEcr",
-      "cover": "http://i1.hdslb.com/bfs/archive/a037053711f1680addf78658ba97bd69fc8f4c50.jpg"
+      "title": "《我上哪给你整假的》",
+      "author": "伤心欲茄222",
+      "view": 678014,
+      "like": 76443,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1LNHj68EMg",
+      "cover": "http://i2.hdslb.com/bfs/archive/97ac613c6d87063fa35a3be6eca871493e40a82c.jpg"
     },
     {
       "title": "看这个视频我不烧心！",
       "author": "呱唧菌",
-      "view": 393415,
-      "like": 43131,
+      "view": 2298440,
+      "like": 168682,
       "cat": "搞笑",
       "link": "https://www.bilibili.com/video/BV1WSHL66EdZ",
       "cover": "http://i0.hdslb.com/bfs/archive/cfb250871cc11f2c9b6ad6e3b2d1f715297efb89.jpg"
     },
     {
-      "title": "奥黛塔，快跟沃来比赛吧！",
-      "author": "叶玲秋雨",
-      "view": 346845,
-      "like": 66859,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1U4Hr6HEqw",
-      "cover": "http://i0.hdslb.com/bfs/archive/3a8ff92f05e1a01bdf9c18bfa6b3d232c3933b20.jpg"
-    },
-    {
-      "title": "看完不笑的可以确诊为抑郁了",
-      "author": "乔梦妍u",
-      "view": 1306502,
-      "like": 122243,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1YNHv6GE2y",
-      "cover": "http://i0.hdslb.com/bfs/archive/c0dca7f03d201841a20682c0b5344316104aa5f7.jpg"
-    },
-    {
-      "title": "这个bug好啊，这才是我想要的角色界面",
-      "author": "晨峰喜欢甘雨",
-      "view": 249581,
-      "like": 33064,
-      "cat": "特摄",
-      "link": "https://www.bilibili.com/video/BV15UHz6bEe6",
-      "cover": "http://i2.hdslb.com/bfs/archive/1890d364133b28b875c29dce4749e9b724430bd4.jpg"
-    },
-    {
-      "title": "当 代 假 期 现 状",
-      "author": "进击的金厂长",
-      "view": 343502,
-      "like": 29807,
+      "title": "惊惊惊惊惊惊惊惊了",
+      "author": "小潮院长",
+      "view": 878818,
+      "like": 85038,
       "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV18Dad6tESF",
-      "cover": "http://i0.hdslb.com/bfs/archive/a8713cebbe11ede1e5750ff144f32a78a5bd2740.jpg"
+      "link": "https://www.bilibili.com/video/BV1BJao6BE71",
+      "cover": "http://i1.hdslb.com/bfs/archive/05fb3469983c0edc80614fb730cb559c1178bd57.jpg"
     },
     {
-      "title": "hanser「花生与葱花」全程录像",
-      "author": "hanser",
-      "view": 730326,
-      "like": 97808,
-      "cat": "音乐现场",
-      "link": "https://www.bilibili.com/video/BV1r4a96KEfn",
-      "cover": "http://i1.hdslb.com/bfs/archive/04828b524b2dd652518b6cbc83988fb086bf042c.jpg"
+      "title": "【哥布林故事总集篇】愿你也能像哥布林一样，开启逆袭翻盘的旅途",
+      "author": "沙口村熊老师",
+      "view": 410636,
+      "like": 18341,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1fnHL68EPT",
+      "cover": "http://i2.hdslb.com/bfs/archive/9acac5ac4a7636a6be1329bb97440b233b68770f.jpg"
+    },
+    {
+      "title": "“实验室制取培根”",
+      "author": "拉挖稀",
+      "view": 1149770,
+      "like": 78622,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1roH76CEN9",
+      "cover": "http://i1.hdslb.com/bfs/archive/a501551367a5842ad352464d57200cdd18ab5d0d.jpg"
+    },
+    {
+      "title": "【完整版】纪录片《缅北电诈覆灭纪实》第一集《利剑出鞘》",
+      "author": "央视新闻",
+      "view": 99735,
+      "like": 10214,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1hQHW63EMc",
+      "cover": "http://i1.hdslb.com/bfs/archive/f91f129d21c0201cce94f4753714e758b231ad5f.jpg"
+    },
+    {
+      "title": "印度军事这次支棱起来了",
+      "author": "燕三嘤嘤嘤",
+      "view": 766277,
+      "like": 60875,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV11bHE6QEx2",
+      "cover": "http://i1.hdslb.com/bfs/archive/2e4e5336284c4c9446a15b617ee3d4694bc15405.jpg"
+    },
+    {
+      "title": "凡事尽力而为 最是圆满",
+      "author": "脱缰凯Kk",
+      "view": 271643,
+      "like": 26393,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV18RaZ6YEv3",
+      "cover": "http://i0.hdslb.com/bfs/archive/12c429e8f94c53edfba4a89a024d02d7fa98b406.jpg"
+    },
+    {
+      "title": "当我把verity变成双重人格！",
+      "author": "小橙子姐姐解说",
+      "view": 766565,
+      "like": 44444,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1ubHn68EPd",
+      "cover": "http://i1.hdslb.com/bfs/archive/48c3b63c2035827614d1de48b1a8502224c02710.jpg"
+    },
+    {
+      "title": "“哼，把我忘得干净，偏等伤了无人能医，才想起我这肯管你的人？”《明日方舟：终末地》核心章节「丹青渡」版本前瞻特别节目即将于10月6日19:30播出。",
+      "author": "明日方舟终末地",
+      "view": 257762,
+      "like": 22044,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1CpHW6cEks",
+      "cover": "http://i1.hdslb.com/bfs/archive/4a11e02918aa4143ef590b7defa2ffab43180605.jpg"
+    },
+    {
+      "title": "请尽情拆掉小时候不敢拆的电子产品吧！",
+      "author": "原野郎中",
+      "view": 113293,
+      "like": 23185,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1nMHs68EQu",
+      "cover": "http://i1.hdslb.com/bfs/archive/6a02815a45d780ce664c894964414417400ee16b.jpg"
+    },
+    {
+      "title": "你吃饭老跟我闺蜜互动什么呀？",
+      "author": "小余皮得一",
+      "view": 583781,
+      "like": 13736,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1hYHL6HEku",
+      "cover": "http://i1.hdslb.com/bfs/archive/04cab458da279f3a3e3d8ba5c960d1f72465c6a1.jpg"
+    },
+    {
+      "title": "再见了地球",
+      "author": "一条牢超哦233",
+      "view": 1515358,
+      "like": 103343,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1jSHr6iEcr",
+      "cover": "http://i1.hdslb.com/bfs/archive/a037053711f1680addf78658ba97bd69fc8f4c50.jpg"
+    },
+    {
+      "title": "廉价无人机淘汰不了昂贵装备，但一定能淘汰废旧军队",
+      "author": "军武志",
+      "view": 186574,
+      "like": 12944,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1vJHp65EDM",
+      "cover": "http://i1.hdslb.com/bfs/archive/514d91c0b3d9716be9eb74b20cb3e686f302a80b.jpg"
+    },
+    {
+      "title": "全 站 最 烧 心 版 本！！！",
+      "author": "茶咩cc",
+      "view": 1593289,
+      "like": 76165,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1wiHj6uEsr",
+      "cover": "http://i2.hdslb.com/bfs/archive/5138ce39155c3aaf9c6b9c23372ab117f74f00a2.jpg"
     },
     {
       "title": "梦之bug",
       "author": "真呲牙乐",
-      "view": 1096806,
-      "like": 106732,
+      "view": 2456897,
+      "like": 213005,
       "cat": "搞笑",
       "link": "https://www.bilibili.com/video/BV1UeHe6YEVM",
       "cover": "http://i0.hdslb.com/bfs/archive/2e4cf1dad05bba15e9fb3fa23f8217cc0040c1c3.jpg"
     },
     {
-      "title": "Re:佩恩从零开始的异世界生活！！！【水门篇 下 】",
-      "author": "-夏秋冬-",
-      "view": 765672,
-      "like": 70710,
-      "cat": "综合",
-      "link": "https://www.bilibili.com/video/BV126Hi6TEAg",
-      "cover": "http://i0.hdslb.com/bfs/archive/5023f142dff47edd46836f7c2b467ff3508c6ecc.jpg"
+      "title": "结尾喊妈妈",
+      "author": "白雪清音-杰驰小白",
+      "view": 1065984,
+      "like": 111805,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1kYHj63EuQ",
+      "cover": "http://i0.hdslb.com/bfs/archive/05aa39990d38c895a0f2414528fe6af2c34596d6.jpg"
     },
     {
-      "title": "于是我写了一首歌（原版）",
-      "author": "若行很行",
-      "view": 702982,
-      "like": 139436,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1JKar6AEgA",
-      "cover": "http://i0.hdslb.com/bfs/archive/693cf46d41225be690483c9bd45e7035abfc1b8b.jpg"
-    },
-    {
-      "title": "Mili - Rendezvous（密会）【边狱巴士】",
-      "author": "ProjectMili",
-      "view": 427964,
-      "like": 66787,
-      "cat": "原创音乐",
-      "link": "https://www.bilibili.com/video/BV1yRH66VEHm",
-      "cover": "http://i0.hdslb.com/bfs/archive/8dbe396066057f72215fe28cf3b8145aa0bb93b9.jpg"
-    },
-    {
-      "title": "【抢先版】刑满释放遇女友，我被哄骗踏入缅北炼狱！！！",
-      "author": "云间贩暖",
-      "view": 978803,
-      "like": 49218,
-      "cat": "综合",
-      "link": "https://www.bilibili.com/video/BV1VVaU66EwN",
-      "cover": "http://i2.hdslb.com/bfs/archive/cbb4149e052b338e3d7e5bb9a05a1ed8d1627be4.jpg"
-    },
-    {
-      "title": "为演好农民,他包整层酒店,设专用电梯?【红毯先生】里的黑色幽默万字拉片深度解读②",
-      "author": "_风过大泽",
-      "view": 226819,
-      "like": 4024,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1s7aJ6VEjq",
-      "cover": "http://i2.hdslb.com/bfs/archive/2812a4146d7e4202ceeae9abf139cf5616ebd710.jpg"
-    },
-    {
-      "title": "十八路诸侯小纵队与乌角鲨",
-      "author": "洒下思维火花",
-      "view": 346709,
-      "like": 56071,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1YrHh6wEPC",
-      "cover": "http://i1.hdslb.com/bfs/archive/fa428c6febc22e7a96592a6a4fdff823fc618aa6.jpg"
+      "title": "当 代 假 期 现 状",
+      "author": "进击的金厂长",
+      "view": 937493,
+      "like": 64800,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV18Dad6tESF",
+      "cover": "http://i0.hdslb.com/bfs/archive/a8713cebbe11ede1e5750ff144f32a78a5bd2740.jpg"
     },
     {
       "title": "近期画的",
       "author": "乔乔门",
-      "view": 178854,
-      "like": 77633,
+      "view": 562281,
+      "like": 211443,
       "cat": "绘画",
       "link": "https://www.bilibili.com/video/BV1Y2Hv65E9Y",
       "cover": "http://i2.hdslb.com/bfs/archive/0aba4a8c5471eaa719eb0a7f79d8d82d05616b35.jpg"
-    },
-    {
-      "title": "用鳃呼吸吧沃雅妮莎！",
-      "author": "鼎芸",
-      "view": 382124,
-      "like": 59338,
-      "cat": "绘画",
-      "link": "https://www.bilibili.com/video/BV1c6Hr6CEmk",
-      "cover": "http://i2.hdslb.com/bfs/archive/8fa4fc351750437aa5a299a86b13a2dcd3a05f7e.jpg"
     }
   ],
   "weibo": [
