@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06 19:24:29 +08:00",
-  "date": "2026-10-06",
-  "weekday": "周二",
+  "generated_at": "2026-10-07 01:19:10 +08:00",
+  "date": "2026-10-07",
+  "weekday": "周三",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "仁不行商、义不守财；情不立威，善不居官；慈不掌兵，柔不监国。",
-      "from": "《增广贤文》"
+      "text": "光荣在于平淡，艰巨在于漫长。",
+      "from": "《士兵突击》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
-      "title": "虽败犹荣",
-      "author": "杨齐家_",
-      "view": 218835,
-      "like": 24926,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1ndHf6xEsz",
-      "cover": "http://i2.hdslb.com/bfs/archive/80ca006100c4baf40bc15a54258eb5f59f771b15.jpg"
+      "title": "《明日方舟：终末地》汤汤EP - 一诺为家",
+      "author": "明日方舟终末地",
+      "view": 832973,
+      "like": 85828,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1BCpw6cEuo",
+      "cover": "http://i0.hdslb.com/bfs/archive/21630bd6329edd4e2be632ff7fbee2d8c8312411.jpg"
     },
     {
-      "title": "你牛爷爷只是老了不是提不动刀了，胆敢绑架胡图图？一通电话十亿大军兵临城下！",
-      "author": "七七漫画社",
-      "view": 1475123,
-      "like": 99508,
-      "cat": "综合",
-      "link": "https://www.bilibili.com/video/BV16VHL6NEQe",
-      "cover": "http://i2.hdslb.com/bfs/archive/67bf82c7e13bd09983b51faf7d46e54b71519a1d.jpg"
+      "title": "《明日方舟：终末地》特别映像「宏山」",
+      "author": "明日方舟终末地",
+      "view": 616903,
+      "like": 51366,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1z6pw6AEBD",
+      "cover": "http://i0.hdslb.com/bfs/archive/b0deb049f8e3d9e151b6264f7cf36f3ad89512ff.jpg"
+    },
+    {
+      "title": "《明日方舟：终末地》「丹青渡」版本前瞻特别节目回顾",
+      "author": "明日方舟终末地",
+      "view": 659187,
+      "like": 40724,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1uHpw6jEn8",
+      "cover": "http://i0.hdslb.com/bfs/archive/5e0e8f119d4a57e8c27a1f30beac2fdfcf58b236.jpg"
+    },
+    {
+      "title": "《明日方舟：终末地》特别映像「塔卫二：一号简报」",
+      "author": "明日方舟终末地",
+      "view": 659360,
+      "like": 42808,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1Vbpc6QE6o",
+      "cover": "http://i1.hdslb.com/bfs/archive/bd84826b602a721f462a735115be810598d214d8.jpg"
+    },
+    {
+      "title": "《明日方舟：终末地》核心章节「丹青渡」版本PV",
+      "author": "明日方舟终末地",
+      "view": 1096431,
+      "like": 52789,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1NCHf6eE6j",
+      "cover": "http://i1.hdslb.com/bfs/archive/da6dd99e051e9fab274a17d21a23dc074e1df2ea.jpg"
+    },
+    {
+      "title": "【完整版】纪录片《缅北电诈覆灭纪实》第二集《犁庭扫穴》",
+      "author": "央视新闻",
+      "view": 278459,
+      "like": 31159,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1TWpF6TEqJ",
+      "cover": "http://i0.hdslb.com/bfs/archive/8d91c920d5d386614c2e525adf69cf2829754932.jpg"
+    },
+    {
+      "title": "啊啊7月新番你到底给我下了什么药啊！！【泛式】",
+      "author": "泛式",
+      "view": 538870,
+      "like": 86783,
+      "cat": "动漫杂谈",
+      "link": "https://www.bilibili.com/video/BV1Uppw6yEMr",
+      "cover": "http://i0.hdslb.com/bfs/archive/763e6cd735f2b8669fd1c0f85ced644de9a213ac.jpg"
+    },
+    {
+      "title": "【算命TV】反封建迷信第一人重拳出击（字面意思）",
+      "author": "大乾乾是顾乾宇",
+      "view": 606964,
+      "like": 66651,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1Hqpw6KEw7",
+      "cover": "http://i2.hdslb.com/bfs/archive/32a846ab17e95a22ad9f42fcc6137bb05cda546c.jpg"
+    },
+    {
+      "title": "《 我 觉 得 学 生 就 不 该 放 假。 》",
+      "author": "小孙ATOM",
+      "view": 209989,
+      "like": 11888,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1uxHn6aEfm",
+      "cover": "http://i0.hdslb.com/bfs/archive/1527db4fa64efc653dfde436b2c5af14e15fbdce.jpg"
     },
     {
       "title": "被 解 救 的 杰 戈",
       "author": "蔚蓝丶羽翼",
-      "view": 1305299,
-      "like": 88348,
+      "view": 1753092,
+      "like": 119184,
       "cat": "鬼畜剧场",
       "link": "https://www.bilibili.com/video/BV1YtHs62EHZ",
       "cover": "http://i2.hdslb.com/bfs/archive/926f9827413d5a3208d1497bef342fe5dd77665b.jpg"
     },
     {
-      "title": "夏果新片《山鸟》",
-      "author": "夏天妹妹",
-      "view": 1401410,
-      "like": 106046,
-      "cat": "短片",
-      "link": "https://www.bilibili.com/video/BV16LH76rEfS",
-      "cover": "http://i0.hdslb.com/bfs/archive/09720872439944aad381b0960eab8063ff8f300f.jpg"
+      "title": "去台湾地区管辖的马祖列岛旅行...",
+      "author": "赖导AboutLai",
+      "view": 286761,
+      "like": 24027,
+      "cat": "出行",
+      "link": "https://www.bilibili.com/video/BV1XGpF6CEwq",
+      "cover": "http://i0.hdslb.com/bfs/archive/1954151f4b7fc343379b41785d9d621c2bbe364a.jpg"
     },
     {
       "title": "朋友说我树屋像后室，各位评评理",
       "author": "小影大大是xy",
-      "view": 483703,
-      "like": 35726,
+      "view": 871428,
+      "like": 65174,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1gqH46EEyw",
       "cover": "http://i1.hdslb.com/bfs/archive/3817643b3774a50ebc22ad67f36aed3f9d53b3f0.jpg"
     },
     {
-      "title": "👊亿 拳 超 人👊",
-      "author": "揪着拖鞋的猫",
-      "view": 522718,
-      "like": 36995,
-      "cat": "鬼畜调教",
-      "link": "https://www.bilibili.com/video/BV1yUHL63Ean",
-      "cover": "http://i0.hdslb.com/bfs/archive/081f84f15a3d35193308c62e92b0bb65d2c10aeb.jpg"
-    },
-    {
-      "title": "当我让弟弟模仿我的假期日常（b站独家版）",
-      "author": "胶布布布布",
-      "view": 1044013,
-      "like": 18160,
-      "cat": "亲子",
-      "link": "https://www.bilibili.com/video/BV1osH76vEK1",
-      "cover": "http://i1.hdslb.com/bfs/archive/7d4917192ac03b82070c44b951b2b27aa3c300bd.jpg"
-    },
-    {
-      "title": "隧夜轮回（莫问来处）第一结局 动画 悬疑 微恐怖",
-      "author": "萧一白呀",
-      "view": 108810,
-      "like": 10672,
-      "cat": "同人·手书",
-      "link": "https://www.bilibili.com/video/BV15nHp6CEDQ",
-      "cover": "http://i1.hdslb.com/bfs/archive/5e3ad398569ca048bb3df52153cfe816904fc188.jpg"
-    },
-    {
-      "title": "有用版新植物：情敌双发",
-      "author": "小易EXS",
-      "view": 659777,
-      "like": 39602,
+      "title": "虽败犹荣",
+      "author": "杨齐家_",
+      "view": 580867,
+      "like": 54641,
       "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1oqHW6DEGi",
-      "cover": "http://i2.hdslb.com/bfs/archive/d610c47d152c25c023ea4a5c67df83b43c391ba3.jpg"
+      "link": "https://www.bilibili.com/video/BV1ndHf6xEsz",
+      "cover": "http://i2.hdslb.com/bfs/archive/80ca006100c4baf40bc15a54258eb5f59f771b15.jpg"
+    },
+    {
+      "title": "第一次去美国，被吓到了……",
+      "author": "老番茄",
+      "view": 310640,
+      "like": 29076,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1aZpw6DEKJ",
+      "cover": "http://i0.hdslb.com/bfs/archive/ebc616f717a9c799243e57c2129f095ddec81eab.jpg"
+    },
+    {
+      "title": "破案",
+      "author": "脱缰凯Kk",
+      "view": 374114,
+      "like": 41075,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV1SJpw62E5y",
+      "cover": "http://i2.hdslb.com/bfs/archive/1fb6967bf1a3c9dd55b9fcf379b63bd46d2d65fb.jpg"
     },
     {
       "title": "【完整版】纪录片《缅北电诈覆灭纪实》第一集《利剑出鞘》",
       "author": "央视新闻",
-      "view": 911410,
-      "like": 58105,
+      "view": 1275569,
+      "like": 74231,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1hQHW63EMc",
       "cover": "http://i1.hdslb.com/bfs/archive/f91f129d21c0201cce94f4753714e758b231ad5f.jpg"
     },
     {
-      "title": "藏匿在方块世界下的神秘酒吧？！！「地下酒吧」",
-      "author": "夏天y",
-      "view": 254942,
-      "like": 43559,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1W3pc6PE5f",
-      "cover": "http://i1.hdslb.com/bfs/archive/1df7cd511a7bb0c1cd7c10c8449aeb53ca52e727.jpg"
+      "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
+      "author": "王与也行",
+      "view": 2023547,
+      "like": 91300,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
+      "cover": "http://i2.hdslb.com/bfs/archive/e3cf3db69e88409839a7d5a7d44d8c86e872fbbe.jpg"
     },
     {
-      "title": "终友的酒",
-      "author": "虹汐哥",
-      "view": 532287,
-      "like": 60601,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1GaH46QEdT",
-      "cover": "http://i1.hdslb.com/bfs/archive/a69ff2f6ff2847904592fc2f332656dd0185b0e1.jpg"
+      "title": "当我用莫奈的眼睛看长白山，才发现那些细节也太惊艳了！",
+      "author": "小透明明TM",
+      "view": 292071,
+      "like": 20709,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1QgHZ6TEei",
+      "cover": "http://i1.hdslb.com/bfs/archive/59ce139c96e27afd129c297f608fe410789c058c.jpg"
     },
     {
-      "title": "这期有绷得住的风险吗？",
-      "author": "陈嘉伦整个路人",
-      "view": 977709,
-      "like": 52916,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1DJYF6KEAD",
-      "cover": "http://i0.hdslb.com/bfs/archive/98a32127e23ef88eb5b53e995163b7283920495a.jpg"
+      "title": "你牛爷爷只是老了不是提不动刀了，胆敢绑架胡图图？一通电话十亿大军兵临城下！",
+      "author": "七七漫画社",
+      "view": 1924612,
+      "like": 133104,
+      "cat": "综合",
+      "link": "https://www.bilibili.com/video/BV16VHL6NEQe",
+      "cover": "http://i2.hdslb.com/bfs/archive/67bf82c7e13bd09983b51faf7d46e54b71519a1d.jpg"
     },
     {
-      "title": "四分钟看完华强买瓜【AI MV大赛】",
-      "author": "Raymondsese",
-      "view": 772451,
-      "like": 33975,
-      "cat": "MV",
-      "link": "https://www.bilibili.com/video/BV1D1HH6qEwt",
-      "cover": "http://i0.hdslb.com/bfs/archive/3839166cc55dddab9214212937d2c2df70beb7c4.jpg"
-    },
-    {
-      "title": "《明日方舟》干员「克莱门莎」技能展示PV",
-      "author": "明日方舟",
-      "view": 980948,
-      "like": 58803,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1zhHW6REAd",
-      "cover": "http://i1.hdslb.com/bfs/archive/15e3cf683b241b81d813a19258caa58618a10e84.jpg"
-    },
-    {
-      "title": "【哥布林故事总集篇】愿你也能像哥布林一样，开启逆袭翻盘的旅途",
-      "author": "沙口村熊老师",
-      "view": 1463952,
-      "like": 73168,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1fnHL68EPT",
-      "cover": "http://i2.hdslb.com/bfs/archive/9acac5ac4a7636a6be1329bb97440b233b68770f.jpg"
-    },
-    {
-      "title": "小孩菜实力排行",
-      "author": "东方日出哇",
-      "view": 2887770,
-      "like": 111929,
-      "cat": "特摄",
-      "link": "https://www.bilibili.com/video/BV1sZHH6bE3o",
-      "cover": "http://i0.hdslb.com/bfs/archive/6722b11cf9444b0d1cda9e70c143141092993256.jpg"
-    },
-    {
-      "title": "《大回忆时代》战斗篇",
-      "author": "韩波格_",
-      "view": 1777576,
-      "like": 104557,
-      "cat": "篮球",
-      "link": "https://www.bilibili.com/video/BV111HL6VEWF",
-      "cover": "http://i2.hdslb.com/bfs/archive/0faa9d8439eed53c17320f93fef8e46979441950.jpg"
-    },
-    {
-      "title": "鉴定网传电脑事件，消磨看官吃饭时间5",
-      "author": "笔吧评测室",
-      "view": 74463,
-      "like": 8416,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1cqaA6tEJ4",
-      "cover": "http://i1.hdslb.com/bfs/archive/8e8cfa248a9ee38bb63af67db95df367ec8713c1.jpg"
-    },
-    {
-      "title": "【梗百科】娘化马尔福是咋回事？爆火外网？！",
-      "author": "梗百科",
-      "view": 1145074,
-      "like": 63267,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1qqHW6DEp9",
-      "cover": "http://i2.hdslb.com/bfs/archive/0469cce7318acd06b4f28080a22283a04aa5d6a6.jpg"
+      "title": "全站首个恰饭对决！百万UP主真会做视频吗？",
+      "author": "-LKs-",
+      "view": 910672,
+      "like": 52437,
+      "cat": "短片",
+      "link": "https://www.bilibili.com/video/BV1C4Hx6KEvf",
+      "cover": "http://i2.hdslb.com/bfs/archive/66dd31e39c39af48be2ae45d0138061406c0ca5e.jpg"
     }
   ],
   "weibo": [
