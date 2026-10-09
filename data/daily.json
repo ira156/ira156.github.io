@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 11:01:52 +08:00",
+  "generated_at": "2026-10-09 19:26:06 +08:00",
   "date": "2026-10-09",
   "weekday": "周五",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "世界上没有鸟黑，只有鸟厨和丧心病狂的鸟厨！",
-      "from": "《树形图设计者》"
+      "text": "后天的努力很重要，所以今天和明天先睡觉。",
+      "from": "卡卡米莹 · 《网络》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
+      "title": "极极极极，极限战场👉🏻首曝极首测，所见极所玩",
+      "author": "极限战场",
+      "view": 3574645,
+      "like": 39194,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1PTHS6MEC5",
+      "cover": "http://i2.hdslb.com/bfs/archive/95de76e3c689b9d701827c9a47b3c9675d9daf4f.jpg"
+    },
+    {
+      "title": "2026英雄联盟全球总决赛主题曲《KNOW MY NAME》（以我之名）",
+      "author": "英雄联盟",
+      "view": 2476994,
+      "like": 106704,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1DRHU6LELy",
+      "cover": "http://i0.hdslb.com/bfs/archive/4260b5a0d7a5aac474f13b1ee6b90b9cc1f37b6a.jpg"
+    },
+    {
       "title": "超市生存挑战后续！4人吃完整个超市赢100万美金！",
       "author": "野兽先生MrBeast",
-      "view": 1268949,
-      "like": 70713,
+      "view": 2581650,
+      "like": 146282,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1VeHQ6tEaS",
       "cover": "http://i2.hdslb.com/bfs/archive/7f475d7d8d1cace38cb12d4a9de69f8bed9af109.jpg"
     },
     {
-      "title": "《阴阳师》咲耶CG丨拾此一瞬（CV：小泽亚李）",
-      "author": "网易阴阳师手游",
-      "view": 1012761,
-      "like": 22852,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1BsHQ6YEQy",
-      "cover": "http://i1.hdslb.com/bfs/archive/d792c031618b021fd22b54506974304c2ba768a5.jpg"
-    },
-    {
-      "title": "来纽约，拍到了些怪东西",
-      "author": "百万剪辑狮",
-      "view": 1200032,
-      "like": 84986,
-      "cat": "出行",
-      "link": "https://www.bilibili.com/video/BV1x2HS66E96",
-      "cover": "http://i2.hdslb.com/bfs/archive/08af6efbda1bea0070171f1a5afff0ee6eca7bb6.jpg"
-    },
-    {
       "title": "【独家】时光代理人 第三季 PartOne 第10集 错位的救赎【8月国创】",
       "author": "哔哩哔哩国创",
-      "view": 613959,
-      "like": 5331,
+      "view": 899551,
+      "like": 8416,
       "cat": "国产动画",
       "link": "https://www.bilibili.com/video/BV1mXak6UEea",
       "cover": "http://i2.hdslb.com/bfs/archive/a7699a1deed4c8542eef75fcf26618b148d6c090.png"
     },
     {
-      "title": "《和樱花妹互换身体の日常》第五集【AI全民制作人】",
-      "author": "我就是一颗豆",
-      "view": 598258,
-      "like": 21002,
+      "title": "法国最近太烧心了",
+      "author": "燕三嘤嘤嘤",
+      "view": 746193,
+      "like": 56822,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1gTHd6aE5e",
+      "cover": "http://i2.hdslb.com/bfs/archive/eec366150fe1127fabddc1353a94d15d294ee284.jpg"
+    },
+    {
+      "title": "成功埋下机车种子，弥补曾经对年少不可得之物的遗憾",
+      "author": "脉动有点慢",
+      "view": 656518,
+      "like": 36536,
+      "cat": "摩托车",
+      "link": "https://www.bilibili.com/video/BV1b4HC6FEBD",
+      "cover": "http://i1.hdslb.com/bfs/archive/256e4edd7b630933f948bdedfde3cbe2dcc50c34.jpg"
+    },
+    {
+      "title": "影视飓风的直升机？怪东西分享9.0",
+      "author": "影视飓风",
+      "view": 235918,
+      "like": 27318,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1gHps6yEHL",
+      "cover": "http://i2.hdslb.com/bfs/archive/17b99efd39e024ca4e909bd42f027e3b2ee9ec44.jpg"
+    },
+    {
+      "title": "《阴阳师》咲耶CG丨拾此一瞬（CV：小泽亚李）",
+      "author": "网易阴阳师手游",
+      "view": 1703616,
+      "like": 120037,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1BsHQ6YEQy",
+      "cover": "http://i1.hdslb.com/bfs/archive/d792c031618b021fd22b54506974304c2ba768a5.jpg"
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第13集】",
+      "author": "九夜听风",
+      "view": 340393,
+      "like": 22971,
       "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1eWHm6mEH9",
-      "cover": "http://i1.hdslb.com/bfs/archive/7beff1c80249c521f4b9d59d137a9e496ece865c.jpg"
+      "link": "https://www.bilibili.com/video/BV12gpt6UER4",
+      "cover": "http://i2.hdslb.com/bfs/archive/b857444dd0d0025a95e9073d2fc650d6be0c538f.jpg"
     },
     {
-      "title": "【EPL表演赛】全明星大乱斗2.0",
-      "author": "ESL官方账号",
-      "view": 194114,
-      "like": 10914,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1GpHR6aEQz",
-      "cover": "http://i1.hdslb.com/bfs/archive/3e6afb41a9b0676c120610bdd84acf4ae1a9d8c9.jpg"
-    },
-    {
-      "title": "中国屌丝用7千块花掉印度人半年的薪资，体验婆罗门生活，富人生活到底有多奢侈？",
-      "author": "猛男阿凯奇幻之旅_kay",
-      "view": 399022,
-      "like": 7338,
-      "cat": "出行",
-      "link": "https://www.bilibili.com/video/BV1ehHQ6bErB",
-      "cover": "http://i2.hdslb.com/bfs/archive/b2da1894c28886f83bdaf163e69580465ca20e56.jpg"
-    },
-    {
-      "title": "男子放生清道夫引热议，这鱼为何非灭不可？再遇本土大鱼的开心",
-      "author": "大江灭清道夫",
-      "view": 1017840,
-      "like": 29196,
-      "cat": "三农",
-      "link": "https://www.bilibili.com/video/BV1DXaG6TETt",
-      "cover": "http://i0.hdslb.com/bfs/archive/4d7bcf01427999f930cf5c3c93a01f961c0e8b7e.jpg"
+      "title": "神仙也要办破地狱仪式？“无人可葬”的诡异葬礼，竟然藏着惊天阴谋！【提瓦特说书人·璃月篇】",
+      "author": "小片片说大片",
+      "view": 174328,
+      "like": 16309,
+      "cat": "影视杂谈",
+      "link": "https://www.bilibili.com/video/BV1y3HQ6GEaf",
+      "cover": "http://i0.hdslb.com/bfs/archive/4884b68988dbe3ddd578d9ab418b549cbb380814.jpg"
     },
     {
       "title": "“我穿越成了一棵树。”",
       "author": "Mr-Ferret",
-      "view": 271246,
-      "like": 45473,
+      "view": 608236,
+      "like": 101655,
       "cat": "绘画",
       "link": "https://www.bilibili.com/video/BV1qsHQ6YEs4",
       "cover": "http://i2.hdslb.com/bfs/archive/697af1e1065a70a0787f62d1fb9f9446bb4123cc.jpg"
     },
     {
-      "title": "【剧情】长生契（2026）20【方逸伦 / 谢可寅】",
-      "author": "迷影社",
-      "view": 747541,
-      "like": 1974,
-      "cat": "国产剧",
-      "link": "https://www.bilibili.com/video/BV13Dem6VEp5",
-      "cover": "http://i0.hdslb.com/bfs/archive/2007d45ea5916ee968b27731bdc84ac8b4fd2687.jpg"
+      "title": "史上最大现金收购案 富二代如何正确拼爹",
+      "author": "小Lin说",
+      "view": 115848,
+      "like": 8391,
+      "cat": "财经商业",
+      "link": "https://www.bilibili.com/video/BV1FCps68EGf",
+      "cover": "http://i0.hdslb.com/bfs/archive/0a9baee1364519b7f04c7c303d5fb81fd19b0f6f.jpg"
     },
     {
-      "title": "崔永元自述：冯小刚乱，徐帆也很乱！范冰冰恬不知耻！我就是要他们完蛋！但葛优我可以忍！",
-      "author": "小头故事会",
-      "view": 599010,
-      "like": 12219,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1NDpA6LE6L",
-      "cover": "http://i2.hdslb.com/bfs/archive/aaada414bb30af9585ac100382dd0b6bdd0399f7.jpg"
+      "title": "自己喂的猪，才有这个家乡味，这大油，这肥膘，这颜色",
+      "author": "左手刀鹏哥",
+      "view": 766014,
+      "like": 23797,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1XWpM6MECx",
+      "cover": "http://i1.hdslb.com/bfs/archive/743938ba21d14f338cc9e7ee12780856aa714ee1.jpg"
     },
     {
-      "title": "如何在中国合法造一把你自己的枪？【鹰哥Studio】",
-      "author": "北美燕双鹰",
-      "view": 342503,
-      "like": 16773,
-      "cat": "野生技能协会",
-      "link": "https://www.bilibili.com/video/BV1dfaR6AE6U",
-      "cover": "http://i0.hdslb.com/bfs/archive/a3ae78093063c4998a45f775356c731785df157d.jpg"
+      "title": "【昨日海】YW-1至YW-8 摆完挂机 简单好抄",
+      "author": "萧然Q",
+      "view": 461400,
+      "like": 10386,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1DHps6yELs",
+      "cover": "http://i1.hdslb.com/bfs/archive/9db9581cc32a932ff68d5f4a59e610a643b9d7d6.jpg"
     },
     {
       "title": "【新宿决战】皮特VS鸡哥",
       "author": "浅澄月",
-      "view": 245732,
-      "like": 22833,
+      "view": 589901,
+      "like": 52065,
       "cat": "鬼畜剧场",
       "link": "https://www.bilibili.com/video/BV1CLHQ6zEHC",
       "cover": "http://i2.hdslb.com/bfs/archive/6432b0a3f629008bde4192e2945f2b2629437b4a.jpg"
     },
     {
-      "title": "带班主任体验黄毛的一天",
-      "author": "乡村教师日记",
-      "view": 1074896,
-      "like": 40850,
-      "cat": "三农",
-      "link": "https://www.bilibili.com/video/BV1X6Hk6hE8v",
-      "cover": "http://i2.hdslb.com/bfs/archive/283292f983214236c1e237cc66bffdb7032643ad.jpg"
+      "title": "耗时一年，改造善良老人晚年，完整后续来了！",
+      "author": "扯淡人生-",
+      "view": 1567054,
+      "like": 187411,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1pMH46MEmw",
+      "cover": "http://i1.hdslb.com/bfs/archive/8af11e287f75c6cf1dd8be2cd2e30fccf871f2f9.jpg"
     },
     {
-      "title": "有事没事儿，尽喜欢做点好吃的、新鲜玩意给家里人尝一尝！好好吃饭就是好好生活！【睡个好觉】",
-      "author": "六月桃乐",
-      "view": 619109,
-      "like": 13951,
-      "cat": "美食记录",
-      "link": "https://www.bilibili.com/video/BV14aHC6dESP",
-      "cover": "http://i2.hdslb.com/bfs/archive/da6331d5648b1f2c8a49dcbd85d1077191b4cb69.jpg"
-    },
-    {
-      "title": "《我到底要怎么救你》",
-      "author": "伤心欲茄222",
-      "view": 2005720,
-      "like": 112421,
+      "title": "《我信任的、交心的、交流的、心与心的》",
+      "author": "嘞是唐孃孃",
+      "view": 1148081,
+      "like": 83839,
       "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1TZH26iEj3",
-      "cover": "http://i2.hdslb.com/bfs/archive/ce21a1bc94a922b516c9a71a84eeb41fd090177e.jpg"
+      "link": "https://www.bilibili.com/video/BV1rEHQ6qEDE",
+      "cover": "http://i1.hdslb.com/bfs/archive/33f481a0a299be6d052501b80e5d2daf98807bff.jpg"
     },
     {
-      "title": "迈克尔·高启强 世界巡演【AI MV大赛】",
-      "author": "会魔法的白气球",
-      "view": 647972,
-      "like": 12260,
-      "cat": "娱乐粉丝创作",
-      "link": "https://www.bilibili.com/video/BV1m7Hx6GE6N",
-      "cover": "http://i0.hdslb.com/bfs/archive/18cb6b0f92b5824db358c81b8fcf57b2a114cdad.jpg"
+      "title": "克莱门莎 VS 方舟精英BOSS，不缺水的碎漩狂舞！【明日方舟】",
+      "author": "-碱式碳酸咸鱼-",
+      "view": 212618,
+      "like": 17363,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1XApt6WEF6",
+      "cover": "http://i1.hdslb.com/bfs/archive/c8206e2646151b0eb567d811d84cf0dda852102e.jpg"
     },
     {
-      "title": "出重拳：李在明决心终结“韩奸富三代”乱象",
-      "author": "波士顿圆脸",
-      "view": 379039,
-      "like": 25936,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV1RSHD64Egb",
-      "cover": "http://i2.hdslb.com/bfs/archive/9b39a6136b135c08dd59d5313c1b77085a5aa08e.jpg"
+      "title": "【男巫ZachKing】2026最佳魔术！",
+      "author": "男巫ZachKing官方",
+      "view": 1607635,
+      "like": 117294,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1BuHC6rEuX",
+      "cover": "http://i1.hdslb.com/bfs/archive/25d34ea2a1e8717dccdcb0c9fbf9a3d39f62209b.jpg"
     },
     {
-      "title": "震惊！鱼在网上刷到剁椒鱼头的8种做法！【AI全民制作人】",
-      "author": "陈要得",
-      "view": 739735,
-      "like": 23854,
-      "cat": "运动综合",
-      "link": "https://www.bilibili.com/video/BV1hMHy6wEtP",
-      "cover": "http://i2.hdslb.com/bfs/archive/1dbf75a08c74aa5d5c0cfa445a3414a759bb10e5.jpg"
-    },
-    {
-      "title": "在大山支教 学校宿舍水太小又冷，已经半个月没洗澡了，扛不住了抓住假期的尾巴出山进城开房洗澡 买菜 拿物资..",
-      "author": "媛媛老师77",
-      "view": 1467958,
-      "like": 94424,
-      "cat": "亲子",
-      "link": "https://www.bilibili.com/video/BV1aWHC6wEP5",
-      "cover": "http://i0.hdslb.com/bfs/archive/0d03ce9eb817c2ce3d0a16270c098c41944459d1.jpg"
+      "title": "全网首发《银松镇》正式版 高质量生化危机+寂静岭风格恐怖游戏 全收集 全结局",
+      "author": "友利奈绪大魔王丶",
+      "view": 392254,
+      "like": 15169,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1fkHD6wEXt",
+      "cover": "http://i2.hdslb.com/bfs/archive/58cc9e1fee390070ac25435a3bf39203bfbc9a41.jpg"
     }
   ],
   "weibo": [
