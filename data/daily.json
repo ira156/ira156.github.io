@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12 20:16:46 +08:00",
-  "date": "2026-10-12",
-  "weekday": "周一",
+  "generated_at": "2026-10-13 04:22:23 +08:00",
+  "date": "2026-10-13",
+  "weekday": "周二",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "人类的伟大之处就在于面对恐惧时的崇高姿态。",
-      "from": "修罗特海姆 · 《JOJO的奇妙冒险》"
+      "text": "荷尔蒙决定一见钟情，多巴胺决定天长地久。",
+      "from": "不自爱里迷失 · 《网易云》"
     },
     "angles": [
       {
@@ -435,19 +435,28 @@
   },
   "bilibili": [
     {
-      "title": "那个卖菱角的小贩想要弄伤我的鳞片",
-      "author": "印度老吃家",
-      "view": 1444052,
-      "like": 38767,
-      "cat": "美食侦探",
-      "link": "https://www.bilibili.com/video/BV1uopn6NEMR",
-      "cover": "http://i2.hdslb.com/bfs/archive/ece16da3ebfd4ce11d7b9c9765a37279458077c3.jpg"
+      "title": "【A2O】A2O LITE 'NEON' Official Video",
+      "author": "A2O_WORLD",
+      "view": 362273,
+      "like": 32624,
+      "cat": "MV",
+      "link": "https://www.bilibili.com/video/BV1VVpo6gEYg",
+      "cover": "http://i0.hdslb.com/bfs/archive/561841a87b9faa6213cda58630d8cb7376cd2638.jpg"
+    },
+    {
+      "title": "史上最固执大爷-珍爱生命，远离牌桌6.0",
+      "author": "爱学习的李老湿",
+      "view": 889626,
+      "like": 64390,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1v5pL6tEYw",
+      "cover": "http://i2.hdslb.com/bfs/archive/3643849582e6875189148a4e5cc84517c1d240bc.jpg"
     },
     {
       "title": "你 坐 不 过 我 你 信 吗 ？",
       "author": "蓝飘飘fly",
-      "view": 731721,
-      "like": 27076,
+      "view": 1461331,
+      "like": 46666,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1nYpn6DEzp",
       "cover": "http://i0.hdslb.com/bfs/archive/f778683d459fed230c1d918bbc8df98f34ac4c40.jpg"
@@ -455,116 +464,71 @@
     {
       "title": "“我酒桶有自己的想法！”369、Karsa重聊纳尔往事【LPL视频播客丨把TA叫过来ep2】",
       "author": "英雄联盟赛事",
-      "view": 511044,
-      "like": 15715,
+      "view": 831850,
+      "like": 24614,
       "cat": "电子竞技",
       "link": "https://www.bilibili.com/video/BV1KJpn68E2b",
       "cover": "http://i2.hdslb.com/bfs/archive/66fa673ce99c06224138c044b3483d56998c9ade.jpg"
     },
     {
-      "title": "荷包蛋",
-      "author": "邪修美食",
-      "view": 895874,
-      "like": 68096,
-      "cat": "美食制作",
-      "link": "https://www.bilibili.com/video/BV1D9pn6KE9p",
-      "cover": "http://i1.hdslb.com/bfs/archive/0a1378bdda10798a2ef12dc237a3771861f99d93.jpg"
-    },
-    {
-      "title": "每个生命都值得被善待",
-      "author": "李炮炮儿",
-      "view": 783375,
-      "like": 95535,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1DCpj64Emi",
-      "cover": "http://i1.hdslb.com/bfs/archive/d276bae06a70e58631f0d62cd726b35100604035.jpg"
-    },
-    {
-      "title": "那些无法解释的瞬间心理感受。。。又一次把我心里的画面拍了出来，这次你中了几个？",
-      "author": "李如儒也是李蠕蠕",
-      "view": 1086163,
-      "like": 77905,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV179p76zEZR",
-      "cover": "http://i0.hdslb.com/bfs/archive/8855e3e599d86b3d11815158f3e8dc5e0c9b7e8f.jpg"
-    },
-    {
-      "title": "女孩错将告白巧克力送给了辣妹学姐？对方还同意交往？！",
-      "author": "凉拌了紫苏",
-      "view": 394371,
-      "like": 44066,
-      "cat": "配音",
-      "link": "https://www.bilibili.com/video/BV1VypE6vEQC",
-      "cover": "http://i2.hdslb.com/bfs/archive/5bfc33ce71a896f39e2e5d1a7d54df4442edd0c3.jpg"
-    },
-    {
-      "title": "来到中国最辣的城市！1天吃12家，我彻底服了！！",
-      "author": "元气八眉菌",
-      "view": 582640,
-      "like": 18277,
-      "cat": "美食侦探",
-      "link": "https://www.bilibili.com/video/BV1oEpJ63Eoj",
-      "cover": "http://i1.hdslb.com/bfs/archive/b48ceb715338d4f0429b4c98042ff4bf8d92023b.jpg"
-    },
-    {
-      "title": "逃离闪电侠黄金费德熊！你好邻居Mod",
-      "author": "鲤鱼Ace",
-      "view": 1746523,
-      "like": 123734,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1QmpE6aEA7",
-      "cover": "http://i1.hdslb.com/bfs/archive/e32aa27380e7d3be958e5e9ed001d306b7b64d5c.jpg"
-    },
-    {
-      "title": "我们来到了地中海，重走《奥德赛》十年回家路！",
-      "author": "-欣小萌-",
-      "view": 2159291,
-      "like": 125134,
-      "cat": "出行",
-      "link": "https://www.bilibili.com/video/BV1mopE6xEqv",
-      "cover": "http://i0.hdslb.com/bfs/archive/c6ad825319b3d14824912e79fc1c4da08a033b66.jpg"
-    },
-    {
-      "title": "史上最固执大爷-珍爱生命，远离牌桌6.0",
-      "author": "爱学习的李老湿",
-      "view": 502294,
-      "like": 38586,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1v5pL6tEYw",
-      "cover": "http://i2.hdslb.com/bfs/archive/3643849582e6875189148a4e5cc84517c1d240bc.jpg"
-    },
-    {
-      "title": "【花小烙】蚰蜒：不就是腿多了点嘛，我们真没那么恐怖！",
-      "author": "画渣花小烙",
-      "view": 99992,
-      "like": 16739,
-      "cat": "科学科普",
-      "link": "https://www.bilibili.com/video/BV1CapR6JEAM",
-      "cover": "http://i1.hdslb.com/bfs/archive/6b7881cc61b5343713c25565b31607c83fb79120.jpg"
-    },
-    {
-      "title": "12个脑洞大开的做饭方式！",
-      "author": "胡仔一人食",
-      "view": 2475627,
-      "like": 155701,
-      "cat": "美食制作",
-      "link": "https://www.bilibili.com/video/BV1Jjpg6QEkh",
-      "cover": "http://i2.hdslb.com/bfs/archive/dfa7a7bddbbbed4f315f0077a3b6a5adb490efcf.jpg"
-    },
-    {
       "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
       "author": "星落落_oi",
-      "view": 317488,
-      "like": 53595,
+      "view": 546820,
+      "like": 81813,
       "cat": "翻唱",
       "link": "https://www.bilibili.com/video/BV1fYpn6SEk9",
       "cover": "http://i0.hdslb.com/bfs/archive/980d5a99a87bdba1e4432b0ba593c04f1c7867cd.jpg"
     },
     {
+      "title": "特朗普为何“大撒币”？中期选举究竟有多重要？【纸牌屋现实版】",
+      "author": "普朗特-PRUMT",
+      "view": 639531,
+      "like": 26514,
+      "cat": "影视杂谈",
+      "link": "https://www.bilibili.com/video/BV14LpE6sEx6",
+      "cover": "http://i1.hdslb.com/bfs/archive/b1009737ac4a69ab0f0d13fec1d2b8d8c08ca897.jpg"
+    },
+    {
+      "title": "《不该存在的访客》继续用爱发电，耗费10000分钟制作，花费1000块",
+      "author": "卡拉-肖克辉",
+      "view": 981644,
+      "like": 47840,
+      "cat": "短片",
+      "link": "https://www.bilibili.com/video/BV1ZSp46AEF8",
+      "cover": "http://i1.hdslb.com/bfs/archive/9e9bc22a32110e1991df76952c1795cd965eebb5.jpg"
+    },
+    {
+      "title": "逃离闪电侠黄金费德熊！你好邻居Mod",
+      "author": "鲤鱼Ace",
+      "view": 2117395,
+      "like": 146537,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1QmpE6aEA7",
+      "cover": "http://i1.hdslb.com/bfs/archive/e32aa27380e7d3be958e5e9ed001d306b7b64d5c.jpg"
+    },
+    {
+      "title": "精神小妹误闯天家",
+      "author": "马哥巨离谱",
+      "view": 589758,
+      "like": 30346,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1A4pR6XEeK",
+      "cover": "http://i0.hdslb.com/bfs/archive/b2e5785f087d27d15fa63d97bd31afc8b6d64ca8.jpg"
+    },
+    {
+      "title": "那个卖菱角的小贩想要弄伤我的鳞片",
+      "author": "印度老吃家",
+      "view": 1960202,
+      "like": 51324,
+      "cat": "美食侦探",
+      "link": "https://www.bilibili.com/video/BV1uopn6NEMR",
+      "cover": "http://i2.hdslb.com/bfs/archive/ece16da3ebfd4ce11d7b9c9765a37279458077c3.jpg"
+    },
+    {
       "title": "《生》生命是什么",
       "author": "阿廖沙别害怕_",
-      "view": 827029,
-      "like": 81265,
+      "view": 1058394,
+      "like": 104471,
       "cat": "搞笑",
       "link": "https://www.bilibili.com/video/BV1zVpJ6yEi3",
       "cover": "http://i0.hdslb.com/bfs/archive/120b380213d967e139d7be46ca64b47a6bd469c8.jpg"
@@ -572,47 +536,83 @@
     {
       "title": "跟着AI教学能否实现薯条自由？",
       "author": "蚊子-学做美食",
-      "view": 320942,
-      "like": 26205,
+      "view": 547544,
+      "like": 42876,
       "cat": "美食制作",
       "link": "https://www.bilibili.com/video/BV17EpY6UEdL",
       "cover": "http://i0.hdslb.com/bfs/archive/0e346a6627c612df67657c50f85261f7d91f8a4d.jpg"
     },
     {
-      "title": "特朗普为何“大撒币”？中期选举究竟有多重要？【纸牌屋现实版】",
-      "author": "普朗特-PRUMT",
-      "view": 445247,
-      "like": 19497,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV14LpE6sEx6",
-      "cover": "http://i1.hdslb.com/bfs/archive/b1009737ac4a69ab0f0d13fec1d2b8d8c08ca897.jpg"
+      "title": "原创动画《我到底穿了个什么东西？！》大合集",
+      "author": "夏小沛",
+      "view": 545470,
+      "like": 21626,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1jupi6pEyo",
+      "cover": "http://i2.hdslb.com/bfs/archive/87f9255854bf50bbdd0661430779bdc7bc38751c.jpg"
+    },
+    {
+      "title": "一镜到底骑行在路边发现一条未知小路，沉浸式体验在城市角落探索",
+      "author": "暗夜骑士XZ",
+      "view": 612277,
+      "like": 44918,
+      "cat": "出行",
+      "link": "https://www.bilibili.com/video/BV1KApg6hEa1",
+      "cover": "http://i1.hdslb.com/bfs/archive/677ca9ba99cb203f85565f5507729e8287e5705f.jpg"
+    },
+    {
+      "title": "今年诺奖颁给了“大脑的开关”：光遗传学到底是什么",
+      "author": "比特新语",
+      "view": 226865,
+      "like": 45797,
+      "cat": "软件应用",
+      "link": "https://www.bilibili.com/video/BV1Fbpt6qEPq",
+      "cover": "http://i2.hdslb.com/bfs/archive/fdf459f05c634340a76dbec3c516775956041ca4.jpg"
+    },
+    {
+      "title": "遗传定律：一种疾病，为什么能在家族中潜伏数代？",
+      "author": "大圆镜科普",
+      "view": 614112,
+      "like": 50471,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1XupR6NEeo",
+      "cover": "http://i0.hdslb.com/bfs/archive/3bee150787dab805fdffb40c65469092145c17b4.jpg"
+    },
+    {
+      "title": "玩家变成魔王，魔王却成了勇者，这款27年前的游戏竟有隐藏结局！",
+      "author": "逗比的预言家",
+      "view": 584286,
+      "like": 27557,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1yfpj6jEk5",
+      "cover": "http://i0.hdslb.com/bfs/archive/1ff8281920373941520f33baa103c1dee9dc9585.jpg"
+    },
+    {
+      "title": "当声优被AI抢走饭碗后",
+      "author": "李肆言哟",
+      "view": 962411,
+      "like": 51361,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1nYp36fEae",
+      "cover": "http://i1.hdslb.com/bfs/archive/081db6fee309db911df48d807bb29c1580d431a2.jpg"
+    },
+    {
+      "title": "那些无法解释的瞬间心理感受。。。又一次把我心里的画面拍了出来，这次你中了几个？",
+      "author": "李如儒也是李蠕蠕",
+      "view": 1633859,
+      "like": 113307,
+      "cat": "小剧场",
+      "link": "https://www.bilibili.com/video/BV179p76zEZR",
+      "cover": "http://i0.hdslb.com/bfs/archive/8855e3e599d86b3d11815158f3e8dc5e0c9b7e8f.jpg"
     },
     {
       "title": "我真不羡慕！！",
       "author": "杨齐家_",
-      "view": 236090,
-      "like": 23595,
+      "view": 504181,
+      "like": 43960,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1eTpR6iEhB",
       "cover": "http://i0.hdslb.com/bfs/archive/21af2993b303a880be35a814b4806b73bd358230.jpg"
-    },
-    {
-      "title": "精神小妹误闯天家",
-      "author": "马哥巨离谱",
-      "view": 207869,
-      "like": 15816,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1A4pR6XEeK",
-      "cover": "http://i0.hdslb.com/bfs/archive/b2e5785f087d27d15fa63d97bd31afc8b6d64ca8.jpg"
-    },
-    {
-      "title": "【邓肯】新发恐怖事件！女企业家被儿子雇人送入老年护理中心丨诡异的五亿高中生坠楼谜案！",
-      "author": "勾手老大爷邓肯",
-      "view": 2182583,
-      "like": 78594,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1wAp76yEu1",
-      "cover": "http://i2.hdslb.com/bfs/archive/c3f386988ca2e06709067f33b9972766b8f535b7.jpg"
     }
   ],
   "weibo": [
