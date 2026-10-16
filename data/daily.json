@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16 09:34:51 +08:00",
+  "generated_at": "2026-10-16 17:09:46 +08:00",
   "date": "2026-10-16",
   "weekday": "周五",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "休息对于生存而言，也是紧要问题",
-      "from": "《虫师》"
+      "text": "你害怕黑夜吗？未知是人类恐惧的根本。",
+      "from": "《石纪元》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
+      "title": "《绝区零》菲欧妮角色展示 | 不要死挑战",
+      "author": "绝区零",
+      "view": 741631,
+      "like": 72273,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1d5JQ6pEFS",
+      "cover": "http://i1.hdslb.com/bfs/archive/a644f0aece0bf5ddac7a059b743784e55db8413c.jpg"
+    },
+    {
       "title": "我造了一块会飞的滑板...",
       "author": "神奇阿宇Ayu",
-      "view": 516059,
-      "like": 42388,
+      "view": 1670875,
+      "like": 113605,
       "cat": "极客DIY",
       "link": "https://www.bilibili.com/video/BV1KiJk67EQ9",
-      "cover": "http://i1.hdslb.com/bfs/archive/cfe28c98ffaf4a16f69832740e10ef1b5426dda5.jpg"
+      "cover": "http://i1.hdslb.com/bfs/archive/72619f16a4b0703a5aa22c1c0bbcc5b9735f9799.jpg"
     },
     {
-      "title": "宵禁｜鼓敲满一千下，长安城会发生什么（4K成片）",
-      "author": "来龙去脉LLQM",
-      "view": 582274,
-      "like": 44120,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1VyWw6sEAg",
-      "cover": "http://i2.hdslb.com/bfs/archive/29552dce018b49f7e5a15575d28c97eb2f8676e2.jpg"
-    },
-    {
-      "title": "【Team Spirit】关于近期问题的郑重致歉",
-      "author": "Team_Spirit",
-      "view": 350349,
-      "like": 11791,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1byJU6KEGL",
-      "cover": "http://i2.hdslb.com/bfs/archive/6579e43c023dedadafe005f05e1d97ae43470a0a.jpg"
+      "title": "AI消失前的最后一天……",
+      "author": "鹤吱菌",
+      "view": 800330,
+      "like": 23675,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1AyJy6SESw",
+      "cover": "http://i0.hdslb.com/bfs/archive/8c8b87eb2c06345996516c0f848f12f323653046.jpg"
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第11集 消失的出口【8月国创】",
       "author": "哔哩哔哩国创",
-      "view": 508453,
-      "like": 4494,
+      "view": 723968,
+      "like": 6909,
       "cat": "国产动画",
       "link": "https://www.bilibili.com/video/BV1Nep465Eao",
       "cover": "http://i2.hdslb.com/bfs/archive/aa3fbfa3c37ba661cab68484835fadbb68a967e0.png"
     },
     {
-      "title": "社会终于来毒打我父母了！！！！",
-      "author": "小小段砸",
-      "view": 398065,
-      "like": 25096,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1odJk6YEn2",
-      "cover": "http://i2.hdslb.com/bfs/archive/e98790d4455fa6f93e9c72bb7e9aa08000be66b3.jpg"
+      "title": "根本没有这种祀频",
+      "author": "苦力怕到此一游",
+      "view": 157689,
+      "like": 20907,
+      "cat": "网络游戏",
+      "link": "https://www.bilibili.com/video/BV1sKJ26WEJN",
+      "cover": "http://i1.hdslb.com/bfs/archive/d581db30b0e9692679fad4ab32ed4e9f00dda274.jpg"
+    },
+    {
+      "title": "硫磺桂花揭秘，这个你敢吃不？",
+      "author": "渔猎齐哥",
+      "view": 196919,
+      "like": 27830,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1aFJX6QE7c",
+      "cover": "http://i1.hdslb.com/bfs/archive/e9a491c2d8121a4da0aa4e408515e8753a89ae18.jpg"
+    },
+    {
+      "title": "宵禁｜鼓敲满一千下，长安城会发生什么（4K成片）",
+      "author": "来龙去脉LLQM",
+      "view": 1155784,
+      "like": 85605,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1VyWw6sEAg",
+      "cover": "http://i2.hdslb.com/bfs/archive/29552dce018b49f7e5a15575d28c97eb2f8676e2.jpg"
+    },
+    {
+      "title": "操 控 买 瓜 2.0",
+      "author": "岩罗Crv",
+      "view": 354179,
+      "like": 24753,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1eaJU65Ed4",
+      "cover": "http://i2.hdslb.com/bfs/archive/c648cea73d57ce28456806650f2f446bf6d9f9ba.jpg"
     },
     {
       "title": "挑战拍出刃牙原作没有的剧情！！宫本武藏vs郭海皇！！",
       "author": "大晶本人",
-      "view": 541188,
-      "like": 49897,
+      "view": 1175469,
+      "like": 96986,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1KYJk6JEDk",
       "cover": "http://i0.hdslb.com/bfs/archive/5c1de0c6bf8981a96f90b63367410bf9f4a6edf9.jpg"
     },
     {
+      "title": "《二重螺旋》行于破晓版本前瞻研发面谈回放",
+      "author": "二重螺旋",
+      "view": 151966,
+      "like": 6603,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1zVJ26UEfT",
+      "cover": "http://i1.hdslb.com/bfs/archive/c4389f8ac60f9144d9a5a773f1a0d408e58ad394.jpg"
+    },
+    {
+      "title": "思路打开，面包丝信手拈来！今天吃千丝万缕虾和红米肠，一顿漂亮饭给娃小嘴吃的倍儿甜！",
+      "author": "留意炫饭吖",
+      "view": 611655,
+      "like": 43431,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1SGJ168EKP",
+      "cover": "http://i2.hdslb.com/bfs/archive/8a9a75c3d52664e8148ff23ede5ce69358588951.jpg"
+    },
+    {
+      "title": "《 官 宣 》",
+      "author": "伢伢gagako",
+      "view": 210598,
+      "like": 17903,
+      "cat": "舞蹈综合",
+      "link": "https://www.bilibili.com/video/BV1BkJm6mEMf",
+      "cover": "http://i1.hdslb.com/bfs/archive/4b3747cd0f0e03aa17b96c7c83443144377491b8.jpg"
+    },
+    {
+      "title": "社会终于来毒打我父母了！！！！",
+      "author": "小小段砸",
+      "view": 1023941,
+      "like": 54424,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1odJk6YEn2",
+      "cover": "http://i2.hdslb.com/bfs/archive/e98790d4455fa6f93e9c72bb7e9aa08000be66b3.jpg"
+    },
+    {
       "title": "⚡️鬼畜者联盟，集合！【宗主豪华版】⚡️",
       "author": "Crazy-face",
-      "view": 345193,
-      "like": 19544,
+      "view": 730838,
+      "like": 38921,
       "cat": "影视剪辑",
       "link": "https://www.bilibili.com/video/BV1ctJC6kEGb",
       "cover": "http://i0.hdslb.com/bfs/archive/5bcbce3f15afb01d6d034d3259c35628ec82a64b.jpg"
     },
     {
-      "title": "《最有耐心の杀手》",
-      "author": "伤心欲茄222",
-      "view": 2021964,
-      "like": 144514,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1SMJC6sE6R",
-      "cover": "http://i0.hdslb.com/bfs/archive/75069b48e67ab49d01a0bd665fbcdb79ac48949b.jpg"
+      "title": "【双11电脑配置推荐】平均省800+，这才是大促该有的配置单，花费20万，只为教你把预算都花都在DIY装机刀刃上",
+      "author": "船长总动员",
+      "view": 30243,
+      "like": 4923,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1xhJQ6kEdE",
+      "cover": "http://i0.hdslb.com/bfs/archive/2e7b9457a530361489a103adaa29151acc145dd8.jpg"
     },
     {
-      "title": "一觉醒来deepseek和豆包睡在我身边（一）【AI全民制作人】",
-      "author": "兰斯的画室LanceStudio",
-      "view": 943530,
-      "like": 22958,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1HYp16oE8v",
-      "cover": "http://i2.hdslb.com/bfs/archive/2c94dc85bc45b0fa6dcac35a34e045b027203766.jpg"
-    },
-    {
-      "title": "《剃刀 》每一个也许都要付钱：0.8⁵ = 33%",
-      "author": "比特新语",
-      "view": 532273,
-      "like": 61577,
-      "cat": "软件应用",
-      "link": "https://www.bilibili.com/video/BV1WkJk6VEqA",
-      "cover": "http://i1.hdslb.com/bfs/archive/d56bf58583158d54b255c2e56f3eba2dd63a5039.jpg"
-    },
-    {
-      "title": "《妈妈只有一个》",
-      "author": "IPx的粉红豹",
-      "view": 453821,
-      "like": 28657,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1v3pm6SEnp",
-      "cover": "http://i0.hdslb.com/bfs/archive/5d3fe9abc19e8e01b85b93f4f6e39cb635625da6.jpg"
-    },
-    {
-      "title": "【IGN】《GTA 6》发售预告",
-      "author": "IGN中国",
-      "view": 380087,
-      "like": 14135,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1bqJ26AEVF",
-      "cover": "http://i2.hdslb.com/bfs/archive/574619b7c4b447eb68e9ded82c16babd4ef1ac3c.jpg"
-    },
-    {
-      "title": "大和民族“从来都是吃草的”然而洋大人笑翻了",
-      "author": "波士顿圆脸",
-      "view": 437904,
-      "like": 31547,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV1xfJC6nEHu",
-      "cover": "http://i1.hdslb.com/bfs/archive/8036964c760d048a85b7e99cdf76af7cc9090546.jpg"
-    },
-    {
-      "title": "【IGN】动画剧集《赛博朋克：边缘行者2》预告",
-      "author": "IGN中国",
-      "view": 258917,
-      "like": 8128,
-      "cat": "综合",
-      "link": "https://www.bilibili.com/video/BV1EgJk6NEnf",
-      "cover": "http://i1.hdslb.com/bfs/archive/dc7fab48f86341c6f56186a458cfe943cab0fe55.jpg"
-    },
-    {
-      "title": "无视风险 继续访问女coser的家",
-      "author": "野生鱼白",
-      "view": 862734,
-      "like": 33250,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1dfJk6hEjX",
-      "cover": "http://i2.hdslb.com/bfs/archive/abc61663b6baeadff9487f11ccf5961ed13f422d.jpg"
-    },
-    {
-      "title": "一塔千年 | 新华社客户端x王者荣耀《守塔》",
-      "author": "王者荣耀",
-      "view": 355054,
-      "like": 25573,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1tfpC6wE1b",
-      "cover": "http://i0.hdslb.com/bfs/archive/44ca4830f9fe7d6be995f0f881fa56af9f1c01ff.jpg"
-    },
-    {
-      "title": "四川妈妈第一次来芬兰中秋庙会摆摊卖花式糖葫芦千人抢！各国老外疯抢中式糕点广式糖水！大排长龙简直停不下来！",
-      "author": "雨琪在芬兰",
-      "view": 229215,
-      "like": 22499,
+      "title": "“闪身哆嗦毛”",
+      "author": "我是真的张與息",
+      "view": 504311,
+      "like": 42802,
       "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1FoJ26JEY5",
-      "cover": "http://i2.hdslb.com/bfs/archive/617b158dfa2f1fa2dbce05a9f43132b407ae964e.jpg"
+      "link": "https://www.bilibili.com/video/BV1ocJm61ERF",
+      "cover": "http://i2.hdslb.com/bfs/archive/9d5f45683315be2476d8301db19b758ddab9029c.jpg"
     },
     {
-      "title": "逼孩子跳楼的父亲，竟被18.2万人点赞，这些家长处理叛逆的手段有多疯狂？",
-      "author": "王小七Fire",
-      "view": 204052,
-      "like": 15504,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV1ypJ16XEXm",
-      "cover": "http://i0.hdslb.com/bfs/archive/12114b10be83c7c720d51ccc1a3f08caafc3e1ec.jpg"
+      "title": "AL最发愁的居然是不会吵架？拷打Tarzan&Shanks的职业秘辛【视频播客 | 元来如此EP.08】",
+      "author": "管泽元",
+      "view": 215372,
+      "like": 8799,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1bqJ26AEhD",
+      "cover": "http://i2.hdslb.com/bfs/archive/cfa260b93d0e536baeb5d1280eb144355b3d7d3c.jpg"
     },
     {
-      "title": "学车2",
-      "author": "脱缰凯Kk",
-      "view": 389918,
-      "like": 31193,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV1tXJC6sEDi",
-      "cover": "http://i2.hdslb.com/bfs/archive/c0b4a079cf14e3b2e84e06e01f4fb4330b37d223.jpg"
+      "title": "今天才知道，原来易拉罐的底部还有一个小机关，用起来太方便了",
+      "author": "妙招姐",
+      "view": 361357,
+      "like": 14838,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1N1J26oEJs",
+      "cover": "http://i2.hdslb.com/bfs/archive/13d8d295f2f4d8a743b9ad690962b5800d7edbb1.jpg"
     },
     {
-      "title": "泽连斯基有牌打了",
-      "author": "燕三嘤嘤嘤",
-      "view": 1356908,
-      "like": 83795,
-      "cat": "人文历史",
-      "link": "https://www.bilibili.com/video/BV1nyJ66PEPQ",
-      "cover": "http://i0.hdslb.com/bfs/archive/67f75fbdfca181dd21c3ceb02f04350880e0d8a0.jpg"
+      "title": "都想看我怎么拔刀的",
+      "author": "-小D-biu",
+      "view": 702383,
+      "like": 26743,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1ropy6HEG5",
+      "cover": "http://i2.hdslb.com/bfs/archive/d3095bb5dc0d4e89ed9739e33fe261e1a82d7df7.jpg"
+    },
+    {
+      "title": "《啦嗒铛》1.0正式发售宣传片 | GSE",
+      "author": "香港GSE",
+      "view": 1600891,
+      "like": 17961,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1gEps62E1e",
+      "cover": "http://i2.hdslb.com/bfs/archive/c31df13d24886d515145112e3f9d2c316e3d3b17.jpg"
     }
   ],
   "weibo": [
