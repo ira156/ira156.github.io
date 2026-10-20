@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20 17:32:45 +08:00",
+  "generated_at": "2026-10-20 23:42:27 +08:00",
   "date": "2026-10-20",
   "weekday": "周二",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "Leave it all on me.",
-      "from": "周梦忆 · 《TURN UP》"
+      "text": "可口可乐和百事可乐相比之下，冰镇可乐喝得更痛快。",
+      "from": "《网络》"
     },
     "angles": [
       {
@@ -435,91 +435,91 @@
   },
   "bilibili": [
     {
+      "title": "中文已死：为什么我们越来越不敢好好说话？",
+      "author": "大圆镜科普",
+      "view": 548272,
+      "like": 58473,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1Xdnc6jEbL",
+      "cover": "http://i0.hdslb.com/bfs/archive/9b0a7932f4f35e3f17cc13b56219a91f2a4dfd5e.jpg"
+    },
+    {
       "title": "《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩",
       "author": "绝区零",
-      "view": 675079,
-      "like": 93713,
+      "view": 1384046,
+      "like": 151984,
       "cat": "手机游戏",
       "link": "https://www.bilibili.com/video/BV1SknF6KE5g",
       "cover": "http://i1.hdslb.com/bfs/archive/d8d83b706361919d994582f72bd4f14c28b7f26a.jpg"
     },
     {
-      "title": "漫展按脚 生意真好",
-      "author": "野生鱼白",
-      "view": 838469,
-      "like": 24798,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1tmn36aEAP",
-      "cover": "http://i1.hdslb.com/bfs/archive/4ff2b4601774d3f7b621f33d35196c9480395571.jpg"
+      "title": "爱上纯血世家女孩的混血男孩【AI全民制作人】",
+      "author": "Foyege弗曳哥",
+      "view": 184941,
+      "like": 23433,
+      "cat": "财经商业",
+      "link": "https://www.bilibili.com/video/BV1bKnw6zEsV",
+      "cover": "http://i2.hdslb.com/bfs/archive/3ea32a235efc51b5958631fbed9846b9296abff8.jpg"
     },
     {
-      "title": "《是我嘴太小了吗》",
-      "author": "伤心欲茄222",
-      "view": 1528305,
-      "like": 119012,
+      "title": "“我借你的孤单，今生恐怕难还”【云裳羽衣曲-伴奏】【思念の小曲】",
+      "author": "早睡起大王",
+      "view": 1207338,
+      "like": 94836,
+      "cat": "音MAD",
+      "link": "https://www.bilibili.com/video/BV1VNJe6qEMX",
+      "cover": "http://i0.hdslb.com/bfs/archive/54b69755d4f68a686fe5c0f77964ca14fe0542b9.jpg"
+    },
+    {
+      "title": "【萌黄一槽】萌到你了真是抱歉！风祭萌黄[古堡奇遇]全技能爆料",
+      "author": "火影忍者手游情报君",
+      "view": 561356,
+      "like": 35556,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1gTnP62EEY",
+      "cover": "http://i1.hdslb.com/bfs/archive/a922057c4615f8f76e76b2728563acd3f78b3047.jpg"
+    },
+    {
+      "title": "【大鸣王潮1566】岁共交流会",
+      "author": "寞桀緣才",
+      "view": 88983,
+      "like": 13688,
       "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1omnG6nEUJ",
-      "cover": "http://i2.hdslb.com/bfs/archive/8eeafb55a4eadc69b7a5671d9382b985b3a2cdf2.jpg"
+      "link": "https://www.bilibili.com/video/BV16PnA6fEky",
+      "cover": "http://i1.hdslb.com/bfs/archive/c725c73dfd3c692601b0b729e5215f5f58c6a564.jpg"
     },
     {
-      "title": "带着100万，我们见了成人网红...",
-      "author": "影视飓风",
-      "view": 2634493,
-      "like": 201207,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1pGnn67EbB",
-      "cover": "http://i2.hdslb.com/bfs/archive/1bf5beb95e275c81e31f84f4798fdc1eaba4295f.jpg"
+      "title": "《三过车门而不入》",
+      "author": "伤心欲茄222",
+      "view": 614539,
+      "like": 56564,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1n7nF6WEco",
+      "cover": "http://i0.hdslb.com/bfs/archive/ff074f2db01b2dd745d01085ba749371f547a7c4.jpg"
     },
     {
       "title": "法国影响力最大的八卦是什么？【神奇组织56】",
       "author": "小约翰可汗",
-      "view": 647907,
-      "like": 56983,
+      "view": 1191931,
+      "like": 92048,
       "cat": "人文历史",
       "link": "https://www.bilibili.com/video/BV1Vbnn6iEfG",
       "cover": "http://i0.hdslb.com/bfs/archive/39daf0b1339701666c0fe1d787af51b7413e3ac4.jpg"
     },
     {
-      "title": "iG出征单曲《仁川共鸣》",
-      "author": "蔚蓝边际",
-      "view": 288249,
-      "like": 20336,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1F7nF6WEmD",
-      "cover": "http://i0.hdslb.com/bfs/archive/6eefc6a6790b66814fe55ed540bb49abb5a65a7f.jpg"
-    },
-    {
-      "title": "《鸣潮》共鸣者「锁暝」PV | 契阔",
-      "author": "鸣潮",
-      "view": 457679,
-      "like": 30666,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1R8nF65Eme",
-      "cover": "http://i0.hdslb.com/bfs/archive/6e645447fbe5b3837e1201c630e9faabbd498866.jpg"
-    },
-    {
-      "title": "赛博监考",
-      "author": "脱缰凯Kk",
-      "view": 903192,
-      "like": 56945,
-      "cat": "小剧场",
-      "link": "https://www.bilibili.com/video/BV12eJ967EQF",
-      "cover": "http://i0.hdslb.com/bfs/archive/1a7ca4386a5bf1733c049a7bd4012c9f6d8ce907.jpg"
-    },
-    {
-      "title": "\"早期的豺狼\"",
-      "author": "小喇叭剪辑",
-      "view": 1718559,
-      "like": 81681,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1JFng61E3t",
-      "cover": "http://i0.hdslb.com/bfs/archive/7ff8bb3f372bbd1dff67f76d8962deea335e12e8.jpg"
+      "title": "《是我嘴太小了吗》",
+      "author": "伤心欲茄222",
+      "view": 2143156,
+      "like": 153758,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1omnG6nEUJ",
+      "cover": "http://i2.hdslb.com/bfs/archive/8eeafb55a4eadc69b7a5671d9382b985b3a2cdf2.jpg"
     },
     {
       "title": "财神窦占龙 第12集 宿仇【8月国创】",
       "author": "哔哩哔哩国创",
-      "view": 230277,
-      "like": 1572,
+      "view": 254478,
+      "like": 1632,
       "cat": "国产动画",
       "link": "https://www.bilibili.com/video/BV1UbJ96DEbP",
       "cover": "http://i2.hdslb.com/bfs/archive/9e0fa8b8147b5a521c10bba42605f49ad91c7d63.jpg"
@@ -527,92 +527,92 @@
     {
       "title": "《现在的小孩 vs bro小时候》",
       "author": "郑凯伦伦伦",
-      "view": 855805,
-      "like": 60428,
+      "view": 1257640,
+      "like": 89423,
       "cat": "搞笑",
       "link": "https://www.bilibili.com/video/BV1yJnL6TE3p",
       "cover": "http://i2.hdslb.com/bfs/archive/df6219d1c41d3b1ad3b37ae8896b2662cdd0904f.jpg"
     },
     {
+      "title": "iG出征单曲《仁川共鸣》",
+      "author": "蔚蓝边际",
+      "view": 679125,
+      "like": 39598,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1F7nF6WEmD",
+      "cover": "http://i0.hdslb.com/bfs/archive/6eefc6a6790b66814fe55ed540bb49abb5a65a7f.jpg"
+    },
+    {
+      "title": "老一辈还在坚持手搓",
+      "author": "Aleks_Kost",
+      "view": 1010034,
+      "like": 129390,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1uVnJ6ZEHF",
+      "cover": "http://i1.hdslb.com/bfs/archive/fc307d7b51e825c344e047678366e271d869e832.jpg"
+    },
+    {
       "title": "特厨隋坡|排队超久的网红店？！今天我们来说实话！！",
       "author": "特厨隋坡",
-      "view": 367807,
-      "like": 30068,
+      "view": 777779,
+      "like": 56420,
       "cat": "美食侦探",
       "link": "https://www.bilibili.com/video/BV1mCnF6vEYn",
       "cover": "http://i2.hdslb.com/bfs/archive/2f9563ebc01f2fa113cbeed439d1764ad94c8553.jpg"
     },
     {
-      "title": "房车自驾1500公里，去看看课本里的大兴安岭到底多美？",
-      "author": "破产兄弟BrokeBros",
-      "view": 598488,
-      "like": 44771,
-      "cat": "出行",
-      "link": "https://www.bilibili.com/video/BV1jYJX6FEtw",
-      "cover": "http://i2.hdslb.com/bfs/archive/2152e7e399253063a844ad0ac26b7720fccb431c.jpg"
-    },
-    {
-      "title": "王扁街头遇袭事件：前经纪人为何欲夺人性命？",
-      "author": "玉玉__",
-      "view": 793884,
-      "like": 34449,
-      "cat": "娱乐粉丝创作",
-      "link": "https://www.bilibili.com/video/BV1fgJd6rEkq",
-      "cover": "http://i2.hdslb.com/bfs/archive/d64b1bce472751f2a9656011d7fae8a4c8aaf01e.jpg"
-    },
-    {
-      "title": "里昂叔叔带你通关生化危机爆发夜",
-      "author": "天不生我六酱",
-      "view": 231049,
-      "like": 14049,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1HNnj6iEQL",
-      "cover": "http://i1.hdslb.com/bfs/archive/ac488c1629b107d819fd7bf89d31938af15e73b2.jpg"
-    },
-    {
-      "title": "教妹妹开车，用我的声音，我成功了！",
-      "author": "鲤鱼Ace",
-      "view": 1289621,
-      "like": 75397,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1YmnJ6eEKE",
-      "cover": "http://i0.hdslb.com/bfs/archive/e29ac85651fd89d8db9d342b6263e16efdfadc8b.jpg"
-    },
-    {
-      "title": "【S16前瞻】IG首战打GEN！69战宙斯！LPL撸城四杰能抵抗韩门吗？质疑Faker，但不要和Faker为敌！不烧心2W字战队巡礼，",
-      "author": "圆某人和四某人",
-      "view": 314785,
-      "like": 11052,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1spJo6pE2X",
-      "cover": "http://i0.hdslb.com/bfs/archive/51c608b7b0a15e94312bf85cb6b4aff3cdba0a65.jpg"
-    },
-    {
-      "title": "上课同学穿披日本军旗戴侵略军帽怎么办？",
+      "title": "社交媒体世界大战：泰韩法巴西已加入抗日全球统一战线",
       "author": "波士顿圆脸",
-      "view": 938259,
-      "like": 47370,
+      "view": 248311,
+      "like": 22817,
       "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV1APJd62Esz",
-      "cover": "http://i1.hdslb.com/bfs/archive/0da796c30549dbef617afb094a4dbddd73c8b3d9.jpg"
+      "link": "https://www.bilibili.com/video/BV1AJnP6BEsa",
+      "cover": "http://i2.hdslb.com/bfs/archive/37394dfc1ecbabbfc55f432387261432daabf9a2.jpg"
     },
     {
-      "title": "“当人生变成曲线，你会看见谁一直陪着你”【把回忆拼好给你-DJ变速】【生命线の小曲】",
-      "author": "早睡起大王",
-      "view": 727094,
-      "like": 70882,
-      "cat": "音MAD",
-      "link": "https://www.bilibili.com/video/BV1xmn36aEgv",
-      "cover": "http://i2.hdslb.com/bfs/archive/386c430f1269d3e45c013651e5089f61985fe3cc.jpg"
+      "title": "《听见你的心声》08“初恋要来我家住，所以爸，你还是去住院吧……”（本故事纯属虚构，请相信科学）",
+      "author": "编导叶小白",
+      "view": 632113,
+      "like": 47780,
+      "cat": "综合",
+      "link": "https://www.bilibili.com/video/BV18onJ6tErK",
+      "cover": "http://i2.hdslb.com/bfs/archive/e1d725857ef316b87e2264420394ed0b6226bf07.jpg"
     },
     {
-      "title": "【NMIXX】\"긴 소원(Birthday Wish)\" M/V",
-      "author": "NMIXX",
-      "view": 780842,
-      "like": 68805,
-      "cat": "音乐综合",
-      "link": "https://www.bilibili.com/video/BV1Ben76vEwK",
-      "cover": "http://i1.hdslb.com/bfs/archive/0608a617dca858a2bfadeb01269f4fd5b550e88f.jpg"
+      "title": "“攻 防 转 换” 叹息之墙",
+      "author": "小博Byyo",
+      "view": 615411,
+      "like": 49979,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1g4nj6HEzy",
+      "cover": "http://i1.hdslb.com/bfs/archive/24720d27b93fec055304e307bd133e7c70e0696f.jpg"
+    },
+    {
+      "title": "法国55万人大游行！但马克龙和夫人在跳舞",
+      "author": "麻薯波比呀",
+      "view": 345946,
+      "like": 30296,
+      "cat": "社科·法律·心理",
+      "link": "https://www.bilibili.com/video/BV1hqnF66Etz",
+      "cover": "http://i2.hdslb.com/bfs/archive/f965980ea588306b261b3adad1425fb0821d9cb5.jpg"
+    },
+    {
+      "title": "⚡赵本山  《绅士Gentle Man》⚡",
+      "author": "艾伦あ耶格尔",
+      "view": 221353,
+      "like": 11059,
+      "cat": "仿妆cos",
+      "link": "https://www.bilibili.com/video/BV1NwJZ6dEiF",
+      "cover": "http://i1.hdslb.com/bfs/archive/8bbdcc062c125341b91c5113325a49c70182c02e.jpg"
+    },
+    {
+      "title": "带着100万，我们见了成人网红...",
+      "author": "影视飓风",
+      "view": 3418463,
+      "like": 260530,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1pGnn67EbB",
+      "cover": "http://i2.hdslb.com/bfs/archive/1bf5beb95e275c81e31f84f4798fdc1eaba4295f.jpg"
     }
   ],
   "weibo": [
