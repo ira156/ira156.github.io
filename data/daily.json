@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26 18:21:26 +08:00",
-  "date": "2026-10-26",
-  "weekday": "周一",
+  "generated_at": "2026-10-27 01:29:37 +08:00",
+  "date": "2026-10-27",
+  "weekday": "周二",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "但滥情成了主流，深情便成了罪过。",
-      "from": "《童锦程》"
+      "text": "思悠悠，恨悠悠，恨到归时方始休。",
+      "from": "白居易 · 《长相思·汴水流》"
     },
     "angles": [
       {
@@ -435,10 +435,64 @@
   },
   "bilibili": [
     {
+      "title": "动态视频｜子弹时间再升级，70台iPhone造了个捕捉时空的球",
+      "author": "影视飓风",
+      "view": 815049,
+      "like": 62434,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1aFno6wETM",
+      "cover": "http://i0.hdslb.com/bfs/archive/8e31d28534ad9e759964f64e04149be901b1f9fd.jpg"
+    },
+    {
+      "title": "220w死神薯片vs世界12级薄荷糖，终极冰火挑战！",
+      "author": "赛亚人阿廖",
+      "view": 1512635,
+      "like": 84168,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1agHN64ErV",
+      "cover": "http://i2.hdslb.com/bfs/archive/e520ce68763a1d5dc6d93335b7abbcbd9dfe0eb8.jpg"
+    },
+    {
+      "title": "中国90%的人都听过的童年阴影BGM！20年后我终于扒出了它的真身……SCARSONG终极溯源！【互联网大冒险】",
+      "author": "黑八即幽默",
+      "view": 1366508,
+      "like": 60110,
+      "cat": "影视杂谈",
+      "link": "https://www.bilibili.com/video/BV1xqH36AEPX",
+      "cover": "http://i2.hdslb.com/bfs/archive/d2d56158b00ec9df53a6c425dd33126e612da39a.jpg"
+    },
+    {
+      "title": "万重山河皆侠骨！剑网3新50级版本MV《万重山》上线",
+      "author": "剑网3",
+      "view": 1410144,
+      "like": 25276,
+      "cat": "GMV",
+      "link": "https://www.bilibili.com/video/BV1BBnb6aEww",
+      "cover": "http://i1.hdslb.com/bfs/archive/e25304bce00353dd9b7a4f167e070f2932459034.jpg"
+    },
+    {
+      "title": "花4毛钱让1000个蓝色大肥鱼建造故宫",
+      "author": "点燃篝火的Anrry",
+      "view": 1753957,
+      "like": 82565,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1nJHK6gEtd",
+      "cover": "http://i1.hdslb.com/bfs/archive/7ad9ded1198fb034f6392ba9c2106d385f36d50e.jpg"
+    },
+    {
+      "title": "The shy：我不是F6！",
+      "author": "聒噪的山海君",
+      "view": 653571,
+      "like": 39671,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV12Wnd6dEqp",
+      "cover": "http://i2.hdslb.com/bfs/archive/a92b79c67183384e73e3502880fbdf7141624e94.jpg"
+    },
+    {
       "title": "【2026全球总决赛】10月26日 IG vs HLE",
       "author": "哔哩哔哩英雄联盟赛事",
-      "view": 3649687,
-      "like": 55952,
+      "view": 4458976,
+      "like": 65542,
       "cat": "电子竞技",
       "link": "https://www.bilibili.com/video/BV19wnQ6sExk",
       "cover": "http://i2.hdslb.com/bfs/archive/153ca9cf1850f98f8d13b79ec834ce15af032122.jpg"
@@ -446,173 +500,119 @@
     {
       "title": "张麻子《鹅城FUNK》",
       "author": "HH糯米团",
-      "view": 1130273,
-      "like": 61944,
+      "view": 1773711,
+      "like": 101845,
       "cat": "鬼畜剧场",
       "link": "https://www.bilibili.com/video/BV1RJHV6pECP",
       "cover": "http://i0.hdslb.com/bfs/archive/031323fd48a4d9e33970888408920e1160f2d1e4.jpg"
     },
     {
-      "title": "【IGN】10分，《影之刃零》评测： 武侠朋克传奇",
-      "author": "IGN中国",
-      "view": 1156178,
-      "like": 42395,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV19bHK6AEBD",
-      "cover": "http://i1.hdslb.com/bfs/archive/0d4905890a3081d5c9d15ee7278a688b778a473b.jpg"
-    },
-    {
-      "title": "双人抬棺",
-      "author": "Z贤者",
-      "view": 3429392,
-      "like": 132340,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1c5HK6CEPu",
-      "cover": "http://i1.hdslb.com/bfs/archive/58b11f4ac80a6f6626e55ff98bde57ef1b1284d4.jpg"
-    },
-    {
-      "title": "花4毛钱让1000个蓝色大肥鱼建造故宫",
-      "author": "点燃篝火的Anrry",
-      "view": 1193176,
-      "like": 54173,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1nJHK6gEtd",
-      "cover": "http://i1.hdslb.com/bfs/archive/7ad9ded1198fb034f6392ba9c2106d385f36d50e.jpg"
-    },
-    {
-      "title": "爽！！！我们能赢LCK！仁川人2026年还在创造奇迹！IG掀翻银河战舰HLE！TES拿下G2！【1酱赛评世界赛瑞士轮day3 】",
-      "author": "你是想气死1酱么",
-      "view": 442973,
-      "like": 20849,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1G9n96bEX5",
-      "cover": "http://i0.hdslb.com/bfs/archive/4bc3ef0e4e85512f13a0d4d3ae9a16bcb1d83ed8.jpg"
-    },
-    {
-      "title": "万重山河皆侠骨！剑网3新50级版本MV《万重山》上线",
-      "author": "剑网3",
-      "view": 413906,
-      "like": 12212,
-      "cat": "GMV",
-      "link": "https://www.bilibili.com/video/BV1BBnb6aEww",
-      "cover": "http://i1.hdslb.com/bfs/archive/e25304bce00353dd9b7a4f167e070f2932459034.jpg"
-    },
-    {
-      "title": "中国90%的人都听过的童年阴影BGM！20年后我终于扒出了它的真身……SCARSONG终极溯源！【互联网大冒险】",
-      "author": "黑八即幽默",
-      "view": 852161,
-      "like": 35861,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1xqH36AEPX",
-      "cover": "http://i2.hdslb.com/bfs/archive/d2d56158b00ec9df53a6c425dd33126e612da39a.jpg"
-    },
-    {
-      "title": "遇到射手牢玩家，我李信只能急的原地转圈圈",
-      "author": "磊哥游戏",
-      "view": 684887,
-      "like": 42085,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1ZjHV6sE13",
-      "cover": "http://i1.hdslb.com/bfs/archive/a5f97db2a87164bd7269a05946922cc3c906d472.jpg"
-    },
-    {
-      "title": "如果早知道，阿伟可以手搓时光机",
-      "author": "乌贼酱",
-      "view": 811179,
-      "like": 38522,
-      "cat": "人力VOCALOID",
-      "link": "https://www.bilibili.com/video/BV1mZHA62ECT",
-      "cover": "http://i0.hdslb.com/bfs/archive/18b8c3519fb38488a8041cb7fa9d72f9c4f97cc1.jpg"
-    },
-    {
-      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
-      "author": "Foyege弗曳哥",
-      "view": 2115116,
-      "like": 147928,
-      "cat": "财经商业",
-      "link": "https://www.bilibili.com/video/BV1kZHK6VEgZ",
-      "cover": "http://i1.hdslb.com/bfs/archive/1220c3798e5c8d87af8395268c483b7be6a4ef6e.jpg"
+      "title": "混进小米公司狂吃爽玩！单挑AI赛车手，大厂程序员都是这么过节的？",
+      "author": "-老圈子-",
+      "view": 328034,
+      "like": 9477,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1XiHM6KEcG",
+      "cover": "http://i1.hdslb.com/bfs/archive/db8f9a7165fbd3cfcb1cf8e66e8d0f2b31b06537.jpg"
     },
     {
       "title": "贵州真是旅游宝藏，贵州人嘴真严！",
       "author": "蓝战非OvO",
-      "view": 298597,
-      "like": 16991,
+      "view": 800987,
+      "like": 39846,
       "cat": "出行",
       "link": "https://www.bilibili.com/video/BV1ZjHV6sEfv",
       "cover": "http://i1.hdslb.com/bfs/archive/9763249d7acabf7a24c5f32d89cb249f4cf68962.jpg"
     },
     {
-      "title": "装X翻车全网群嘲？医学界有自己的翟天临！深扒李子祺事变",
-      "author": "三代鹿人",
-      "view": 1127090,
-      "like": 43899,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1EhHg6EEy8",
-      "cover": "http://i1.hdslb.com/bfs/archive/920efd9bf7c6e36beff0b241afdf33eefd86630f.jpg"
+      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
+      "author": "Foyege弗曳哥",
+      "view": 2530302,
+      "like": 171529,
+      "cat": "财经商业",
+      "link": "https://www.bilibili.com/video/BV1kZHK6VEgZ",
+      "cover": "http://i1.hdslb.com/bfs/archive/1220c3798e5c8d87af8395268c483b7be6a4ef6e.jpg"
     },
     {
       "title": "日本人吃自助不好意思多要跟我外国人有什么关系？读鸡毛空气啊，我踏麻吃吃吃！",
       "author": "大阪流浪社长",
-      "view": 1614765,
-      "like": 64536,
+      "view": 2562123,
+      "like": 98489,
       "cat": "美食侦探",
       "link": "https://www.bilibili.com/video/BV1EzH56bE5k",
       "cover": "http://i0.hdslb.com/bfs/archive/d46643027d78594522d018511955665936106664.jpg"
     },
     {
-      "title": "吴站长携天津站男团激情演唱《Uptown Funk》",
-      "author": "整活Tv",
-      "view": 1010287,
-      "like": 41022,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1FtHg6nEE2",
-      "cover": "http://i0.hdslb.com/bfs/archive/ea6b60501a60e8fc43f2b1a6d8ca04a1819b5518.jpg"
+      "title": "接招吧，由精锐弓床弩组成的密集火力网！【帝国时代4】",
+      "author": "DarkCarrot",
+      "view": 301680,
+      "like": 30940,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1Zcnd6rEpn",
+      "cover": "http://i2.hdslb.com/bfs/archive/d3e3fe2e0177e16b7df27b93423c8eeba7281913.jpg"
     },
     {
-      "title": "《鸣潮》世界观PV | 超验TRANSCENDO",
-      "author": "鸣潮",
-      "view": 3196930,
-      "like": 122762,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1p8nh61Efm",
-      "cover": "http://i1.hdslb.com/bfs/archive/57b6f45c8747c18d0dc68beccaafcfbc2eaec175.jpg"
-    },
-    {
-      "title": "《一把长椅卡俩头》",
-      "author": "伤心欲茄222",
-      "view": 1686633,
-      "like": 114211,
+      "title": "双人抬棺",
+      "author": "Z贤者",
+      "view": 4147428,
+      "like": 161991,
       "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1VyHA6xEY5",
-      "cover": "http://i1.hdslb.com/bfs/archive/1c617911c5657ca060d3c2ad8231e5299b67242f.jpg"
+      "link": "https://www.bilibili.com/video/BV1c5HK6CEPu",
+      "cover": "http://i1.hdslb.com/bfs/archive/58b11f4ac80a6f6626e55ff98bde57ef1b1284d4.jpg"
     },
     {
-      "title": "愚蠢鬼",
-      "author": "好痛の恶魔",
-      "view": 1310687,
-      "like": 107665,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1q5HV6dEzo",
-      "cover": "http://i2.hdslb.com/bfs/archive/c8245febde576135b40f60a77fce6602af4dee02.jpg"
+      "title": "中土互联网大战，有多爆笑？",
+      "author": "世界见闻录",
+      "view": 327083,
+      "like": 27115,
+      "cat": "人文历史",
+      "link": "https://www.bilibili.com/video/BV1jKnd6uE5d",
+      "cover": "http://i2.hdslb.com/bfs/archive/1ba3324d2fc7c332850648e3d8e9bc678b39dba7.jpg"
     },
     {
-      "title": "【Karsa】TES vs G2 369真的猛到我想哭了😭",
-      "author": "Karsa",
-      "view": 521245,
-      "like": 9226,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1PCnD6BEdj",
-      "cover": "http://i0.hdslb.com/bfs/archive/aeff6a78a83320fb328cbd8cd26da2a9b3df1713.jpg"
+      "title": "⚡️老詹狂野单曲《LeBron Funk》乐邦放克⚡️【AI MV大赛】",
+      "author": "抽乐个大象",
+      "view": 327995,
+      "like": 14234,
+      "cat": "音乐综合",
+      "link": "https://www.bilibili.com/video/BV1kUHV6YECs",
+      "cover": "http://i1.hdslb.com/bfs/archive/2a916ddd66976c080b61a8ae5daa399378e9fe52.jpg"
     },
     {
-      "title": "AI不会告诉你，王虹到底证明了什么",
-      "author": "老奇好好奇",
-      "view": 521546,
-      "like": 47268,
+      "title": "生命起源：四十亿年前，地球如何诞生第一个生命？",
+      "author": "大圆镜科普",
+      "view": 429127,
+      "like": 42886,
       "cat": "科学科普",
-      "link": "https://www.bilibili.com/video/BV1Z6H56oEcQ",
-      "cover": "http://i0.hdslb.com/bfs/archive/3fd3d8a62496993af1b53754570e5b573dd5b16c.jpg"
+      "link": "https://www.bilibili.com/video/BV1WYnd6DEAw",
+      "cover": "http://i2.hdslb.com/bfs/archive/b1ba8e7cbcd306eeaf4f4ce3ed33995a082fa615.jpg"
+    },
+    {
+      "title": "CNVCT世界赛首胜！ IG逆转拿下HLE! 生化危机爆发夜！【火兰短报14】",
+      "author": "火兰朋克",
+      "view": 365407,
+      "like": 15068,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1gznR6oEg4",
+      "cover": "http://i2.hdslb.com/bfs/archive/c670d55d8639ed8064994557b36d227596b72434.jpg"
+    },
+    {
+      "title": "【IGN】10分，《影之刃零》评测： 武侠朋克传奇",
+      "author": "IGN中国",
+      "view": 1676126,
+      "like": 58510,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV19bHK6AEBD",
+      "cover": "http://i1.hdslb.com/bfs/archive/0d4905890a3081d5c9d15ee7278a688b778a473b.jpg"
+    },
+    {
+      "title": "“鸣人 其实我也没有考上中忍”（完整版）",
+      "author": "爽哥好爽w",
+      "view": 475094,
+      "like": 38786,
+      "cat": "综合",
+      "link": "https://www.bilibili.com/video/BV1honH6KEaW",
+      "cover": "http://i1.hdslb.com/bfs/archive/270ef87d03795ddc190dee47c6e0624da688e9bd.jpg"
     }
   ],
   "weibo": [
