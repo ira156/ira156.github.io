@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02 20:43:25 +08:00",
-  "date": "2026-11-02",
-  "weekday": "周一",
+  "generated_at": "2026-11-03 04:50:14 +08:00",
+  "date": "2026-11-03",
+  "weekday": "周二",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "所谓宿命，其实都是最好的安排。",
-      "from": "《将夜》"
+      "text": "买了三台了，质量非常好，与卖家描述一致，孩子们都特别喜欢吃。",
+      "from": "《幽默网友》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
-      "title": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
-      "author": "superB太",
-      "view": 779954,
-      "like": 51284,
-      "cat": "田园美食",
-      "link": "https://www.bilibili.com/video/BV14o4F6EELU",
-      "cover": "http://i1.hdslb.com/bfs/archive/ad82a2e8fa64f68eba0c24b746818236c746e906.jpg"
-    },
-    {
-      "title": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
-      "author": "Sktr小艺同学",
-      "view": 622949,
-      "like": 74533,
-      "cat": "绘画",
-      "link": "https://www.bilibili.com/video/BV1yhxp66Ez8",
-      "cover": "http://i0.hdslb.com/bfs/archive/c6cbd8e35aee1f8d134aa5f4c0a2178a98280a27.jpg"
-    },
-    {
-      "title": "升级HarmonyOS 7后，我发现做App这事彻底变天？",
-      "author": "缸缸在干嘛",
-      "view": 351803,
-      "like": 1893,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV161x168Egh",
-      "cover": "http://i0.hdslb.com/bfs/archive/d81e50ad46964eb7cb4a34c76978db29f8be79d8.jpg"
-    },
-    {
-      "title": "这！绝对不是儿童餐！",
-      "author": "保安迷弟",
-      "view": 1953803,
-      "like": 99932,
-      "cat": "汪星人",
-      "link": "https://www.bilibili.com/video/BV1hBxJ6uEcy",
-      "cover": "http://i1.hdslb.com/bfs/archive/174332c675ea92336e3a4edde3d9fae947a9ce9d.jpg"
-    },
-    {
-      "title": "你爸回你消息了",
-      "author": "冬冰",
-      "view": 763433,
-      "like": 50186,
-      "cat": "MAD·AMV",
-      "link": "https://www.bilibili.com/video/BV1Lrxt6uEuR",
-      "cover": "http://i1.hdslb.com/bfs/archive/a60703f2455d95a907f0a6cc8eed2564c7cbc5e2.jpg"
-    },
-    {
-      "title": "【STN快报第8.5季25】不觉得边缘行者2的预期违背也是一种反抗精神吗",
-      "author": "STN工作室",
-      "view": 200859,
-      "like": 17301,
-      "cat": "预告·资讯",
-      "link": "https://www.bilibili.com/video/BV13D4w6cEKG",
-      "cover": "http://i1.hdslb.com/bfs/archive/7ce17af5b76473eb3ae5bd37c22120fd65df0a3d.jpg"
-    },
-    {
-      "title": "BLG 赛事语音 | Nice，晋级！",
-      "author": "BLG电子竞技俱乐部",
-      "view": 96127,
-      "like": 5251,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1WW4w6UErY",
-      "cover": "http://i0.hdslb.com/bfs/archive/9d99ded6aac7d716b1209816d9ed804312203c6a.jpg"
-    },
-    {
-      "title": "你从未离去 x 平凡之路",
-      "author": "神秘天洛元",
-      "view": 357594,
-      "like": 75959,
-      "cat": "原创音乐",
-      "link": "https://www.bilibili.com/video/BV1mVxx6SEJ4",
-      "cover": "http://i2.hdslb.com/bfs/archive/fab132411cbbccac05326a72c5e3f3698f43f8b4.jpg"
-    },
-    {
-      "title": "世界最最最烂活",
-      "author": "小潮院长",
-      "view": 2201533,
-      "like": 179928,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV15YxH6nEku",
-      "cover": "http://i1.hdslb.com/bfs/archive/e0fae3acbf39531051dd9ea5663ab3d21229108a.jpg"
-    },
-    {
-      "title": "你真睡醒了吗哥？",
-      "author": "炎辰大鸽子",
-      "view": 1022697,
-      "like": 22075,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1jAxr6kESD",
-      "cover": "http://i1.hdslb.com/bfs/archive/c7d743b917cb8a4cbe6ddf82685c1170c0539216.jpg"
-    },
-    {
-      "title": "MSI冠军16强回家！万字解析BLG零封HLE背后的原因！",
-      "author": "分析师蓝宝石",
-      "view": 742773,
-      "like": 30616,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1JLxh69EgU",
-      "cover": "http://i1.hdslb.com/bfs/archive/20ece9fd7265e75af5f02a2c820e354b9358b2ab.jpg"
+      "title": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
+      "author": "DeepSeekHarness",
+      "view": 466667,
+      "like": 39955,
+      "cat": "软件应用",
+      "link": "https://www.bilibili.com/video/BV1i24P6rEmt",
+      "cover": "http://i0.hdslb.com/bfs/archive/0dd503239df6745961d8f2a1a4e3ccb7cc217f33.jpg"
     },
     {
       "title": "哟西！故乡的樱花开了！",
       "author": "大漠叔叔",
-      "view": 173957,
-      "like": 21697,
+      "view": 597418,
+      "like": 57527,
       "cat": "三农",
       "link": "https://www.bilibili.com/video/BV1w34A62Eq2",
       "cover": "http://i1.hdslb.com/bfs/archive/399fb202a92d8b774416cb92a401389def6cde93.jpg"
     },
     {
-      "title": "⚡️如来演唱《金刚FUNK》⚡️【AI MV大赛】",
-      "author": "王与也行",
-      "view": 421777,
-      "like": 14728,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1RLxs6bEJW",
-      "cover": "http://i2.hdslb.com/bfs/archive/c6adf259ec2c736d5c2bf67bea4d5722c9efa1ca.jpg"
-    },
-    {
-      "title": "小众美食吃法实力排行",
-      "author": "东方日出哇",
-      "view": 705146,
-      "like": 42213,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1Ttxp6CEc6",
-      "cover": "http://i1.hdslb.com/bfs/archive/6a79dc5dbc8e446cc502b8f924b0504b29cd644c.jpg"
-    },
-    {
-      "title": "鱼生比腿长！杭州千元omakase",
-      "author": "郑安眠",
-      "view": 1051844,
-      "like": 62746,
-      "cat": "美食侦探",
-      "link": "https://www.bilibili.com/video/BV1LRxe69ENH",
-      "cover": "http://i1.hdslb.com/bfs/archive/ebd476859eab25cb087c31d12a86961225e16609.jpg"
-    },
-    {
-      "title": "清理熊患后续，只因西伯利亚棕熊泛滥成灾。",
-      "author": "方四海Z-路亚",
-      "view": 172502,
-      "like": 15189,
-      "cat": "运动综合",
-      "link": "https://www.bilibili.com/video/BV13ixh6gEeq",
-      "cover": "http://i0.hdslb.com/bfs/archive/1bbc3c294bf373a941460ffbb7d56ec02a33b724.jpg"
+      "title": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
+      "author": "superB太",
+      "view": 1285419,
+      "like": 76294,
+      "cat": "田园美食",
+      "link": "https://www.bilibili.com/video/BV14o4F6EELU",
+      "cover": "http://i1.hdslb.com/bfs/archive/ad82a2e8fa64f68eba0c24b746818236c746e906.jpg"
     },
     {
       "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
       "author": "Git源宝",
-      "view": 446996,
-      "like": 26480,
+      "view": 599799,
+      "like": 34423,
       "cat": "数码",
       "link": "https://www.bilibili.com/video/BV1REx46NEc4",
       "cover": "http://i1.hdslb.com/bfs/archive/d6e478f06fea59f1515c3fd613845ab232b46e5b.jpg"
     },
     {
-      "title": "年度综艺！恨海情天！这个《后会友期》真的太好品了！！",
-      "author": "low君热剧",
-      "view": 1302762,
-      "like": 39214,
-      "cat": "影视杂谈",
-      "link": "https://www.bilibili.com/video/BV1i4xy6XE8y",
-      "cover": "http://i0.hdslb.com/bfs/archive/22e2fe33d0157ae393a7fd6a7d192faf1dddb243.jpg"
+      "title": "MSI冠军16强回家！万字解析BLG零封HLE背后的原因！",
+      "author": "分析师蓝宝石",
+      "view": 1011863,
+      "like": 39993,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1JLxh69EgU",
+      "cover": "http://i1.hdslb.com/bfs/archive/20ece9fd7265e75af5f02a2c820e354b9358b2ab.jpg"
     },
     {
-      "title": "这事情不简单！我在鸿蒙开发者论坛找到了答案！",
-      "author": "热男HotGuys",
-      "view": 623682,
-      "like": 15705,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1kLsf6eE8d",
-      "cover": "http://i0.hdslb.com/bfs/archive/5d0dc6e890740b9a3989963e681cfbe413ec8a9d.jpg"
-    },
-    {
-      "title": "以此朋克，倚老卖老。",
-      "author": "桂香GuiXiang",
-      "view": 496322,
-      "like": 61530,
+      "title": "你从未离去 x 平凡之路",
+      "author": "神秘天洛元",
+      "view": 618867,
+      "like": 120749,
       "cat": "原创音乐",
-      "link": "https://www.bilibili.com/video/BV1uQxx69E7x",
-      "cover": "http://i0.hdslb.com/bfs/archive/6b1c6681a67870edbcccf2b3d8af9522cb257cbe.jpg"
+      "link": "https://www.bilibili.com/video/BV1mVxx6SEJ4",
+      "cover": "http://i2.hdslb.com/bfs/archive/fab132411cbbccac05326a72c5e3f3698f43f8b4.jpg"
+    },
+    {
+      "title": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
+      "author": "Sktr小艺同学",
+      "view": 934844,
+      "like": 110613,
+      "cat": "绘画",
+      "link": "https://www.bilibili.com/video/BV1yhxp66Ez8",
+      "cover": "http://i0.hdslb.com/bfs/archive/c6cbd8e35aee1f8d134aa5f4c0a2178a98280a27.jpg"
+    },
+    {
+      "title": "停停停！别再从电影里学习错误的女性知识啦……！",
+      "author": "二二酸酸",
+      "view": 1119266,
+      "like": 59866,
+      "cat": "亲子",
+      "link": "https://www.bilibili.com/video/BV13oxa6yEPx",
+      "cover": "http://i1.hdslb.com/bfs/archive/c261fbbc636ec290342664cca249acb9e34fd6dd.jpg"
+    },
+    {
+      "title": "是该让爸妈兑现催生时的承诺了",
+      "author": "黄家荣",
+      "view": 3174662,
+      "like": 90981,
+      "cat": "短片",
+      "link": "https://www.bilibili.com/video/BV1M5xz64EFq",
+      "cover": "http://i0.hdslb.com/bfs/archive/030f82376a330d320eb8c082fc59a2691b3bc1e0.jpg"
+    },
+    {
+      "title": "⚡️⚡️⚡️猫咖倒闭，救救我们⚡️⚡️⚡️",
+      "author": "加美拉一号",
+      "view": 764707,
+      "like": 179910,
+      "cat": "喵星人",
+      "link": "https://www.bilibili.com/video/BV1rJxG6ME5x",
+      "cover": "http://i1.hdslb.com/bfs/archive/a8f42e5cc0550410f1b808681570eb7a90e30b15.jpg"
+    },
+    {
+      "title": "原来10后也有自己的老歌了",
+      "author": "三分糖可乐L",
+      "view": 364130,
+      "like": 25536,
+      "cat": "音乐综合",
+      "link": "https://www.bilibili.com/video/BV1xWH56zEb8",
+      "cover": "http://i2.hdslb.com/bfs/archive/37e2f1367a9bd962fba7ce7ceb5fc3775aec44ca.jpg"
+    },
+    {
+      "title": "这还能是童年套圈机！？做成世界大赛！",
+      "author": "M木糖M",
+      "view": 898998,
+      "like": 37991,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV16Ux46yEsR",
+      "cover": "http://i1.hdslb.com/bfs/archive/5c5c2c8e68ed6f37d23a6334e810ebdf9ce78bd5.jpg"
+    },
+    {
+      "title": "【STN快报第8.5季25】不觉得边缘行者2的预期违背也是一种反抗精神吗",
+      "author": "STN工作室",
+      "view": 391348,
+      "like": 29369,
+      "cat": "预告·资讯",
+      "link": "https://www.bilibili.com/video/BV13D4w6cEKG",
+      "cover": "http://i1.hdslb.com/bfs/archive/7ce17af5b76473eb3ae5bd37c22120fd65df0a3d.jpg"
+    },
+    {
+      "title": "BLG八强结算珍贵录像《朝你韩华捏一把》",
+      "author": "九夜听风",
+      "view": 1355243,
+      "like": 58182,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1PFx46EEWs",
+      "cover": "http://i2.hdslb.com/bfs/archive/4f1f43bba6fb6ac747850304f2a554465a51e25b.jpg"
+    },
+    {
+      "title": "【一百日】第八日:未知通讯",
+      "author": "时空go蛙",
+      "view": 1050974,
+      "like": 58620,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV13CxW6HECV",
+      "cover": "http://i1.hdslb.com/bfs/archive/fffa5bc1df2dd1a024211f51a0cdc8baf6f2c720.jpg"
+    },
+    {
+      "title": "小众美食吃法实力排行",
+      "author": "东方日出哇",
+      "view": 924168,
+      "like": 55434,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1Ttxp6CEc6",
+      "cover": "http://i1.hdslb.com/bfs/archive/6a79dc5dbc8e446cc502b8f924b0504b29cd644c.jpg"
+    },
+    {
+      "title": "⚡️如来演唱《金刚FUNK》⚡️【AI MV大赛】",
+      "author": "王与也行",
+      "view": 638052,
+      "like": 19629,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1RLxs6bEJW",
+      "cover": "http://i2.hdslb.com/bfs/archive/c6adf259ec2c736d5c2bf67bea4d5722c9efa1ca.jpg"
+    },
+    {
+      "title": "猫咪目前正在恢复，后续还会跟进的~",
+      "author": "宠医张政",
+      "view": 253073,
+      "like": 22058,
+      "cat": "喵星人",
+      "link": "https://www.bilibili.com/video/BV1A14c61ERU",
+      "cover": "http://i1.hdslb.com/bfs/archive/1fc103a2d45bafda4b69c3bbb62f7df78f8171b0.jpg"
+    },
+    {
+      "title": "《原神》角色预告-「瓦列里：执序之理」",
+      "author": "原神",
+      "view": 492807,
+      "like": 60244,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1LBxx6YEqJ",
+      "cover": "http://i0.hdslb.com/bfs/archive/995d1f6bdbec2343b9d51516337f70e09b0e8942.jpg"
+    },
+    {
+      "title": "为什么游戏里的稀有道具，我们总舍不得用？",
+      "author": "好奇的珜",
+      "view": 757563,
+      "like": 21212,
+      "cat": "科学科普",
+      "link": "https://www.bilibili.com/video/BV1fwxp68EW2",
+      "cover": "http://i0.hdslb.com/bfs/archive/26c3024430b04b1cbcc50cc60e877ddd2a839fc4.jpg"
     }
   ],
   "weibo": [
