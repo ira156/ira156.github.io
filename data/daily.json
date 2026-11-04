@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04 20:22:00 +08:00",
-  "date": "2026-11-04",
-  "weekday": "周三",
+  "generated_at": "2026-11-05 02:44:09 +08:00",
+  "date": "2026-11-05",
+  "weekday": "周四",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "你不能放弃，就算跛着脚也要爬上高峰。",
-      "from": "楚门 · 《楚门的世界》"
+      "text": "虽有遗憾，绝不后悔。",
+      "from": "《古剑奇谭》"
     },
     "angles": [
       {
@@ -435,184 +435,184 @@
   },
   "bilibili": [
     {
+      "title": "【2026全球总决赛】11月4日 TES vs IG",
+      "author": "哔哩哔哩英雄联盟赛事",
+      "view": 7993277,
+      "like": 49632,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1XwxU6xEnL",
+      "cover": "http://i2.hdslb.com/bfs/archive/f877d4c63746db95655c1aa15d43dbf6dd3cfeec.jpg"
+    },
+    {
       "title": "【只对你有感觉】|“【恋爱の小曲】”",
       "author": "蛋某人音乐",
-      "view": 2334703,
-      "like": 89604,
+      "view": 3849089,
+      "like": 168652,
       "cat": "乐评盘点",
       "link": "https://www.bilibili.com/video/BV1w5xh6sEEz",
       "cover": "http://i2.hdslb.com/bfs/archive/2d1f36db40ac0fd5402af0a44c5b8e24f2be1ade.jpg"
     },
     {
-      "title": "《崩坏：星穹铁道》即兴巡演PV——「当阿哈来敲门」",
-      "author": "崩坏星穹铁道",
-      "view": 2319253,
-      "like": 178740,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1XJ4g6WEyL",
-      "cover": "http://i1.hdslb.com/bfs/archive/5cc963a82a89537192bf1b6c7af2f5ec65105a99.jpg"
+      "title": "AIGC 月光鱼屋丨第三集 汆白肉",
+      "author": "王如晦",
+      "view": 322951,
+      "like": 31833,
+      "cat": "短片",
+      "link": "https://www.bilibili.com/video/BV1hTxt6aEdm",
+      "cover": "http://i0.hdslb.com/bfs/archive/d4d9f794efb06fe48fb5f64e7014ef6d9a0b0133.jpg"
+    },
+    {
+      "title": "当各方知道诸葛亮冻死的消息？逆天联动！新三国被做成游戏恐怖如斯！",
+      "author": "鲁过一世",
+      "view": 320583,
+      "like": 27348,
+      "cat": "桌游棋牌",
+      "link": "https://www.bilibili.com/video/BV1KrxQ64E6U",
+      "cover": "http://i0.hdslb.com/bfs/archive/42ce848ada68a6e2ea353110fdd758e7cf09696f.jpg"
     },
     {
       "title": "《这是我儿子？》",
       "author": "张小伙玩配音",
-      "view": 1300798,
-      "like": 62268,
+      "view": 2458136,
+      "like": 119657,
       "cat": "搞笑",
       "link": "https://www.bilibili.com/video/BV1PF4g6ME26",
       "cover": "http://i1.hdslb.com/bfs/archive/b8390fd88b8adaade6605c3237941395605699fe.jpg"
     },
     {
+      "title": "《崩坏：星穹铁道》即兴巡演PV——「当阿哈来敲门」",
+      "author": "崩坏星穹铁道",
+      "view": 2766392,
+      "like": 213696,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1XJ4g6WEyL",
+      "cover": "http://i1.hdslb.com/bfs/archive/5cc963a82a89537192bf1b6c7af2f5ec65105a99.jpg"
+    },
+    {
       "title": "受网友诱骗跨省流浪一年，名下多了6家公司，欠了一屁股债，银行卡被封，全家低保也差点注销【出发去创作】",
       "author": "摩的司机徐师傅",
-      "view": 1542719,
-      "like": 36311,
+      "view": 2303930,
+      "like": 55367,
       "cat": "出行",
       "link": "https://www.bilibili.com/video/BV1gqpv65Ekw",
       "cover": "http://i2.hdslb.com/bfs/archive/17651bb9a358942f25f95c939b68b1fccfe0b759.jpg"
     },
     {
-      "title": "LPL赛区内战 IG战胜TES晋级四强【2026英雄联盟全球总决赛】",
-      "author": "新华社",
-      "view": 635215,
-      "like": 49124,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1fDxS6rEeK",
-      "cover": "http://i2.hdslb.com/bfs/archive/0345c694b5b862ca7f37db35f263e48b1067e3f9.jpg"
+      "title": "【返场】乐高车过障碍物",
+      "author": "BEC乐高实验",
+      "view": 667853,
+      "like": 59537,
+      "cat": "手工",
+      "link": "https://www.bilibili.com/video/BV1Zg4g68Ef7",
+      "cover": "http://i0.hdslb.com/bfs/archive/347652748b8378f56088fd2c7b6ad1da4039550c.jpg"
     },
     {
-      "title": "iG还在创造奇迹！从涅槃到S赛四强！Wei主宰战场战胜TES挺进下一轮！【1酱赛评八强篇】",
-      "author": "你是想气死1酱么",
-      "view": 317018,
-      "like": 13759,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1uZxD6oEu5",
-      "cover": "http://i2.hdslb.com/bfs/archive/c778be7043df23921a6abac1d3643653426669c3.jpg"
+      "title": "乌萨奇修仙传·极",
+      "author": "是一只哈奇喵",
+      "view": 628266,
+      "like": 48318,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1wh4P6XEkC",
+      "cover": "http://i1.hdslb.com/bfs/archive/95cdf7a622b6df5150d9208bb3297073a4e8aecb.jpg"
     },
     {
-      "title": "挑战不让店员吃外卖第一期：滑蛋鸡腿肉盖饭！小美说还得是新鲜的香！#谢谢侬传承家宴",
-      "author": "谢谢侬老徐",
-      "view": 1045291,
-      "like": 41295,
-      "cat": "美食制作",
-      "link": "https://www.bilibili.com/video/BV1MQ4u6CEzP",
-      "cover": "http://i2.hdslb.com/bfs/archive/504c832ac0083c80bc0557ad9fd284702e23d04a.jpg"
+      "title": "阿黄有房了【AI全民制作人】",
+      "author": "阿黄和这个村",
+      "view": 1347798,
+      "like": 49305,
+      "cat": "汪星人",
+      "link": "https://www.bilibili.com/video/BV17d4g6fEAi",
+      "cover": "http://i0.hdslb.com/bfs/archive/ffb16ec0686d9031ccc1459bec2e08ba105a4209.jpg"
     },
     {
-      "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
-      "author": "弧光猎人_ARCRaiders",
-      "view": 3773927,
-      "like": 37647,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1RA4w6AE74",
-      "cover": "http://i1.hdslb.com/bfs/archive/47e2a11fc86697ae3977fa16b33219830d500339.jpg"
-    },
-    {
-      "title": "【崩铁】星神★阿哈综合测评：献予欢愉之诗！欢愉全体升格！武器对比+技能解读+遗器选择+星魂提升！",
-      "author": "卡特亚",
-      "view": 537117,
-      "like": 39724,
+      "title": "吓哭了！冲碎天钉！钟离史上最帅高光！什么天钉、圣土化？还以为是减速带呢！钟离先其它七神和六国一步，直接出手用一枚摩拉通关僭继试炼过场动画！还让闲云传递情报",
+      "author": "不当咕咕咕的鸽子",
+      "view": 727965,
+      "like": 26222,
       "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1QMxD6FEGi",
-      "cover": "http://i1.hdslb.com/bfs/archive/6be53be7e184243cb40c09d1434f477f514bd047.jpg"
+      "link": "https://www.bilibili.com/video/BV14qxS6HEwZ",
+      "cover": "http://i0.hdslb.com/bfs/archive/c7fd00fc27408ecb2c22698388fec21872f96e6f.jpg"
     },
     {
-      "title": "《异环》曳尔沐角色PV丨我们重归于好",
-      "author": "异环",
-      "view": 1050989,
-      "like": 42293,
-      "cat": "网络游戏",
-      "link": "https://www.bilibili.com/video/BV1NWxT6cEWk",
-      "cover": "http://i0.hdslb.com/bfs/archive/9a7fce21216072d553a26558db8d88c24f14a4a1.jpg"
+      "title": "花20万卢比买顶级高蛋白营养餐，老板急了",
+      "author": "印度老吃家",
+      "view": 861093,
+      "like": 48425,
+      "cat": "美食侦探",
+      "link": "https://www.bilibili.com/video/BV1oU4M6dErj",
+      "cover": "http://i0.hdslb.com/bfs/archive/0c8a902590c8f5b5fafd93869740b9d979f66155.jpg"
+    },
+    {
+      "title": "《今日得吃朱古力》",
+      "author": "伤心欲茄222",
+      "view": 502431,
+      "like": 46444,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1jcxX6CEyK",
+      "cover": "http://i2.hdslb.com/bfs/archive/e8736b68dd124f5b693afd3846a432a4dd3720ee.jpg"
     },
     {
       "title": "屋里味太大",
       "author": "脱缰凯Kk",
-      "view": 1038022,
-      "like": 55339,
+      "view": 1449716,
+      "like": 71919,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1CP4G6GE3p",
       "cover": "http://i2.hdslb.com/bfs/archive/500bcd11f99c15e842112caf3206930240e242ce.jpg"
     },
     {
-      "title": "抽象新闻：10月人类迷惑行为大赏（下）",
-      "author": "我是M菌",
-      "view": 2803246,
-      "like": 80830,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV14g4u6rEeH",
-      "cover": "http://i1.hdslb.com/bfs/archive/31eb6471b8a1ee715a6c570d27ba3af9b65174bf.jpg"
-    },
-    {
-      "title": "【时代少年团】系列纪录片《光辉岁月》——“小永远”",
-      "author": "时代少年团",
-      "view": 578595,
-      "like": 30257,
-      "cat": "明星综合",
-      "link": "https://www.bilibili.com/video/BV1ov4u6WEH4",
-      "cover": "http://i1.hdslb.com/bfs/archive/6d87e0cb0e108127837a431d8ba258416d483d60.jpg"
-    },
-    {
-      "title": "开破车挑战纽北！证明中国人比德国人更会玩车",
-      "author": "极速拍档",
-      "view": 826722,
-      "like": 71674,
-      "cat": "汽车生活",
-      "link": "https://www.bilibili.com/video/BV1HH4u6PEsa",
-      "cover": "http://i1.hdslb.com/bfs/archive/854c095070a847d467a6a6b854d2885e2e8ccc60.jpg"
-    },
-    {
-      "title": "【合集】《阿丘的花语》（第一章终剪版）【AI全民制作人】",
-      "author": "阿丘的花语",
-      "view": 600385,
-      "like": 20285,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV156xz6zERx",
-      "cover": "http://i0.hdslb.com/bfs/archive/7400978c24bd575b5a69069831781563a992893b.jpg"
-    },
-    {
-      "title": "【真实锐评】IG战胜TES晋级四强！什么内战幻神 野辅AD直接完爆！GEN别跑！",
-      "author": "真实电竞",
-      "view": 521120,
-      "like": 17746,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1YTxX6zEqA",
-      "cover": "http://i2.hdslb.com/bfs/archive/8b7c76fc6d7b6e164ccc711e8fc5951223ee7283.jpg"
-    },
-    {
       "title": "乖乖待在我身边学微积分不好吗？",
       "author": "社恐内向昭爷爷",
-      "view": 507220,
-      "like": 67403,
+      "view": 772207,
+      "like": 99300,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV1vW4G6bEuf",
       "cover": "http://i2.hdslb.com/bfs/archive/d101ee33d19e6f17183d3cb8e4c125963e402b2d.jpg"
     },
     {
-      "title": "网络热传生物鉴定 第65期",
-      "author": "无穷小亮的科普日常",
-      "view": 2761703,
-      "like": 210134,
+      "title": "鸡蛋不能放在同一个袜子里",
+      "author": "大雄哥Dxg",
+      "view": 681496,
+      "like": 42353,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1EPxp6FEMc",
+      "cover": "http://i2.hdslb.com/bfs/archive/9b5f9ed568d77d6869abbaa1d1b61a4d6895164f.jpg"
+    },
+    {
+      "title": "蓝潮来袭：民主党参众、州选横扫，懂王进入跛脚鸭时间",
+      "author": "波士顿圆脸",
+      "view": 446209,
+      "like": 28963,
+      "cat": "社科·法律·心理",
+      "link": "https://www.bilibili.com/video/BV121x96aEHi",
+      "cover": "http://i1.hdslb.com/bfs/archive/eaf3119e2667294b0312fd4ee5fc91aa2a68818a.jpg"
+    },
+    {
+      "title": "百人寂静村大混战，这才是真·多人生化！",
+      "author": "eBronTower",
+      "view": 828647,
+      "like": 31926,
+      "cat": "软件应用",
+      "link": "https://www.bilibili.com/video/BV1aR4P6KERQ",
+      "cover": "http://i2.hdslb.com/bfs/archive/50d442348f50a606e4b9e460b0644ea15151f649.jpg"
+    },
+    {
+      "title": "抽象新闻：10月人类迷惑行为大赏（下）",
+      "author": "我是M菌",
+      "view": 3428858,
+      "like": 95911,
       "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV18wxY63Erp",
-      "cover": "http://i0.hdslb.com/bfs/archive/cc1268369b56f9007ae8cfc366742a3f0b4b03cc.jpg"
+      "link": "https://www.bilibili.com/video/BV14g4u6rEeH",
+      "cover": "http://i1.hdslb.com/bfs/archive/31eb6471b8a1ee715a6c570d27ba3af9b65174bf.jpg"
     },
     {
-      "title": "小猫以前的工作很辛苦吧",
-      "author": "Caesar-Cat",
-      "view": 588227,
-      "like": 46662,
-      "cat": "喵星人",
-      "link": "https://www.bilibili.com/video/BV1ew436REXT",
-      "cover": "http://i2.hdslb.com/bfs/archive/f8f55dba8fd6743e63c6983e9939c1750c59cb3e.jpg"
-    },
-    {
-      "title": "山药肉沫蒸蛋！好吃(•؎ •)",
-      "author": "丽丽教做菜-",
-      "view": 1204078,
-      "like": 80767,
-      "cat": "美食制作",
-      "link": "https://www.bilibili.com/video/BV1F54A6yE9v",
-      "cover": "http://i2.hdslb.com/bfs/archive/dc998ef9565261d2e744248bde847e8a5d764629.jpg"
+      "title": "不看电视不接电话的中国人",
+      "author": "汤山老王",
+      "view": 315823,
+      "like": 18974,
+      "cat": "财经商业",
+      "link": "https://www.bilibili.com/video/BV15sxS68EFq",
+      "cover": "http://i0.hdslb.com/bfs/archive/0cbf60c9b444c1e40953613cbe9651298c6db7db.jpg"
     }
   ],
   "weibo": [
