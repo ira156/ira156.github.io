@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17 21:42:32 +08:00",
-  "date": "2026-11-17",
-  "weekday": "周二",
+  "generated_at": "2026-11-18 03:56:29 +08:00",
+  "date": "2026-11-18",
+  "weekday": "周三",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "就像是一场华尔街的阴谋，透露着优雅的杀戮。",
-      "from": "《神探夏洛克》"
+      "text": "隆科多，皇额娘，果冻我要喜之郎。",
+      "from": "《网络》"
     },
     "angles": [
       {
@@ -435,118 +435,100 @@
   },
   "bilibili": [
     {
-      "title": "EUV光刻机 | \"上帝的手术刀\"",
-      "author": "Vibe-SCI",
-      "view": 1139011,
-      "like": 65443,
-      "cat": "科工机械",
-      "link": "https://www.bilibili.com/video/BV1kYsW6NE6E",
-      "cover": "http://i0.hdslb.com/bfs/archive/5bceed38e919a0a94000efd367d7965a71aa85ce.jpg"
+      "title": "【BLG冠军麦克风】这一刻，我们是世界冠军！",
+      "author": "BLG电子竞技俱乐部",
+      "view": 462863,
+      "like": 41855,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1JNsr67EbT",
+      "cover": "http://i0.hdslb.com/bfs/archive/09a71bd103ad68104626c218491cd38a91c0ea35.jpg"
     },
     {
-      "title": "《哈利波特与枪》",
-      "author": "推背兔の",
-      "view": 1096381,
-      "like": 54444,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1v8sP6vEiq",
-      "cover": "http://i0.hdslb.com/bfs/archive/d5bb669fe75359c3f1e65c38c6c247b21d375191.jpg"
+      "title": "西班牙400万人大罢工，抗议房价太高，物价飞涨",
+      "author": "汤师傅ヽ",
+      "view": 396588,
+      "like": 70232,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1VwsM63EJG",
+      "cover": "http://i0.hdslb.com/bfs/archive/82f74a96cb73956233611f19d1fc3f7aa77c695f.jpg"
     },
     {
-      "title": "梅耶·马斯克带你走进无限暖暖3.0",
-      "author": "无限暖暖",
-      "view": 1467105,
-      "like": 25644,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV18msM6zEqc",
-      "cover": "http://i1.hdslb.com/bfs/archive/624a7f1227d7d3779e4aa6d50b794addce7f7be4.jpg"
+      "title": "“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】",
+      "author": "早睡起大王",
+      "view": 1069780,
+      "like": 54970,
+      "cat": "音MAD",
+      "link": "https://www.bilibili.com/video/BV12MsK6tEV1",
+      "cover": "http://i2.hdslb.com/bfs/archive/ef2e34018ec27c66ad74b706ea9b8322b1dccf54.jpg"
     },
     {
       "title": "【完结】财神窦占龙 第16集 归乡【8月国创】",
       "author": "哔哩哔哩国创",
-      "view": 422708,
-      "like": 1757,
+      "view": 436524,
+      "like": 1820,
       "cat": "国产动画",
       "link": "https://www.bilibili.com/video/BV1ojWq68E1D",
       "cover": "http://i2.hdslb.com/bfs/archive/284b0134c6615d2c616b0de6723b8fe603df4701.jpg"
     },
     {
-      "title": "灭霸金融小课堂：应届生小浣熊的疑惑，什么是五险一金",
-      "author": "灭霸金融小课堂",
-      "view": 1286308,
-      "like": 138770,
-      "cat": "财经商业",
-      "link": "https://www.bilibili.com/video/BV1JRsw66E1s",
-      "cover": "http://i0.hdslb.com/bfs/archive/328a02078e0eebd377847ed6cda81093c7659b1f.jpg"
+      "title": "EUV光刻机 | \"上帝的手术刀\"",
+      "author": "Vibe-SCI",
+      "view": 1587254,
+      "like": 90520,
+      "cat": "科工机械",
+      "link": "https://www.bilibili.com/video/BV1kYsW6NE6E",
+      "cover": "http://i0.hdslb.com/bfs/archive/5bceed38e919a0a94000efd367d7965a71aa85ce.jpg"
     },
     {
-      "title": "《山海奇旅》兜风测试PV | 落脚小岛，出发兜风！",
-      "author": "山海奇旅官方",
-      "view": 979571,
-      "like": 12961,
-      "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1R1sc6oEkW",
-      "cover": "http://i0.hdslb.com/bfs/archive/720f4e90fd838ae745f6571526e1aedabd91d20b.jpg"
+      "title": "钢铁侠给贾维斯装上病娇插件，这下玩大了",
+      "author": "西伯利亚冬泳怪鸽",
+      "view": 294571,
+      "like": 20293,
+      "cat": "鬼畜调教",
+      "link": "https://www.bilibili.com/video/BV1fDsu6xEyA",
+      "cover": "http://i0.hdslb.com/bfs/archive/d8b1550881c8c9182e7e750ff5a581a1706eec7e.jpg"
     },
     {
-      "title": "这才是真正的吃商高！",
-      "author": "华南有志弹涂鱼",
-      "view": 624850,
-      "like": 51193,
-      "cat": "美食记录",
-      "link": "https://www.bilibili.com/video/BV1B1sN65E1Y",
-      "cover": "http://i0.hdslb.com/bfs/archive/15f133c0a1e262b029144828fdad2fbd09d1ea44.jpg"
+      "title": "《最礼乐崩坏の一集》",
+      "author": "伤心欲茄222",
+      "view": 1822195,
+      "like": 181858,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1b2sK6aEJ9",
+      "cover": "http://i2.hdslb.com/bfs/archive/90bb5c12fae82425e158f5c51e9142a019427af0.jpg"
     },
     {
-      "title": "陈翔六点半：假如上学是修仙",
-      "author": "陈翔六点半",
-      "view": 1725199,
-      "like": 44499,
-      "cat": "短片",
-      "link": "https://www.bilibili.com/video/BV1Ahsc6ME4o",
-      "cover": "http://i2.hdslb.com/bfs/archive/31db67e1f0e2f794d172a97d8157b0dfe9042580.jpg"
+      "title": "【蜘蛛侠/MJ】非凡之爱真人版",
+      "author": "Crazy-face",
+      "view": 567963,
+      "like": 33011,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1xFs36uEvE",
+      "cover": "http://i2.hdslb.com/bfs/archive/0df10664c91825200c46d45ecc34af35a1ce38ea.jpg"
     },
     {
-      "title": "大牙|| 肖8选择题精讲带背（第一套卷），全网讲解最清晰，专治零基础！",
-      "author": "大牙考研",
-      "view": 646051,
-      "like": 42803,
-      "cat": "校园学习",
-      "link": "https://www.bilibili.com/video/BV1mdWf6GEnF",
-      "cover": "http://i0.hdslb.com/bfs/archive/03074f7f156d9c4b9bf3f6860f1d4688014d4807.jpg"
+      "title": "迎接我们的羁绊吧！",
+      "author": "正男锅",
+      "view": 1179876,
+      "like": 90695,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1L7sn6UEjz",
+      "cover": "http://i2.hdslb.com/bfs/archive/0f9e7f79f1ea8b5d80ff5ea9dfea8a43e48d3eaf.jpg"
     },
     {
       "title": "【纪录片】蓝色星球 第三季 03 四季海洋",
       "author": "哔哩哔哩纪录片",
-      "view": 521767,
-      "like": 1900,
+      "view": 553968,
+      "like": 2045,
       "cat": "科学·探索·自然",
       "link": "https://www.bilibili.com/video/BV1dnWj6KEm8",
       "cover": "http://i2.hdslb.com/bfs/archive/eed03065c7aa6e81ffeae458c28df2606eac3465.jpg"
     },
     {
-      "title": "错了就要认，挨打要立正，对不起，这一次是我骗了你们！",
-      "author": "爱画画的子衿",
-      "view": 800265,
-      "like": 64831,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV13Qsc69EUv",
-      "cover": "http://i0.hdslb.com/bfs/archive/01a9d25ae46ba8c0424e00f406921d2f12036d59.jpg"
-    },
-    {
-      "title": "2026全球总决赛冠亚军决赛英雄麦克疯：“我们是冠军！”",
-      "author": "英雄联盟赛事",
-      "view": 526786,
-      "like": 22728,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1Bvsg6xEEr",
-      "cover": "http://i2.hdslb.com/bfs/archive/c712fc34e6a1b60688d8d2266ad571275aa95021.jpg"
-    },
-    {
       "title": "小时候去朋友家玩电脑",
       "author": "破米库",
-      "view": 817349,
-      "like": 55613,
+      "view": 1159901,
+      "like": 78754,
       "cat": "综合",
       "link": "https://www.bilibili.com/video/BV1gQsc69E6x",
       "cover": "http://i1.hdslb.com/bfs/archive/6a9162559d5a05058c18c5e34f11730218c48bd0.jpg"
@@ -554,65 +536,83 @@
     {
       "title": "11月18日上线｜《终极角逐》全新模式 「生存挑战赛」",
       "author": "终极角逐_THEFINALS国服",
-      "view": 2417638,
-      "like": 51985,
+      "view": 2834087,
+      "like": 58517,
       "cat": "网络游戏",
       "link": "https://www.bilibili.com/video/BV141sP6sE1x",
       "cover": "http://i2.hdslb.com/bfs/archive/03b13d74f6ed123ae5b5d3c9633f4bc6ab472378.jpg"
     },
     {
-      "title": "“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】",
-      "author": "早睡起大王",
-      "view": 685239,
-      "like": 30670,
-      "cat": "音MAD",
-      "link": "https://www.bilibili.com/video/BV12MsK6tEV1",
-      "cover": "http://i2.hdslb.com/bfs/archive/ef2e34018ec27c66ad74b706ea9b8322b1dccf54.jpg"
+      "title": "梅耶·马斯克带你走进无限暖暖3.0",
+      "author": "无限暖暖",
+      "view": 1585899,
+      "like": 28524,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV18msM6zEqc",
+      "cover": "http://i1.hdslb.com/bfs/archive/624a7f1227d7d3779e4aa6d50b794addce7f7be4.jpg"
     },
     {
-      "title": "冬日宿舍之进步",
-      "author": "小新博主",
-      "view": 724592,
-      "like": 49370,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1FBsA63E91",
-      "cover": "http://i1.hdslb.com/bfs/archive/a46e30a75b097946e9d0c279fa2312291e371bba.jpg"
+      "title": "我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】",
+      "author": "智能路障",
+      "view": 510874,
+      "like": 16770,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1cUsu6ZEYp",
+      "cover": "http://i2.hdslb.com/bfs/archive/ea1b2d0405489bb1d2800f0d7d492515d4433d6c.jpg"
     },
     {
-      "title": "坐船去大连，差点忘了这是东北",
-      "author": "食贫道",
-      "view": 878472,
-      "like": 51289,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1P3sP6UENP",
-      "cover": "http://i1.hdslb.com/bfs/archive/3c7688857e8a16cfde6fdc1eaf8229e4887ae5de.jpg"
+      "title": "蚌埠住的时候就抽出七匹狼",
+      "author": "凶鸭栗",
+      "view": 508606,
+      "like": 26612,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1jgsz6KEWP",
+      "cover": "http://i2.hdslb.com/bfs/archive/82eca3abe41ff4f6d72cbe8bc3aff88b45a6d7b4.jpg"
     },
     {
-      "title": "《最礼乐崩坏の一集》",
-      "author": "伤心欲茄222",
-      "view": 996878,
-      "like": 109772,
+      "title": "波兰小伙自灭满门后景区屠杀，警界战神丝血反杀，国宝神医逆天改命！【2026年波兰克拉科夫枪击案详解】",
+      "author": "爱看热闹的大鹏",
+      "view": 1761862,
+      "like": 103366,
       "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1b2sK6aEJ9",
-      "cover": "http://i2.hdslb.com/bfs/archive/90bb5c12fae82425e158f5c51e9142a019427af0.jpg"
+      "link": "https://www.bilibili.com/video/BV1ZXsn69E14",
+      "cover": "http://i2.hdslb.com/bfs/archive/62409d53d588d4bf4c15dc6793adc1e8deeaa4d8.jpg"
+    },
+    {
+      "title": "错了就要认，挨打要立正，对不起，这一次是我骗了你们！",
+      "author": "爱画画的子衿",
+      "view": 955273,
+      "like": 75894,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV13Qsc69EUv",
+      "cover": "http://i0.hdslb.com/bfs/archive/01a9d25ae46ba8c0424e00f406921d2f12036d59.jpg"
+    },
+    {
+      "title": "张麻子《鹅城Dangerous》",
+      "author": "HH糯米团",
+      "view": 1047511,
+      "like": 42624,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV12oWf6rE9Q",
+      "cover": "http://i0.hdslb.com/bfs/archive/5c7e6bc2913e2a08ee9873a826adf4c973af1572.jpg"
     },
     {
       "title": "【守护解放西·传承季】总预告：守护第七年，我们再次出发！",
       "author": "哔哩哔哩纪录片",
-      "view": 319201,
-      "like": 2587,
+      "view": 343964,
+      "like": 2691,
       "cat": "综艺",
       "link": "https://www.bilibili.com/video/BV1QmWi6JEE6",
       "cover": "http://i1.hdslb.com/bfs/archive/1c8c4b74edf3fc565a9a30368791354895814b31.jpg"
     },
     {
-      "title": "GTA6真人版！欢迎来到真正的罪恶都市-迈阿密！！",
-      "author": "小鹿Lawrence",
-      "view": 822399,
-      "like": 28070,
-      "cat": "数码",
-      "link": "https://www.bilibili.com/video/BV1wasc6qEjc",
-      "cover": "http://i2.hdslb.com/bfs/archive/d3a59214a79c986f70d6c3518d25f6012d901c30.jpg"
+      "title": "《哈利波特与死亡火器》",
+      "author": "推背兔の",
+      "view": 1436066,
+      "like": 70594,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1v8sP6vEiq",
+      "cover": "http://i2.hdslb.com/bfs/archive/e6acec036d699eb75de8270a5222ea466bca46a8.jpg"
     }
   ],
   "weibo": [
