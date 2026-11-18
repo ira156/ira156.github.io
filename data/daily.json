@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18 21:16:52 +08:00",
-  "date": "2026-11-18",
-  "weekday": "周三",
+  "generated_at": "2026-11-19 03:27:33 +08:00",
+  "date": "2026-11-19",
+  "weekday": "周四",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "世界不完美 所以才显得美丽",
-      "from": "大佐 · 《钢之炼金术士》"
+      "text": "我们执着于寻找对方缺少的品质，真是太傻了。",
+      "from": "《面纱》"
     },
     "angles": [
       {
@@ -435,10 +435,19 @@
   },
   "bilibili": [
     {
+      "title": "【侠盗猎车手6】4K 最高画质 全网首发 全任务 全剧情流程通关攻略 开放世界冒险游戏 GTA6 - Grand Theft Auto VI",
+      "author": "11的游戏世界",
+      "view": 956020,
+      "like": 17681,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1NDsS6UE8D",
+      "cover": "http://i1.hdslb.com/bfs/archive/6cd6c6227ccc69a7b7ded004f646d1e2d4913646.jpg"
+    },
+    {
       "title": "THANK YOU ZmjjKK",
       "author": "EDG电子竞技俱乐部",
-      "view": 485754,
-      "like": 61452,
+      "view": 1293522,
+      "like": 119607,
       "cat": "电子竞技",
       "link": "https://www.bilibili.com/video/BV1YWsr6NEs7",
       "cover": "http://i1.hdslb.com/bfs/archive/68a7ae0f2741c4d21520326c7036ef6f024fb28f.jpg"
@@ -446,173 +455,164 @@
     {
       "title": "【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏",
       "author": "IGN中国",
-      "view": 461718,
-      "like": 17506,
+      "view": 1447899,
+      "like": 50690,
       "cat": "单机游戏",
       "link": "https://www.bilibili.com/video/BV1WMsm6zEfn",
       "cover": "http://i0.hdslb.com/bfs/archive/a017dabc198aeaa22efc2622abe52ee4ff1bbf1c.jpg"
     },
     {
-      "title": "「幽明志」幽城残梦",
-      "author": "幽明志",
-      "view": 1297605,
-      "like": 75486,
-      "cat": "同人·手书",
-      "link": "https://www.bilibili.com/video/BV1YvsB6FER9",
-      "cover": "http://i0.hdslb.com/bfs/archive/67170962456460b39660b2d60930b002158fa366.jpg"
-    },
-    {
-      "title": "火力种田王! 超燃农村大战！",
-      "author": "神奇的老皮",
-      "view": 362725,
-      "like": 22077,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1hzsB64EXY",
-      "cover": "http://i0.hdslb.com/bfs/archive/e762e39141d89034b0ef0cb804b24e49b70f0fd6.jpg"
-    },
-    {
       "title": "灭霸的班级被奖励看电影",
       "author": "只因寄太美哦",
-      "view": 907912,
-      "like": 47584,
+      "view": 1159650,
+      "like": 60131,
       "cat": "搞笑",
       "link": "https://www.bilibili.com/video/BV1Cns667EAG",
       "cover": "http://i0.hdslb.com/bfs/archive/96cc26d694fd3ca47acf1dcf4bf9b9b00848b411.jpg"
     },
     {
-      "title": "非凡魔丸",
-      "author": "伊介书生",
-      "view": 1623355,
-      "like": 59376,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1LLsr66EC6",
-      "cover": "http://i1.hdslb.com/bfs/archive/2f070870d516dc6eef35513d53160e883e525db8.jpg"
-    },
-    {
-      "title": "《都很漂亮》她是漂亮的，我们也是。",
-      "author": "有个鹏友-",
-      "view": 453903,
-      "like": 30399,
-      "cat": "短片",
-      "link": "https://www.bilibili.com/video/BV1XZsz6AE8g",
-      "cover": "http://i0.hdslb.com/bfs/archive/06241773319156f036bc3d90947153d4c7fd778a.jpg"
-    },
-    {
-      "title": "在普罗米厄的怀抱下",
-      "author": "鸣潮",
-      "view": 2015411,
-      "like": 92683,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV16Bs26FEAM",
-      "cover": "http://i1.hdslb.com/bfs/archive/e19e758df352936f5581473cd5c7536e9ce088b2.jpg"
-    },
-    {
       "title": "历史性峰会！为什么是APEC？是中国？是深圳？",
       "author": "小王Albert",
-      "view": 490595,
-      "like": 34180,
+      "view": 850309,
+      "like": 52443,
       "cat": "人文历史",
       "link": "https://www.bilibili.com/video/BV1nVs16tESg",
       "cover": "http://i2.hdslb.com/bfs/archive/ca0dfc905b6afccd088c5b8b6057cdc0cb451bdb.jpg"
     },
     {
-      "title": "“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】",
-      "author": "早睡起大王",
-      "view": 3195050,
-      "like": 155279,
-      "cat": "音MAD",
-      "link": "https://www.bilibili.com/video/BV12MsK6tEV1",
-      "cover": "http://i2.hdslb.com/bfs/archive/ef2e34018ec27c66ad74b706ea9b8322b1dccf54.jpg"
+      "title": "在车上唱歌，被警车从洛圣都追到罪恶城…！？",
+      "author": "捡猫怪",
+      "view": 308199,
+      "like": 11726,
+      "cat": "翻唱",
+      "link": "https://www.bilibili.com/video/BV18rsS6RE61",
+      "cover": "http://i2.hdslb.com/bfs/archive/be17f4eb2f63cfd61a010e2c83a5ede0f337d2a7.jpg"
     },
     {
-      "title": "《遗忘之海》第三赛季更新前瞻PV「旧日序曲」",
-      "author": "遗忘之海",
-      "view": 591629,
-      "like": 14534,
-      "cat": "GMV",
-      "link": "https://www.bilibili.com/video/BV1N1s16iEry",
-      "cover": "http://i1.hdslb.com/bfs/archive/326cb9776ea7ca734d38b8a2af9c60ecb7cdcf99.jpg"
-    },
-    {
-      "title": "【动画】可爱的猫尾草",
-      "author": "青默ya",
-      "view": 2301950,
-      "like": 158433,
+      "title": "【4K】全网首发《GTA6》主线全流程实况解说（持续更新中）",
+      "author": "友利奈绪大魔王丶",
+      "view": 388892,
+      "like": 9969,
       "cat": "单机游戏",
-      "link": "https://www.bilibili.com/video/BV1LLsT6kESX",
-      "cover": "http://i1.hdslb.com/bfs/archive/95770f6075bd949473bbd1e9e1e2f87fd4e0e8a6.jpg"
+      "link": "https://www.bilibili.com/video/BV1t9sk6YE23",
+      "cover": "http://i0.hdslb.com/bfs/archive/4766e76facdf91312a7ebd7b5cbf97be2d66edd5.jpg"
+    },
+    {
+      "title": "当女V跟男V约会 【AI全民制作人】",
+      "author": "一条粉肠dc",
+      "view": 288364,
+      "like": 12569,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1NTsP6HERZ",
+      "cover": "http://i1.hdslb.com/bfs/archive/a8ee68cc569a7da25cd7e7c1747bdaf6fb128474.jpg"
+    },
+    {
+      "title": "第一次在B站发视频，求关注！",
+      "author": "bili_77946368223",
+      "view": 437075,
+      "like": 150259,
+      "cat": "演奏",
+      "link": "https://www.bilibili.com/video/BV1Z1sA6vEN6",
+      "cover": "http://i1.hdslb.com/bfs/archive/527c53d5944d4379827ed28ce57755ed3cbb24be.jpg"
     },
     {
       "title": "【蜘蛛侠/MJ】非凡之爱真人版",
       "author": "Crazy-face",
-      "view": 4605420,
-      "like": 129670,
+      "view": 5640403,
+      "like": 159413,
       "cat": "鬼畜剧场",
       "link": "https://www.bilibili.com/video/BV1xFs36uEvE",
       "cover": "http://i2.hdslb.com/bfs/archive/0df10664c91825200c46d45ecc34af35a1ce38ea.jpg"
     },
     {
-      "title": "BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！",
-      "author": "分析师蓝宝石",
-      "view": 334498,
-      "like": 21222,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV158sm6sEwd",
-      "cover": "http://i2.hdslb.com/bfs/archive/56c7796416165b5c41895562e7352061465a583d.jpg"
+      "title": "当我用cos系美食抗议朋友来我家蹭饭",
+      "author": "大伟投食记官方账号",
+      "view": 713223,
+      "like": 19886,
+      "cat": "日常",
+      "link": "https://www.bilibili.com/video/BV1exsw68EHY",
+      "cover": "http://i1.hdslb.com/bfs/archive/28e0da83569960cdddcad5ce5b1788a1d457021b.jpg"
     },
     {
-      "title": "蚌埠住的时候就抽出七匹狼",
-      "author": "凶鸭栗",
-      "view": 3149909,
-      "like": 134838,
-      "cat": "同人·手书",
-      "link": "https://www.bilibili.com/video/BV1jgsz6KEWP",
-      "cover": "http://i2.hdslb.com/bfs/archive/82eca3abe41ff4f6d72cbe8bc3aff88b45a6d7b4.jpg"
+      "title": "两个不同场景的地堡，你们觉着这设计合理吗",
+      "author": "灰哥军科",
+      "view": 1231982,
+      "like": 13852,
+      "cat": "运动文化",
+      "link": "https://www.bilibili.com/video/BV1MpsN6FE1W",
+      "cover": "http://i1.hdslb.com/bfs/archive/b61610906a923ade48942d56eba351c3b6d8c7e2.jpg"
+    },
+    {
+      "title": "非凡魔丸",
+      "author": "伊介书生",
+      "view": 2780047,
+      "like": 101590,
+      "cat": "鬼畜剧场",
+      "link": "https://www.bilibili.com/video/BV1LLsr66EC6",
+      "cover": "http://i1.hdslb.com/bfs/archive/2f070870d516dc6eef35513d53160e883e525db8.jpg"
+    },
+    {
+      "title": "【IGN】《黄金矿工：派对狂欢》22分钟实机演示",
+      "author": "IGN中国",
+      "view": 603765,
+      "like": 15695,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1Nxs26uE46",
+      "cover": "http://i1.hdslb.com/bfs/archive/68e79198fad133a566852f1470777ed3b2bd925b.jpg"
+    },
+    {
+      "title": "【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听",
+      "author": "AYCS2",
+      "view": 889127,
+      "like": 38268,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1besC6KE6N",
+      "cover": "http://i2.hdslb.com/bfs/archive/72e927169e6c422301e23cca11991a0dbd040260.jpg"
+    },
+    {
+      "title": "一台1.25L小主机即可实现Token自由：机械革命大师之路X10 NVIDIA RTX Spark首发评测",
+      "author": "搞机所",
+      "view": 144262,
+      "like": 7216,
+      "cat": "数码",
+      "link": "https://www.bilibili.com/video/BV1J5s16oEat",
+      "cover": "http://i1.hdslb.com/bfs/archive/634165ffb83b5ae00a8b568afc1ffa0566ab19d9.jpg"
+    },
+    {
+      "title": "《都很漂亮》她是漂亮的，我们也是。",
+      "author": "有个鹏友-",
+      "view": 780256,
+      "like": 47685,
+      "cat": "短片",
+      "link": "https://www.bilibili.com/video/BV1XZsz6AE8g",
+      "cover": "http://i0.hdslb.com/bfs/archive/06241773319156f036bc3d90947153d4c7fd778a.jpg"
+    },
+    {
+      "title": "⚡赵本山《Bad Guy》大忽悠｜象牙山蹦野迪⚡【AI MV大赛】",
+      "author": "抽乐个大象",
+      "view": 274113,
+      "like": 19217,
+      "cat": "音乐综合",
+      "link": "https://www.bilibili.com/video/BV15Ts26HERu",
+      "cover": "http://i2.hdslb.com/bfs/archive/3f8072c97751bc9fb6e151d1d52e07bffbf6a2fe.jpg"
+    },
+    {
+      "title": "又一部毁童年神作！诱拐儿童，骚扰护士，发疯大屠杀，这真是小孩子能看能演的吗？《逃出布迪秀》",
+      "author": "小片片说大片",
+      "view": 340667,
+      "like": 18664,
+      "cat": "影视杂谈",
+      "link": "https://www.bilibili.com/video/BV12wsm6CEic",
+      "cover": "http://i0.hdslb.com/bfs/archive/e2c8142f8a494c2751d6cc65b9c9e921482f893e.jpg"
     },
     {
       "title": "全球最火的电竞比赛！2W一张票！直接看哭了！",
       "author": "Super也好君",
-      "view": 602160,
-      "like": 32546,
+      "view": 874203,
+      "like": 44556,
       "cat": "电子竞技",
       "link": "https://www.bilibili.com/video/BV1fvsy6WEuC",
       "cover": "http://i0.hdslb.com/bfs/archive/d17041dc32a4b69a611b0fbb567fae5901ce6dcd.jpg"
-    },
-    {
-      "title": "⚡ 非凡之畜 ⚡",
-      "author": "黄花大长虫",
-      "view": 4056329,
-      "like": 149074,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV18DsJ6TEA3",
-      "cover": "http://i0.hdslb.com/bfs/archive/c946a42ed02d9f7992b47ff65c9ef52aa2ae5976.jpg"
-    },
-    {
-      "title": "当bro一起去吃自助餐🍑",
-      "author": "凉255",
-      "view": 530724,
-      "like": 34665,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1PBsr6REhH",
-      "cover": "http://i2.hdslb.com/bfs/archive/76f097a2ea03bfb48670efb253e1614f297cef53.jpg"
-    },
-    {
-      "title": "黑客打开印度骗子的摄像头，顺手把骗子策反了！",
-      "author": "哈里大王",
-      "view": 1455055,
-      "like": 137722,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV18ws66hEXj",
-      "cover": "http://i2.hdslb.com/bfs/archive/c687e79d5156f27c49afac0642a79317bac6f398.jpg"
-    },
-    {
-      "title": "大牙|| 肖8选择题精讲带背（第一套卷），全网讲解最清晰，专治零基础！",
-      "author": "大牙考研",
-      "view": 1095972,
-      "like": 62995,
-      "cat": "校园学习",
-      "link": "https://www.bilibili.com/video/BV1mdWf6GEnF",
-      "cover": "http://i0.hdslb.com/bfs/archive/03074f7f156d9c4b9bf3f6860f1d4688014d4807.jpg"
     }
   ],
   "weibo": [
