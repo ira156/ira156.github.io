@@ -1,37 +1,69 @@
 {
-  "updated": "2026-11-21T18:07:03.430Z",
+  "updated": "2026-11-22T03:22:17.893Z",
   "cities": {
     "重庆": {
       "name": "重庆",
-      "error": true
+      "wind": 2.1,
+      "gust": 9.4,
+      "rain": 0,
+      "hum": 78,
+      "temp": 14.4
     },
     "宜昌": {
       "name": "宜昌",
-      "error": true
+      "wind": 3.2,
+      "gust": 14,
+      "rain": 0,
+      "hum": 70,
+      "temp": 13.6
     },
     "武汉": {
       "name": "武汉",
-      "error": true
+      "wind": 7.7,
+      "gust": 21.6,
+      "rain": 0,
+      "hum": 60,
+      "temp": 14
     },
     "城陵矶": {
       "name": "城陵矶",
-      "error": true
+      "wind": 3.7,
+      "gust": 7.9,
+      "rain": 0,
+      "hum": 65,
+      "temp": 13.8
     },
     "九江": {
       "name": "九江",
-      "error": true
+      "wind": 8.3,
+      "gust": 22,
+      "rain": 0,
+      "hum": 43,
+      "temp": 15.7
     },
     "南京": {
       "name": "南京",
-      "error": true
+      "wind": 6.9,
+      "gust": 18.7,
+      "rain": 0,
+      "hum": 51,
+      "temp": 14.5
     },
     "南通": {
       "name": "南通",
-      "error": true
+      "wind": 14,
+      "gust": 29.2,
+      "rain": 0,
+      "hum": 51,
+      "temp": 13.9
     },
     "上海": {
       "name": "上海",
-      "error": true
+      "wind": 10.8,
+      "gust": 28.1,
+      "rain": 0,
+      "hum": 44,
+      "temp": 15.2
     }
   }
 }
