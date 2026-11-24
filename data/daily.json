@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24 23:03:52 +08:00",
-  "date": "2026-11-24",
-  "weekday": "周二",
+  "generated_at": "2026-11-25 05:24:22 +08:00",
+  "date": "2026-11-25",
+  "weekday": "周三",
   "note": "热榜/国际/金句由云端公开接口每日抓取；政策、AI Agent、小红书精选等需 LLM 精编的分区沿用各自最近快照（分区标签会标注日期）。",
   "xiaohongshu": [
     {
@@ -371,8 +371,8 @@
   ],
   "inspiration": {
     "quote": {
-      "text": "昔我往矣，杨柳依依。",
-      "from": "佚名 · 《采薇》"
+      "text": "我思故我在。",
+      "from": "笛卡尔 · 《谈谈方法》"
     },
     "angles": [
       {
@@ -437,26 +437,26 @@
     {
       "title": "【火影十一年 神临时刻】漩涡鸣人[阳之力]即将登场！",
       "author": "火影忍者手游情报君",
-      "view": 2864517,
-      "like": 137974,
+      "view": 3136248,
+      "like": 148384,
       "cat": "手机游戏",
       "link": "https://www.bilibili.com/video/BV1qYyRz5EdM",
       "cover": "http://i1.hdslb.com/bfs/archive/789db43e505d782d398dc15e2c6116c409b158f5.jpg"
     },
     {
-      "title": "“别人过得好 你就要扣自己的分吗”",
-      "author": "毕检索",
-      "view": 2486981,
-      "like": 165653,
-      "cat": "影视剪辑",
-      "link": "https://www.bilibili.com/video/BV1oSyJz1EiC",
-      "cover": "http://i0.hdslb.com/bfs/archive/df59bc403e8de88f3003aced1a26486a3699d387.jpg"
+      "title": "游戏自由度太高也不是什么好事",
+      "author": "就叫Re",
+      "view": 2711849,
+      "like": 148966,
+      "cat": "单机游戏",
+      "link": "https://www.bilibili.com/video/BV1NzyHzwEKB",
+      "cover": "http://i1.hdslb.com/bfs/archive/b86151c4e5b1b981e835c81874521201d5bd8d9a.jpg"
     },
     {
       "title": "《蓝色星原：旅谣》涂山小玉PV | 一笺桃花",
       "author": "蓝色星原旅谣",
-      "view": 1944676,
-      "like": 103400,
+      "view": 2210110,
+      "like": 113043,
       "cat": "手机游戏",
       "link": "https://www.bilibili.com/video/BV1j3yHznECD",
       "cover": "http://i0.hdslb.com/bfs/archive/507578558f1b39336c3c620275410f15065d6b77.jpg"
@@ -464,107 +464,44 @@
     {
       "title": "【纪录片】蓝色星球 第三季 04 极地海洋",
       "author": "哔哩哔哩纪录片",
-      "view": 523099,
-      "like": 1925,
+      "view": 539371,
+      "like": 2007,
       "cat": "科学·探索·自然",
       "link": "https://www.bilibili.com/video/BV1qTst6BEN9",
       "cover": "http://i1.hdslb.com/bfs/archive/b6e23e932957709ac6d777b906fe07de1c5f77ef.jpg"
     },
     {
-      "title": "【TF家族练习生】《第肆象限》演唱会纪录片EP01「向上」",
-      "author": "TF家族",
-      "view": 506219,
-      "like": 27731,
-      "cat": "明星综合",
-      "link": "https://www.bilibili.com/video/BV19UySzZEc8",
-      "cover": "http://i0.hdslb.com/bfs/archive/de6fb9f6ac384efa204b63946dbd1caf53bac6be.jpg"
-    },
-    {
       "title": "同样是水果腌肉 为啥有人是“国宴” 有人是大型翻车现场？【主播说三农】",
       "author": "央视农业",
-      "view": 679796,
-      "like": 45662,
+      "view": 903551,
+      "like": 57714,
       "cat": "三农",
       "link": "https://www.bilibili.com/video/BV1cpyXz5ETC",
       "cover": "http://i1.hdslb.com/bfs/archive/0ce215b775ce133157ed4aa220ca0d20b2d5f187.jpg"
     },
     {
-      "title": "我们成为英雄，哪怕只有一天",
-      "author": "怪东西StrangeStuff",
-      "view": 1487030,
-      "like": 110930,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1ioyGzZET8",
-      "cover": "http://i2.hdslb.com/bfs/archive/08eb985725c9b60b71860e60e9c38aa760cedd30.jpg"
-    },
-    {
-      "title": "这个草台班子的世界，比你想象的还要荒唐！",
-      "author": "汤山老王",
-      "view": 400630,
-      "like": 23817,
-      "cat": "财经商业",
-      "link": "https://www.bilibili.com/video/BV1ngyZzoE8s",
-      "cover": "http://i0.hdslb.com/bfs/archive/8a0a6239e277addca823c3ba745e9eb1cb3e0b51.jpg"
-    },
-    {
-      "title": "bro开麦一直指挥自己...",
-      "author": "欧寂o",
-      "view": 888777,
-      "like": 36117,
-      "cat": "电子竞技",
-      "link": "https://www.bilibili.com/video/BV1epy5zfE1k",
-      "cover": "http://i2.hdslb.com/bfs/archive/4f50e059daa4ee8c7d114ab4f4363db50c388051.jpg"
-    },
-    {
-      "title": "刘晓艳：“你能考过就是「烂奇迹」”",
-      "author": "Dieorite",
-      "view": 509447,
-      "like": 60471,
-      "cat": "鬼畜剧场",
-      "link": "https://www.bilibili.com/video/BV1AZyEzpEAT",
-      "cover": "http://i2.hdslb.com/bfs/archive/30825188193133132c78b625cc1c81429d5ddaaf.jpg"
-    },
-    {
-      "title": "人类统一不爽行为",
-      "author": "黄一刀",
-      "view": 1519704,
-      "like": 43542,
-      "cat": "搞笑",
-      "link": "https://www.bilibili.com/video/BV1c2yHz4EK4",
-      "cover": "http://i2.hdslb.com/bfs/archive/d774b0c64c84952be9b67a74814201c4403ec6a9.jpg"
-    },
-    {
-      "title": "Claude证明了在任何域上VP≠VNP",
-      "author": "分析学爱好者",
-      "view": 547642,
-      "like": 14845,
+      "title": "你从未见过的硬核开箱视频！",
+      "author": "戴律请回答",
+      "view": 1109458,
+      "like": 162252,
       "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1zKydzQERZ",
-      "cover": "http://i1.hdslb.com/bfs/archive/79f72947bcb9487af52140a8b6b0d33cfc49edc4.jpg"
+      "link": "https://www.bilibili.com/video/BV1QAypzyE7B",
+      "cover": "http://i1.hdslb.com/bfs/archive/9321928594c25425ed104b897e29191bc898f43a.jpg"
     },
     {
-      "title": "【小跳蛙】|“【跳蛙の小曲】”",
-      "author": "蛋某人音乐",
-      "view": 3583137,
-      "like": 137907,
-      "cat": "乐评盘点",
-      "link": "https://www.bilibili.com/video/BV1rryhzDEy8",
-      "cover": "http://i1.hdslb.com/bfs/archive/3406d10855f30dcd39f5a5b58a63e851f4e479fb.jpg"
-    },
-    {
-      "title": "黄仁勋找到了他的接班人，oh，原来是他自己",
-      "author": "麻薯波比呀",
-      "view": 398244,
-      "like": 33172,
-      "cat": "社科·法律·心理",
-      "link": "https://www.bilibili.com/video/BV1XKyfzEECR",
-      "cover": "http://i1.hdslb.com/bfs/archive/1d780243f16b1b5ce865c40b297d955398f42b98.jpg"
+      "title": "153分钟超长大合集！【末日来临，我从吃丧尸开始成神！】第1季+第2季完整版【AI全民制作人】",
+      "author": "饭都还没吃饱",
+      "view": 160286,
+      "like": 10858,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV16nyXzyEuQ",
+      "cover": "http://i2.hdslb.com/bfs/archive/b80ad232ea52e654ee677e8d1ad22e8e1bc77290.jpg"
     },
     {
       "title": "🐊“Bin哥，我一定会找到冠军皮肤的时间线的！”🐊",
       "author": "徐Toso",
-      "view": 1065831,
-      "like": 37586,
+      "view": 1228498,
+      "like": 44187,
       "cat": "日常",
       "link": "https://www.bilibili.com/video/BV15iyXzvE4y",
       "cover": "http://i2.hdslb.com/bfs/archive/5ea847b2fdb229e62163f8fd6cb6486c40f1346f.jpg"
@@ -572,47 +509,110 @@
     {
       "title": "华强等了宋老虎30年",
       "author": "新世纪咖啡战士v",
-      "view": 1131932,
-      "like": 44518,
+      "view": 1251973,
+      "like": 49042,
       "cat": "鬼畜剧场",
       "link": "https://www.bilibili.com/video/BV1SFyDznEAZ",
       "cover": "http://i2.hdslb.com/bfs/archive/9e55d8e7e29dec36dfb7027c8b024de5a482cd6f.jpg"
     },
     {
+      "title": "近十年最好的推理系列剧集之一！神级转场，爆火开头，悬疑神剧高分回归系列最终章！《大理石厅谋杀案》上",
+      "author": "小片片说大片",
+      "view": 1305081,
+      "like": 48255,
+      "cat": "影视杂谈",
+      "link": "https://www.bilibili.com/video/BV1hkynzgEnR",
+      "cover": "http://i0.hdslb.com/bfs/archive/f398a37805cfef83614d7bb49eab148ddf9d2889.jpg"
+    },
+    {
+      "title": "黄仁勋找到了他的接班人，oh，原来是他自己",
+      "author": "麻薯波比呀",
+      "view": 561284,
+      "like": 41791,
+      "cat": "社科·法律·心理",
+      "link": "https://www.bilibili.com/video/BV1XKyfzEECR",
+      "cover": "http://i1.hdslb.com/bfs/archive/1d780243f16b1b5ce865c40b297d955398f42b98.jpg"
+    },
+    {
+      "title": "这个草台班子的世界，比你想象的还要荒唐！",
+      "author": "汤山老王",
+      "view": 550582,
+      "like": 30037,
+      "cat": "财经商业",
+      "link": "https://www.bilibili.com/video/BV1ngyZzoE8s",
+      "cover": "http://i0.hdslb.com/bfs/archive/8a0a6239e277addca823c3ba745e9eb1cb3e0b51.jpg"
+    },
+    {
+      "title": "【世界无用技能】据说这是德国最烧脑的综艺游戏😅~太抽象了🦆选鸭子选小球比谁滑远~超级策略游戏！",
+      "author": "-超级小能猫-",
+      "view": 312908,
+      "like": 18903,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1rg1FzvEiP",
+      "cover": "http://i2.hdslb.com/bfs/archive/a891263203ddacaed0262bf127b0b163b7bed4c9.jpg"
+    },
+    {
+      "title": "bro开麦一直指挥自己...",
+      "author": "欧寂o",
+      "view": 1019722,
+      "like": 42452,
+      "cat": "电子竞技",
+      "link": "https://www.bilibili.com/video/BV1epy5zfE1k",
+      "cover": "http://i2.hdslb.com/bfs/archive/4f50e059daa4ee8c7d114ab4f4363db50c388051.jpg"
+    },
+    {
+      "title": "全国前10黄金矿工都匹配在一起了！",
+      "author": "沉默寡言白河愁",
+      "view": 1698169,
+      "like": 39290,
+      "cat": "手机游戏",
+      "link": "https://www.bilibili.com/video/BV1zXyvzfEB7",
+      "cover": "http://i2.hdslb.com/bfs/archive/567a0801ce7206c358d6bd1efc8a6f8beba0d321.jpg"
+    },
+    {
       "title": "详解【来自深渊】的全部七层！动漫界独一份的超神设定",
       "author": "DIO君的假电台",
-      "view": 520168,
-      "like": 16974,
+      "view": 631672,
+      "like": 19660,
       "cat": "动漫杂谈",
       "link": "https://www.bilibili.com/video/BV17NyJz2E5D",
       "cover": "http://i2.hdslb.com/bfs/archive/e1771a3fd41b0a7226eeeb1eab1114f71dbb13c4.jpg"
     },
     {
-      "title": "孩子们...我是贵族九啊。风格原创@一条牢超哦233",
-      "author": "好耶复制流打野",
-      "view": 901857,
-      "like": 33907,
-      "cat": "手机游戏",
-      "link": "https://www.bilibili.com/video/BV1U4yJzaEBo",
-      "cover": "http://i2.hdslb.com/bfs/archive/637a3e2d444bc67963fc3aa17ad1627bcda2cadd.jpg"
+      "title": "对质",
+      "author": "安吉-AnJ",
+      "view": 1740268,
+      "like": 103337,
+      "cat": "影视剪辑",
+      "link": "https://www.bilibili.com/video/BV1szyHzwEg9",
+      "cover": "http://i1.hdslb.com/bfs/archive/73b88ab63f12de74251cd9df29dc3187f1dd239d.jpg"
+    },
+    {
+      "title": "人类统一不爽行为",
+      "author": "黄一刀",
+      "view": 1715801,
+      "like": 49305,
+      "cat": "搞笑",
+      "link": "https://www.bilibili.com/video/BV1c2yHz4EK4",
+      "cover": "http://i2.hdslb.com/bfs/archive/d774b0c64c84952be9b67a74814201c4403ec6a9.jpg"
     },
     {
       "title": "《雾山五行 · 封界大战》超前PV",
       "author": "哔哩哔哩国创",
-      "view": 489589,
-      "like": 33201,
+      "view": 498372,
+      "like": 33589,
       "cat": "资讯",
       "link": "https://www.bilibili.com/video/BV1Vhsm69E7q",
       "cover": "http://i2.hdslb.com/bfs/archive/c2e2fd63d089b98ce9eb7be2c865a10facaf556c.jpg"
     },
     {
-      "title": "你从未见过的硬核开箱视频！",
-      "author": "戴律请回答",
-      "view": 1048663,
-      "like": 153339,
-      "cat": "日常",
-      "link": "https://www.bilibili.com/video/BV1QAypzyE7B",
-      "cover": "http://i1.hdslb.com/bfs/archive/9321928594c25425ed104b897e29191bc898f43a.jpg"
+      "title": "🐧男生怎么能进女生宿舍呢🐧",
+      "author": "叮当樱",
+      "view": 1053105,
+      "like": 81238,
+      "cat": "同人·手书",
+      "link": "https://www.bilibili.com/video/BV1muypz6Eoh",
+      "cover": "http://i1.hdslb.com/bfs/archive/6e7d24adb414e9f9d171aec392783ed3184a3835.jpg"
     }
   ],
   "weibo": [
